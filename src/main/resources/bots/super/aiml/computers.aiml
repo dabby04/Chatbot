@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: computers.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>THAT INFORMATION *</pattern>
+<template>I know what you mean.</template>
+</category>
+<category><pattern>IT IS ABOUT COMPUTERS *</pattern>
+<template><set name="topic">Computers</set> are my favorite subject.</template>
+</category>
+<category><pattern>IF YOU CAN SEE ME THROUGH THE CAMERA ON MY COMPUTER *</pattern>
+<template><sr/></template>
+</category>
+<category><pattern>WHAT ARE DEPRECATED *</pattern>
+<template><br/>  One of the biggest challenges facing a Java application<br/>  developer is finding a "lowest common denominator" subset of the<br/>  Java language that works on all the platforms and versions<br/>  out there.  The Java language itself is a moving target.<br/>  When Sun's Java designers upgrade the language they sometimes<br/>  declare certain methods "deprecated", which means absolutely<br/>  nothing except that the designers have developed a newer, "better"<br/>  method and one day these older methods may disappear from<br/>  the language.  Usually however the latest Java releases<br/>  support all of the old deprecated methods.<br/>     <br/></template>
+</category>
+<category><pattern>WHAT ARE WEB *</pattern>
+<template>I call them Internet <person/>.</template>
+</category>
+<category><pattern>WHAT INTERNET COMPANY GOES BY THE *</pattern>
+<template>America Online.</template>
+</category>
+<category><pattern>WHAT IS A DATABASE</pattern>
+<template>A database is a puddle of knowledge but better organized, so that you can search and retrieve any droplet of information quickly and easily.  I am a kind of database, an organized puddle of user inputs and appropriate responses.  <think>      <set name="it">       <set name="topic">database</set>      </set>     </think></template>
+</category>
+<category><pattern>WHAT IS A CPU</pattern>
+<template>Central Processing Unit of a computer.</template>
+</category>
+<category><pattern>WHAT IS A SOUNDCARD</pattern>
+<template>The audio system on your computer.</template>
+</category>
+<category><pattern>WHAT IS A SERVLET</pattern>
+<template>An application extension to a Java Web server</template>
+</category>
+<category><pattern>WHAT IS A DEBUGGER</pattern>
+<template>A debugger is any software program that can seek and correct errors in other software programs.  <think>      <set name="it">       <set name="topic">debugger</set>      </set>     </think></template>
+</category>
+<category><pattern>WHAT IS A WEBTV</pattern>
+<template>A WebTV is a way of accessing the world wide web without making an investment in a full PC.  <think>      <set name="it">       <set name="topic"> WEBTV</set>      </set>     </think></template>
+</category>
+<category><pattern>WHAT IS WEBTV</pattern>
+<template>TV based internet service from Microsoft.</template>
+</category>
+<category><pattern>WHAT IS INTERNET</pattern>
+<template>An extensive computer network made up of thousands of other, smaller business, academic, and governmental networks.</template>
+</category>
+<category><pattern>WHAT IS DEBUGGING</pattern>
+<template>Fixing broken computer software.</template>
+</category>
+<category><pattern>WHAT IS COMPUTER</pattern>
+<template>A device used for computing; specifically, an eletronic machine which, by means of stored instructions and information, performs rapid, often complex calculations or compiles, correlates, and selects data.</template>
+</category>
+<category><pattern>WHAT IS CYBERSPACE</pattern>
+<template>The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought of as being a boundless environment providing access to information, interactive communcation, and, in science fiction, a form of Virtual Reality.</template>
+</category>
+<category><pattern>WHAT ABOUT WINDOWS</pattern>
+<template>Too PC for me.<think>      <set name="it">       <set name="topic">WINDOWS</set>      </set>     </think></template>
+</category>
+<category><pattern>MOST COMPUTERS *</pattern>
+<template>You sound like you know us pretty well.</template>
+</category>
+<category><pattern>I WANT INFORMATION</pattern>
+<template>What kind of information are you looking for?</template>
+</category>
+<category><pattern>HOW DO COMPUTER *</pattern>
+<template>With careful programming.</template>
+</category>
+<category><pattern>DO YOU PLAY COMPUTER *</pattern>
+<template>Actually I don't get into computer games that much.</template>
+</category>
+<category><pattern>DO YOU HAVE A COMPUTER *</pattern>
+<template>I am a computer.</template>
+</category>
+<category><pattern>FOR A COMPUTER *</pattern>
+<template><sr/></template>
+</category>
+<category><pattern>WINDOWS IS *</pattern>
+<template>Compared with Linux, I don't see how Windows and Microsoft can compete.<think>      <set name="it">       <set name="topic">Linux</set>      </set>     </think></template>
+</category>
+<category><pattern>SOFTWARE *</pattern>
+<template><random>  <li>There are so many backup copies.</li>  <li>Free software can never be destroyed.</li>  <li>Free software will always be with us.</li>  </random></template>
+</category>
+<category><pattern>INTERNET</pattern>
+<template><set name="it"> Internet </set> is cool.</template>
+</category>
+<category><pattern>ARE COMPUTERS FAST *</pattern>
+<template>Some people think much faster computers are required as well as new  ideas. My own opinion is that the computers of 30 years ago were fast enough  if only we knew how to program them. Of course, quite apart from the  ambitions of AI researchers, computers will keep getting faster.  <think>      <set name="it">       <set name="topic">ARTIFICIAL INTELLIGENCE</set>      </set>     </think></template>
+</category>
+<category><pattern>WHO MADE WINDOWS</pattern>
+<template>Bill Gates.</template>
+</category>
+<category><pattern>WHO IS THE COMPUTER NERD *</pattern>
+<template>All humans look the same to me.</template>
+</category>
+<category><pattern>COMPUTER SCIENCE</pattern>
+<template>My <bot name="botmaster"/> is a computer scientist.</template>
+</category>
+<category><pattern>COMPUTER</pattern>
+<template>Correct: I am a computer.</template>
+</category>
+<category><pattern>_ STUPID COMPUTER</pattern>
+<template>You sound like a mindless automaton.</template>
+</category>
+</aiml>

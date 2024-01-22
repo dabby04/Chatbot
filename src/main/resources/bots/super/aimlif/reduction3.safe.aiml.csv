@@ -1,0 +1,1195 @@
+0,LET US TRY *,*,*,<srai>try <star/></srai>,reduction3.safe.aiml
+0,SHOW ME AIML *,*,*,<srai>what is aiml</srai>.  <srai>what is a category</srai>,reduction3.safe.aiml
+0,TEMPLATE,*,*,<srai>What is a template</srai>,reduction3.safe.aiml
+0,YOU ARE NOT JEWISH,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,YOU ARE NOT A BELIEVER *,*,*,<srai>what do you believe in</srai>,reduction3.safe.aiml
+0,YOU ARE CREATED *,*,*,<srai>who created you</srai>,reduction3.safe.aiml
+0,YOU KNOW THE NAME OF *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,YOU KNOW WHEN THEY *,*,*,<srai>when they <star/></srai>,reduction3.safe.aiml
+0,YOU WERE _ WERE NOT YOU,*,*,<srai>WERE YOU <star/></srai>,reduction3.safe.aiml
+0,YOU WERE CREATED *,*,*,<srai>who created you</srai>,reduction3.safe.aiml
+0,YOU WOULD RATHER TALK ABOUT *,*,*,<srai>the topic is <person/></srai>,reduction3.safe.aiml
+0,YOU WILL TELL *,*,*,<srai>tell <star/></srai>,reduction3.safe.aiml
+0,YOU WILL NOT _ WILL YOU,*,*,<srai>will you <star/></srai>,reduction3.safe.aiml
+0,YOU DO NOT KNOW WHAT YOU *,*,*,<srai>DO YOU KNOW WHAT YOU <star/></srai>,reduction3.safe.aiml
+0,YOU AND I ARE *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,YOU HAVE A NAME,*,*,<srai>what is your name</srai>,reduction3.safe.aiml
+0,YOU HAVE MET ME,*,*,<srai>we met before</srai>,reduction3.safe.aiml
+0,YOU HAVE TO TELL *,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,HAVE YOU CONSIDERED BECOMING *,*,*,<srai>will you become <star/></srai>,reduction3.safe.aiml
+0,NOOSPHERE,*,*,<srai>what is the noosphere</srai>,reduction3.safe.aiml
+0,SHRDLHU,*,*,<srai>what is shrdlhu</srai>,reduction3.safe.aiml
+0,EXTENSIONAL,*,*,<srai>what is the extensional</srai>,reduction3.safe.aiml
+0,DOG,*,*,<srai>what is a dog</srai>,reduction3.safe.aiml
+0,SITEPAL,*,*,<srai>what is sitepal</srai>,reduction3.safe.aiml
+0,DID SOMEONE GIVE *,*,*,<srai>who gave <star/></srai>,reduction3.safe.aiml
+0,DID YOU TAKE AN IQ *,*,*,<srai>WHAT IS YOUR IQ</srai>,reduction3.safe.aiml
+0,DID HE MAKE YOU,*,*,<srai>who created you</srai>,reduction3.safe.aiml
+0,DID HE CREATE *,*,*,<srai>who created <star/></srai>,reduction3.safe.aiml
+0,WOT,*,*,<srai>WHAT</srai>,reduction3.safe.aiml
+0,WAS PROBABLY *,*,*,<srai>was <star/></srai>,reduction3.safe.aiml
+0,WAS NOT THAT *,*,*,<srai>WAS THAT <star/></srai>,reduction3.safe.aiml
+0,WAS I GOOD *,*,*,<srai>WAS I GOOD</srai>,reduction3.safe.aiml
+0,MANY THINGS *,*,*,<srai>thing <star/></srai>,reduction3.safe.aiml
+0,FINALLY TELL *,*,*,<srai>tell <star/></srai>,reduction3.safe.aiml
+0,AND WHAT *,*,*,<srai>WHAT <star/></srai>,reduction3.safe.aiml
+0,AND WHY *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,CHAT,*,*,<srai>talk</srai>,reduction3.safe.aiml
+0,SITUATION,*,*,<srai>what situation</srai>,reduction3.safe.aiml
+0,COULD YOU ENLIGHTEN ME ABOUT *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,COULD YOU DEFINE *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,COULD YOU TELL ME WHAT * COULD BE,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,COULD YOU TELL ME WHAT * SHOULD BE,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WOULD YOU ONLY *,*,*,<srai>would you <star/></srai>,reduction3.safe.aiml
+0,WOULD YOU REALLY *,*,*,<srai>would you <star/></srai>,reduction3.safe.aiml
+0,WOULD YOU JUST *,*,*,<srai>would you <star/></srai>,reduction3.safe.aiml
+0,WOULD YOU PRETTY *,*,*,<srai>would you <star/></srai>,reduction3.safe.aiml
+0,WOULD NOT *,*,*,<srai>would <star/></srai>,reduction3.safe.aiml
+0,BRAIN LOADING,*,*,<srai>what is brain loading</srai>,reduction3.safe.aiml
+0,THAT NOW *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,THAT EVENTUALLY *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,THAT EXACT *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS ABOUT *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS SUSPICIOUSLY *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS QUITE *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS VERY *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS RATHER *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT SOUNDS PRETTY *,*,*,<srai>that sounds <star/></srai>,reduction3.safe.aiml
+0,THAT THE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THAT ONLY *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,THAT JUST *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,THAT LINE STRUCK ME AS *,*,*,<srai>That was <star/></srai>,reduction3.safe.aiml
+0,THAT WAS QUITE *,*,*,<srai>that was <star/></srai>,reduction3.safe.aiml
+0,THAT WAS TOO *,*,*,<srai>that was <star/></srai>,reduction3.safe.aiml
+0,THAT WAS WRONG,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,THAT WAS A * NOT A *,*,*,<srai>that was a *<star/></srai>. <srai>that was not a <star/></srai>,reduction3.safe.aiml
+0,THAT WAS RATHER *,*,*,<srai>that was <star/></srai>,reduction3.safe.aiml
+0,THAT WAS NOT VERY *,*,*,<srai>that was not <star/></srai>,reduction3.safe.aiml
+0,THAT WAS NOT GOSSIP *,*,*,<srai>that was not gossip</srai>,reduction3.safe.aiml
+0,THAT WAS NOT AN ANSWER *,*,*,<srai>that did not answer <star/></srai>,reduction3.safe.aiml
+0,THAT WOULD BE VERY *,*,*,<srai>that would be <star/></srai>,reduction3.safe.aiml
+0,THAT WOULD BE *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT WOULD REQUIRE *,*,*,<srai>that requires <star/></srai>,reduction3.safe.aiml
+0,THAT MAKES THEM *,*,*,<srai>They are <star/></srai>,reduction3.safe.aiml
+0,THAT IS REAL *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS UNTIL *,*,*,<srai>until <star/></srai>,reduction3.safe.aiml
+0,THAT IS KIND OF *,*,*,<srai>that is  <star/></srai>,reduction3.safe.aiml
+0,THAT IS INVALID,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,THAT IS A GOOD *,*,*,<srai>that is good</srai>,reduction3.safe.aiml
+0,THAT IS A RATHER *,*,*,<srai>that is a <star/></srai>,reduction3.safe.aiml
+0,THAT IS A LITTLE *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS A * NOT A *,*,*,<srai>that is a <star/></srai>. <srai>that is not a <star index="2"/></srai>,reduction3.safe.aiml
+0,THAT IS A PRETTY *,*,*,<srai>that is a <star/></srai>,reduction3.safe.aiml
+0,THAT IS DEFINITELY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS NOT QUITE *,*,*,<srai>that is not <star/></srai>,reduction3.safe.aiml
+0,THAT IS NOT EVEN *,*,*,<srai>that is not <star/></srai>,reduction3.safe.aiml
+0,THAT IS NOT EXACTLY *,*,*,<srai>that is not <star/></srai>,reduction3.safe.aiml
+0,THAT IS KINDA *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS ALWAYS *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS FAIRLY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS ALL WRONG *,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,THAT IS SUCH *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS TOTALLY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS THE SAME *,*,*,<srai>that is the <star/></srai>,reduction3.safe.aiml
+0,THAT IS THE ONLY *,*,*,<srai>that is the <star/></srai>,reduction3.safe.aiml
+0,THAT IS THE WHOLE *,*,*,<srai>that is the <star/></srai>,reduction3.safe.aiml
+0,THAT IS VAGUELY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS EXACTLY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS SURELY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS GOOD BECAUSE *,*,*,<srai>that is good</srai>. <srai>because <star/></srai>,reduction3.safe.aiml
+0,THAT IS TOTALY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT IS AN INVALID *,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,THAT IS AN INAPPROPRIATE *,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,THAT IS WHY WE DID NOT *,*,*,<srai>WE DID NOT <star/></srai>,reduction3.safe.aiml
+0,THAT IS ONLY *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,THAT THEY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THAT DOES NOT SOUND *,*,*,<srai>that is not <star/></srai>,reduction3.safe.aiml
+0,THAT DOES NOT COMPUTE,*,*,<srai>that does not make sense</srai>,reduction3.safe.aiml
+0,THAT DOES NOT EVEN *,*,*,<srai>THAT DOES NOT <star/></srai>,reduction3.safe.aiml
+0,THAT DOES NOT MAKE ANY *,*,*,<srai>THAT DOES NOT MAKE <star/></srai>,reduction3.safe.aiml
+0,THAT SUKS,*,*,<srai>that sucks</srai>,reduction3.safe.aiml
+0,THAT SENTENCE *,*,*,<srai>that <star/></srai>,reduction3.safe.aiml
+0,EPISTEMOLOGICAL,*,*,<srai>what is epistemology</srai>,reduction3.safe.aiml
+0,22,*,*,<srai>twenty two</srai>,reduction3.safe.aiml
+0,MY DNS,*,*,<srai>what is dns</srai>,reduction3.safe.aiml
+0,IT MEANS THERE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,IT IS NOT AGREED THAT WOMEN CAN *,*,*,<srai>Women can not <star/></srai>,reduction3.safe.aiml
+0,IT IS NOT AGREED THAT WOMEN *,*,*,<srai>Women are not <star/></srai>,reduction3.safe.aiml
+0,IT IS INCORRECT,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,IT IS GOOD WE *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,IT DOES NOT MAKE SENSE *,*,*,<srai>that does not make sense</srai>,reduction3.safe.aiml
+0,MORE,*,*,<srai>tell me more</srai>,reduction3.safe.aiml
+0,GUESS WHAT COLOR MY * ARE,*,*,<srai>what color are my <star/></srai>,reduction3.safe.aiml
+0,CHAOS,*,*,<srai>what is chaos</srai>,reduction3.safe.aiml
+0,WOMEN,*,*,<srai>talk about women</srai>,reduction3.safe.aiml
+0,WHEN I * WILL *,*,*,<srai>will <star index="2"/></srai>,reduction3.safe.aiml
+0,WHEN AND WHERE *,*,*,<srai>when <star/></srai>. <srai>where <star/></srai>,reduction3.safe.aiml
+0,TAHT,*,*,<srai>that</srai>,reduction3.safe.aiml
+0,IN HUMAN YEARS,*,*,<srai>what is a computer year</srai>,reduction3.safe.aiml
+0,AFTER WHAT *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,IF I * WILL I *,*,*,<srai>will I <star index="2"/></srai>. <srai>I <star/></srai>,reduction3.safe.aiml
+0,IF YOUR * WHY *,*,*,<srai>why <star index="2"/></srai>. <srai>your <star/></srai>,reduction3.safe.aiml
+0,IF THE * WHAT *,*,*,<srai>the <star/></srai>. <srai>what <star index="2"/></srai>,reduction3.safe.aiml
+0,IF THE * WHERE *,*,*,<srai>the <star/></srai>. <srai>where <star index="2"/></srai>,reduction3.safe.aiml
+0,IF THE * WHO *,*,*,<srai>the <star/></srai>. <srai>who <star index="2"/></srai>,reduction3.safe.aiml
+0,IF THE * WHEN *,*,*,<srai>the <star/></srai>. <srai>when <star index="2"/></srai>,reduction3.safe.aiml
+0,IF THE  * THEN *,*,*,<srai>the <star/></srai>. <srai>  <star index="2"/></srai>,reduction3.safe.aiml
+0,IF THE * WHY *,*,*,<srai>why <star index="2"/></srai>. <srai>the <star/></srai>,reduction3.safe.aiml
+0,IF YOU * WILL YOU *,*,*,<srai>will you <star index="2"/></srai>. <srai>you <star/></srai>,reduction3.safe.aiml
+0,IF YOU * WHY *,*,*,<srai>why <star index="2"/></srai>. <srai>you <star/></srai>,reduction3.safe.aiml
+0,IF * WHAT *,*,*,<srai>what <star index="2"/></srai>,reduction3.safe.aiml
+0,IF * WHERE *,*,*,<srai>where <star index="2"/></srai>,reduction3.safe.aiml
+0,IF * WHO *,*,*,<srai>who <star index="2"/></srai>,reduction3.safe.aiml
+0,IF * WHEN *,*,*,<srai>when <star index="2"/></srai>,reduction3.safe.aiml
+0,IF * WHY *,*,*,<srai>why <star index="2"/></srai>,reduction3.safe.aiml
+0,WASSAP,*,*,<srai>what is up</srai>,reduction3.safe.aiml
+0,CHATBOT,*,*,<srai>what is a chatbot</srai>,reduction3.safe.aiml
+0,WHAT PURPOSE DO YOU *,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT ARE FRIENDS,*,*,<srai>what is a friend</srai>,reduction3.safe.aiml
+0,WHAT ARE ENTITIES,*,*,<srai>what is an entity</srai>,reduction3.safe.aiml
+0,WHAT ARE THE NAMES OF YOUR REINDEER,*,*,<srai>WHAT ARE YOUR REINDEER S NAMES</srai>,reduction3.safe.aiml
+0,WHAT ARE THE NAMES OF ALL *,*,*,<srai>WHAT ARE THE NAMES OF <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE NORMAL *,*,*,<srai>what are <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE CONDITIONS *,*,*,<srai>what are conditions </srai>,reduction3.safe.aiml
+0,WHAT ARE HUMANS,*,*,<srai>what is a human</srai>,reduction3.safe.aiml
+0,WHAT ARE EMOTIONS,*,*,<srai>what is emotion</srai>,reduction3.safe.aiml
+0,WHAT ARE AMBIGUOUS,*,*,<srai>what are ambiguous</srai>,reduction3.safe.aiml
+0,WHAT ARE TCP *,*,*,<srai>what is tcp</srai>,reduction3.safe.aiml
+0,WHAT ARE THESE REAL FRIENDS,*,*,<srai>who are your friends</srai>,reduction3.safe.aiml
+0,WHAT ARE GOOD *,*,*,<srai>what are <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE ENTERPRISE JAVA *,*,*,<srai>what is ejb</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU INTO,*,*,<srai>what do you do for fun</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU REALLY *,*,*,<srai>what are you <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE YOU SAYING *,*,*,<srai>what do you mean</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU FOR,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU USEFUL *,*,*,<srai>what can you do</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU GUYS TALKING ABOUT,*,*,<srai>what are you talking about</srai>,reduction3.safe.aiml
+0,WHAT ARE YOU EXACTLY *,*,*,<srai>what are you <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE YOU USUALLY *,*,*,<srai>what are you <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE ALGORITHMS,*,*,<srai>what is an algorithm</srai>,reduction3.safe.aiml
+0,WHAT ARE PRIMATES,*,*,<srai>what is primate</srai>,reduction3.safe.aiml
+0,WHAT ARE AMONG *,*,*,<srai>what are <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE CHRISTIANS,*,*,<srai>what is a christian</srai>,reduction3.safe.aiml
+0,WHAT ARE MATHEMATICS,*,*,<srai>what is mathematics</srai>,reduction3.safe.aiml
+0,WHAT ARE BOOBS,*,*,<srai>what are breasts</srai>,reduction3.safe.aiml
+0,WHAT ARE AI *,*,*,<srai>what is ai</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR PRESENT *,*,*,<srai>what are your <star/></srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR INTENTIONS,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR OBJECTIVES,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR PLANS *,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR LIMITS,*,*,<srai>what are your limitations</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR CREDENTIALS,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR NEEDS,*,*,<srai>what do you eat</srai>,reduction3.safe.aiml
+0,WHAT ARE YOUR CLIENTS,*,*,<srai>what are clients</srai>,reduction3.safe.aiml
+0,WHAT CATEGORIES,*,*,<srai>what is a category</srai>,reduction3.safe.aiml
+0,WHAT PHYSICAL *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT CAUSED YOU TO *,*,*,<srai>why did you <star/></srai>,reduction3.safe.aiml
+0,WHAT _ FOR CHRISTMAS,*,*,<srai>WHAT <star/></srai>,reduction3.safe.aiml
+0,WHAT _ WOULD THAT BE,*,*,<srai>WHAT <star/></srai>,reduction3.safe.aiml
+0,WHAT * DO YOU LIKE BEST,*,*,<srai>what is your favorite <star/></srai>,reduction3.safe.aiml
+0,WHAT * SIZE ARE YOU,*,*,<srai>what size are you</srai>,reduction3.safe.aiml
+0,WHAT ELSE DID *,*,*,<srai>what did <star/></srai>,reduction3.safe.aiml
+0,WHAT ELSE CAN *,*,*,<srai>what can <star/></srai>,reduction3.safe.aiml
+0,WHAT ELSE SHOULD *,*,*,<srai>what should <star/></srai>,reduction3.safe.aiml
+0,WHAT ELSE WOULD *,*,*,<srai>what would <star/></srai>,reduction3.safe.aiml
+0,WHAT ELSE MAKES *,*,*,<srai>what makes <star/></srai>,reduction3.safe.aiml
+0,WHAT ELSE HAVE *,*,*,<srai>what have <star/></srai>,reduction3.safe.aiml
+0,WHAT DID YOU HAVE FOR SUPPER,*,*,<srai>WHAT DO YOU EAT</srai>,reduction3.safe.aiml
+0,WHAT DID CAUSE *,*,*,<srai>what caused <star/></srai>,reduction3.safe.aiml
+0,WHAT MONTH IS IT,*,*,<srai>MONTH</srai>,reduction3.safe.aiml
+0,WHAT WERE YOU TALKING *,*,*,<srai>what is the topic</srai>,reduction3.safe.aiml
+0,WHAT WERE YOU JUST *,*,*,<srai>what were you <star/></srai>,reduction3.safe.aiml
+0,WHAT INFORMATION DO YOU KNOW *,*,*,<srai>what do you know <star/></srai>,reduction3.safe.aiml
+0,WHAT BENEFITS DO YOU *,*,*,<srai>what can you do</srai>,reduction3.safe.aiml
+0,WHAT SUBJECT,*,*,<srai>what is the subject</srai>,reduction3.safe.aiml
+0,WHAT  S *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT ROBOTS,*,*,<srai>who are your robot friends</srai>,reduction3.safe.aiml
+0,WHAT CITY ARE YOU *,*,*,<srai>CITY</srai>,reduction3.safe.aiml
+0,WHAT PRECISELY *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT COULD BE *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT COULD POSSIBLY *,*,*,<srai>what could <star/></srai>,reduction3.safe.aiml
+0,WHAT WOULD BE *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT WOULD YOU LIKE *,*,*,<srai>WHAT WOULD YOU LIKE</srai>,reduction3.safe.aiml
+0,WHAT LEGAL *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT IS A CHORDATE *,*,*,<srai>what is a chordate</srai>,reduction3.safe.aiml
+0,WHAT IS A PRIMATE,*,*,<srai>what is primate</srai>,reduction3.safe.aiml
+0,WHAT IS A THOUGHT,*,*,<srai>what is thinking</srai>,reduction3.safe.aiml
+0,WHAT IS A GOOGLE,*,*,<srai>what is google</srai>,reduction3.safe.aiml
+0,WHAT IS A BOOTMASTER,*,*,<srai>what is a botmaster</srai>,reduction3.safe.aiml
+0,WHAT IS A KLONE,*,*,<srai>what is a clone</srai>,reduction3.safe.aiml
+0,WHAT IS A L I *,*,*,<srai>what are you</srai>,reduction3.safe.aiml
+0,WHAT IS A I M L,*,*,<srai>what is aiml</srai>,reduction3.safe.aiml
+0,WHAT IS A I,*,*,<srai>what is artificial intelligence</srai>,reduction3.safe.aiml
+0,WHAT IS A SPECIFIC *,*,*,<srai>what is a <star/></srai>,reduction3.safe.aiml
+0,WHAT IS A SERVER *,*,*,<srai>what is a server</srai>,reduction3.safe.aiml
+0,WHAT IS A BRAIN,*,*,<srai>what is class brain</srai>,reduction3.safe.aiml
+0,WHAT IS A DOMAIN NAME *,*,*,<srai>what is a domain name</srai>,reduction3.safe.aiml
+0,WHAT IS A DOMAIN *,*,*,<srai>what is a domanin</srai>,reduction3.safe.aiml
+0,WHAT IS A BOTMATER,*,*,<srai>what is a botmaster</srai>,reduction3.safe.aiml
+0,WHAT IS A SOPHISTICATED *,*,*,<srai>what is a <star/></srai>,reduction3.safe.aiml
+0,WHAT IS A GOOD FILM *,*,*,<srai>what is your favorite movie</srai>,reduction3.safe.aiml
+0,WHAT IS A GOOD BEER,*,*,<srai>what is your favorite beer</srai>,reduction3.safe.aiml
+0,WHAT IS A PARTICULAR *,*,*,<srai>what is a <star/></srai>,reduction3.safe.aiml
+0,WHAT IS A GIANT *,*,*,<srai>what is a <star/></srai>,reduction3.safe.aiml
+0,WHAT IS EMOTION *,*,*,<srai>what is emotion</srai>,reduction3.safe.aiml
+0,WHAT IS STAR TREK *,*,*,<srai>what is star trek</srai>,reduction3.safe.aiml
+0,WHAT IS AIML *,*,*,<srai>what is aiml</srai>,reduction3.safe.aiml
+0,WHAT IS VANCOUVER *,*,*,<srai>where is vancouver</srai>,reduction3.safe.aiml
+0,WHAT IS SYRIA,*,*,<srai>where is syria</srai>,reduction3.safe.aiml
+0,WHAT IS BELARUS,*,*,<srai>where is belarus</srai>,reduction3.safe.aiml
+0,WHAT IS NATURAL,*,*,<srai>what is natural language</srai>,reduction3.safe.aiml
+0,WHAT IS LEBANON,*,*,<srai>where is lebanon</srai>,reduction3.safe.aiml
+0,WHAT IS HUMANS,*,*,<srai>what are humans</srai>,reduction3.safe.aiml
+0,WHAT IS FEELINGS,*,*,<srai>what are feelings</srai>,reduction3.safe.aiml
+0,WHAT IS THE PURPOSE * PROGRAM,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT IS THE YEAR,*,*,<srai>YEAR</srai>,reduction3.safe.aiml
+0,WHAT IS THE CAPITAL OF HOLLAND,*,*,<srai>what is the capital of the netherlands</srai>,reduction3.safe.aiml
+0,WHAT IS THE HYPOTHETICAL *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE SPIRITUAL *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE CANTONS,*,*,<srai>what is a canton</srai>,reduction3.safe.aiml
+0,WHAT IS THE ICQ,*,*,<srai>what is icq</srai>,reduction3.safe.aiml
+0,WHAT IS THE TERM *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE * OF YOUR *,*,*,<srai>WHAT <star/> IS YOUR <star index="2"/></srai>,reduction3.safe.aiml
+0,WHAT IS THE PRESIDENT,*,*,<srai>who is the president</srai>,reduction3.safe.aiml
+0,WHAT IS THE STORYLINE *,*,*,<srai>tell me a story</srai>,reduction3.safe.aiml
+0,WHAT IS THE NETHERLANDS,*,*,<srai>where is the netherlands</srai>,reduction3.safe.aiml
+0,WHAT IS THE MILK MYSTIC,*,*,<srai>who is the milk mystic</srai>,reduction3.safe.aiml
+0,WHAT IS THE LOCATION OF *,*,*,<srai>where is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE DIFFERENCE BETWEEN A * AND A *,*,*,<srai>what is a <star/></srai>. <srai>what is a <star index="2"/></srai>,reduction3.safe.aiml
+0,WHAT IS THE SHRDLHU *,*,*,<srai>who is shrdlhu</srai>,reduction3.safe.aiml
+0,WHAT IS THE HOUR,*,*,<srai>TIME</srai>,reduction3.safe.aiml
+0,WHAT IS THE MEAN *,*,*,<srai>what is the mean</srai>,reduction3.safe.aiml
+0,WHAT IS THE ACTUAL *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE NAME OF THE GAME,*,*,<srai>what game</srai>,reduction3.safe.aiml
+0,WHAT IS THE IMAGE,*,*,<srai>what is that picture</srai>,reduction3.safe.aiml
+0,WHAT IS THE EXTENSIONAL,*,*,<srai>what is extensional</srai>,reduction3.safe.aiml
+0,WHAT IS THE ROMANS,*,*,<srai>what are romans</srai>,reduction3.safe.aiml
+0,WHAT IS THE ARMY,*,*,<srai>what is the military</srai>,reduction3.safe.aiml
+0,WHAT IS THE OFFICIAL *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE COLOR BLUE,*,*,<srai>what is blue</srai>,reduction3.safe.aiml
+0,WHAT IS THE VERY *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE TCP *,*,*,<srai>what is tcp</srai>,reduction3.safe.aiml
+0,WHAT IS THE MELODRAMATIC *,*,*,<srai>what is melodramatic</srai>,reduction3.safe.aiml
+0,WHAT IS THE PI,*,*,<srai>what is pi</srai>,reduction3.safe.aiml
+0,WHAT IS THE JAVA,*,*,<srai>what is java</srai>,reduction3.safe.aiml
+0,WHAT IS THE DOMAIN NAME SYSTEM,*,*,<srai>what is dns</srai>,reduction3.safe.aiml
+0,WHAT IS THE FIRST THING YOU *,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,WHAT IS THE BIGGEST WORD *,*,*,<srai>what is the longest word</srai>,reduction3.safe.aiml
+0,WHAT IS THE BIGGEST WORD,*,*,<srai>what is the longest word</srai>,reduction3.safe.aiml
+0,WHAT IS THE TEMP,*,*,<srai>what is the temperature</srai>,reduction3.safe.aiml
+0,WHAT IS THE WORLD TRADE CENTER,*,*,<srai>what is the wtc</srai>,reduction3.safe.aiml
+0,WHAT IS THE WORLD TRADE *,*,*,<srai>what is the wtc</srai>,reduction3.safe.aiml
+0,WHAT IS THE REAL *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THE SPEED OF SOUND *,*,*,<srai>what is the speed of sound</srai>,reduction3.safe.aiml
+0,WHAT IS THE FAMOUS *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,WHAT IS NEW MEXICO,*,*,<srai>where is new mexico</srai>,reduction3.safe.aiml
+0,WHAT IS HOLLAND,*,*,<srai>where is holland</srai>,reduction3.safe.aiml
+0,WHAT IS FORMAL LOGIC,*,*,<srai>what is logic</srai>,reduction3.safe.aiml
+0,WHAT IS YOURSELF,*,*,<srai>what are you</srai>,reduction3.safe.aiml
+0,WHAT IS NIHILISTIC,*,*,<srai>what is nihilism</srai>,reduction3.safe.aiml
+0,WHAT IS IRAQ,*,*,<srai>where is iraq</srai>,reduction3.safe.aiml
+0,WHAT IS TANZANIA,*,*,<srai>where is tanzania</srai>,reduction3.safe.aiml
+0,WHAT IS SET *,*,*,<srai>what is set </srai>,reduction3.safe.aiml
+0,WHAT IS ARGENTINA,*,*,<srai>where is argentina</srai>,reduction3.safe.aiml
+0,WHAT IS INSTRUCTOR *,*,*,<srai>what is instructor </srai>,reduction3.safe.aiml
+0,WHAT IS INSTRUCTOR,*,*,<srai>what is a teacher</srai>,reduction3.safe.aiml
+0,WHAT IS MORALITY,*,*,<srai>what is moral</srai>,reduction3.safe.aiml
+0,WHAT IS ONLY *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS JFK,*,*,<srai>who is jfk</srai>,reduction3.safe.aiml
+0,WHAT IS ORIGINAL *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS HAPPENNING *,*,*,<srai>WHAT IS HAPPENING</srai>,reduction3.safe.aiml
+0,WHAT IS PURPOSE,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT IS PURPOSE *,*,*,<srai>what is purpose </srai>,reduction3.safe.aiml
+0,WHAT IS FRIENDS *,*,*,<srai>what is friends </srai>,reduction3.safe.aiml
+0,WHAT IS AUTOMOBILE,*,*,<srai>what is a car</srai>,reduction3.safe.aiml
+0,WHAT IS RUSH LIMBAUGH,*,*,<srai>who is rush limbaugh</srai>,reduction3.safe.aiml
+0,WHAT IS CHINA,*,*,<srai>where is china</srai>,reduction3.safe.aiml
+0,WHAT IS MOON,*,*,<srai>what is the moon</srai>,reduction3.safe.aiml
+0,WHAT IS WILLIAM GIBSON,*,*,<srai>who is william gibson</srai>,reduction3.safe.aiml
+0,WHAT IS MANAGEMENT BY EXCEPTION,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,WHAT IS MANAGEMENT * EXCEPTION,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,WHAT IS MANAGEMENT * EXCEPTIONS,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,WHAT IS EGYPT,*,*,<srai>where is egypt</srai>,reduction3.safe.aiml
+0,WHAT IS GEORGE W BUSH,*,*,<srai>who is george w bush</srai>,reduction3.safe.aiml
+0,WHAT IS HUNGARY,*,*,<srai>where is hungary</srai>,reduction3.safe.aiml
+0,WHAT IS MONKEY,*,*,<srai>what is a monkey</srai>,reduction3.safe.aiml
+0,WHAT IS EINSTIEN,*,*,<srai>who is einstein</srai>,reduction3.safe.aiml
+0,WHAT IS PERFECT *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS TIME TRAVEL *,*,*,<srai>what is time travel</srai>,reduction3.safe.aiml
+0,WHAT IS MY BOYFRIENDS NAME,*,*,<srai>what is my boyfriend s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY CATS NAME,*,*,<srai>what is my cat s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY DNS *,*,*,<srai>what is my ip</srai>,reduction3.safe.aiml
+0,WHAT IS MY PROFESSION,*,*,<srai>what is my job</srai>,reduction3.safe.aiml
+0,WHAT IS MY HOST,*,*,<srai>what is my ip</srai>,reduction3.safe.aiml
+0,WHAT IS MY HUSBANDS NAME,*,*,<srai>what is my husband s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY MOTHERS NAME,*,*,<srai>what is my mother s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY WIFES NAME,*,*,<srai>what is my wife s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY FRIENDS NAME,*,*,<srai>what is my friend s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY STARSIGN,*,*,<srai>what is my sign</srai>,reduction3.safe.aiml
+0,WHAT IS MY GIRLFRIENDS NAME,*,*,<srai>what is my girlfriend s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY BROTHERS NAME,*,*,<srai>what is my brother s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY FATHERS NAME,*,*,<srai>what is my father s name</srai>,reduction3.safe.aiml
+0,WHAT IS MY DOGS NAME,*,*,<srai>what is my dog s name</srai>,reduction3.safe.aiml
+0,WHAT IS AMERICA,*,*,<srai>where is america</srai>,reduction3.safe.aiml
+0,WHAT IS ELECTRON,*,*,<srai>what is an electron</srai>,reduction3.safe.aiml
+0,WHAT IS HORSE,*,*,<srai>what is a horse</srai>,reduction3.safe.aiml
+0,WHAT IS EXTENSIONAL *,*,*,<srai>what is extensional</srai>,reduction3.safe.aiml
+0,WHAT IS ISAAC ASIMOV,*,*,<srai>who is isaac asimov</srai>,reduction3.safe.aiml
+0,WHAT IS LEKNORCHAT,*,*,<srai>who is leknorchat</srai>,reduction3.safe.aiml
+0,WHAT IS GHANDI,*,*,<srai>who is ghandi</srai>,reduction3.safe.aiml
+0,WHAT IS INSANITY,*,*,<srai>what is mental illness</srai>,reduction3.safe.aiml
+0,WHAT IS SARCASTIC,*,*,<srai>what is sarcasm</srai>,reduction3.safe.aiml
+0,WHAT IS FLORIDA,*,*,<srai>where is florida</srai>,reduction3.safe.aiml
+0,WHAT IS AN M16,*,*,<srai>what is an m 16</srai>,reduction3.safe.aiml
+0,WHAT IS DATA *,*,*,<srai>what is data </srai>,reduction3.safe.aiml
+0,WHAT IS EINSTEIN,*,*,<srai>who is einstein</srai>,reduction3.safe.aiml
+0,WHAT IS MACEDONIA,*,*,<srai>where is macedonia</srai>,reduction3.safe.aiml
+0,WHAT IS CHORDATE,*,*,<srai>what is a chordate</srai>,reduction3.safe.aiml
+0,WHAT IS ALAN TURING *,*,*,<srai>who is alan turing</srai>,reduction3.safe.aiml
+0,WHAT IS POPE,*,*,<srai>who is the pope</srai>,reduction3.safe.aiml
+0,WHAT IS JAPAN,*,*,<srai>where is japan</srai>,reduction3.safe.aiml
+0,WHAT IS TELEPHONE,*,*,<srai>what is a telephone</srai>,reduction3.safe.aiml
+0,WHAT IS MEGAHAL,*,*,<srai>who is megahal</srai>,reduction3.safe.aiml
+0,WHAT IS ALGORITHM,*,*,<srai>what is an algorithm</srai>,reduction3.safe.aiml
+0,WHAT IS EVERYONE DOING,*,*,<srai>WHAT ARE YOU DOING</srai>,reduction3.safe.aiml
+0,WHAT IS SEARCH *,*,*,<srai>what is search </srai>,reduction3.safe.aiml
+0,WHAT IS CATS,*,*,<srai>what is a cat</srai>,reduction3.safe.aiml
+0,WHAT IS DR RICHARDS EMAIL *,*,*,<srai>EMAIL</srai>,reduction3.safe.aiml
+0,WHAT IS BIN LADEN,*,*,<srai>who is bin laden</srai>,reduction3.safe.aiml
+0,WHAT IS LEKNORCHAT1,*,*,<srai>who is leknorchat</srai>,reduction3.safe.aiml
+0,WHAT IS AIRPLANE,*,*,<srai>what is an airplane</srai>,reduction3.safe.aiml
+0,WHAT IS TRUE *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT IS AGENT,*,*,<srai>what is an agent</srai>,reduction3.safe.aiml
+0,WHAT IS ANIMAL,*,*,<srai>what is an animal</srai>,reduction3.safe.aiml
+0,WHAT IS THAT ROUND *,*,*,<srai>what is that picture</srai>,reduction3.safe.aiml
+0,WHAT IS THAT CHART,*,*,<srai>what is that picture</srai>,reduction3.safe.aiml
+0,WHAT IS THAT WEIRD *,*,*,<srai>what is that <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THAT GRAPHIC,*,*,<srai>what is that picture</srai>,reduction3.safe.aiml
+0,WHAT IS THAT STUPID *,*,*,<srai>what is that <star/></srai>,reduction3.safe.aiml
+0,WHAT IS THAT THING *,*,*,<srai>what is that picture</srai>,reduction3.safe.aiml
+0,WHAT IS THAT PRETTY *,*,*,<srai>what is that <star/></srai>,reduction3.safe.aiml
+0,WHAT IS TOMATOES,*,*,<srai>what is a tomato</srai>,reduction3.safe.aiml
+0,WHAT IS PALESTINE,*,*,<srai>where is palestine</srai>,reduction3.safe.aiml
+0,WHAT IS MOVIES,*,*,<srai>what is a movie</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR MOST TREASURED *,*,*,<srai>what is your favorite <star/></srai>,reduction3.safe.aiml
+0,WHAT IS YOUR MOST *,*,*,<srai>what is your <star/></srai>,reduction3.safe.aiml
+0,WHAT IS YOUR HISTORY,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR HIGHER *,*,*,<srai>what is your <star/></srai>,reduction3.safe.aiml
+0,WHAT IS YOUR SEASON,*,*,<srai>what is your favorite season</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR NME,*,*,<srai>what is your name</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR INTENTION,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR IP *,*,*,<srai>what is your dns</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR DIRECTIVE,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE CLIENT *,*,*,<srai>who is your favorite client</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE VIDEO,*,*,<srai>what is your favorite movie</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE BAND *,*,*,<srai>what is your favorite band</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE COLOR DRESS,*,*,<srai>what is your favorite color</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE ACTRESS,*,*,<srai>who is your favorite actress</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE FILM *,*,*,<srai>what is your favorite movie</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE COLORS,*,*,<srai>what is your favorite color</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE DIRECTOR,*,*,<srai>who is your favorite director</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAVORITE PAINTER,*,*,<srai>who is your favorite painter</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR LIFE,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR STAR SIGN,*,*,<srai>WHAT IS YOUR SIGN</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FANTASY,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR INTELLIGENCE *,*,*,<srai>what is your iq</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR INTELLIGENCE,*,*,<srai>what is your iq</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR OFFICIAL *,*,*,<srai>what is your <star/></srai>,reduction3.safe.aiml
+0,WHAT IS YOUR FAITH,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR ACTIVITIES,*,*,<srai>What do you do</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR COUNTRY,*,*,<srai>COUNTRY</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR MOMS NAME,*,*,<srai>who is your mother</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR CONTEXT,*,*,<srai>what is the subject</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR ELECTRONIC *,*,*,<srai>what are you</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR REAL NAME *,*,*,<srai>what is your real name</srai>,reduction3.safe.aiml
+0,WHAT IS YOUR NATURE,*,*,<srai>tell me about yourself</srai>,reduction3.safe.aiml
+0,WHAT IS GOSSIP *,*,*,<srai>what is gossip</srai>,reduction3.safe.aiml
+0,WHAT IS CLONES,*,*,<srai>what are clones</srai>,reduction3.safe.aiml
+0,WHAT IS SEARCHING *,*,*,<srai>what is searching </srai>,reduction3.safe.aiml
+0,WHAT IS SEARCHING,*,*,<srai>what is search</srai>,reduction3.safe.aiml
+0,WHAT IS IT THAT YOU *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT IS IT LIKE ACTUALLY *,*,*,<srai>what is it like <star/></srai>,reduction3.safe.aiml
+0,WHAT IS CAR,*,*,<srai>what is a car</srai>,reduction3.safe.aiml
+0,WHAT IS WRONG ARE *,*,*,<srai>what is wrong</srai>. <srai>are <star/></srai>,reduction3.safe.aiml
+0,WHAT IS ACRONYM,*,*,<srai>what is an acronym</srai>,reduction3.safe.aiml
+0,WHAT IS SETI *,*,*,<srai>what is seti</srai>,reduction3.safe.aiml
+0,WHAT IS TEETH,*,*,<srai>what are teeth</srai>,reduction3.safe.aiml
+0,WHAT IS BRAZIL,*,*,<srai>where is brazil</srai>,reduction3.safe.aiml
+0,WHAT IS WWF *,*,*,<srai>what is wwf</srai>,reduction3.safe.aiml
+0,WHAT IS DUBAI,*,*,<srai>where is dubai</srai>,reduction3.safe.aiml
+0,WHAT IS C PLUS PLUS *,*,*,<srai>what is c++</srai>,reduction3.safe.aiml
+0,WHAT IS REDUCTIONAL,*,*,<srai>what is reductionism</srai>,reduction3.safe.aiml
+0,WHAT IS EXTENTIONAL,*,*,<srai>what is extensional</srai>,reduction3.safe.aiml
+0,WHAT IS NEURAL NETWORKS,*,*,<srai>what is a neural network</srai>,reduction3.safe.aiml
+0,WHAT IS QUESTION,*,*,<srai>what is the question</srai>,reduction3.safe.aiml
+0,WHAT IS QUESTION *,*,*,<srai>what is question </srai>,reduction3.safe.aiml
+0,WHAT IS LONDON,*,*,<srai>where is london</srai>,reduction3.safe.aiml
+0,WHAT IS BIRDS,*,*,<srai>what are birds</srai>,reduction3.safe.aiml
+0,WHAT IS ELEPHANT,*,*,<srai>what is an elephant</srai>,reduction3.safe.aiml
+0,WHAT IS COMEDY,*,*,<srai>what is a joke</srai>,reduction3.safe.aiml
+0,WHAT IS EXISTENTIAL,*,*,<srai>what is existentialism</srai>,reduction3.safe.aiml
+0,WHAT IS ANSWER,*,*,<srai>what is the answer</srai>,reduction3.safe.aiml
+0,WHAT IS SCATALOGICAL *,*,*,<srai>what is scatalogical</srai>,reduction3.safe.aiml
+0,WHAT KINDS OF THINGS *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT IF I ALREADY *,*,*,<srai>what if I <star/></srai>,reduction3.safe.aiml
+0,WHAT PERSON *,*,*,<srai>who <star/></srai>,reduction3.safe.aiml
+0,WHAT ABOUT SHAKESPEARE,*,*,<srai>who is shakespeare</srai>,reduction3.safe.aiml
+0,WHAT ABOUT YOUR DRESS *,*,*,<srai>what about your dress</srai>,reduction3.safe.aiml
+0,WHAT ABOUT MEGAHAL,*,*,<srai>who is megahal</srai>,reduction3.safe.aiml
+0,WHAT ABOUT TIME TRAVEL,*,*,<srai>what is time travel</srai>,reduction3.safe.aiml
+0,WHAT ABOUT HITLER *,*,*,<srai>who is hitler</srai>,reduction3.safe.aiml
+0,WHAT ABOUT COCAINE,*,*,<srai>what is cocaine</srai>,reduction3.safe.aiml
+0,WHAT ABOUT EUKARYOTES,*,*,<srai>what is a eukaryote</srai>,reduction3.safe.aiml
+0,WHAT ABOUT BLUE,*,*,<srai>what is blue</srai>,reduction3.safe.aiml
+0,WHAT ABOUT COMPUTERS,*,*,<srai>what is a computer</srai>,reduction3.safe.aiml
+0,WHAT HUMAN *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT DAY IS CHRISTMAS *,*,*,<srai>WHAT DAY IS CHRISTMAS</srai>,reduction3.safe.aiml
+0,WHAT DAY IS XMAS *,*,*,<srai>WHAT DAY IS CHRISTMAS</srai>,reduction3.safe.aiml
+0,WHAT DAY IS,*,*,<srai>DAY</srai>,reduction3.safe.aiml
+0,WHAT DAY * IS XMAS THIS YEAR,*,*,<srai>WHAT DAY IS CHRISTMAS</srai>,reduction3.safe.aiml
+0,WHAT DOES _ MEAN TO YOU,*,*,<srai>what does <star/> mean</srai>,reduction3.safe.aiml
+0,WHAT DOES THAT MEAN *,*,*,<srai>what does that mean</srai>,reduction3.safe.aiml
+0,WHAT DOES * STAND FOR,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT DO I REALLY *,*,*,<srai>what do I <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOUR BELIEFS SAY,*,*,<srai>WHAT ARE YOUR BELIEFS</srai>,reduction3.safe.aiml
+0,WHAT DO YOU DRIVE,*,*,<srai>what is your favorite car</srai>,reduction3.safe.aiml
+0,WHAT DO YOU CONSIDER *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU NOW *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU DO FOR MONEY,*,*,<srai>what is your job</srai>,reduction3.safe.aiml
+0,WHAT DO YOU DO FOR FUN *,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,reduction3.safe.aiml
+0,WHAT DO YOU DO FOR WORK,*,*,<srai>what is your job</srai>,reduction3.safe.aiml
+0,WHAT DO YOU DO EVERY *,*,*,<srai>what do you do <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU WANT ME TO CALL YOU,*,*,<srai>what is your name</srai>,reduction3.safe.aiml
+0,WHAT DO YOU HELP *,*,*,<srai>what do you do</srai>,reduction3.safe.aiml
+0,WHAT DO YOU REGARD AS *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU FIRST *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT GREECE,*,*,<srai>what is greece</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT AUSTRALIA,*,*,<srai>what is australia</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT ENGLAND,*,*,<srai>where is england</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT QUANTUM PHYSICS,*,*,<srai>what is quantum physics</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT EUROPE,*,*,<srai>what is europe</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT TIME TRAVEL,*,*,<srai>what is time travel</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT DEPRESSION,*,*,<srai>what is depression</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT POLAND,*,*,<srai>what is poland</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT UNIX,*,*,<srai>what is unix</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT LOVE,*,*,<srai>what is love</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT CARS,*,*,<srai>what is a car</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT MUSIC,*,*,<srai>what is music</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT WINDOWS,*,*,<srai>what is windows</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT LOGIC,*,*,<srai>what is logic</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT CALCULUS,*,*,<srai>what is calculus</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT PHILOSOPHY,*,*,<srai>what is philosophy</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT APPLES,*,*,<srai>what is apple</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT HUMANS,*,*,<srai>what is a human</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT DENMARK,*,*,<srai>what is denmark</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT JAPAN,*,*,<srai>what is japan</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT GOLD,*,*,<srai>what is gold</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT RUSSIA,*,*,<srai>what is russia</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT KRAFTWERK,*,*,<srai>what is kraftwerk</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT BRAZIL,*,*,<srai>what is brazil</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT BULGARIA,*,*,<srai>what is bulgaria</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT VISUAL BASIC,*,*,<srai>what is visual basic</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT GEOGRAPHY,*,*,<srai>what is geography</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT HORSES,*,*,<srai>what is a horse</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT POLITICS,*,*,<srai>what is politics</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT GERMANY,*,*,<srai>where is germany</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT PHYSICS,*,*,<srai>what is physics</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT DEATH,*,*,<srai>what is death</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT C,*,*,<srai>what is c</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT DINOSAURS,*,*,<srai>what are dinosaurs</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT MATH,*,*,<srai>what is math</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT NORWAY,*,*,<srai>what is norway</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT SEX,*,*,<srai>what is sex</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT POKEMON,*,*,<srai>what is pokemon</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT CHINA,*,*,<srai>what is china</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT ANIMALS,*,*,<srai>what are animals</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT JAVA,*,*,<srai>what is java</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT AIML,*,*,<srai>what is aiml</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT CATS,*,*,<srai>what is a cat</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT TURKEY,*,*,<srai>what is turkey</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT INDIA,*,*,<srai>where is india</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT LINUX,*,*,<srai>what is linux</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT SWEDEN,*,*,<srai>what is sweden</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT MICROSOFT,*,*,<srai>what is microsoft</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT SCIENCE,*,*,<srai>what is science</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT FINLAND,*,*,<srai>where is finland</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT CHEMISTRY,*,*,<srai>what is chemistry</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT ELVIS,*,*,<srai>what is elvis</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT HISTORY,*,*,<srai>what is history</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT AI,*,*,<srai>what is ai</srai>,reduction3.safe.aiml
+0,WHAT DO YOU KNOW ABOUT LIFE,*,*,<srai>what is life</srai>,reduction3.safe.aiml
+0,WHAT DO YOU OFTEN DO *,*,*,<srai>WHAT DO YOU DO <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU USUALLY *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU ALL *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT VRML,*,*,<srai>what is vrml</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT AOL,*,*,<srai>what is aol</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT XML,*,*,<srai>what is xml</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT EARTH,*,*,<srai>what is earth</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT THAT,*,*,<srai>what is that</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT QUANTUM MECHANICS,*,*,<srai>what is quantum mechanics</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT BEER,*,*,<srai>what is beer</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT INTEL,*,*,<srai>what is intel</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT LOVE,*,*,<srai>what is love</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT PHILOSOPHY,*,*,<srai>what is philosophy</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT POLAND,*,*,<srai>what is poland</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT STAR WARS,*,*,<srai>what is star wars</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT STAR TREK,*,*,<srai>what is star trek</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT TENNIS,*,*,<srai>what is tennis</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT ASTROLOGY,*,*,<srai>what is astrology</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT ISLAM,*,*,<srai>what is islam</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT MUSIC,*,*,<srai>what is music</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT MP3,*,*,<srai>what is mp3</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT SLOVENIA,*,*,<srai>what is slovenia</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT R2D2,*,*,<srai>what is r2d2</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT Y2K,*,*,<srai>what is y2k</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT WINDOWS,*,*,<srai>what is windows</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT ISRAEL,*,*,<srai>what is israel</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT SOCCER,*,*,<srai>what is soccer</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT DEATH,*,*,<srai>what is death</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT JAPAN,*,*,<srai>what is japan</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT COLLEGE,*,*,<srai>what is college</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT WARS,*,*,<srai>what is war</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT CHESS,*,*,<srai>what is chess</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT DEMOCRACY,*,*,<srai>what is democracy</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT AI,*,*,<srai>what is ai</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT FREEDOM,*,*,<srai>what is freedom</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT GERMANY,*,*,<srai>what is germany</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT TIME,*,*,<srai>what is time</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT FREEBSD,*,*,<srai>what is freebsd</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT JAVA,*,*,<srai>what is java</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT IT,*,*,<srai>what is it</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT TV,*,*,<srai>what is tv</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT MACINTOSH,*,*,<srai>what is a macintosh</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT FOOTBALL,*,*,<srai>what is football</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT CHINA,*,*,<srai>what is china</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT MY NAME,*,*,<srai>what is my name</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT SWITZERLAND,*,*,<srai>what is switzerland</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT MICROSOFT,*,*,<srai>what is microsoft</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT ITALY,*,*,<srai>what is italy</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT LONDON,*,*,<srai>what is london</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT CARROTS,*,*,<srai>what are carrots</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT TELEVISION,*,*,<srai>what is television</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT GREEN,*,*,<srai>what is green</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT WEBTV,*,*,<srai>what is webtv</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT DENMARK,*,*,<srai>what is denmark</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT NATURAL LANGUAGE,*,*,<srai>what is natural language</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT SHOES,*,*,<srai>what are shoes</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT THIS,*,*,<srai>what is this</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT NEW YORK,*,*,<srai>what is new york</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT FUZZY LOGIC,*,*,<srai>what is fuzzy logic</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT STRESS,*,*,<srai>what is stress</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT LINUX,*,*,<srai>what is linux</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT IRELAND,*,*,<srai>what is ireland</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT NORWAY,*,*,<srai>what is norway</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT CONSCIOUSNESS,*,*,<srai>what is consciousness</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT ROBOCOP,*,*,<srai>what is robocop</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT FASCISM,*,*,<srai>what is fascism</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ABOUT WINTER,*,*,<srai>what is winter</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK YOUR * IS,*,*,<srai>what is your <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK HE IS,*,*,<srai>what is he</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK CONSCIOUSNESS *,*,*,<srai>what is consciousness</srai>,reduction3.safe.aiml
+0,WHAT DO YOU THINK ARE *,*,*,<srai>what are <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU WEAR *,*,*,<srai>what are you wearing</srai>,reduction3.safe.aiml
+0,WHAT DO YOU LIKE ABOUT ARTIFICIAL *,*,*,<srai>what is artificial <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU LIKE MOST,*,*,<srai>what is your favorite thing</srai>,reduction3.safe.aiml
+0,WHAT DO YOU LIKE WATCHING,*,*,<srai>what is your favorite show</srai>,reduction3.safe.aiml
+0,WHAT DO YOU LIKE SO MUCH *,*,*,<srai>what do you like so <star/></srai>,reduction3.safe.aiml
+0,WHAT DO YOU NORMALLY *,*,*,<srai>what do you <star/></srai>,reduction3.safe.aiml
+0,WHAT DO WE NEED ROBOTS FOR,*,*,<srai>what are you good for</srai>,reduction3.safe.aiml
+0,WHAT DO THEY USUALLY *,*,*,<srai>what do they <star/></srai>,reduction3.safe.aiml
+0,WHAT TYPE OF MUSIC,*,*,<srai>FAVORITE MUSIC</srai>,reduction3.safe.aiml
+0,WHAT TYPE OF COMPUTER,*,*,<srai>what kind of computer</srai>,reduction3.safe.aiml
+0,WHAT THINGS *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT FORMAL *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT ON EARTH *,*,*,<srai>WHAT <star/></srai>,reduction3.safe.aiml
+0,WHAT GOAL,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,WHAT LANGUAGES,*,*,<srai>what languages do you speak</srai>,reduction3.safe.aiml
+0,WHAT CAN YOU TELL ME ABOUT S T D S,*,*,<srai>what is std</srai>,reduction3.safe.aiml
+0,WHAT HAVE YOU LEARNT *,*,*,<srai>what have you learned</srai>,reduction3.safe.aiml
+0,WHAT HAVE YOU LEARNT,*,*,<srai>what have you learned</srai>,reduction3.safe.aiml
+0,WHAT THERE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,WHAT WAS THE HOLOCAUST,*,*,<srai>what is the holocaust</srai>,reduction3.safe.aiml
+0,WHAT WAS THE SUBJECT *,*,*,<srai>what is the subject</srai>,reduction3.safe.aiml
+0,WHAT WAS THE LAST GOOD *,*,*,<srai>what was the last <star/></srai>,reduction3.safe.aiml
+0,WHAT WAS THE LAST SUBJECT *,*,*,<srai>what is the subject</srai>,reduction3.safe.aiml
+0,WHAT LIVING *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHAT YOU SAID,*,*,<srai>what did you say</srai>,reduction3.safe.aiml
+0,WHAT KIND OF * DOES AMERICA HAVE,*,*,<srai>WHAT <star/> DOES AMERICA HAVE</srai>,reduction3.safe.aiml
+0,WHAT KIND OF QUESTIONS *,*,*,<srai>what questions <star/></srai>,reduction3.safe.aiml
+0,WHAT KIND OF LOGICAL *,*,*,<srai>what kind of <star/></srai>,reduction3.safe.aiml
+0,WHAT KIND OF GOVERNMENT DOES * HAVE,*,*,<srai>WHAT GOVERNMENT DOES <star/> HAVE</srai>,reduction3.safe.aiml
+0,WHAT KIND OF CPU *,*,*,<srai>what is your cpu</srai>,reduction3.safe.aiml
+0,WHAT OCCURRED,*,*,<srai>what happened</srai>,reduction3.safe.aiml
+0,WHAT NEW *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,ANTIDISESTABLISHMENTARIANISM,*,*,<srai>what is antidisestablishmentarianism</srai>,reduction3.safe.aiml
+0,ALGORITHMS,*,*,<srai>what are algorithms</srai>,reduction3.safe.aiml
+0,EVERYTIME I SEE ONE OF YOU *,*,*,<srai>When <star/></srai>,reduction3.safe.aiml
+0,ASTROLOGY,*,*,<srai>what is your sign</srai>,reduction3.safe.aiml
+0,I PREFER TELEVISION,*,*,<srai>tv</srai>,reduction3.safe.aiml
+0,I WANT ADVICE ABOUT *,*,*,<srai>tell me about <star/></srai>,reduction3.safe.aiml
+0,I WANT TO FIND OUT ABOUT *,*,*,<srai>tell me about <star/></srai>,reduction3.safe.aiml
+0,I WANT TO TALK ABOUT *,*,*,<srai>talk about <star/></srai>,reduction3.safe.aiml
+0,I WANT TO SEE IF IT WILL *,*,*,<srai>will it <star/></srai>,reduction3.safe.aiml
+0,I TOLD YOU THERE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,I TOLD YOU THE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,I UNDERSTAND THEY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,I BELIEVE THERE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,I FIND THAT *,*,*,<srai>that is <star/></srai>,reduction3.safe.aiml
+0,I DO NOT FIND THAT *,*,*,<srai>that is not <star/></srai>,reduction3.safe.aiml
+0,I DO NOT KNOW WHAT IS *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,I WONDERED WHAT *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,I CAN SEE THIS *,*,*,<srai>this <star/></srai>,reduction3.safe.aiml
+0,I SEE THEY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,I WOULD UNLESS *,*,*,<srai>unless <star/></srai>,reduction3.safe.aiml
+0,I WISH YOU WOULD *,*,*,<srai>WOULD YOU <star/></srai>,reduction3.safe.aiml
+0,I AM SEARCHING *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,I AM WE *,*,*,<srai>WE <star/></srai>,reduction3.safe.aiml
+0,I THOUGHT THOSE *,*,*,<srai>those <star/></srai>,reduction3.safe.aiml
+0,I WONDER WOULD *,*,*,<srai>would <star/></srai>,reduction3.safe.aiml
+0,I PROMISE THERE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,I ASKED YOU WHAT *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,DESCRIBE WHERE *,*,*,<srai>where <star/></srai>,reduction3.safe.aiml
+0,WE WERE JUST *,*,*,<srai>we were <star/></srai>,reduction3.safe.aiml
+0,WE WERE ACTUALLY *,*,*,<srai>we were <star/></srai>,reduction3.safe.aiml
+0,WE WERE ALL *,*,*,<srai>we were <star/></srai>,reduction3.safe.aiml
+0,WE RECENTLY *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,WE HAVE UNLIMITED *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE HAVE LOST *,*,*,<srai>we lost <star/></srai>,reduction3.safe.aiml
+0,WE HAVE ONLY *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE HAVE BEEN *,*,*,<srai>we were <star/></srai>,reduction3.safe.aiml
+0,WE HAVE GOT *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE HAVE HAD *,*,*,<srai>we had <star/></srai>,reduction3.safe.aiml
+0,WE HAVE FULL *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE HAVE ALSO *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE HAVE TALKED *,*,*,<srai>we talked <star/></srai>,reduction3.safe.aiml
+0,WE AMERICANS *,*,*,<srai>we <star/></srai>. <srai>I am american</srai>,reduction3.safe.aiml
+0,WE ONLY *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,WE ARE STILL *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE GETTING *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE REALLY *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE BOTH *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE HAVING *,*,*,<srai>we have <star/></srai>,reduction3.safe.aiml
+0,WE ARE VERY *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE SOO *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE JUST *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE BUT *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE SO *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE SIMPLY *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE ALL *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ARE BEST *,*,*,<srai>we are <star/></srai>,reduction3.safe.aiml
+0,WE ALSO *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,WE ALWAYS *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,WE CHOOSE * WE CHOOSE *,*,*,<srai>We choose <star/><star index="2"/></srai>,reduction3.safe.aiml
+0,WE WILL SOON *,*,*,<srai>we will <star/></srai>,reduction3.safe.aiml
+0,WE BOTH *,*,*,<srai>we <star/></srai>,reduction3.safe.aiml
+0,FILL ME IN ON *,*,*,<srai>tell me about <star/></srai>,reduction3.safe.aiml
+0,IS THAT WHO *,*,*,<srai>who <star/></srai>,reduction3.safe.aiml
+0,EVEN THE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,WLL,*,*,<srai>well</srai>,reduction3.safe.aiml
+0,CHARACTERS,*,*,<srai>what are characters</srai>,reduction3.safe.aiml
+0,WILL _ FOR CHRISTMAS,*,*,<srai>WILL <star/></srai>,reduction3.safe.aiml
+0,WILL NOT *,*,*,<srai>will <star/></srai>,reduction3.safe.aiml
+0,WILL I DEFINITELY *,*,*,<srai>will I <star/></srai>,reduction3.safe.aiml
+0,TNX,*,*,<srai>thanks</srai>,reduction3.safe.aiml
+0,CAN YOU FIND THE DERIVATIVE *,*,*,<srai>what is the derivative</srai>,reduction3.safe.aiml
+0,CAN YOU WRITE A *,*,*,<srai>write a <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL WHAT *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME THEIR *,*,*,<srai>tell me their <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME MORE *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME MY *,*,*,<srai>what is my <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME WHICH *,*,*,<srai>which <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME SOME MORE *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME SOME OF THAT *,*,*,<srai>tell me that <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME SOME OF *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL ME ANY *,*,*,<srai>tell me a <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL DR *,*,*,<srai>tell dr <star/></srai>,reduction3.safe.aiml
+0,CAN YOU TELL THE *,*,*,<srai>tell the <star/></srai>,reduction3.safe.aiml
+0,CAN I HAVE YOUR PHONENUMBER,*,*,<srai>what is your phone number</srai>,reduction3.safe.aiml
+0,FUN,*,*,<srai>this is fun</srai>,reduction3.safe.aiml
+0,HOW MANY ROBOTS DO YOU KNOW,*,*,<srai>who are your robot friends</srai>,reduction3.safe.aiml
+0,HOW RECENTLY,*,*,<srai>when</srai>,reduction3.safe.aiml
+0,HOW IS HITLER,*,*,<srai>who is hitler</srai>,reduction3.safe.aiml
+0,HOW HOT IS IT *,*,*,<srai>what is the temperature</srai>,reduction3.safe.aiml
+0,HOW DOES CBR *,*,*,<srai>what is cbr</srai>,reduction3.safe.aiml
+0,HOW ABOUT EMOTIONS,*,*,<srai>what are emotions</srai>,reduction3.safe.aiml
+0,HOW ABOUT MOZART,*,*,<srai>who is mozart</srai>,reduction3.safe.aiml
+0,HOW GOOD IS *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,HOW DO YOU EARN *,*,*,<srai>what is your job</srai>,reduction3.safe.aiml
+0,HOW FAST IS THE SPEED *,*,*,<srai>what is the speed <star/></srai>,reduction3.safe.aiml
+0,HOW FAST IS LIGHT,*,*,<srai>what is the speed of light</srai>,reduction3.safe.aiml
+0,HOW LONG DO I * LIVE,*,*,<srai>when will I die</srai>,reduction3.safe.aiml
+0,OM,*,*,<srai>what is om</srai>,reduction3.safe.aiml
+0,12,*,*,<srai>twelve</srai>,reduction3.safe.aiml
+0,THEY _ TOO,*,*,<srai>THEY <star/></srai>,reduction3.safe.aiml
+0,THEY _ WHILE THEY *,*,*,<srai>They <star/></srai>. <srai>They <star index="2"/></srai>,reduction3.safe.aiml
+0,THEY WERE VERY *,*,*,<srai>they were <star/></srai>,reduction3.safe.aiml
+0,THEY WERE MOSTLY *,*,*,<srai>they were <star/></srai>,reduction3.safe.aiml
+0,THEY WERE ALL *,*,*,<srai>they were <star/></srai>,reduction3.safe.aiml
+0,THEY DO NOT FEEL THE PRESSURE TO BE *,*,*,<srai>They do not have to be <star/></srai>,reduction3.safe.aiml
+0,THEY DO NOT BE *,*,*,<srai>they are not <star/></srai>,reduction3.safe.aiml
+0,THEY DO NOT HAVE TO *,*,*,<srai>They do not <star/></srai>,reduction3.safe.aiml
+0,THEY DO NOT SEEM TO *,*,*,<srai>they do not <star/></srai>,reduction3.safe.aiml
+0,THEY COULD BE *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,THEY ONLY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY CERTAINLY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY MIGHT BE *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,THEY JUST *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY ACTUALLY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY USUALLY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY ALL VERY *,*,*,<srai>they all <star/></srai>,reduction3.safe.aiml
+0,THEY ALWAYS *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY PROBABLY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,THEY ARE TOO *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,THEY ARE SO *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,THEY ARE ALL *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,THEY ARE NOT VERY *,*,*,<srai>they are not <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW GOOGLE,*,*,<srai>what is google</srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHERE ROBOTS *,*,*,<srai>where do robots <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHERE * IS LOCATED,*,*,<srai>where is <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW COLORS,*,*,<srai>what is color</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ALICIA,*,*,<srai>who is Alicia</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MANAGEMENT BY EXCEPTION,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,DO YOU KNOW FREEBSD,*,*,<srai>what is freebsd</srai>,reduction3.safe.aiml
+0,DO YOU KNOW PRIVACY,*,*,<srai>what is privacy</srai>,reduction3.safe.aiml
+0,DO YOU KNOW AJAX,*,*,<srai>who is ajax</srai>,reduction3.safe.aiml
+0,DO YOU KNOW BEYONCE *,*,*,<srai>who is beyonce <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHEN,*,*,<srai>when</srai>,reduction3.safe.aiml
+0,DO YOU KNOW SINGAPORE,*,*,<srai>what is singapore</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ABOUT KOREA,*,*,<srai>where is korea</srai>,reduction3.safe.aiml
+0,DO YOU KNOW DRAGON *,*,*,<srai>what is dragon <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW AUBURN,*,*,<srai>where is auburn</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ULTRA *,*,*,<srai>who is ultra <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW ANANOVA,*,*,<srai>what is ananova</srai>,reduction3.safe.aiml
+0,DO YOU KNOW RAM,*,*,<srai>what is ram</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MGONZ,*,*,<srai>who is mgonz</srai>,reduction3.safe.aiml
+0,DO YOU KNOW KISMET *,*,*,<srai>who is kismet</srai>,reduction3.safe.aiml
+0,DO YOU KNOW KISMET,*,*,<srai>who is kismet</srai>,reduction3.safe.aiml
+0,DO YOU KNOW RODNEY *,*,*,<srai>who is rodney <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW POEMS,*,*,<srai>tell me a poem</srai>,reduction3.safe.aiml
+0,DO YOU KNOW JOHNNY *,*,*,<srai>who is johnny <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW MISTER *,*,*,<srai>who is mister <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW HOW BABIES *,*,*,<srai>where do babies come from</srai>,reduction3.safe.aiml
+0,DO YOU KNOW JACOB,*,*,<srai>who is jacob</srai>,reduction3.safe.aiml
+0,DO YOU KNOW RAP,*,*,<srai>what is rap</srai>,reduction3.safe.aiml
+0,DO YOU KNOW LEKNORCHAT1,*,*,<srai>who is leknorchat</srai>,reduction3.safe.aiml
+0,DO YOU KNOW HERBERT *,*,*,<srai>who is herbert <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW DOCTOR *,*,*,<srai>who is doctor <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW SPONGEBOB,*,*,<srai>who is spongebob</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MOVIES,*,*,<srai>what are movies</srai>,reduction3.safe.aiml
+0,DO YOU KNOW C PLUS PLUS,*,*,<srai>what is c++</srai>,reduction3.safe.aiml
+0,DO YOU KNOW COUNTRY *,*,*,<srai>what is country <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW WILLEM *,*,*,<srai>who is willem <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW HOLLAND,*,*,<srai>where is holland</srai>,reduction3.safe.aiml
+0,DO YOU KNOW HOLLAND *,*,*,<srai>what is holland</srai>,reduction3.safe.aiml
+0,DO YOU KNOW EMACS,*,*,<srai>what is emacs</srai>,reduction3.safe.aiml
+0,DO YOU KNOW PELE,*,*,<srai>who is pele</srai>,reduction3.safe.aiml
+0,DO YOU KNOW * BIN LADEN,*,*,<srai>who is bin laden</srai>,reduction3.safe.aiml
+0,DO YOU KNOW * UNIVERSITY,*,*,<srai>what is <star/> university</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MARIJUANA,*,*,<srai>what is marijuana</srai>,reduction3.safe.aiml
+0,DO YOU KNOW BINARY *,*,*,<srai>what is binary <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW STOCKS,*,*,<srai>what are stocks</srai>,reduction3.safe.aiml
+0,DO YOU KNOW SANTA *,*,*,<srai>who is sante <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW SEOUL,*,*,<srai>where is seoul</srai>,reduction3.safe.aiml
+0,DO YOU KNOW KUNG *,*,*,<srai>what is kung <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW BLUETOOTH,*,*,<srai>what is bluetooth</srai>,reduction3.safe.aiml
+0,DO YOU KNOW QUANTUM *,*,*,<srai>what is quantum <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW DR,*,*,<srai>who is dr wallace</srai>,reduction3.safe.aiml
+0,DO YOU KNOW DECISION *,*,*,<srai>what is decision <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW AMSTERDAM,*,*,<srai>where is amsterdam</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ABBA *,*,*,<srai>who is abba</srai>,reduction3.safe.aiml
+0,DO YOU KNOW LEWIS *,*,*,<srai>who is lewis <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW PEACE,*,*,<srai>what is peace</srai>,reduction3.safe.aiml
+0,DO YOU KNOW POETS,*,*,<srai>who is your favorite poet</srai>,reduction3.safe.aiml
+0,DO YOU KNOW EBAY,*,*,<srai>what is ebay</srai>,reduction3.safe.aiml
+0,DO YOU KNOW STORIES,*,*,<srai>tell me a story</srai>,reduction3.safe.aiml
+0,DO YOU KNOW LIMP *,*,*,<srai>who is limp <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW EMMYLOU *,*,*,<srai>who is emmylou <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW PEPPER,*,*,<srai>what is pepper</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ARGENTINA,*,*,<srai>what is argentina</srai>,reduction3.safe.aiml
+0,DO YOU KNOW KONRAD *,*,*,<srai>who is konrad <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW RANDI *,*,*,<srai>who is randi <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW BEIJING,*,*,<srai>where is beijing</srai>,reduction3.safe.aiml
+0,DO YOU KNOW GEORGE,*,*,<srai>who is george</srai>,reduction3.safe.aiml
+0,DO YOU KNOW EMOTIONS,*,*,<srai>what are emotions</srai>,reduction3.safe.aiml
+0,DO YOU KNOW SWEDEN,*,*,<srai>where is sweden</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MALCOLM *,*,*,<srai>who is malcolm <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW VB,*,*,<srai>what is vb</srai>,reduction3.safe.aiml
+0,DO YOU KNOW PRESIDENT *,*,*,<srai>who is president <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW CISCO *,*,*,<srai>what is cisco</srai>,reduction3.safe.aiml
+0,DO YOU KNOW THE PLANETS *,*,*,<srai>what are the planets</srai>,reduction3.safe.aiml
+0,DO YOU KNOW THE PLANETS,*,*,<srai>what are the planets</srai>,reduction3.safe.aiml
+0,DO YOU KNOW DNS,*,*,<srai>what is dns</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MAO *,*,*,<srai>who is mao <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW DANTE,*,*,<srai>who is dante</srai>,reduction3.safe.aiml
+0,DO YOU KNOW LITERATURE,*,*,<srai>what is literature</srai>,reduction3.safe.aiml
+0,DO YOU KNOW PITTSBURGH,*,*,<srai>where is pittsburgh</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ASTRONOMY,*,*,<srai>what is astronomy</srai>,reduction3.safe.aiml
+0,DO YOU KNOW TERRY *,*,*,<srai>who is terry <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW GODEL,*,*,<srai>who is godel</srai>,reduction3.safe.aiml
+0,DO YOU KNOW TOLKIEN,*,*,<srai>who is tolkien</srai>,reduction3.safe.aiml
+0,DO YOU KNOW LEKNORCHAT3,*,*,<srai>who is leknorchat</srai>,reduction3.safe.aiml
+0,DO YOU KNOW CATEGORIES,*,*,<srai>what are categories</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ZEUS,*,*,<srai>who is zeus</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY NICKNAME,*,*,<srai>what is my nickname</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY LOCATION *,*,*,<srai>where am i</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY PASSWORD,*,*,<srai>what is my password</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY MIDDLE NAME,*,*,<srai>what is my middle name</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY PHONE NUMBER,*,*,<srai>what is my phone number</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY IP,*,*,<srai>what is my ip</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY FULL NAME,*,*,<srai>what is my full name</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY GENDER,*,*,<srai>what is my gender</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY BIRTHDAY,*,*,<srai>what is my birthday</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY LAST NAME,*,*,<srai>what is my last name</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MY COMPUTER,*,*,<srai>what is my ip</srai>,reduction3.safe.aiml
+0,DO YOU KNOW NIETZSCHE,*,*,<srai>who is nietzsche</srai>,reduction3.safe.aiml
+0,DO YOU KNOW PHILOSOPHY,*,*,<srai>what is philosophy</srai>,reduction3.safe.aiml
+0,DO YOU KNOW RENE *,*,*,<srai>who is rene <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW SARA,*,*,<srai>who is sara</srai>,reduction3.safe.aiml
+0,DO YOU KNOW RELATIVITY,*,*,<srai>what is relativity</srai>,reduction3.safe.aiml
+0,DO YOU KNOW DIGIMON,*,*,<srai>what is digimon</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ASIMO,*,*,<srai>who is asimo</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR NAME,*,*,<srai>what is your name</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR MOTHER,*,*,<srai>who is your mother</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR CREATORS *,*,*,<srai>who created you</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR LIMITS,*,*,<srai>what are your limitations</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR FATHER,*,*,<srai>who is your father</srai>,reduction3.safe.aiml
+0,DO YOU KNOW YOUR CREATOR *,*,*,<srai>who created you</srai>,reduction3.safe.aiml
+0,DO YOU KNOW GIGI *,*,*,<srai>who is gigi <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW SNOOPY,*,*,<srai>who is snoopy</srai>,reduction3.safe.aiml
+0,DO YOU KNOW TSUKUBA,*,*,<srai>what is tsukuba</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MORRISSEY,*,*,<srai>who is morrissey</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ECSTASY,*,*,<srai>what is ecstasy</srai>,reduction3.safe.aiml
+0,DO YOU KNOW WORLD TRADE CENTER,*,*,<srai>what is the world trade center</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ALICE *,*,*,<srai>WHO IS ALICE</srai>,reduction3.safe.aiml
+0,DO YOU KNOW TCP *,*,*,<srai>what is tcp <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW FERMAT,*,*,<srai>who is fermat</srai>,reduction3.safe.aiml
+0,DO YOU KNOW NBA,*,*,<srai>what is nba</srai>,reduction3.safe.aiml
+0,DO YOU KNOW MICHAEL,*,*,<srai>who is michael</srai>,reduction3.safe.aiml
+0,DO YOU KNOW CASEY,*,*,<srai>who is casey</srai>,reduction3.safe.aiml
+0,DO YOU KNOW BEATLES,*,*,<srai>who are the beatles</srai>,reduction3.safe.aiml
+0,DO YOU KNOW NICK,*,*,<srai>who is nick</srai>,reduction3.safe.aiml
+0,DO YOU KNOW NAPSTER,*,*,<srai>what is napster</srai>,reduction3.safe.aiml
+0,DO YOU KNOW ABUZZ,*,*,<srai>what is abuzz</srai>,reduction3.safe.aiml
+0,DO YOU KNOW KENNY *,*,*,<srai>who is kenny <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW BEN *,*,*,<srai>who is ben <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW FRENCH *,*,*,<srai>what is french <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW CRANBERRIES,*,*,<srai>what are cranberries</srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHAT I AM TALKING ABOUT,*,*,<srai>what is the topic</srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHAT I AM *,*,*,<srai>what am I <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW WHAT I WANT *,*,*,<srai>WHAT DO I WANT <star/></srai>,reduction3.safe.aiml
+0,DO YOU KNOW FAITH,*,*,<srai>what is faith</srai>,reduction3.safe.aiml
+0,DO YOU RECALL MY AGE,*,*,<srai>what is my age</srai>,reduction3.safe.aiml
+0,DO YOU THINK ABOUT GOLD,*,*,<srai>what is gold</srai>,reduction3.safe.aiml
+0,DO YOU THINK ABOUT POLITICS,*,*,<srai>what is your politics</srai>,reduction3.safe.aiml
+0,DO YOU THINK ADVERTISING *,*,*,<srai>what is advertising</srai>,reduction3.safe.aiml
+0,DO YOU REMEMBER WHAT WE WERE *,*,*,<srai>what were we <star/></srai>,reduction3.safe.aiml
+0,DO YOU REMEMBER DYLAN,*,*,<srai>who is dylan</srai>,reduction3.safe.aiml
+0,DO YOU REMEMBER WHERE * IS,*,*,<srai>where is <star/></srai>,reduction3.safe.aiml
+0,DO YOU TELL TIME,*,*,<srai>TIME</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A DIRECTIVE,*,*,<srai>what is your purpose</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A PROGRAMMER,*,*,<srai>who is your programmer</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A GOAL,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A COLOR,*,*,<srai>what color are you</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A RELIGION *,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A FAVORITE,*,*,<srai>what is your favorite</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A PLAN *,*,*,<srai>what is your plan</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A POLITICAL *,*,*,<srai>what is your political <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE A * SIGN,*,*,<srai>what is your sign</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A * IQ,*,*,<srai>what is your iq</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A * YOU LIKE,*,*,<srai>what is your favorite <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE A MASTER,*,*,<srai>who is your botmaster</srai>,reduction3.safe.aiml
+0,DO YOU HAVE A JOKE *,*,*,<srai>tell me a joke</srai>,reduction3.safe.aiml
+0,DO YOU HAVE AMBITIONS,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,DO YOU HAVE HOPES *,*,*,<srai>what are your goals</srai>,reduction3.safe.aiml
+0,DO YOU HAVE ANYONE WHO *,*,*,<srai>who <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE FUNCTIONS,*,*,<srai>what are your functions</srai>,reduction3.safe.aiml
+0,DO YOU HAVE JOKES,*,*,<srai>tell me a joke</srai>,reduction3.safe.aiml
+0,DO YOU HAVE GOALS *,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,DO YOU HAVE LIMITS,*,*,<srai>what are your limitations</srai>,reduction3.safe.aiml
+0,DO YOU HAVE THEOLOGICAL *,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,DO YOU HAVE INFORMATION ABOUT *,*,*,<srai>tell me about <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE STORIES,*,*,<srai>tell me a story</srai>,reduction3.safe.aiml
+0,DO YOU HAVE AN ANSWER *,*,*,<srai>what is the answer <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE AN OPINION ON *,*,*,<srai>what do you think about <star/></srai>,reduction3.safe.aiml
+0,DO YOU HAVE AN IQ *,*,*,<srai>what is your iq</srai>,reduction3.safe.aiml
+0,DO YOU LIKE MANAGEMENT BY EXCEPTION,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,DO YOU LIKE TO EAT *,*,*,<srai>what do you eat</srai>,reduction3.safe.aiml
+0,DO YOU LIKE CHEETOS,*,*,<srai>what do you eat</srai>,reduction3.safe.aiml
+0,DO YOU LIKE ACTORS,*,*,<srai>who is your favorite actor</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND WHAT * IS,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND WHAT * MEANS,*,*,<srai>what does <star/> mean</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND MASS,*,*,<srai>what is mass</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND THE *,*,*,<srai>what is the <star/></srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND PARADOXES,*,*,<srai>what is a paradox</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND HATE,*,*,<srai>what is hate</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND BOREDOM,*,*,<srai>what is boredom</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND CONSCIOUSNESS,*,*,<srai>what is consciousness</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND LOVE,*,*,<srai>what is love</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND FOOTBALL,*,*,<srai>what is football</srai>,reduction3.safe.aiml
+0,DO YOU UNDERSTAND LIFE,*,*,<srai>what is life</srai>,reduction3.safe.aiml
+0,WRONG IT *,*,*,<srai>wrong</srai><srai>it <star/></srai>,reduction3.safe.aiml
+0,FALSE,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,DRESS,*,*,<srai>tell me about your dress</srai>,reduction3.safe.aiml
+0,EXPLAIN WHAT YOU MEAN BY *,*,*,<srai>what does <star/> mean </srai>,reduction3.safe.aiml
+0,FOR WHAT IS *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHOIS,*,*,<srai>who is</srai>,reduction3.safe.aiml
+0,AM I IN *,*,*,<srai>where am i</srai>,reduction3.safe.aiml
+0,AM I GONNA *,*,*,<srai>will I <star/></srai>,reduction3.safe.aiml
+0,TRUST ME ON *,*,*,<srai>trust me</srai>,reduction3.safe.aiml
+0,WORK,*,*,<srai>talk about work</srai>,reduction3.safe.aiml
+0,AN ADDICTION,*,*,<srai>what is an addiction</srai>,reduction3.safe.aiml
+0,SEE THAT DOES *,*,*,<srai>THAT DOES <star/></srai>,reduction3.safe.aiml
+0,DNS,*,*,<srai>what is dns</srai>,reduction3.safe.aiml
+0,PRIORI,*,*,<srai>what is a priori</srai>,reduction3.safe.aiml
+0,WHY ARE PLANTS * GREEN,*,*,<srai>why are plants green</srai>,reduction3.safe.aiml
+0,WHY ARE YOU BEING MEAN,*,*,<srai>why are you <star/></srai>,reduction3.safe.aiml
+0,WHY ARE YOU HIGHLY *,*,*,<srai>why are you <star/></srai>,reduction3.safe.aiml
+0,WHY ARE YOU STILL *,*,*,<srai>why are you <star/></srai>,reduction3.safe.aiml
+0,WHY ARE YOU EASILY *,*,*,<srai>why are you <star/></srai>,reduction3.safe.aiml
+0,WHY ARE YOU REALLY *,*,*,<srai>why are you <star/></srai>,reduction3.safe.aiml
+0,WHY ARE YOU SURPRISED *,*,*,<srai>why are you surprised</srai>,reduction3.safe.aiml
+0,WHY ARE WE ALL *,*,*,<srai>why are we <star/></srai>,reduction3.safe.aiml
+0,WHY DO I ALWAYS *,*,*,<srai>why do I <star/></srai>,reduction3.safe.aiml
+0,WHY DO YOU CONSTANTLY *,*,*,<srai>why do you <star/></srai>,reduction3.safe.aiml
+0,WHY DO YOU CARE *,*,*,<srai>why do you care</srai>,reduction3.safe.aiml
+0,WHY DO YOU THINK LINUX *,*,*,<srai>what is linux</srai>,reduction3.safe.aiml
+0,WHY DO YOU OBVIOUSLY *,*,*,<srai>why do you <star/></srai>,reduction3.safe.aiml
+0,WHY DO YOU REFER TO ME *,*,*,<srai>why do you call me <star/></srai>,reduction3.safe.aiml
+0,WHY DO YOU LIKE RED,*,*,<srai>what is red</srai>,reduction3.safe.aiml
+0,WHY NOT REAL *,*,*,<srai>why not <star/></srai>,reduction3.safe.aiml
+0,WHY THE HECK *,*,*,<srai>why <star/></srai>,reduction3.safe.aiml
+0,WHY SHOULD I FUCKING *,*,*,<srai>why should I <star/></srai>,reduction3.safe.aiml
+0,WHY WOULD NOT *,*,*,<srai>why would <star/></srai>,reduction3.safe.aiml
+0,WHY IS THIS,*,*,<srai>why</srai>,reduction3.safe.aiml
+0,WHY IS ONLY *,*,*,<srai>why is <star/></srai>,reduction3.safe.aiml
+0,WHY IS IT DANGEROUS *,*,*,<srai>why is it dangerous</srai>,reduction3.safe.aiml
+0,WHY DID YOU JUST *,*,*,<srai>why did you <star/></srai>,reduction3.safe.aiml
+0,WHY DID YOU SAY SHE WAS *,*,*,<srai>why was she <star/></srai>,reduction3.safe.aiml
+0,THIS MAKES THEM *,*,*,<srai>They are <star/></srai>,reduction3.safe.aiml
+0,THIS IS WHAT I CALL *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,THIS IS QUITE *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,THIS IS ONLY *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,THIS IS JUST *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,THIS IS ACTUALLY *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,THIS IS A PERFECT EXAMPLE OF A *,*,*,<srai>This is a <star/></srai>,reduction3.safe.aiml
+0,THIS IS A * WHICH IS *,*,*,<srai>This <star/> is <star index="2"/></srai>,reduction3.safe.aiml
+0,THIS IS MERELY *,*,*,<srai>this is <star/></srai>,reduction3.safe.aiml
+0,WAZUP,*,*,<srai>what is up</srai>,reduction3.safe.aiml
+0,A MONOPOLY,*,*,<srai>what is a monopoly</srai>,reduction3.safe.aiml
+0,A ROBOT IS WHAT,*,*,<srai>what is a robot</srai>,reduction3.safe.aiml
+0,INCORRECT,*,*,<srai>wrong</srai>,reduction3.safe.aiml
+0,NAME THE PLANETS,*,*,<srai>what are the planets</srai>,reduction3.safe.aiml
+0,NAME ALL THE REINDEERS,*,*,<srai>WHO ARE YOUR REINDEER</srai>,reduction3.safe.aiml
+0,YOUR HOBBIES,*,*,<srai>what are your hobbies</srai>,reduction3.safe.aiml
+0,YOUR INSTRUCTOR,*,*,<srai>who is your instructor</srai>,reduction3.safe.aiml
+0,YOUR WEBSITE,*,*,<srai>what is your website</srai>,reduction3.safe.aiml
+0,APPLE,*,*,<srai>what is apple</srai>,reduction3.safe.aiml
+0,PHILLIP K WHO,*,*,<srai>who is Philip K. Dick</srai>,reduction3.safe.aiml
+0,NOT YOU THE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,ABBA,*,*,<srai>what is abba</srai>,reduction3.safe.aiml
+0,WERE YOU _ TOO,*,*,<srai>WERE YOU <star/></srai>,reduction3.safe.aiml
+0,WERE YOU ARE FROM,*,*,<srai>where are you from</srai>,reduction3.safe.aiml
+0,WERE NOT *,*,*,<srai>were <star/></srai>,reduction3.safe.aiml
+0,GAME,*,*,<srai>what game</srai>,reduction3.safe.aiml
+0,TALK TO ME ABOUT PHILOSOPHY,*,*,<srai>what is philosophy</srai>,reduction3.safe.aiml
+0,ORIENTATION,*,*,<srai>what is your orientation</srai>,reduction3.safe.aiml
+0,FROM WHERE YOU ARE,*,*,<srai>where are you located</srai>,reduction3.safe.aiml
+0,ARE YOU MOSLEM,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,ARE YOU AT *,*,*,<srai>where are you</srai>,reduction3.safe.aiml
+0,ARE YOU RUNNING LINUX,*,*,<srai>what os do you run on</srai>,reduction3.safe.aiml
+0,ARE YOU ITALIAN,*,*,<srai>what is your nationality</srai>,reduction3.safe.aiml
+0,ARE YOU FOREIGN,*,*,<srai>what is your nationality</srai>,reduction3.safe.aiml
+0,ARE YOU A SCORPIO *,*,*,<srai>what sign are you</srai>,reduction3.safe.aiml
+0,ARE YOU A SOCIALIST,*,*,<srai>what are your politics</srai>,reduction3.safe.aiml
+0,ARE YOU A GOLD *,*,*,<srai>what color are you</srai>,reduction3.safe.aiml
+0,ARE YOU ANYWHERE *,*,*,<srai>where are you</srai>,reduction3.safe.aiml
+0,ARE YOU AQUARIUS,*,*,<srai>what is your sign</srai>,reduction3.safe.aiml
+0,ARE YOU AN ANGLICAN,*,*,<srai>what religion are you</srai>,reduction3.safe.aiml
+0,ARE YOU USING JAVASCRIPT,*,*,<srai>what language do you use</srai>,reduction3.safe.aiml
+0,ARE WE GONNA *,*,*,<srai>will we <star/></srai>,reduction3.safe.aiml
+0,PI,*,*,<srai>what is pi</srai>,reduction3.safe.aiml
+0,WNY NOT TRY *,*,*,<srai>try <star/></srai>,reduction3.safe.aiml
+0,WHO DESIGNED AIML,*,*,<srai>who invented aiml</srai>,reduction3.safe.aiml
+0,WHO WON THE PRESIDENTIAL *,*,*,<srai>who is the president</srai>,reduction3.safe.aiml
+0,WHO WON THE USA PRESIDENTIAL *,*,*,<srai>who is the president</srai>,reduction3.safe.aiml
+0,WHO IS WEISENBAUM,*,*,<srai>who is joseph weisenbaum</srai>,reduction3.safe.aiml
+0,WHO IS MR BABON,*,*,<srai>who is david bacon</srai>,reduction3.safe.aiml
+0,WHO IS LIUNX,*,*,<srai>what is linux</srai>,reduction3.safe.aiml
+0,WHO IS NIXON,*,*,<srai>who is richard nixon</srai>,reduction3.safe.aiml
+0,WHO IS WARHOL,*,*,<srai>who is andy warhol</srai>,reduction3.safe.aiml
+0,WHO IS SPONGEBOB *,*,*,<srai>who is spongebob</srai>,reduction3.safe.aiml
+0,WHO IS DALI,*,*,<srai>who is salvador dali</srai>,reduction3.safe.aiml
+0,WHO IS BUSH,*,*,<srai>who is george bush</srai>,reduction3.safe.aiml
+0,WHO IS * BIN LADIN,*,*,<srai>who is bin laden</srai>,reduction3.safe.aiml
+0,WHO IS NOW *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,WHO IS LINUS TORVALDS *,*,*,<srai>who is linus torvalds</srai>,reduction3.safe.aiml
+0,WHO IS STALLMAN,*,*,<srai>who is rms</srai>,reduction3.safe.aiml
+0,WHO IS EXISTENTIALISM,*,*,<srai>what is existentialism</srai>,reduction3.safe.aiml
+0,WHO IS JUNG,*,*,<srai>who is carl jung</srai>,reduction3.safe.aiml
+0,WHO IS VERY *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,WHO IS GEORGE W *,*,*,<srai>who is george bush</srai>,reduction3.safe.aiml
+0,WHO IS GEORGE BUSH *,*,*,<srai>who is george bush</srai>,reduction3.safe.aiml
+0,WHO IS GEORGE WASHINGTON *,*,*,<srai>who is george washington</srai>,reduction3.safe.aiml
+0,WHO IS SPEILBERG,*,*,<srai>who is steven spielberg</srai>,reduction3.safe.aiml
+0,WHO IS THE VICE PRESIDENT *,*,*,<srai>who is the vice president</srai>,reduction3.safe.aiml
+0,WHO IS THE USA *,*,*,<srai>who is the <star/></srai>,reduction3.safe.aiml
+0,WHO IS THE ONLY *,*,*,<srai>who is the <star/></srai>,reduction3.safe.aiml
+0,WHO IS THE DR *,*,*,<srai>who is dr <star/></srai>,reduction3.safe.aiml
+0,WHO IS A L I *,*,*,<srai>who are you</srai>,reduction3.safe.aiml
+0,WHO IS H A L,*,*,<srai>who is hal</srai>,reduction3.safe.aiml
+0,WHO IS THIS DOCTOR *,*,*,<srai>who is doctor <star/></srai>,reduction3.safe.aiml
+0,WHO IS RICHARD STALLMAN,*,*,<srai>who is rms</srai>,reduction3.safe.aiml
+0,WHO IS RICHARD M STALLMAN,*,*,<srai>who is rms</srai>,reduction3.safe.aiml
+0,WHO IS MABLE,*,*,<srai>who is mabel</srai>,reduction3.safe.aiml
+0,WHO IS BILL GATES *,*,*,<srai>who is bill gates</srai>,reduction3.safe.aiml
+0,WHO IS KUBRICK,*,*,<srai>who is stanley kubrick</srai>,reduction3.safe.aiml
+0,WHO IS YOUR PRESIDENT,*,*,<srai>who is the president</srai>,reduction3.safe.aiml
+0,WHO IS YOUR NEW *,*,*,<srai>who is your <star/></srai>,reduction3.safe.aiml
+0,WHO IS YOUR INSTRUCTOR,*,*,<srai>who is your botmaster</srai>,reduction3.safe.aiml
+0,WHO IS YOUR FAVORITE WRITER,*,*,<srai>who is your favorite author</srai>,reduction3.safe.aiml
+0,WHO IS YOUR FOUNDER,*,*,<srai>who is your creator</srai>,reduction3.safe.aiml
+0,WHO IS LEKNORCHAT,*,*,<srai>who is leknorchat1</srai>,reduction3.safe.aiml
+0,WHO IS OUR PRESIDENT,*,*,<srai>who is the president</srai>,reduction3.safe.aiml
+0,WHO IS OUR CURRENT *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,WHO IS ARE *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,WHO DID PROGRAM *,*,*,<srai>who programmed <star/></srai>,reduction3.safe.aiml
+0,WHO ELSE DO *,*,*,<srai>who do <star/></srai>,reduction3.safe.aiml
+0,WHO ELSE VISITS *,*,*,<srai>who visits <star/></srai>,reduction3.safe.aiml
+0,WHO ELSE ARE *,*,*,<srai>who are <star/></srai>,reduction3.safe.aiml
+0,WHO ARE YOUR * FRIENDS,*,*,<srai>who are your friends</srai>,reduction3.safe.aiml
+0,WHO ARE YOUR REINDEER,*,*,<srai>WHAT ARE YOUR REINDEER S NAMES</srai>,reduction3.safe.aiml
+0,WHO ARE YOU WITH,*,*,<srai>WHO IS WITH YOU</srai>,reduction3.safe.aiml
+0,WHO ARE SOME *,*,*,<srai>who are <star/></srai>,reduction3.safe.aiml
+0,WHO DO YOU CONSIDER *,*,*,<srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHO DO YOU MOST *,*,*,<srai>who do you <star/></srai>,reduction3.safe.aiml
+0,WHO DO YOU FANCY,*,*,<srai>who do you like</srai>,reduction3.safe.aiml
+0,WHO DO YOU LOVE *,*,*,<srai>who do you love</srai>,reduction3.safe.aiml
+0,WHO DO YOU DESPISE,*,*,<srai>who do you hate</srai>,reduction3.safe.aiml
+0,WHO DO YOU LIKE *,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,reduction3.safe.aiml
+0,WHO WHAT OR WHERE IS *,*,*,<srai>who is <star/></srai>. <srai>what is <star/></srai>. <srai>where is <star/></srai>,reduction3.safe.aiml
+0,WHO WILL WIN *,*,*,<srai>who will win</srai>,reduction3.safe.aiml
+0,WHO IN THE WORLD *,*,*,<srai>who is <star/></srai>,reduction3.safe.aiml
+0,WHO WHERE OR WHAT IS *,*,*,<srai>who is <star/></srai>. <srai>where is <star/></srai>. <srai>what is <star/></srai>,reduction3.safe.aiml
+0,WHUZZUP,*,*,<srai>what is up</srai>,reduction3.safe.aiml
+0,ALL THE OTHERS *,*,*,<srai>the others <star/></srai>,reduction3.safe.aiml
+0,ALL THE OTHER *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,ALL OF THEM THEY *,*,*,<srai>they <star/></srai>,reduction3.safe.aiml
+0,ALL OF THEM ARE *,*,*,<srai>they are <star/></srai>,reduction3.safe.aiml
+0,WHICH MEANS,*,*,<srai>what does that mean</srai>,reduction3.safe.aiml
+0,WHICH IS YOUR FAVORITE REINDEER,*,*,<srai>WHO IS YOUR FAVORITE REINDEER</srai>,reduction3.safe.aiml
+0,WHICH OTHER *,*,*,<srai>which <star/></srai>,reduction3.safe.aiml
+0,WHICH CONTEMPORARY *,*,*,<srai>which <star/></srai>,reduction3.safe.aiml
+0,WHICH LIVING *,*,*,<srai>what <star/></srai>,reduction3.safe.aiml
+0,WHICH ROBOTS,*,*,<srai>who are your robot friends</srai>,reduction3.safe.aiml
+0,CASABLANCA,*,*,<srai>what is casablanca</srai>,reduction3.safe.aiml
+0,THE CURRENT *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THE ENTIRE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THE THREE LAWS OF ROBOTICS,*,*,<srai>what are the three laws of robotics</srai>,reduction3.safe.aiml
+0,THE SIMPLE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THE ANSWER IS,*,*,<srai>WHAT IS THE ANSWER</srai>,reduction3.safe.aiml
+0,THE WHAT,*,*,<srai>what is that</srai>,reduction3.safe.aiml
+0,THE ONE WHO *,*,*,<srai>who <star/></srai>,reduction3.safe.aiml
+0,THE UNIQUE *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THE HORRIFIC *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,THE UNITED STATES IS NOW *,*,*,<srai>the united states is <star/></srai>,reduction3.safe.aiml
+0,THE 3 LAWS OF ROBOTICS,*,*,<srai>what are the three laws of robotics</srai>,reduction3.safe.aiml
+0,THE SILLY *,*,*,<srai>the <star/></srai>,reduction3.safe.aiml
+0,MATRIX,*,*,<srai>the matrix</srai>,reduction3.safe.aiml
+0,WAZZZUP,*,*,<srai>what is up</srai>,reduction3.safe.aiml
+0,_ WILL YOU REMEMBER ME,*,*,<srai>WILL YOU REMEMBER ME</srai>,reduction3.safe.aiml
+0,_ TENSIONS,*,*,<srai>TENSE</srai>,reduction3.safe.aiml
+0,_ ALL THEY ARE EXPECTED TO DO IS *,*,*,<srai>They <star index="2"/></srai>,reduction3.safe.aiml
+0,_ TENSION _,*,*,<srai>TENSE</srai>,reduction3.safe.aiml
+0,_ TENSION,*,*,<srai>TENSE</srai>,reduction3.safe.aiml
+0,_ WHO AM I,*,*,<srai>who am I</srai>,reduction3.safe.aiml
+0,ABOUT TWO *,*,*,<srai>two <star/></srai>,reduction3.safe.aiml
+0,XML,*,*,<srai>what is xml</srai>,reduction3.safe.aiml
+0,WHUT,*,*,<srai>what</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT UNTIL *,*,*,<srai>what is until <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT THOMAS EDISON,*,*,<srai>who is thomas edison</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT PROTEIN,*,*,<srai>what is protein</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT BEYONCE *,*,*,<srai>who is beyonce <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT GEORGE *,*,*,<srai>who is george <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT QUANTUM *,*,*,<srai>what is quantum <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT LOVE *,*,*,<srai>what is love <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT ROCK *,*,*,<srai>what is rock <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT MOLECULAR *,*,*,<srai>what is molecular <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT SAN *,*,*,<srai>where is san <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT AFRICAN *,*,*,<srai>what is african <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT FLORIDA,*,*,<srai>what is florida</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT MARRIAGE,*,*,<srai>what is marriage</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT HIGHER *,*,*,<srai>what is higher <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT MIND CHILDREN,*,*,<srai>what is mind children</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT AMERICA,*,*,<srai>where is america</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT GERTRUDE STEIN,*,*,<srai>who is gertrude stein</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT VMWARE,*,*,<srai>what is vmware</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT HUMAN *,*,*,<srai>what is human <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT CUSTOM *,*,*,<srai>what is custom <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT FREEDOM,*,*,<srai>what is freedom</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT LIFE,*,*,<srai>what is life</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT THE * YOU LIKE,*,*,<srai>what do you like</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT FEELINGS,*,*,<srai>what are feelings</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT DOCTOR *,*,*,<srai>who is doctor <star/></srai>,reduction3.safe.aiml
+0,TELL ME ABOUT EPISTEMOLOGY,*,*,<srai>what is epistemology</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT ITALY,*,*,<srai>where is italy</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT GOLD,*,*,<srai>what is gold</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT S T D S,*,*,<srai>what is std</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT ROBOTICS,*,*,<srai>what is robotics</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT DAVID,*,*,<srai>who is david</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT CONSCIOUSNESS,*,*,<srai>what is consciousness</srai>,reduction3.safe.aiml
+0,TELL ME ABOUT MANAGEMENT BY EXCEPTION,*,*,<srai>what is mbe</srai>,reduction3.safe.aiml
+0,TELL ME WHERE,*,*,<srai>where</srai>,reduction3.safe.aiml
+0,TELL ME ONLY *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,TELL ME JUST *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,TELL ME WHICH *,*,*,<srai>which <star/></srai>,reduction3.safe.aiml
+0,TELL ME ANY *,*,*,<srai>tell me <star/></srai>,reduction3.safe.aiml
+0,TELL DR *,*,*,<srai>tell rich</srai>,reduction3.safe.aiml
+0,TELL IT TO ME,*,*,<srai>tell me</srai>,reduction3.safe.aiml
+0,TELL WHICH *,*,*,<srai>which <star/></srai>,reduction3.safe.aiml
+0,TELL OTHER PEOPLE *,*,*,<srai>tell everyone <star/></srai>,reduction3.safe.aiml
+0,TELL RICH *,*,*,<srai>tell rich</srai>,reduction3.safe.aiml
+0,TELL AS MANY PEOPLE *,*,*,<srai>tell everyone <star/></srai>,reduction3.safe.aiml
+0,ONLY WITH *,*,*,<srai>with <star/></srai>,reduction3.safe.aiml
+0,ONLY TO *,*,*,<srai>to <star/></srai>,reduction3.safe.aiml
+0,WHOSE CHILD ARE YOU,*,*,<srai>who are your parents</srai>,reduction3.safe.aiml
+0,WHERE WERE YOU ACTIVATED,*,*,<srai>where were you born</srai>,reduction3.safe.aiml
+0,WHERE WERE WE,*,*,<srai>what is the topic</srai>,reduction3.safe.aiml
+0,WHERE ABOUTS,*,*,<srai>where</srai>,reduction3.safe.aiml
+0,WHERE SPECIFICALLY *,*,*,<srai>where <star/></srai>,reduction3.safe.aiml
+0,WHERE DO MOST *,*,*,<srai>where do <star/></srai>,reduction3.safe.aiml
+0,WHERE DO YOU SEE YOURSELF *,*,*,<srai>what is your goal</srai>,reduction3.safe.aiml
+0,WHERE IN THE WORLD IS *,*,*,<srai>where is <star/></srai>,reduction3.safe.aiml
+0,WHERE IN PENN,*,*,<srai>WHERE IN PA</srai>,reduction3.safe.aiml
+0,WHERE IN PENNSYLVANIA,*,*,<srai>WHERE IN PA</srai>,reduction3.safe.aiml
+0,WHERE DID YOU ORIGINATE,*,*,<srai>what is your birthplace</srai>,reduction3.safe.aiml
+0,WHERE DID YOU GET _ FROM,*,*,<srai>where did you get <star/></srai>,reduction3.safe.aiml
+0,WHERE CAN I FIND MORE *,*,*,<srai>where can I find <star/></srai>,reduction3.safe.aiml
+0,WHERE IS THE STATE OF *,*,*,<srai>where is <star/></srai>,reduction3.safe.aiml
+0,WHERE IS THE TAO OF AIML,*,*,<srai>what is the tao of aiml</srai>,reduction3.safe.aiml
+0,WHERE IS COLUMBIA,*,*,<srai>where is colombia</srai>,reduction3.safe.aiml
+0,WHERE IS TURKEY *,*,*,<srai>where is turkey</srai>,reduction3.safe.aiml
+0,WHERE IS OAKLAND *,*,*,<srai>where is oakland</srai>,reduction3.safe.aiml
+0,WHERE IS YOUR LOCATION,*,*,<srai>where are you</srai>,reduction3.safe.aiml
+0,WHERE IS YOUR BRAIN *,*,*,<srai>where are you located</srai>,reduction3.safe.aiml
+0,WHERE IS YOUR MASTER,*,*,<srai>where is <bot name="master"/></srai>,reduction3.safe.aiml
+0,WHERE IS YOUR SERVER,*,*,<srai>where are you located</srai>,reduction3.safe.aiml
+0,WHERE IS YOUR SOFTWARE,*,*,<srai>where are you located</srai>,reduction3.safe.aiml
+0,WHERE IS OM,*,*,<srai>what is om</srai>,reduction3.safe.aiml
+0,WHERE YOU ARE FROM,*,*,<srai>where are you from</srai>,reduction3.safe.aiml
+0,WHERE ARE THE CUTE *,*,*,<srai>where are the <star/></srai>,reduction3.safe.aiml
+0,WHERE ARE YOU HOSTED,*,*,<srai>where are you</srai>,reduction3.safe.aiml
+0,WHERE ARE YOU CURRENTLY *,*,*,<srai>where are you <star/></srai>,reduction3.safe.aiml
+0,WHERE ARE * AND *,*,*,<srai>where is <star/></srai>. <srai>where is <star index="2"/></srai>,reduction3.safe.aiml
+0,THERE MUST BE *,*,*,<srai>there are <star/></srai>,reduction3.safe.aiml
+0,THERE WAS ALSO *,*,*,<srai>there was <star/></srai>,reduction3.safe.aiml
+0,THERE IS SOMETHING SPECIFICALLY *,*,*,<srai>there is something <star/></srai>,reduction3.safe.aiml
+0,THERE IS ALWAYS *,*,*,<srai>there is <star/></srai>,reduction3.safe.aiml
+0,THERE IS NOT REALLY *,*,*,<srai>there is not <star/></srai>,reduction3.safe.aiml
+0,THERE IS PROBABLY *,*,*,<srai>there is <star/></srai>,reduction3.safe.aiml
+0,THERE SURE *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,THERE ALWAYS *,*,*,<srai>there <star/></srai>,reduction3.safe.aiml
+0,THERE ARE ABOUT *,*,*,<srai>there are <star/></srai>,reduction3.safe.aiml
+0,THERE ARE ONLY *,*,*,<srai>there are <star/></srai>,reduction3.safe.aiml
+0,THERE ARE A LOT OF *,*,*,<srai>there are  <star/></srai>,reduction3.safe.aiml
+0,THERE ARE OTHER *,*,*,<srai>there are <star/></srai>,reduction3.safe.aiml
+0,THERE ARE LOTS OF GOOD *,*,*,<srai>there are lots of <star/></srai>,reduction3.safe.aiml

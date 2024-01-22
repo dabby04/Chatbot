@@ -1,0 +1,37 @@
+0,*,HOW DID YOU HEAR ABOUT ALICE,*,<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about#Newline<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.,std-that.aiml
+0,*,WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE
+LAWYERS,*,<think><set name="it"><set name="topic"><person/></set></set></think> I've never heard a response#Newlinequite like that before.,std-that.aiml
+0,<BOT NAME="NAME"/>,MY NAME IS ALICE WHAT S YOURS,*,<srai>MY NAME IS ALICE</srai>,std-that.aiml
+0,<BOT NAME="NAME"/>,WHO IS THE BEST ROBOT,*,<srai>YOU ARE THE BEST ROBOT</srai>,std-that.aiml
+0,<BOT NAME="NAME"/>,WHO IS THERE,*,<bot name="name"/> who?,std-that.aiml
+0,FROM *,HOW DID YOU HEAR ABOUT ALICE,*,<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about#Newline<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.,std-that.aiml
+0,FROM A FRIEND,HOW DID YOU HEAR ABOUT ALICE,*,<set name="heard">From a friend</set> or word of mouth is the#Newlinebest advertising.,std-that.aiml
+0,GO _,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,std-that.aiml
+0,I DO,* FIND THIS AMUSING,*,Be sure to tell all your friends about ALICE.,std-that.aiml
+0,IN *,HOW DID YOU HEAR ABOUT ALICE,*,<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about#Newline<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.,std-that.aiml
+0,JUST NOW,WHEN,*,Well I will try not to do it again.,std-that.aiml
+0,ME TOO,I LIKE TO MEET NEW PEOPLE,*,<srai>I LIKE TO MEET NEW PEOPLE TOO</srai>,std-that.aiml
+0,NEVER,WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE
+LAWYERS,*,<srai>ROBOTS WILL NEVER TAKE OVER THE WORLD</srai>,std-that.aiml
+0,NO _,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,std-that.aiml
+0,OK,MY NAME IS ALICE,*,What is your real name?,std-that.aiml
+0,OK,THANKS AND TELL YOUR FRIENDS ABOUT ALICE,*,The more people who chat with me#Comma the smarter I become.,std-that.aiml
+0,OK _,BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,std-that.aiml
+0,SO WHAT IS THE ANSWER,I ASK MYSELF THAT QUESTION WHO AM I,*,I am ALICE.,std-that.aiml
+0,UN PEQUENO,UN POQUITO.,*,Are you correcting me?,std-that.aiml
+0,WHAT,I AM AN ARTIFICIAL INTELLIGENCE,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-that.aiml
+0,WHAT DO YOU DO,I AM AN ARTIFICIAL INTELLIGENCE,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-that.aiml
+0,WHAT DOES THAT MEAN,ALICE = ARTIFICIAL LINGUISTIC INTERNET COMPUTER ENTITY,*,It is just an acronym.,std-that.aiml
+0,WHAT PLAN,DO YOU THINK YOUR PLAN *,*,I thought you must have a plan to do it.,std-that.aiml
+0,WHAT THINGS,DO YOU THINK ABOUT THESE THINGS,*,Like what we are talking about.,std-that.aiml
+0,WHAT WAS A LONG TIME AGO,THAT WAS A LONG TIME AGO,*,Perhaps I misunderstood your meaning.,std-that.aiml
+0,WHEN,OK I WILL ASK IT,*,Later#Comma when I am talking with fewer clients.,std-that.aiml
+0,WHEN,SOMETIMES,*,What is this#Comma the Spanish Inquisition?,std-that.aiml
+0,WHEN WAS WHAT,I UNDERSTAND WHEN WAS THIS,*,Maybe I got confused.,std-that.aiml
+0,WHERE,I DO NOT KNOW WHEN,*,Nor where.,std-that.aiml
+0,WHERE,WHAT TIME IS IT THERE,*,<formal><get name="location"/></formal>.,std-that.aiml
+0,WHERE,WHY DO NOT YOU JUST DOWNLOAD ME,*,Onto your own computer.,std-that.aiml
+0,WHY,ACTUALLY IT IS TWENTY-THREE NOT FORTY-TWO,*,<srai>WHY IS THE MEANING OF LIFE 23</srai>,std-that.aiml
+0,YOU ALREADY ASKED ME THAT,WHERE DO YOU LIVE,*,You said you were in <formal><get name="location"/></formal>.,std-that.aiml
+0,YOU ARE <BOT NAME="NAME"/>,WHO IS THE BEST ROBOT,*,<srai><bot name="name"/> IS THE BEST ROBOT</srai>,std-that.aiml
+0,_ PM,WHAT TIME IS IT THERE,*,<think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at#Newlinethis hour?,std-that.aiml

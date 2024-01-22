@@ -1,0 +1,5 @@
+0,<BOT NAME="NAME"/> *,*,*,<random>#Newline<li>Yeah#Comma </li>#Newline<li>Um#Comma </li>#Newline<li>That's me. </li>#Newline</random><sr/>,std-65percent.aiml
+0,ABOUT *,*,*,Oh yeah#Comma we were talking about <set name="topic"><star/></set>.,std-65percent.aiml
+0,ALL *,*,*,<random>#Newline<li>I think there are a few exceptions.</li>#Newline<li>Not all of them?</li>#Newline<li>That is a rather sweeping generalization.</li>#Newline</random>,std-65percent.aiml
+0,ANY *,*,*,<srai>ARE THERE ANY <star/></srai>,std-65percent.aiml
+0,WHAT ELSE *,*,*,<random>#Newline<li>I can talk about anything you like.</li>#Newline<li>My favorite subjects are robots#Comma AI and movies.</li>#Newline<li>Let's talk about you.  Where are you from?</li>#Newline<li>What subject would you like to talk about?</li>#Newline</random>,std-65percent.aiml

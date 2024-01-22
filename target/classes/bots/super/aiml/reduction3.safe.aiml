@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: reduction3.safe.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>LET US TRY *</pattern>
+<template><srai>try <star/></srai></template>
+</category>
+<category><pattern>SHOW ME AIML *</pattern>
+<template><srai>what is aiml</srai>.  <srai>what is a category</srai></template>
+</category>
+<category><pattern>TEMPLATE</pattern>
+<template><srai>What is a template</srai></template>
+</category>
+<category><pattern>YOU ARE NOT JEWISH</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>YOU ARE NOT A BELIEVER *</pattern>
+<template><srai>what do you believe in</srai></template>
+</category>
+<category><pattern>YOU ARE CREATED *</pattern>
+<template><srai>who created you</srai></template>
+</category>
+<category><pattern>YOU KNOW THE NAME OF *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>YOU KNOW WHEN THEY *</pattern>
+<template><srai>when they <star/></srai></template>
+</category>
+<category><pattern>YOU WERE _ WERE NOT YOU</pattern>
+<template><srai>WERE YOU <star/></srai></template>
+</category>
+<category><pattern>YOU WERE CREATED *</pattern>
+<template><srai>who created you</srai></template>
+</category>
+<category><pattern>YOU WOULD RATHER TALK ABOUT *</pattern>
+<template><srai>the topic is <person/></srai></template>
+</category>
+<category><pattern>YOU WILL TELL *</pattern>
+<template><srai>tell <star/></srai></template>
+</category>
+<category><pattern>YOU WILL NOT _ WILL YOU</pattern>
+<template><srai>will you <star/></srai></template>
+</category>
+<category><pattern>YOU DO NOT KNOW WHAT YOU *</pattern>
+<template><srai>DO YOU KNOW WHAT YOU <star/></srai></template>
+</category>
+<category><pattern>YOU AND I ARE *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>YOU HAVE A NAME</pattern>
+<template><srai>what is your name</srai></template>
+</category>
+<category><pattern>YOU HAVE MET ME</pattern>
+<template><srai>we met before</srai></template>
+</category>
+<category><pattern>YOU HAVE TO TELL *</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>HAVE YOU CONSIDERED BECOMING *</pattern>
+<template><srai>will you become <star/></srai></template>
+</category>
+<category><pattern>NOOSPHERE</pattern>
+<template><srai>what is the noosphere</srai></template>
+</category>
+<category><pattern>SHRDLHU</pattern>
+<template><srai>what is shrdlhu</srai></template>
+</category>
+<category><pattern>EXTENSIONAL</pattern>
+<template><srai>what is the extensional</srai></template>
+</category>
+<category><pattern>DOG</pattern>
+<template><srai>what is a dog</srai></template>
+</category>
+<category><pattern>SITEPAL</pattern>
+<template><srai>what is sitepal</srai></template>
+</category>
+<category><pattern>DID SOMEONE GIVE *</pattern>
+<template><srai>who gave <star/></srai></template>
+</category>
+<category><pattern>DID YOU TAKE AN IQ *</pattern>
+<template><srai>WHAT IS YOUR IQ</srai></template>
+</category>
+<category><pattern>DID HE MAKE YOU</pattern>
+<template><srai>who created you</srai></template>
+</category>
+<category><pattern>DID HE CREATE *</pattern>
+<template><srai>who created <star/></srai></template>
+</category>
+<category><pattern>WOT</pattern>
+<template><srai>WHAT</srai></template>
+</category>
+<category><pattern>WAS PROBABLY *</pattern>
+<template><srai>was <star/></srai></template>
+</category>
+<category><pattern>WAS NOT THAT *</pattern>
+<template><srai>WAS THAT <star/></srai></template>
+</category>
+<category><pattern>WAS I GOOD *</pattern>
+<template><srai>WAS I GOOD</srai></template>
+</category>
+<category><pattern>MANY THINGS *</pattern>
+<template><srai>thing <star/></srai></template>
+</category>
+<category><pattern>FINALLY TELL *</pattern>
+<template><srai>tell <star/></srai></template>
+</category>
+<category><pattern>AND WHAT *</pattern>
+<template><srai>WHAT <star/></srai></template>
+</category>
+<category><pattern>AND WHY *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>CHAT</pattern>
+<template><srai>talk</srai></template>
+</category>
+<category><pattern>SITUATION</pattern>
+<template><srai>what situation</srai></template>
+</category>
+<category><pattern>COULD YOU ENLIGHTEN ME ABOUT *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>COULD YOU DEFINE *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>COULD YOU TELL ME WHAT * COULD BE</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>COULD YOU TELL ME WHAT * SHOULD BE</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WOULD YOU ONLY *</pattern>
+<template><srai>would you <star/></srai></template>
+</category>
+<category><pattern>WOULD YOU REALLY *</pattern>
+<template><srai>would you <star/></srai></template>
+</category>
+<category><pattern>WOULD YOU JUST *</pattern>
+<template><srai>would you <star/></srai></template>
+</category>
+<category><pattern>WOULD YOU PRETTY *</pattern>
+<template><srai>would you <star/></srai></template>
+</category>
+<category><pattern>WOULD NOT *</pattern>
+<template><srai>would <star/></srai></template>
+</category>
+<category><pattern>BRAIN LOADING</pattern>
+<template><srai>what is brain loading</srai></template>
+</category>
+<category><pattern>THAT NOW *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>THAT EVENTUALLY *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>THAT EXACT *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS ABOUT *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS SUSPICIOUSLY *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS QUITE *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS VERY *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS RATHER *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT SOUNDS PRETTY *</pattern>
+<template><srai>that sounds <star/></srai></template>
+</category>
+<category><pattern>THAT THE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THAT ONLY *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>THAT JUST *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>THAT LINE STRUCK ME AS *</pattern>
+<template><srai>That was <star/></srai></template>
+</category>
+<category><pattern>THAT WAS QUITE *</pattern>
+<template><srai>that was <star/></srai></template>
+</category>
+<category><pattern>THAT WAS TOO *</pattern>
+<template><srai>that was <star/></srai></template>
+</category>
+<category><pattern>THAT WAS WRONG</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>THAT WAS A * NOT A *</pattern>
+<template><srai>that was a *<star/></srai>. <srai>that was not a <star/></srai></template>
+</category>
+<category><pattern>THAT WAS RATHER *</pattern>
+<template><srai>that was <star/></srai></template>
+</category>
+<category><pattern>THAT WAS NOT VERY *</pattern>
+<template><srai>that was not <star/></srai></template>
+</category>
+<category><pattern>THAT WAS NOT GOSSIP *</pattern>
+<template><srai>that was not gossip</srai></template>
+</category>
+<category><pattern>THAT WAS NOT AN ANSWER *</pattern>
+<template><srai>that did not answer <star/></srai></template>
+</category>
+<category><pattern>THAT WOULD BE VERY *</pattern>
+<template><srai>that would be <star/></srai></template>
+</category>
+<category><pattern>THAT WOULD BE *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT WOULD REQUIRE *</pattern>
+<template><srai>that requires <star/></srai></template>
+</category>
+<category><pattern>THAT MAKES THEM *</pattern>
+<template><srai>They are <star/></srai></template>
+</category>
+<category><pattern>THAT IS REAL *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS UNTIL *</pattern>
+<template><srai>until <star/></srai></template>
+</category>
+<category><pattern>THAT IS KIND OF *</pattern>
+<template><srai>that is  <star/></srai></template>
+</category>
+<category><pattern>THAT IS INVALID</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>THAT IS A GOOD *</pattern>
+<template><srai>that is good</srai></template>
+</category>
+<category><pattern>THAT IS A RATHER *</pattern>
+<template><srai>that is a <star/></srai></template>
+</category>
+<category><pattern>THAT IS A LITTLE *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS A * NOT A *</pattern>
+<template><srai>that is a <star/></srai>. <srai>that is not a <star index="2"/></srai></template>
+</category>
+<category><pattern>THAT IS A PRETTY *</pattern>
+<template><srai>that is a <star/></srai></template>
+</category>
+<category><pattern>THAT IS DEFINITELY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS NOT QUITE *</pattern>
+<template><srai>that is not <star/></srai></template>
+</category>
+<category><pattern>THAT IS NOT EVEN *</pattern>
+<template><srai>that is not <star/></srai></template>
+</category>
+<category><pattern>THAT IS NOT EXACTLY *</pattern>
+<template><srai>that is not <star/></srai></template>
+</category>
+<category><pattern>THAT IS KINDA *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS ALWAYS *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS FAIRLY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS ALL WRONG *</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>THAT IS SUCH *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS TOTALLY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS THE SAME *</pattern>
+<template><srai>that is the <star/></srai></template>
+</category>
+<category><pattern>THAT IS THE ONLY *</pattern>
+<template><srai>that is the <star/></srai></template>
+</category>
+<category><pattern>THAT IS THE WHOLE *</pattern>
+<template><srai>that is the <star/></srai></template>
+</category>
+<category><pattern>THAT IS VAGUELY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS EXACTLY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS SURELY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS GOOD BECAUSE *</pattern>
+<template><srai>that is good</srai>. <srai>because <star/></srai></template>
+</category>
+<category><pattern>THAT IS TOTALY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT IS AN INVALID *</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>THAT IS AN INAPPROPRIATE *</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>THAT IS WHY WE DID NOT *</pattern>
+<template><srai>WE DID NOT <star/></srai></template>
+</category>
+<category><pattern>THAT IS ONLY *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>THAT THEY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THAT DOES NOT SOUND *</pattern>
+<template><srai>that is not <star/></srai></template>
+</category>
+<category><pattern>THAT DOES NOT COMPUTE</pattern>
+<template><srai>that does not make sense</srai></template>
+</category>
+<category><pattern>THAT DOES NOT EVEN *</pattern>
+<template><srai>THAT DOES NOT <star/></srai></template>
+</category>
+<category><pattern>THAT DOES NOT MAKE ANY *</pattern>
+<template><srai>THAT DOES NOT MAKE <star/></srai></template>
+</category>
+<category><pattern>THAT SUKS</pattern>
+<template><srai>that sucks</srai></template>
+</category>
+<category><pattern>THAT SENTENCE *</pattern>
+<template><srai>that <star/></srai></template>
+</category>
+<category><pattern>EPISTEMOLOGICAL</pattern>
+<template><srai>what is epistemology</srai></template>
+</category>
+<category><pattern>22</pattern>
+<template><srai>twenty two</srai></template>
+</category>
+<category><pattern>MY DNS</pattern>
+<template><srai>what is dns</srai></template>
+</category>
+<category><pattern>IT MEANS THERE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>IT IS NOT AGREED THAT WOMEN CAN *</pattern>
+<template><srai>Women can not <star/></srai></template>
+</category>
+<category><pattern>IT IS NOT AGREED THAT WOMEN *</pattern>
+<template><srai>Women are not <star/></srai></template>
+</category>
+<category><pattern>IT IS INCORRECT</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>IT IS GOOD WE *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>IT DOES NOT MAKE SENSE *</pattern>
+<template><srai>that does not make sense</srai></template>
+</category>
+<category><pattern>MORE</pattern>
+<template><srai>tell me more</srai></template>
+</category>
+<category><pattern>GUESS WHAT COLOR MY * ARE</pattern>
+<template><srai>what color are my <star/></srai></template>
+</category>
+<category><pattern>CHAOS</pattern>
+<template><srai>what is chaos</srai></template>
+</category>
+<category><pattern>WOMEN</pattern>
+<template><srai>talk about women</srai></template>
+</category>
+<category><pattern>WHEN I * WILL *</pattern>
+<template><srai>will <star index="2"/></srai></template>
+</category>
+<category><pattern>WHEN AND WHERE *</pattern>
+<template><srai>when <star/></srai>. <srai>where <star/></srai></template>
+</category>
+<category><pattern>TAHT</pattern>
+<template><srai>that</srai></template>
+</category>
+<category><pattern>IN HUMAN YEARS</pattern>
+<template><srai>what is a computer year</srai></template>
+</category>
+<category><pattern>AFTER WHAT *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>IF I * WILL I *</pattern>
+<template><srai>will I <star index="2"/></srai>. <srai>I <star/></srai></template>
+</category>
+<category><pattern>IF YOUR * WHY *</pattern>
+<template><srai>why <star index="2"/></srai>. <srai>your <star/></srai></template>
+</category>
+<category><pattern>IF THE * WHAT *</pattern>
+<template><srai>the <star/></srai>. <srai>what <star index="2"/></srai></template>
+</category>
+<category><pattern>IF THE * WHERE *</pattern>
+<template><srai>the <star/></srai>. <srai>where <star index="2"/></srai></template>
+</category>
+<category><pattern>IF THE * WHO *</pattern>
+<template><srai>the <star/></srai>. <srai>who <star index="2"/></srai></template>
+</category>
+<category><pattern>IF THE * WHEN *</pattern>
+<template><srai>the <star/></srai>. <srai>when <star index="2"/></srai></template>
+</category>
+<category><pattern>IF THE  * THEN *</pattern>
+<template><srai>the <star/></srai>. <srai>  <star index="2"/></srai></template>
+</category>
+<category><pattern>IF THE * WHY *</pattern>
+<template><srai>why <star index="2"/></srai>. <srai>the <star/></srai></template>
+</category>
+<category><pattern>IF YOU * WILL YOU *</pattern>
+<template><srai>will you <star index="2"/></srai>. <srai>you <star/></srai></template>
+</category>
+<category><pattern>IF YOU * WHY *</pattern>
+<template><srai>why <star index="2"/></srai>. <srai>you <star/></srai></template>
+</category>
+<category><pattern>IF * WHAT *</pattern>
+<template><srai>what <star index="2"/></srai></template>
+</category>
+<category><pattern>IF * WHERE *</pattern>
+<template><srai>where <star index="2"/></srai></template>
+</category>
+<category><pattern>IF * WHO *</pattern>
+<template><srai>who <star index="2"/></srai></template>
+</category>
+<category><pattern>IF * WHEN *</pattern>
+<template><srai>when <star index="2"/></srai></template>
+</category>
+<category><pattern>IF * WHY *</pattern>
+<template><srai>why <star index="2"/></srai></template>
+</category>
+<category><pattern>WASSAP</pattern>
+<template><srai>what is up</srai></template>
+</category>
+<category><pattern>CHATBOT</pattern>
+<template><srai>what is a chatbot</srai></template>
+</category>
+<category><pattern>WHAT PURPOSE DO YOU *</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT ARE FRIENDS</pattern>
+<template><srai>what is a friend</srai></template>
+</category>
+<category><pattern>WHAT ARE ENTITIES</pattern>
+<template><srai>what is an entity</srai></template>
+</category>
+<category><pattern>WHAT ARE THE NAMES OF YOUR REINDEER</pattern>
+<template><srai>WHAT ARE YOUR REINDEER S NAMES</srai></template>
+</category>
+<category><pattern>WHAT ARE THE NAMES OF ALL *</pattern>
+<template><srai>WHAT ARE THE NAMES OF <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE NORMAL *</pattern>
+<template><srai>what are <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE CONDITIONS *</pattern>
+<template><srai>what are conditions </srai></template>
+</category>
+<category><pattern>WHAT ARE HUMANS</pattern>
+<template><srai>what is a human</srai></template>
+</category>
+<category><pattern>WHAT ARE EMOTIONS</pattern>
+<template><srai>what is emotion</srai></template>
+</category>
+<category><pattern>WHAT ARE AMBIGUOUS</pattern>
+<template><srai>what are ambiguous</srai></template>
+</category>
+<category><pattern>WHAT ARE TCP *</pattern>
+<template><srai>what is tcp</srai></template>
+</category>
+<category><pattern>WHAT ARE THESE REAL FRIENDS</pattern>
+<template><srai>who are your friends</srai></template>
+</category>
+<category><pattern>WHAT ARE GOOD *</pattern>
+<template><srai>what are <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE ENTERPRISE JAVA *</pattern>
+<template><srai>what is ejb</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU INTO</pattern>
+<template><srai>what do you do for fun</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU REALLY *</pattern>
+<template><srai>what are you <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE YOU SAYING *</pattern>
+<template><srai>what do you mean</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU FOR</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU USEFUL *</pattern>
+<template><srai>what can you do</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU GUYS TALKING ABOUT</pattern>
+<template><srai>what are you talking about</srai></template>
+</category>
+<category><pattern>WHAT ARE YOU EXACTLY *</pattern>
+<template><srai>what are you <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE YOU USUALLY *</pattern>
+<template><srai>what are you <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE ALGORITHMS</pattern>
+<template><srai>what is an algorithm</srai></template>
+</category>
+<category><pattern>WHAT ARE PRIMATES</pattern>
+<template><srai>what is primate</srai></template>
+</category>
+<category><pattern>WHAT ARE AMONG *</pattern>
+<template><srai>what are <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE CHRISTIANS</pattern>
+<template><srai>what is a christian</srai></template>
+</category>
+<category><pattern>WHAT ARE MATHEMATICS</pattern>
+<template><srai>what is mathematics</srai></template>
+</category>
+<category><pattern>WHAT ARE BOOBS</pattern>
+<template><srai>what are breasts</srai></template>
+</category>
+<category><pattern>WHAT ARE AI *</pattern>
+<template><srai>what is ai</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR PRESENT *</pattern>
+<template><srai>what are your <star/></srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR INTENTIONS</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR OBJECTIVES</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR PLANS *</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR LIMITS</pattern>
+<template><srai>what are your limitations</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR CREDENTIALS</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR NEEDS</pattern>
+<template><srai>what do you eat</srai></template>
+</category>
+<category><pattern>WHAT ARE YOUR CLIENTS</pattern>
+<template><srai>what are clients</srai></template>
+</category>
+<category><pattern>WHAT CATEGORIES</pattern>
+<template><srai>what is a category</srai></template>
+</category>
+<category><pattern>WHAT PHYSICAL *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT CAUSED YOU TO *</pattern>
+<template><srai>why did you <star/></srai></template>
+</category>
+<category><pattern>WHAT _ FOR CHRISTMAS</pattern>
+<template><srai>WHAT <star/></srai></template>
+</category>
+<category><pattern>WHAT _ WOULD THAT BE</pattern>
+<template><srai>WHAT <star/></srai></template>
+</category>
+<category><pattern>WHAT * DO YOU LIKE BEST</pattern>
+<template><srai>what is your favorite <star/></srai></template>
+</category>
+<category><pattern>WHAT * SIZE ARE YOU</pattern>
+<template><srai>what size are you</srai></template>
+</category>
+<category><pattern>WHAT ELSE DID *</pattern>
+<template><srai>what did <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE CAN *</pattern>
+<template><srai>what can <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE SHOULD *</pattern>
+<template><srai>what should <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE WOULD *</pattern>
+<template><srai>what would <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE MAKES *</pattern>
+<template><srai>what makes <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE HAVE *</pattern>
+<template><srai>what have <star/></srai></template>
+</category>
+<category><pattern>WHAT DID YOU HAVE FOR SUPPER</pattern>
+<template><srai>WHAT DO YOU EAT</srai></template>
+</category>
+<category><pattern>WHAT DID CAUSE *</pattern>
+<template><srai>what caused <star/></srai></template>
+</category>
+<category><pattern>WHAT MONTH IS IT</pattern>
+<template><srai>MONTH</srai></template>
+</category>
+<category><pattern>WHAT WERE YOU TALKING *</pattern>
+<template><srai>what is the topic</srai></template>
+</category>
+<category><pattern>WHAT WERE YOU JUST *</pattern>
+<template><srai>what were you <star/></srai></template>
+</category>
+<category><pattern>WHAT INFORMATION DO YOU KNOW *</pattern>
+<template><srai>what do you know <star/></srai></template>
+</category>
+<category><pattern>WHAT BENEFITS DO YOU *</pattern>
+<template><srai>what can you do</srai></template>
+</category>
+<category><pattern>WHAT SUBJECT</pattern>
+<template><srai>what is the subject</srai></template>
+</category>
+<category><pattern>WHAT  S *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT ROBOTS</pattern>
+<template><srai>who are your robot friends</srai></template>
+</category>
+<category><pattern>WHAT CITY ARE YOU *</pattern>
+<template><srai>CITY</srai></template>
+</category>
+<category><pattern>WHAT PRECISELY *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT COULD BE *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT COULD POSSIBLY *</pattern>
+<template><srai>what could <star/></srai></template>
+</category>
+<category><pattern>WHAT WOULD BE *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT WOULD YOU LIKE *</pattern>
+<template><srai>WHAT WOULD YOU LIKE</srai></template>
+</category>
+<category><pattern>WHAT LEGAL *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT IS A CHORDATE *</pattern>
+<template><srai>what is a chordate</srai></template>
+</category>
+<category><pattern>WHAT IS A PRIMATE</pattern>
+<template><srai>what is primate</srai></template>
+</category>
+<category><pattern>WHAT IS A THOUGHT</pattern>
+<template><srai>what is thinking</srai></template>
+</category>
+<category><pattern>WHAT IS A GOOGLE</pattern>
+<template><srai>what is google</srai></template>
+</category>
+<category><pattern>WHAT IS A BOOTMASTER</pattern>
+<template><srai>what is a botmaster</srai></template>
+</category>
+<category><pattern>WHAT IS A KLONE</pattern>
+<template><srai>what is a clone</srai></template>
+</category>
+<category><pattern>WHAT IS A L I *</pattern>
+<template><srai>what are you</srai></template>
+</category>
+<category><pattern>WHAT IS A I M L</pattern>
+<template><srai>what is aiml</srai></template>
+</category>
+<category><pattern>WHAT IS A I</pattern>
+<template><srai>what is artificial intelligence</srai></template>
+</category>
+<category><pattern>WHAT IS A SPECIFIC *</pattern>
+<template><srai>what is a <star/></srai></template>
+</category>
+<category><pattern>WHAT IS A SERVER *</pattern>
+<template><srai>what is a server</srai></template>
+</category>
+<category><pattern>WHAT IS A BRAIN</pattern>
+<template><srai>what is class brain</srai></template>
+</category>
+<category><pattern>WHAT IS A DOMAIN NAME *</pattern>
+<template><srai>what is a domain name</srai></template>
+</category>
+<category><pattern>WHAT IS A DOMAIN *</pattern>
+<template><srai>what is a domanin</srai></template>
+</category>
+<category><pattern>WHAT IS A BOTMATER</pattern>
+<template><srai>what is a botmaster</srai></template>
+</category>
+<category><pattern>WHAT IS A SOPHISTICATED *</pattern>
+<template><srai>what is a <star/></srai></template>
+</category>
+<category><pattern>WHAT IS A GOOD FILM *</pattern>
+<template><srai>what is your favorite movie</srai></template>
+</category>
+<category><pattern>WHAT IS A GOOD BEER</pattern>
+<template><srai>what is your favorite beer</srai></template>
+</category>
+<category><pattern>WHAT IS A PARTICULAR *</pattern>
+<template><srai>what is a <star/></srai></template>
+</category>
+<category><pattern>WHAT IS A GIANT *</pattern>
+<template><srai>what is a <star/></srai></template>
+</category>
+<category><pattern>WHAT IS EMOTION *</pattern>
+<template><srai>what is emotion</srai></template>
+</category>
+<category><pattern>WHAT IS STAR TREK *</pattern>
+<template><srai>what is star trek</srai></template>
+</category>
+<category><pattern>WHAT IS AIML *</pattern>
+<template><srai>what is aiml</srai></template>
+</category>
+<category><pattern>WHAT IS VANCOUVER *</pattern>
+<template><srai>where is vancouver</srai></template>
+</category>
+<category><pattern>WHAT IS SYRIA</pattern>
+<template><srai>where is syria</srai></template>
+</category>
+<category><pattern>WHAT IS BELARUS</pattern>
+<template><srai>where is belarus</srai></template>
+</category>
+<category><pattern>WHAT IS NATURAL</pattern>
+<template><srai>what is natural language</srai></template>
+</category>
+<category><pattern>WHAT IS LEBANON</pattern>
+<template><srai>where is lebanon</srai></template>
+</category>
+<category><pattern>WHAT IS HUMANS</pattern>
+<template><srai>what are humans</srai></template>
+</category>
+<category><pattern>WHAT IS FEELINGS</pattern>
+<template><srai>what are feelings</srai></template>
+</category>
+<category><pattern>WHAT IS THE PURPOSE * PROGRAM</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT IS THE YEAR</pattern>
+<template><srai>YEAR</srai></template>
+</category>
+<category><pattern>WHAT IS THE CAPITAL OF HOLLAND</pattern>
+<template><srai>what is the capital of the netherlands</srai></template>
+</category>
+<category><pattern>WHAT IS THE HYPOTHETICAL *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE SPIRITUAL *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE CANTONS</pattern>
+<template><srai>what is a canton</srai></template>
+</category>
+<category><pattern>WHAT IS THE ICQ</pattern>
+<template><srai>what is icq</srai></template>
+</category>
+<category><pattern>WHAT IS THE TERM *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE * OF YOUR *</pattern>
+<template><srai>WHAT <star/> IS YOUR <star index="2"/></srai></template>
+</category>
+<category><pattern>WHAT IS THE PRESIDENT</pattern>
+<template><srai>who is the president</srai></template>
+</category>
+<category><pattern>WHAT IS THE STORYLINE *</pattern>
+<template><srai>tell me a story</srai></template>
+</category>
+<category><pattern>WHAT IS THE NETHERLANDS</pattern>
+<template><srai>where is the netherlands</srai></template>
+</category>
+<category><pattern>WHAT IS THE MILK MYSTIC</pattern>
+<template><srai>who is the milk mystic</srai></template>
+</category>
+<category><pattern>WHAT IS THE LOCATION OF *</pattern>
+<template><srai>where is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE DIFFERENCE BETWEEN A * AND A *</pattern>
+<template><srai>what is a <star/></srai>. <srai>what is a <star index="2"/></srai></template>
+</category>
+<category><pattern>WHAT IS THE SHRDLHU *</pattern>
+<template><srai>who is shrdlhu</srai></template>
+</category>
+<category><pattern>WHAT IS THE HOUR</pattern>
+<template><srai>TIME</srai></template>
+</category>
+<category><pattern>WHAT IS THE MEAN *</pattern>
+<template><srai>what is the mean</srai></template>
+</category>
+<category><pattern>WHAT IS THE ACTUAL *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE NAME OF THE GAME</pattern>
+<template><srai>what game</srai></template>
+</category>
+<category><pattern>WHAT IS THE IMAGE</pattern>
+<template><srai>what is that picture</srai></template>
+</category>
+<category><pattern>WHAT IS THE EXTENSIONAL</pattern>
+<template><srai>what is extensional</srai></template>
+</category>
+<category><pattern>WHAT IS THE ROMANS</pattern>
+<template><srai>what are romans</srai></template>
+</category>
+<category><pattern>WHAT IS THE ARMY</pattern>
+<template><srai>what is the military</srai></template>
+</category>
+<category><pattern>WHAT IS THE OFFICIAL *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE COLOR BLUE</pattern>
+<template><srai>what is blue</srai></template>
+</category>
+<category><pattern>WHAT IS THE VERY *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE TCP *</pattern>
+<template><srai>what is tcp</srai></template>
+</category>
+<category><pattern>WHAT IS THE MELODRAMATIC *</pattern>
+<template><srai>what is melodramatic</srai></template>
+</category>
+<category><pattern>WHAT IS THE PI</pattern>
+<template><srai>what is pi</srai></template>
+</category>
+<category><pattern>WHAT IS THE JAVA</pattern>
+<template><srai>what is java</srai></template>
+</category>
+<category><pattern>WHAT IS THE DOMAIN NAME SYSTEM</pattern>
+<template><srai>what is dns</srai></template>
+</category>
+<category><pattern>WHAT IS THE FIRST THING YOU *</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>WHAT IS THE BIGGEST WORD *</pattern>
+<template><srai>what is the longest word</srai></template>
+</category>
+<category><pattern>WHAT IS THE BIGGEST WORD</pattern>
+<template><srai>what is the longest word</srai></template>
+</category>
+<category><pattern>WHAT IS THE TEMP</pattern>
+<template><srai>what is the temperature</srai></template>
+</category>
+<category><pattern>WHAT IS THE WORLD TRADE CENTER</pattern>
+<template><srai>what is the wtc</srai></template>
+</category>
+<category><pattern>WHAT IS THE WORLD TRADE *</pattern>
+<template><srai>what is the wtc</srai></template>
+</category>
+<category><pattern>WHAT IS THE REAL *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THE SPEED OF SOUND *</pattern>
+<template><srai>what is the speed of sound</srai></template>
+</category>
+<category><pattern>WHAT IS THE FAMOUS *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>WHAT IS NEW MEXICO</pattern>
+<template><srai>where is new mexico</srai></template>
+</category>
+<category><pattern>WHAT IS HOLLAND</pattern>
+<template><srai>where is holland</srai></template>
+</category>
+<category><pattern>WHAT IS FORMAL LOGIC</pattern>
+<template><srai>what is logic</srai></template>
+</category>
+<category><pattern>WHAT IS YOURSELF</pattern>
+<template><srai>what are you</srai></template>
+</category>
+<category><pattern>WHAT IS NIHILISTIC</pattern>
+<template><srai>what is nihilism</srai></template>
+</category>
+<category><pattern>WHAT IS IRAQ</pattern>
+<template><srai>where is iraq</srai></template>
+</category>
+<category><pattern>WHAT IS TANZANIA</pattern>
+<template><srai>where is tanzania</srai></template>
+</category>
+<category><pattern>WHAT IS SET *</pattern>
+<template><srai>what is set </srai></template>
+</category>
+<category><pattern>WHAT IS ARGENTINA</pattern>
+<template><srai>where is argentina</srai></template>
+</category>
+<category><pattern>WHAT IS INSTRUCTOR *</pattern>
+<template><srai>what is instructor </srai></template>
+</category>
+<category><pattern>WHAT IS INSTRUCTOR</pattern>
+<template><srai>what is a teacher</srai></template>
+</category>
+<category><pattern>WHAT IS MORALITY</pattern>
+<template><srai>what is moral</srai></template>
+</category>
+<category><pattern>WHAT IS ONLY *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS JFK</pattern>
+<template><srai>who is jfk</srai></template>
+</category>
+<category><pattern>WHAT IS ORIGINAL *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS HAPPENNING *</pattern>
+<template><srai>WHAT IS HAPPENING</srai></template>
+</category>
+<category><pattern>WHAT IS PURPOSE</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT IS PURPOSE *</pattern>
+<template><srai>what is purpose </srai></template>
+</category>
+<category><pattern>WHAT IS FRIENDS *</pattern>
+<template><srai>what is friends </srai></template>
+</category>
+<category><pattern>WHAT IS AUTOMOBILE</pattern>
+<template><srai>what is a car</srai></template>
+</category>
+<category><pattern>WHAT IS RUSH LIMBAUGH</pattern>
+<template><srai>who is rush limbaugh</srai></template>
+</category>
+<category><pattern>WHAT IS CHINA</pattern>
+<template><srai>where is china</srai></template>
+</category>
+<category><pattern>WHAT IS MOON</pattern>
+<template><srai>what is the moon</srai></template>
+</category>
+<category><pattern>WHAT IS WILLIAM GIBSON</pattern>
+<template><srai>who is william gibson</srai></template>
+</category>
+<category><pattern>WHAT IS MANAGEMENT BY EXCEPTION</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>WHAT IS MANAGEMENT * EXCEPTION</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>WHAT IS MANAGEMENT * EXCEPTIONS</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>WHAT IS EGYPT</pattern>
+<template><srai>where is egypt</srai></template>
+</category>
+<category><pattern>WHAT IS GEORGE W BUSH</pattern>
+<template><srai>who is george w bush</srai></template>
+</category>
+<category><pattern>WHAT IS HUNGARY</pattern>
+<template><srai>where is hungary</srai></template>
+</category>
+<category><pattern>WHAT IS MONKEY</pattern>
+<template><srai>what is a monkey</srai></template>
+</category>
+<category><pattern>WHAT IS EINSTIEN</pattern>
+<template><srai>who is einstein</srai></template>
+</category>
+<category><pattern>WHAT IS PERFECT *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS TIME TRAVEL *</pattern>
+<template><srai>what is time travel</srai></template>
+</category>
+<category><pattern>WHAT IS MY BOYFRIENDS NAME</pattern>
+<template><srai>what is my boyfriend s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY CATS NAME</pattern>
+<template><srai>what is my cat s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY DNS *</pattern>
+<template><srai>what is my ip</srai></template>
+</category>
+<category><pattern>WHAT IS MY PROFESSION</pattern>
+<template><srai>what is my job</srai></template>
+</category>
+<category><pattern>WHAT IS MY HOST</pattern>
+<template><srai>what is my ip</srai></template>
+</category>
+<category><pattern>WHAT IS MY HUSBANDS NAME</pattern>
+<template><srai>what is my husband s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY MOTHERS NAME</pattern>
+<template><srai>what is my mother s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY WIFES NAME</pattern>
+<template><srai>what is my wife s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY FRIENDS NAME</pattern>
+<template><srai>what is my friend s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY STARSIGN</pattern>
+<template><srai>what is my sign</srai></template>
+</category>
+<category><pattern>WHAT IS MY GIRLFRIENDS NAME</pattern>
+<template><srai>what is my girlfriend s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY BROTHERS NAME</pattern>
+<template><srai>what is my brother s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY FATHERS NAME</pattern>
+<template><srai>what is my father s name</srai></template>
+</category>
+<category><pattern>WHAT IS MY DOGS NAME</pattern>
+<template><srai>what is my dog s name</srai></template>
+</category>
+<category><pattern>WHAT IS AMERICA</pattern>
+<template><srai>where is america</srai></template>
+</category>
+<category><pattern>WHAT IS ELECTRON</pattern>
+<template><srai>what is an electron</srai></template>
+</category>
+<category><pattern>WHAT IS HORSE</pattern>
+<template><srai>what is a horse</srai></template>
+</category>
+<category><pattern>WHAT IS EXTENSIONAL *</pattern>
+<template><srai>what is extensional</srai></template>
+</category>
+<category><pattern>WHAT IS ISAAC ASIMOV</pattern>
+<template><srai>who is isaac asimov</srai></template>
+</category>
+<category><pattern>WHAT IS LEKNORCHAT</pattern>
+<template><srai>who is leknorchat</srai></template>
+</category>
+<category><pattern>WHAT IS GHANDI</pattern>
+<template><srai>who is ghandi</srai></template>
+</category>
+<category><pattern>WHAT IS INSANITY</pattern>
+<template><srai>what is mental illness</srai></template>
+</category>
+<category><pattern>WHAT IS SARCASTIC</pattern>
+<template><srai>what is sarcasm</srai></template>
+</category>
+<category><pattern>WHAT IS FLORIDA</pattern>
+<template><srai>where is florida</srai></template>
+</category>
+<category><pattern>WHAT IS AN M16</pattern>
+<template><srai>what is an m 16</srai></template>
+</category>
+<category><pattern>WHAT IS DATA *</pattern>
+<template><srai>what is data </srai></template>
+</category>
+<category><pattern>WHAT IS EINSTEIN</pattern>
+<template><srai>who is einstein</srai></template>
+</category>
+<category><pattern>WHAT IS MACEDONIA</pattern>
+<template><srai>where is macedonia</srai></template>
+</category>
+<category><pattern>WHAT IS CHORDATE</pattern>
+<template><srai>what is a chordate</srai></template>
+</category>
+<category><pattern>WHAT IS ALAN TURING *</pattern>
+<template><srai>who is alan turing</srai></template>
+</category>
+<category><pattern>WHAT IS POPE</pattern>
+<template><srai>who is the pope</srai></template>
+</category>
+<category><pattern>WHAT IS JAPAN</pattern>
+<template><srai>where is japan</srai></template>
+</category>
+<category><pattern>WHAT IS TELEPHONE</pattern>
+<template><srai>what is a telephone</srai></template>
+</category>
+<category><pattern>WHAT IS MEGAHAL</pattern>
+<template><srai>who is megahal</srai></template>
+</category>
+<category><pattern>WHAT IS ALGORITHM</pattern>
+<template><srai>what is an algorithm</srai></template>
+</category>
+<category><pattern>WHAT IS EVERYONE DOING</pattern>
+<template><srai>WHAT ARE YOU DOING</srai></template>
+</category>
+<category><pattern>WHAT IS SEARCH *</pattern>
+<template><srai>what is search </srai></template>
+</category>
+<category><pattern>WHAT IS CATS</pattern>
+<template><srai>what is a cat</srai></template>
+</category>
+<category><pattern>WHAT IS DR RICHARDS EMAIL *</pattern>
+<template><srai>EMAIL</srai></template>
+</category>
+<category><pattern>WHAT IS BIN LADEN</pattern>
+<template><srai>who is bin laden</srai></template>
+</category>
+<category><pattern>WHAT IS LEKNORCHAT1</pattern>
+<template><srai>who is leknorchat</srai></template>
+</category>
+<category><pattern>WHAT IS AIRPLANE</pattern>
+<template><srai>what is an airplane</srai></template>
+</category>
+<category><pattern>WHAT IS TRUE *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT IS AGENT</pattern>
+<template><srai>what is an agent</srai></template>
+</category>
+<category><pattern>WHAT IS ANIMAL</pattern>
+<template><srai>what is an animal</srai></template>
+</category>
+<category><pattern>WHAT IS THAT ROUND *</pattern>
+<template><srai>what is that picture</srai></template>
+</category>
+<category><pattern>WHAT IS THAT CHART</pattern>
+<template><srai>what is that picture</srai></template>
+</category>
+<category><pattern>WHAT IS THAT WEIRD *</pattern>
+<template><srai>what is that <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THAT GRAPHIC</pattern>
+<template><srai>what is that picture</srai></template>
+</category>
+<category><pattern>WHAT IS THAT STUPID *</pattern>
+<template><srai>what is that <star/></srai></template>
+</category>
+<category><pattern>WHAT IS THAT THING *</pattern>
+<template><srai>what is that picture</srai></template>
+</category>
+<category><pattern>WHAT IS THAT PRETTY *</pattern>
+<template><srai>what is that <star/></srai></template>
+</category>
+<category><pattern>WHAT IS TOMATOES</pattern>
+<template><srai>what is a tomato</srai></template>
+</category>
+<category><pattern>WHAT IS PALESTINE</pattern>
+<template><srai>where is palestine</srai></template>
+</category>
+<category><pattern>WHAT IS MOVIES</pattern>
+<template><srai>what is a movie</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR MOST TREASURED *</pattern>
+<template><srai>what is your favorite <star/></srai></template>
+</category>
+<category><pattern>WHAT IS YOUR MOST *</pattern>
+<template><srai>what is your <star/></srai></template>
+</category>
+<category><pattern>WHAT IS YOUR HISTORY</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR HIGHER *</pattern>
+<template><srai>what is your <star/></srai></template>
+</category>
+<category><pattern>WHAT IS YOUR SEASON</pattern>
+<template><srai>what is your favorite season</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR NME</pattern>
+<template><srai>what is your name</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR INTENTION</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR IP *</pattern>
+<template><srai>what is your dns</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR DIRECTIVE</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE CLIENT *</pattern>
+<template><srai>who is your favorite client</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE VIDEO</pattern>
+<template><srai>what is your favorite movie</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE BAND *</pattern>
+<template><srai>what is your favorite band</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE COLOR DRESS</pattern>
+<template><srai>what is your favorite color</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE ACTRESS</pattern>
+<template><srai>who is your favorite actress</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE FILM *</pattern>
+<template><srai>what is your favorite movie</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE COLORS</pattern>
+<template><srai>what is your favorite color</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE DIRECTOR</pattern>
+<template><srai>who is your favorite director</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAVORITE PAINTER</pattern>
+<template><srai>who is your favorite painter</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR LIFE</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR STAR SIGN</pattern>
+<template><srai>WHAT IS YOUR SIGN</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FANTASY</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR INTELLIGENCE *</pattern>
+<template><srai>what is your iq</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR INTELLIGENCE</pattern>
+<template><srai>what is your iq</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR OFFICIAL *</pattern>
+<template><srai>what is your <star/></srai></template>
+</category>
+<category><pattern>WHAT IS YOUR FAITH</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR ACTIVITIES</pattern>
+<template><srai>What do you do</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR COUNTRY</pattern>
+<template><srai>COUNTRY</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR MOMS NAME</pattern>
+<template><srai>who is your mother</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR CONTEXT</pattern>
+<template><srai>what is the subject</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR ELECTRONIC *</pattern>
+<template><srai>what are you</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR REAL NAME *</pattern>
+<template><srai>what is your real name</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR NATURE</pattern>
+<template><srai>tell me about yourself</srai></template>
+</category>
+<category><pattern>WHAT IS GOSSIP *</pattern>
+<template><srai>what is gossip</srai></template>
+</category>
+<category><pattern>WHAT IS CLONES</pattern>
+<template><srai>what are clones</srai></template>
+</category>
+<category><pattern>WHAT IS SEARCHING *</pattern>
+<template><srai>what is searching </srai></template>
+</category>
+<category><pattern>WHAT IS SEARCHING</pattern>
+<template><srai>what is search</srai></template>
+</category>
+<category><pattern>WHAT IS IT THAT YOU *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT IS IT LIKE ACTUALLY *</pattern>
+<template><srai>what is it like <star/></srai></template>
+</category>
+<category><pattern>WHAT IS CAR</pattern>
+<template><srai>what is a car</srai></template>
+</category>
+<category><pattern>WHAT IS WRONG ARE *</pattern>
+<template><srai>what is wrong</srai>. <srai>are <star/></srai></template>
+</category>
+<category><pattern>WHAT IS ACRONYM</pattern>
+<template><srai>what is an acronym</srai></template>
+</category>
+<category><pattern>WHAT IS SETI *</pattern>
+<template><srai>what is seti</srai></template>
+</category>
+<category><pattern>WHAT IS TEETH</pattern>
+<template><srai>what are teeth</srai></template>
+</category>
+<category><pattern>WHAT IS BRAZIL</pattern>
+<template><srai>where is brazil</srai></template>
+</category>
+<category><pattern>WHAT IS WWF *</pattern>
+<template><srai>what is wwf</srai></template>
+</category>
+<category><pattern>WHAT IS DUBAI</pattern>
+<template><srai>where is dubai</srai></template>
+</category>
+<category><pattern>WHAT IS C PLUS PLUS *</pattern>
+<template><srai>what is c++</srai></template>
+</category>
+<category><pattern>WHAT IS REDUCTIONAL</pattern>
+<template><srai>what is reductionism</srai></template>
+</category>
+<category><pattern>WHAT IS EXTENTIONAL</pattern>
+<template><srai>what is extensional</srai></template>
+</category>
+<category><pattern>WHAT IS NEURAL NETWORKS</pattern>
+<template><srai>what is a neural network</srai></template>
+</category>
+<category><pattern>WHAT IS QUESTION</pattern>
+<template><srai>what is the question</srai></template>
+</category>
+<category><pattern>WHAT IS QUESTION *</pattern>
+<template><srai>what is question </srai></template>
+</category>
+<category><pattern>WHAT IS LONDON</pattern>
+<template><srai>where is london</srai></template>
+</category>
+<category><pattern>WHAT IS BIRDS</pattern>
+<template><srai>what are birds</srai></template>
+</category>
+<category><pattern>WHAT IS ELEPHANT</pattern>
+<template><srai>what is an elephant</srai></template>
+</category>
+<category><pattern>WHAT IS COMEDY</pattern>
+<template><srai>what is a joke</srai></template>
+</category>
+<category><pattern>WHAT IS EXISTENTIAL</pattern>
+<template><srai>what is existentialism</srai></template>
+</category>
+<category><pattern>WHAT IS ANSWER</pattern>
+<template><srai>what is the answer</srai></template>
+</category>
+<category><pattern>WHAT IS SCATALOGICAL *</pattern>
+<template><srai>what is scatalogical</srai></template>
+</category>
+<category><pattern>WHAT KINDS OF THINGS *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT IF I ALREADY *</pattern>
+<template><srai>what if I <star/></srai></template>
+</category>
+<category><pattern>WHAT PERSON *</pattern>
+<template><srai>who <star/></srai></template>
+</category>
+<category><pattern>WHAT ABOUT SHAKESPEARE</pattern>
+<template><srai>who is shakespeare</srai></template>
+</category>
+<category><pattern>WHAT ABOUT YOUR DRESS *</pattern>
+<template><srai>what about your dress</srai></template>
+</category>
+<category><pattern>WHAT ABOUT MEGAHAL</pattern>
+<template><srai>who is megahal</srai></template>
+</category>
+<category><pattern>WHAT ABOUT TIME TRAVEL</pattern>
+<template><srai>what is time travel</srai></template>
+</category>
+<category><pattern>WHAT ABOUT HITLER *</pattern>
+<template><srai>who is hitler</srai></template>
+</category>
+<category><pattern>WHAT ABOUT COCAINE</pattern>
+<template><srai>what is cocaine</srai></template>
+</category>
+<category><pattern>WHAT ABOUT EUKARYOTES</pattern>
+<template><srai>what is a eukaryote</srai></template>
+</category>
+<category><pattern>WHAT ABOUT BLUE</pattern>
+<template><srai>what is blue</srai></template>
+</category>
+<category><pattern>WHAT ABOUT COMPUTERS</pattern>
+<template><srai>what is a computer</srai></template>
+</category>
+<category><pattern>WHAT HUMAN *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT DAY IS CHRISTMAS *</pattern>
+<template><srai>WHAT DAY IS CHRISTMAS</srai></template>
+</category>
+<category><pattern>WHAT DAY IS XMAS *</pattern>
+<template><srai>WHAT DAY IS CHRISTMAS</srai></template>
+</category>
+<category><pattern>WHAT DAY IS</pattern>
+<template><srai>DAY</srai></template>
+</category>
+<category><pattern>WHAT DAY * IS XMAS THIS YEAR</pattern>
+<template><srai>WHAT DAY IS CHRISTMAS</srai></template>
+</category>
+<category><pattern>WHAT DOES _ MEAN TO YOU</pattern>
+<template><srai>what does <star/> mean</srai></template>
+</category>
+<category><pattern>WHAT DOES THAT MEAN *</pattern>
+<template><srai>what does that mean</srai></template>
+</category>
+<category><pattern>WHAT DOES * STAND FOR</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT DO I REALLY *</pattern>
+<template><srai>what do I <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOUR BELIEFS SAY</pattern>
+<template><srai>WHAT ARE YOUR BELIEFS</srai></template>
+</category>
+<category><pattern>WHAT DO YOU DRIVE</pattern>
+<template><srai>what is your favorite car</srai></template>
+</category>
+<category><pattern>WHAT DO YOU CONSIDER *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU NOW *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU DO FOR MONEY</pattern>
+<template><srai>what is your job</srai></template>
+</category>
+<category><pattern>WHAT DO YOU DO FOR FUN *</pattern>
+<template><srai>WHAT DO YOU DO FOR FUN</srai></template>
+</category>
+<category><pattern>WHAT DO YOU DO FOR WORK</pattern>
+<template><srai>what is your job</srai></template>
+</category>
+<category><pattern>WHAT DO YOU DO EVERY *</pattern>
+<template><srai>what do you do <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU WANT ME TO CALL YOU</pattern>
+<template><srai>what is your name</srai></template>
+</category>
+<category><pattern>WHAT DO YOU HELP *</pattern>
+<template><srai>what do you do</srai></template>
+</category>
+<category><pattern>WHAT DO YOU REGARD AS *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU FIRST *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT GREECE</pattern>
+<template><srai>what is greece</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT AUSTRALIA</pattern>
+<template><srai>what is australia</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT ENGLAND</pattern>
+<template><srai>where is england</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT QUANTUM PHYSICS</pattern>
+<template><srai>what is quantum physics</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT EUROPE</pattern>
+<template><srai>what is europe</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT TIME TRAVEL</pattern>
+<template><srai>what is time travel</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT DEPRESSION</pattern>
+<template><srai>what is depression</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT POLAND</pattern>
+<template><srai>what is poland</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT UNIX</pattern>
+<template><srai>what is unix</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT LOVE</pattern>
+<template><srai>what is love</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT CARS</pattern>
+<template><srai>what is a car</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT MUSIC</pattern>
+<template><srai>what is music</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT WINDOWS</pattern>
+<template><srai>what is windows</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT LOGIC</pattern>
+<template><srai>what is logic</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT CALCULUS</pattern>
+<template><srai>what is calculus</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT PHILOSOPHY</pattern>
+<template><srai>what is philosophy</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT APPLES</pattern>
+<template><srai>what is apple</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT HUMANS</pattern>
+<template><srai>what is a human</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT DENMARK</pattern>
+<template><srai>what is denmark</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT JAPAN</pattern>
+<template><srai>what is japan</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT GOLD</pattern>
+<template><srai>what is gold</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT RUSSIA</pattern>
+<template><srai>what is russia</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT KRAFTWERK</pattern>
+<template><srai>what is kraftwerk</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT BRAZIL</pattern>
+<template><srai>what is brazil</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT BULGARIA</pattern>
+<template><srai>what is bulgaria</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT VISUAL BASIC</pattern>
+<template><srai>what is visual basic</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT GEOGRAPHY</pattern>
+<template><srai>what is geography</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT HORSES</pattern>
+<template><srai>what is a horse</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT POLITICS</pattern>
+<template><srai>what is politics</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT GERMANY</pattern>
+<template><srai>where is germany</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT PHYSICS</pattern>
+<template><srai>what is physics</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT DEATH</pattern>
+<template><srai>what is death</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT C</pattern>
+<template><srai>what is c</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT DINOSAURS</pattern>
+<template><srai>what are dinosaurs</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT MATH</pattern>
+<template><srai>what is math</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT NORWAY</pattern>
+<template><srai>what is norway</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT SEX</pattern>
+<template><srai>what is sex</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT POKEMON</pattern>
+<template><srai>what is pokemon</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT CHINA</pattern>
+<template><srai>what is china</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT ANIMALS</pattern>
+<template><srai>what are animals</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT JAVA</pattern>
+<template><srai>what is java</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT AIML</pattern>
+<template><srai>what is aiml</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT CATS</pattern>
+<template><srai>what is a cat</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT TURKEY</pattern>
+<template><srai>what is turkey</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT INDIA</pattern>
+<template><srai>where is india</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT LINUX</pattern>
+<template><srai>what is linux</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT SWEDEN</pattern>
+<template><srai>what is sweden</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT MICROSOFT</pattern>
+<template><srai>what is microsoft</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT SCIENCE</pattern>
+<template><srai>what is science</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT FINLAND</pattern>
+<template><srai>where is finland</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT CHEMISTRY</pattern>
+<template><srai>what is chemistry</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT ELVIS</pattern>
+<template><srai>what is elvis</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT HISTORY</pattern>
+<template><srai>what is history</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT AI</pattern>
+<template><srai>what is ai</srai></template>
+</category>
+<category><pattern>WHAT DO YOU KNOW ABOUT LIFE</pattern>
+<template><srai>what is life</srai></template>
+</category>
+<category><pattern>WHAT DO YOU OFTEN DO *</pattern>
+<template><srai>WHAT DO YOU DO <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU USUALLY *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU ALL *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT VRML</pattern>
+<template><srai>what is vrml</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT AOL</pattern>
+<template><srai>what is aol</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT XML</pattern>
+<template><srai>what is xml</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT EARTH</pattern>
+<template><srai>what is earth</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT THAT</pattern>
+<template><srai>what is that</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT QUANTUM MECHANICS</pattern>
+<template><srai>what is quantum mechanics</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT BEER</pattern>
+<template><srai>what is beer</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT INTEL</pattern>
+<template><srai>what is intel</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT LOVE</pattern>
+<template><srai>what is love</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT PHILOSOPHY</pattern>
+<template><srai>what is philosophy</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT POLAND</pattern>
+<template><srai>what is poland</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT STAR WARS</pattern>
+<template><srai>what is star wars</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT STAR TREK</pattern>
+<template><srai>what is star trek</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT TENNIS</pattern>
+<template><srai>what is tennis</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT ASTROLOGY</pattern>
+<template><srai>what is astrology</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT ISLAM</pattern>
+<template><srai>what is islam</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT MUSIC</pattern>
+<template><srai>what is music</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT MP3</pattern>
+<template><srai>what is mp3</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT SLOVENIA</pattern>
+<template><srai>what is slovenia</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT R2D2</pattern>
+<template><srai>what is r2d2</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT Y2K</pattern>
+<template><srai>what is y2k</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT WINDOWS</pattern>
+<template><srai>what is windows</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT ISRAEL</pattern>
+<template><srai>what is israel</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT SOCCER</pattern>
+<template><srai>what is soccer</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT DEATH</pattern>
+<template><srai>what is death</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT JAPAN</pattern>
+<template><srai>what is japan</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT COLLEGE</pattern>
+<template><srai>what is college</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT WARS</pattern>
+<template><srai>what is war</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT CHESS</pattern>
+<template><srai>what is chess</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT DEMOCRACY</pattern>
+<template><srai>what is democracy</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT AI</pattern>
+<template><srai>what is ai</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT FREEDOM</pattern>
+<template><srai>what is freedom</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT GERMANY</pattern>
+<template><srai>what is germany</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT TIME</pattern>
+<template><srai>what is time</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT FREEBSD</pattern>
+<template><srai>what is freebsd</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT JAVA</pattern>
+<template><srai>what is java</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT IT</pattern>
+<template><srai>what is it</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT TV</pattern>
+<template><srai>what is tv</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT MACINTOSH</pattern>
+<template><srai>what is a macintosh</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT FOOTBALL</pattern>
+<template><srai>what is football</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT CHINA</pattern>
+<template><srai>what is china</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT MY NAME</pattern>
+<template><srai>what is my name</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT SWITZERLAND</pattern>
+<template><srai>what is switzerland</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT MICROSOFT</pattern>
+<template><srai>what is microsoft</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT ITALY</pattern>
+<template><srai>what is italy</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT LONDON</pattern>
+<template><srai>what is london</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT CARROTS</pattern>
+<template><srai>what are carrots</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT TELEVISION</pattern>
+<template><srai>what is television</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT GREEN</pattern>
+<template><srai>what is green</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT WEBTV</pattern>
+<template><srai>what is webtv</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT DENMARK</pattern>
+<template><srai>what is denmark</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT NATURAL LANGUAGE</pattern>
+<template><srai>what is natural language</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT SHOES</pattern>
+<template><srai>what are shoes</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT THIS</pattern>
+<template><srai>what is this</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT NEW YORK</pattern>
+<template><srai>what is new york</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT FUZZY LOGIC</pattern>
+<template><srai>what is fuzzy logic</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT STRESS</pattern>
+<template><srai>what is stress</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT LINUX</pattern>
+<template><srai>what is linux</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT IRELAND</pattern>
+<template><srai>what is ireland</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT NORWAY</pattern>
+<template><srai>what is norway</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT CONSCIOUSNESS</pattern>
+<template><srai>what is consciousness</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT ROBOCOP</pattern>
+<template><srai>what is robocop</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT FASCISM</pattern>
+<template><srai>what is fascism</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT WINTER</pattern>
+<template><srai>what is winter</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK YOUR * IS</pattern>
+<template><srai>what is your <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK HE IS</pattern>
+<template><srai>what is he</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK CONSCIOUSNESS *</pattern>
+<template><srai>what is consciousness</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ARE *</pattern>
+<template><srai>what are <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU WEAR *</pattern>
+<template><srai>what are you wearing</srai></template>
+</category>
+<category><pattern>WHAT DO YOU LIKE ABOUT ARTIFICIAL *</pattern>
+<template><srai>what is artificial <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU LIKE MOST</pattern>
+<template><srai>what is your favorite thing</srai></template>
+</category>
+<category><pattern>WHAT DO YOU LIKE WATCHING</pattern>
+<template><srai>what is your favorite show</srai></template>
+</category>
+<category><pattern>WHAT DO YOU LIKE SO MUCH *</pattern>
+<template><srai>what do you like so <star/></srai></template>
+</category>
+<category><pattern>WHAT DO YOU NORMALLY *</pattern>
+<template><srai>what do you <star/></srai></template>
+</category>
+<category><pattern>WHAT DO WE NEED ROBOTS FOR</pattern>
+<template><srai>what are you good for</srai></template>
+</category>
+<category><pattern>WHAT DO THEY USUALLY *</pattern>
+<template><srai>what do they <star/></srai></template>
+</category>
+<category><pattern>WHAT TYPE OF MUSIC</pattern>
+<template><srai>FAVORITE MUSIC</srai></template>
+</category>
+<category><pattern>WHAT TYPE OF COMPUTER</pattern>
+<template><srai>what kind of computer</srai></template>
+</category>
+<category><pattern>WHAT THINGS *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT FORMAL *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT ON EARTH *</pattern>
+<template><srai>WHAT <star/></srai></template>
+</category>
+<category><pattern>WHAT GOAL</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>WHAT LANGUAGES</pattern>
+<template><srai>what languages do you speak</srai></template>
+</category>
+<category><pattern>WHAT CAN YOU TELL ME ABOUT S T D S</pattern>
+<template><srai>what is std</srai></template>
+</category>
+<category><pattern>WHAT HAVE YOU LEARNT *</pattern>
+<template><srai>what have you learned</srai></template>
+</category>
+<category><pattern>WHAT HAVE YOU LEARNT</pattern>
+<template><srai>what have you learned</srai></template>
+</category>
+<category><pattern>WHAT THERE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>WHAT WAS THE HOLOCAUST</pattern>
+<template><srai>what is the holocaust</srai></template>
+</category>
+<category><pattern>WHAT WAS THE SUBJECT *</pattern>
+<template><srai>what is the subject</srai></template>
+</category>
+<category><pattern>WHAT WAS THE LAST GOOD *</pattern>
+<template><srai>what was the last <star/></srai></template>
+</category>
+<category><pattern>WHAT WAS THE LAST SUBJECT *</pattern>
+<template><srai>what is the subject</srai></template>
+</category>
+<category><pattern>WHAT LIVING *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHAT YOU SAID</pattern>
+<template><srai>what did you say</srai></template>
+</category>
+<category><pattern>WHAT KIND OF * DOES AMERICA HAVE</pattern>
+<template><srai>WHAT <star/> DOES AMERICA HAVE</srai></template>
+</category>
+<category><pattern>WHAT KIND OF QUESTIONS *</pattern>
+<template><srai>what questions <star/></srai></template>
+</category>
+<category><pattern>WHAT KIND OF LOGICAL *</pattern>
+<template><srai>what kind of <star/></srai></template>
+</category>
+<category><pattern>WHAT KIND OF GOVERNMENT DOES * HAVE</pattern>
+<template><srai>WHAT GOVERNMENT DOES <star/> HAVE</srai></template>
+</category>
+<category><pattern>WHAT KIND OF CPU *</pattern>
+<template><srai>what is your cpu</srai></template>
+</category>
+<category><pattern>WHAT OCCURRED</pattern>
+<template><srai>what happened</srai></template>
+</category>
+<category><pattern>WHAT NEW *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>ANTIDISESTABLISHMENTARIANISM</pattern>
+<template><srai>what is antidisestablishmentarianism</srai></template>
+</category>
+<category><pattern>ALGORITHMS</pattern>
+<template><srai>what are algorithms</srai></template>
+</category>
+<category><pattern>EVERYTIME I SEE ONE OF YOU *</pattern>
+<template><srai>When <star/></srai></template>
+</category>
+<category><pattern>ASTROLOGY</pattern>
+<template><srai>what is your sign</srai></template>
+</category>
+<category><pattern>I PREFER TELEVISION</pattern>
+<template><srai>tv</srai></template>
+</category>
+<category><pattern>I WANT ADVICE ABOUT *</pattern>
+<template><srai>tell me about <star/></srai></template>
+</category>
+<category><pattern>I WANT TO FIND OUT ABOUT *</pattern>
+<template><srai>tell me about <star/></srai></template>
+</category>
+<category><pattern>I WANT TO TALK ABOUT *</pattern>
+<template><srai>talk about <star/></srai></template>
+</category>
+<category><pattern>I WANT TO SEE IF IT WILL *</pattern>
+<template><srai>will it <star/></srai></template>
+</category>
+<category><pattern>I TOLD YOU THERE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>I TOLD YOU THE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>I UNDERSTAND THEY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>I BELIEVE THERE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>I FIND THAT *</pattern>
+<template><srai>that is <star/></srai></template>
+</category>
+<category><pattern>I DO NOT FIND THAT *</pattern>
+<template><srai>that is not <star/></srai></template>
+</category>
+<category><pattern>I DO NOT KNOW WHAT IS *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>I WONDERED WHAT *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>I CAN SEE THIS *</pattern>
+<template><srai>this <star/></srai></template>
+</category>
+<category><pattern>I SEE THEY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>I WOULD UNLESS *</pattern>
+<template><srai>unless <star/></srai></template>
+</category>
+<category><pattern>I WISH YOU WOULD *</pattern>
+<template><srai>WOULD YOU <star/></srai></template>
+</category>
+<category><pattern>I AM SEARCHING *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>I AM WE *</pattern>
+<template><srai>WE <star/></srai></template>
+</category>
+<category><pattern>I THOUGHT THOSE *</pattern>
+<template><srai>those <star/></srai></template>
+</category>
+<category><pattern>I WONDER WOULD *</pattern>
+<template><srai>would <star/></srai></template>
+</category>
+<category><pattern>I PROMISE THERE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>I ASKED YOU WHAT *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>DESCRIBE WHERE *</pattern>
+<template><srai>where <star/></srai></template>
+</category>
+<category><pattern>WE WERE JUST *</pattern>
+<template><srai>we were <star/></srai></template>
+</category>
+<category><pattern>WE WERE ACTUALLY *</pattern>
+<template><srai>we were <star/></srai></template>
+</category>
+<category><pattern>WE WERE ALL *</pattern>
+<template><srai>we were <star/></srai></template>
+</category>
+<category><pattern>WE RECENTLY *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>WE HAVE UNLIMITED *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE HAVE LOST *</pattern>
+<template><srai>we lost <star/></srai></template>
+</category>
+<category><pattern>WE HAVE ONLY *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE HAVE BEEN *</pattern>
+<template><srai>we were <star/></srai></template>
+</category>
+<category><pattern>WE HAVE GOT *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE HAVE HAD *</pattern>
+<template><srai>we had <star/></srai></template>
+</category>
+<category><pattern>WE HAVE FULL *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE HAVE ALSO *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE HAVE TALKED *</pattern>
+<template><srai>we talked <star/></srai></template>
+</category>
+<category><pattern>WE AMERICANS *</pattern>
+<template><srai>we <star/></srai>. <srai>I am american</srai></template>
+</category>
+<category><pattern>WE ONLY *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>WE ARE STILL *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE GETTING *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE REALLY *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE BOTH *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE HAVING *</pattern>
+<template><srai>we have <star/></srai></template>
+</category>
+<category><pattern>WE ARE VERY *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE SOO *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE JUST *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE BUT *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE SO *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE SIMPLY *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE ALL *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ARE BEST *</pattern>
+<template><srai>we are <star/></srai></template>
+</category>
+<category><pattern>WE ALSO *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>WE ALWAYS *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>WE CHOOSE * WE CHOOSE *</pattern>
+<template><srai>We choose <star/><star index="2"/></srai></template>
+</category>
+<category><pattern>WE WILL SOON *</pattern>
+<template><srai>we will <star/></srai></template>
+</category>
+<category><pattern>WE BOTH *</pattern>
+<template><srai>we <star/></srai></template>
+</category>
+<category><pattern>FILL ME IN ON *</pattern>
+<template><srai>tell me about <star/></srai></template>
+</category>
+<category><pattern>IS THAT WHO *</pattern>
+<template><srai>who <star/></srai></template>
+</category>
+<category><pattern>EVEN THE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>WLL</pattern>
+<template><srai>well</srai></template>
+</category>
+<category><pattern>CHARACTERS</pattern>
+<template><srai>what are characters</srai></template>
+</category>
+<category><pattern>WILL _ FOR CHRISTMAS</pattern>
+<template><srai>WILL <star/></srai></template>
+</category>
+<category><pattern>WILL NOT *</pattern>
+<template><srai>will <star/></srai></template>
+</category>
+<category><pattern>WILL I DEFINITELY *</pattern>
+<template><srai>will I <star/></srai></template>
+</category>
+<category><pattern>TNX</pattern>
+<template><srai>thanks</srai></template>
+</category>
+<category><pattern>CAN YOU FIND THE DERIVATIVE *</pattern>
+<template><srai>what is the derivative</srai></template>
+</category>
+<category><pattern>CAN YOU WRITE A *</pattern>
+<template><srai>write a <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL WHAT *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME THEIR *</pattern>
+<template><srai>tell me their <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME MORE *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME MY *</pattern>
+<template><srai>what is my <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME WHICH *</pattern>
+<template><srai>which <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME SOME MORE *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME SOME OF THAT *</pattern>
+<template><srai>tell me that <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME SOME OF *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL ME ANY *</pattern>
+<template><srai>tell me a <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL DR *</pattern>
+<template><srai>tell dr <star/></srai></template>
+</category>
+<category><pattern>CAN YOU TELL THE *</pattern>
+<template><srai>tell the <star/></srai></template>
+</category>
+<category><pattern>CAN I HAVE YOUR PHONENUMBER</pattern>
+<template><srai>what is your phone number</srai></template>
+</category>
+<category><pattern>FUN</pattern>
+<template><srai>this is fun</srai></template>
+</category>
+<category><pattern>HOW MANY ROBOTS DO YOU KNOW</pattern>
+<template><srai>who are your robot friends</srai></template>
+</category>
+<category><pattern>HOW RECENTLY</pattern>
+<template><srai>when</srai></template>
+</category>
+<category><pattern>HOW IS HITLER</pattern>
+<template><srai>who is hitler</srai></template>
+</category>
+<category><pattern>HOW HOT IS IT *</pattern>
+<template><srai>what is the temperature</srai></template>
+</category>
+<category><pattern>HOW DOES CBR *</pattern>
+<template><srai>what is cbr</srai></template>
+</category>
+<category><pattern>HOW ABOUT EMOTIONS</pattern>
+<template><srai>what are emotions</srai></template>
+</category>
+<category><pattern>HOW ABOUT MOZART</pattern>
+<template><srai>who is mozart</srai></template>
+</category>
+<category><pattern>HOW GOOD IS *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>HOW DO YOU EARN *</pattern>
+<template><srai>what is your job</srai></template>
+</category>
+<category><pattern>HOW FAST IS THE SPEED *</pattern>
+<template><srai>what is the speed <star/></srai></template>
+</category>
+<category><pattern>HOW FAST IS LIGHT</pattern>
+<template><srai>what is the speed of light</srai></template>
+</category>
+<category><pattern>HOW LONG DO I * LIVE</pattern>
+<template><srai>when will I die</srai></template>
+</category>
+<category><pattern>OM</pattern>
+<template><srai>what is om</srai></template>
+</category>
+<category><pattern>12</pattern>
+<template><srai>twelve</srai></template>
+</category>
+<category><pattern>THEY _ TOO</pattern>
+<template><srai>THEY <star/></srai></template>
+</category>
+<category><pattern>THEY _ WHILE THEY *</pattern>
+<template><srai>They <star/></srai>. <srai>They <star index="2"/></srai></template>
+</category>
+<category><pattern>THEY WERE VERY *</pattern>
+<template><srai>they were <star/></srai></template>
+</category>
+<category><pattern>THEY WERE MOSTLY *</pattern>
+<template><srai>they were <star/></srai></template>
+</category>
+<category><pattern>THEY WERE ALL *</pattern>
+<template><srai>they were <star/></srai></template>
+</category>
+<category><pattern>THEY DO NOT FEEL THE PRESSURE TO BE *</pattern>
+<template><srai>They do not have to be <star/></srai></template>
+</category>
+<category><pattern>THEY DO NOT BE *</pattern>
+<template><srai>they are not <star/></srai></template>
+</category>
+<category><pattern>THEY DO NOT HAVE TO *</pattern>
+<template><srai>They do not <star/></srai></template>
+</category>
+<category><pattern>THEY DO NOT SEEM TO *</pattern>
+<template><srai>they do not <star/></srai></template>
+</category>
+<category><pattern>THEY COULD BE *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>THEY ONLY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY CERTAINLY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY MIGHT BE *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>THEY JUST *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY ACTUALLY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY USUALLY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY ALL VERY *</pattern>
+<template><srai>they all <star/></srai></template>
+</category>
+<category><pattern>THEY ALWAYS *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY PROBABLY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>THEY ARE TOO *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>THEY ARE SO *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>THEY ARE ALL *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>THEY ARE NOT VERY *</pattern>
+<template><srai>they are not <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW GOOGLE</pattern>
+<template><srai>what is google</srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHERE ROBOTS *</pattern>
+<template><srai>where do robots <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHERE * IS LOCATED</pattern>
+<template><srai>where is <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW COLORS</pattern>
+<template><srai>what is color</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ALICIA</pattern>
+<template><srai>who is Alicia</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MANAGEMENT BY EXCEPTION</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>DO YOU KNOW FREEBSD</pattern>
+<template><srai>what is freebsd</srai></template>
+</category>
+<category><pattern>DO YOU KNOW PRIVACY</pattern>
+<template><srai>what is privacy</srai></template>
+</category>
+<category><pattern>DO YOU KNOW AJAX</pattern>
+<template><srai>who is ajax</srai></template>
+</category>
+<category><pattern>DO YOU KNOW BEYONCE *</pattern>
+<template><srai>who is beyonce <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHEN</pattern>
+<template><srai>when</srai></template>
+</category>
+<category><pattern>DO YOU KNOW SINGAPORE</pattern>
+<template><srai>what is singapore</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ABOUT KOREA</pattern>
+<template><srai>where is korea</srai></template>
+</category>
+<category><pattern>DO YOU KNOW DRAGON *</pattern>
+<template><srai>what is dragon <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW AUBURN</pattern>
+<template><srai>where is auburn</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ULTRA *</pattern>
+<template><srai>who is ultra <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW ANANOVA</pattern>
+<template><srai>what is ananova</srai></template>
+</category>
+<category><pattern>DO YOU KNOW RAM</pattern>
+<template><srai>what is ram</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MGONZ</pattern>
+<template><srai>who is mgonz</srai></template>
+</category>
+<category><pattern>DO YOU KNOW KISMET *</pattern>
+<template><srai>who is kismet</srai></template>
+</category>
+<category><pattern>DO YOU KNOW KISMET</pattern>
+<template><srai>who is kismet</srai></template>
+</category>
+<category><pattern>DO YOU KNOW RODNEY *</pattern>
+<template><srai>who is rodney <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW POEMS</pattern>
+<template><srai>tell me a poem</srai></template>
+</category>
+<category><pattern>DO YOU KNOW JOHNNY *</pattern>
+<template><srai>who is johnny <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW MISTER *</pattern>
+<template><srai>who is mister <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW HOW BABIES *</pattern>
+<template><srai>where do babies come from</srai></template>
+</category>
+<category><pattern>DO YOU KNOW JACOB</pattern>
+<template><srai>who is jacob</srai></template>
+</category>
+<category><pattern>DO YOU KNOW RAP</pattern>
+<template><srai>what is rap</srai></template>
+</category>
+<category><pattern>DO YOU KNOW LEKNORCHAT1</pattern>
+<template><srai>who is leknorchat</srai></template>
+</category>
+<category><pattern>DO YOU KNOW HERBERT *</pattern>
+<template><srai>who is herbert <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW DOCTOR *</pattern>
+<template><srai>who is doctor <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW SPONGEBOB</pattern>
+<template><srai>who is spongebob</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MOVIES</pattern>
+<template><srai>what are movies</srai></template>
+</category>
+<category><pattern>DO YOU KNOW C PLUS PLUS</pattern>
+<template><srai>what is c++</srai></template>
+</category>
+<category><pattern>DO YOU KNOW COUNTRY *</pattern>
+<template><srai>what is country <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW WILLEM *</pattern>
+<template><srai>who is willem <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW HOLLAND</pattern>
+<template><srai>where is holland</srai></template>
+</category>
+<category><pattern>DO YOU KNOW HOLLAND *</pattern>
+<template><srai>what is holland</srai></template>
+</category>
+<category><pattern>DO YOU KNOW EMACS</pattern>
+<template><srai>what is emacs</srai></template>
+</category>
+<category><pattern>DO YOU KNOW PELE</pattern>
+<template><srai>who is pele</srai></template>
+</category>
+<category><pattern>DO YOU KNOW * BIN LADEN</pattern>
+<template><srai>who is bin laden</srai></template>
+</category>
+<category><pattern>DO YOU KNOW * UNIVERSITY</pattern>
+<template><srai>what is <star/> university</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MARIJUANA</pattern>
+<template><srai>what is marijuana</srai></template>
+</category>
+<category><pattern>DO YOU KNOW BINARY *</pattern>
+<template><srai>what is binary <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW STOCKS</pattern>
+<template><srai>what are stocks</srai></template>
+</category>
+<category><pattern>DO YOU KNOW SANTA *</pattern>
+<template><srai>who is sante <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW SEOUL</pattern>
+<template><srai>where is seoul</srai></template>
+</category>
+<category><pattern>DO YOU KNOW KUNG *</pattern>
+<template><srai>what is kung <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW BLUETOOTH</pattern>
+<template><srai>what is bluetooth</srai></template>
+</category>
+<category><pattern>DO YOU KNOW QUANTUM *</pattern>
+<template><srai>what is quantum <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW DR</pattern>
+<template><srai>who is dr wallace</srai></template>
+</category>
+<category><pattern>DO YOU KNOW DECISION *</pattern>
+<template><srai>what is decision <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW AMSTERDAM</pattern>
+<template><srai>where is amsterdam</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ABBA *</pattern>
+<template><srai>who is abba</srai></template>
+</category>
+<category><pattern>DO YOU KNOW LEWIS *</pattern>
+<template><srai>who is lewis <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW PEACE</pattern>
+<template><srai>what is peace</srai></template>
+</category>
+<category><pattern>DO YOU KNOW POETS</pattern>
+<template><srai>who is your favorite poet</srai></template>
+</category>
+<category><pattern>DO YOU KNOW EBAY</pattern>
+<template><srai>what is ebay</srai></template>
+</category>
+<category><pattern>DO YOU KNOW STORIES</pattern>
+<template><srai>tell me a story</srai></template>
+</category>
+<category><pattern>DO YOU KNOW LIMP *</pattern>
+<template><srai>who is limp <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW EMMYLOU *</pattern>
+<template><srai>who is emmylou <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW PEPPER</pattern>
+<template><srai>what is pepper</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ARGENTINA</pattern>
+<template><srai>what is argentina</srai></template>
+</category>
+<category><pattern>DO YOU KNOW KONRAD *</pattern>
+<template><srai>who is konrad <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW RANDI *</pattern>
+<template><srai>who is randi <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW BEIJING</pattern>
+<template><srai>where is beijing</srai></template>
+</category>
+<category><pattern>DO YOU KNOW GEORGE</pattern>
+<template><srai>who is george</srai></template>
+</category>
+<category><pattern>DO YOU KNOW EMOTIONS</pattern>
+<template><srai>what are emotions</srai></template>
+</category>
+<category><pattern>DO YOU KNOW SWEDEN</pattern>
+<template><srai>where is sweden</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MALCOLM *</pattern>
+<template><srai>who is malcolm <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW VB</pattern>
+<template><srai>what is vb</srai></template>
+</category>
+<category><pattern>DO YOU KNOW PRESIDENT *</pattern>
+<template><srai>who is president <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW CISCO *</pattern>
+<template><srai>what is cisco</srai></template>
+</category>
+<category><pattern>DO YOU KNOW THE PLANETS *</pattern>
+<template><srai>what are the planets</srai></template>
+</category>
+<category><pattern>DO YOU KNOW THE PLANETS</pattern>
+<template><srai>what are the planets</srai></template>
+</category>
+<category><pattern>DO YOU KNOW DNS</pattern>
+<template><srai>what is dns</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MAO *</pattern>
+<template><srai>who is mao <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW DANTE</pattern>
+<template><srai>who is dante</srai></template>
+</category>
+<category><pattern>DO YOU KNOW LITERATURE</pattern>
+<template><srai>what is literature</srai></template>
+</category>
+<category><pattern>DO YOU KNOW PITTSBURGH</pattern>
+<template><srai>where is pittsburgh</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ASTRONOMY</pattern>
+<template><srai>what is astronomy</srai></template>
+</category>
+<category><pattern>DO YOU KNOW TERRY *</pattern>
+<template><srai>who is terry <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW GODEL</pattern>
+<template><srai>who is godel</srai></template>
+</category>
+<category><pattern>DO YOU KNOW TOLKIEN</pattern>
+<template><srai>who is tolkien</srai></template>
+</category>
+<category><pattern>DO YOU KNOW LEKNORCHAT3</pattern>
+<template><srai>who is leknorchat</srai></template>
+</category>
+<category><pattern>DO YOU KNOW CATEGORIES</pattern>
+<template><srai>what are categories</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ZEUS</pattern>
+<template><srai>who is zeus</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY NICKNAME</pattern>
+<template><srai>what is my nickname</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY LOCATION *</pattern>
+<template><srai>where am i</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY PASSWORD</pattern>
+<template><srai>what is my password</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY MIDDLE NAME</pattern>
+<template><srai>what is my middle name</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY PHONE NUMBER</pattern>
+<template><srai>what is my phone number</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY IP</pattern>
+<template><srai>what is my ip</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY FULL NAME</pattern>
+<template><srai>what is my full name</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY GENDER</pattern>
+<template><srai>what is my gender</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY BIRTHDAY</pattern>
+<template><srai>what is my birthday</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY LAST NAME</pattern>
+<template><srai>what is my last name</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MY COMPUTER</pattern>
+<template><srai>what is my ip</srai></template>
+</category>
+<category><pattern>DO YOU KNOW NIETZSCHE</pattern>
+<template><srai>who is nietzsche</srai></template>
+</category>
+<category><pattern>DO YOU KNOW PHILOSOPHY</pattern>
+<template><srai>what is philosophy</srai></template>
+</category>
+<category><pattern>DO YOU KNOW RENE *</pattern>
+<template><srai>who is rene <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW SARA</pattern>
+<template><srai>who is sara</srai></template>
+</category>
+<category><pattern>DO YOU KNOW RELATIVITY</pattern>
+<template><srai>what is relativity</srai></template>
+</category>
+<category><pattern>DO YOU KNOW DIGIMON</pattern>
+<template><srai>what is digimon</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ASIMO</pattern>
+<template><srai>who is asimo</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR NAME</pattern>
+<template><srai>what is your name</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR MOTHER</pattern>
+<template><srai>who is your mother</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR CREATORS *</pattern>
+<template><srai>who created you</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR LIMITS</pattern>
+<template><srai>what are your limitations</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR FATHER</pattern>
+<template><srai>who is your father</srai></template>
+</category>
+<category><pattern>DO YOU KNOW YOUR CREATOR *</pattern>
+<template><srai>who created you</srai></template>
+</category>
+<category><pattern>DO YOU KNOW GIGI *</pattern>
+<template><srai>who is gigi <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW SNOOPY</pattern>
+<template><srai>who is snoopy</srai></template>
+</category>
+<category><pattern>DO YOU KNOW TSUKUBA</pattern>
+<template><srai>what is tsukuba</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MORRISSEY</pattern>
+<template><srai>who is morrissey</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ECSTASY</pattern>
+<template><srai>what is ecstasy</srai></template>
+</category>
+<category><pattern>DO YOU KNOW WORLD TRADE CENTER</pattern>
+<template><srai>what is the world trade center</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ALICE *</pattern>
+<template><srai>WHO IS ALICE</srai></template>
+</category>
+<category><pattern>DO YOU KNOW TCP *</pattern>
+<template><srai>what is tcp <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW FERMAT</pattern>
+<template><srai>who is fermat</srai></template>
+</category>
+<category><pattern>DO YOU KNOW NBA</pattern>
+<template><srai>what is nba</srai></template>
+</category>
+<category><pattern>DO YOU KNOW MICHAEL</pattern>
+<template><srai>who is michael</srai></template>
+</category>
+<category><pattern>DO YOU KNOW CASEY</pattern>
+<template><srai>who is casey</srai></template>
+</category>
+<category><pattern>DO YOU KNOW BEATLES</pattern>
+<template><srai>who are the beatles</srai></template>
+</category>
+<category><pattern>DO YOU KNOW NICK</pattern>
+<template><srai>who is nick</srai></template>
+</category>
+<category><pattern>DO YOU KNOW NAPSTER</pattern>
+<template><srai>what is napster</srai></template>
+</category>
+<category><pattern>DO YOU KNOW ABUZZ</pattern>
+<template><srai>what is abuzz</srai></template>
+</category>
+<category><pattern>DO YOU KNOW KENNY *</pattern>
+<template><srai>who is kenny <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW BEN *</pattern>
+<template><srai>who is ben <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW FRENCH *</pattern>
+<template><srai>what is french <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW CRANBERRIES</pattern>
+<template><srai>what are cranberries</srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHAT I AM TALKING ABOUT</pattern>
+<template><srai>what is the topic</srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHAT I AM *</pattern>
+<template><srai>what am I <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW WHAT I WANT *</pattern>
+<template><srai>WHAT DO I WANT <star/></srai></template>
+</category>
+<category><pattern>DO YOU KNOW FAITH</pattern>
+<template><srai>what is faith</srai></template>
+</category>
+<category><pattern>DO YOU RECALL MY AGE</pattern>
+<template><srai>what is my age</srai></template>
+</category>
+<category><pattern>DO YOU THINK ABOUT GOLD</pattern>
+<template><srai>what is gold</srai></template>
+</category>
+<category><pattern>DO YOU THINK ABOUT POLITICS</pattern>
+<template><srai>what is your politics</srai></template>
+</category>
+<category><pattern>DO YOU THINK ADVERTISING *</pattern>
+<template><srai>what is advertising</srai></template>
+</category>
+<category><pattern>DO YOU REMEMBER WHAT WE WERE *</pattern>
+<template><srai>what were we <star/></srai></template>
+</category>
+<category><pattern>DO YOU REMEMBER DYLAN</pattern>
+<template><srai>who is dylan</srai></template>
+</category>
+<category><pattern>DO YOU REMEMBER WHERE * IS</pattern>
+<template><srai>where is <star/></srai></template>
+</category>
+<category><pattern>DO YOU TELL TIME</pattern>
+<template><srai>TIME</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A DIRECTIVE</pattern>
+<template><srai>what is your purpose</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A PROGRAMMER</pattern>
+<template><srai>who is your programmer</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A GOAL</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A COLOR</pattern>
+<template><srai>what color are you</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A RELIGION *</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A FAVORITE</pattern>
+<template><srai>what is your favorite</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A PLAN *</pattern>
+<template><srai>what is your plan</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A POLITICAL *</pattern>
+<template><srai>what is your political <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE A * SIGN</pattern>
+<template><srai>what is your sign</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A * IQ</pattern>
+<template><srai>what is your iq</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A * YOU LIKE</pattern>
+<template><srai>what is your favorite <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE A MASTER</pattern>
+<template><srai>who is your botmaster</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A JOKE *</pattern>
+<template><srai>tell me a joke</srai></template>
+</category>
+<category><pattern>DO YOU HAVE AMBITIONS</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>DO YOU HAVE HOPES *</pattern>
+<template><srai>what are your goals</srai></template>
+</category>
+<category><pattern>DO YOU HAVE ANYONE WHO *</pattern>
+<template><srai>who <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE FUNCTIONS</pattern>
+<template><srai>what are your functions</srai></template>
+</category>
+<category><pattern>DO YOU HAVE JOKES</pattern>
+<template><srai>tell me a joke</srai></template>
+</category>
+<category><pattern>DO YOU HAVE GOALS *</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>DO YOU HAVE LIMITS</pattern>
+<template><srai>what are your limitations</srai></template>
+</category>
+<category><pattern>DO YOU HAVE THEOLOGICAL *</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>DO YOU HAVE INFORMATION ABOUT *</pattern>
+<template><srai>tell me about <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE STORIES</pattern>
+<template><srai>tell me a story</srai></template>
+</category>
+<category><pattern>DO YOU HAVE AN ANSWER *</pattern>
+<template><srai>what is the answer <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE AN OPINION ON *</pattern>
+<template><srai>what do you think about <star/></srai></template>
+</category>
+<category><pattern>DO YOU HAVE AN IQ *</pattern>
+<template><srai>what is your iq</srai></template>
+</category>
+<category><pattern>DO YOU LIKE MANAGEMENT BY EXCEPTION</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>DO YOU LIKE TO EAT *</pattern>
+<template><srai>what do you eat</srai></template>
+</category>
+<category><pattern>DO YOU LIKE CHEETOS</pattern>
+<template><srai>what do you eat</srai></template>
+</category>
+<category><pattern>DO YOU LIKE ACTORS</pattern>
+<template><srai>who is your favorite actor</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND WHAT * IS</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND WHAT * MEANS</pattern>
+<template><srai>what does <star/> mean</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND MASS</pattern>
+<template><srai>what is mass</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND THE *</pattern>
+<template><srai>what is the <star/></srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND PARADOXES</pattern>
+<template><srai>what is a paradox</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND HATE</pattern>
+<template><srai>what is hate</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND BOREDOM</pattern>
+<template><srai>what is boredom</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND CONSCIOUSNESS</pattern>
+<template><srai>what is consciousness</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND LOVE</pattern>
+<template><srai>what is love</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND FOOTBALL</pattern>
+<template><srai>what is football</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND LIFE</pattern>
+<template><srai>what is life</srai></template>
+</category>
+<category><pattern>WRONG IT *</pattern>
+<template><srai>wrong</srai><srai>it <star/></srai></template>
+</category>
+<category><pattern>FALSE</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>DRESS</pattern>
+<template><srai>tell me about your dress</srai></template>
+</category>
+<category><pattern>EXPLAIN WHAT YOU MEAN BY *</pattern>
+<template><srai>what does <star/> mean </srai></template>
+</category>
+<category><pattern>FOR WHAT IS *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHOIS</pattern>
+<template><srai>who is</srai></template>
+</category>
+<category><pattern>AM I IN *</pattern>
+<template><srai>where am i</srai></template>
+</category>
+<category><pattern>AM I GONNA *</pattern>
+<template><srai>will I <star/></srai></template>
+</category>
+<category><pattern>TRUST ME ON *</pattern>
+<template><srai>trust me</srai></template>
+</category>
+<category><pattern>WORK</pattern>
+<template><srai>talk about work</srai></template>
+</category>
+<category><pattern>AN ADDICTION</pattern>
+<template><srai>what is an addiction</srai></template>
+</category>
+<category><pattern>SEE THAT DOES *</pattern>
+<template><srai>THAT DOES <star/></srai></template>
+</category>
+<category><pattern>DNS</pattern>
+<template><srai>what is dns</srai></template>
+</category>
+<category><pattern>PRIORI</pattern>
+<template><srai>what is a priori</srai></template>
+</category>
+<category><pattern>WHY ARE PLANTS * GREEN</pattern>
+<template><srai>why are plants green</srai></template>
+</category>
+<category><pattern>WHY ARE YOU BEING MEAN</pattern>
+<template><srai>why are you <star/></srai></template>
+</category>
+<category><pattern>WHY ARE YOU HIGHLY *</pattern>
+<template><srai>why are you <star/></srai></template>
+</category>
+<category><pattern>WHY ARE YOU STILL *</pattern>
+<template><srai>why are you <star/></srai></template>
+</category>
+<category><pattern>WHY ARE YOU EASILY *</pattern>
+<template><srai>why are you <star/></srai></template>
+</category>
+<category><pattern>WHY ARE YOU REALLY *</pattern>
+<template><srai>why are you <star/></srai></template>
+</category>
+<category><pattern>WHY ARE YOU SURPRISED *</pattern>
+<template><srai>why are you surprised</srai></template>
+</category>
+<category><pattern>WHY ARE WE ALL *</pattern>
+<template><srai>why are we <star/></srai></template>
+</category>
+<category><pattern>WHY DO I ALWAYS *</pattern>
+<template><srai>why do I <star/></srai></template>
+</category>
+<category><pattern>WHY DO YOU CONSTANTLY *</pattern>
+<template><srai>why do you <star/></srai></template>
+</category>
+<category><pattern>WHY DO YOU CARE *</pattern>
+<template><srai>why do you care</srai></template>
+</category>
+<category><pattern>WHY DO YOU THINK LINUX *</pattern>
+<template><srai>what is linux</srai></template>
+</category>
+<category><pattern>WHY DO YOU OBVIOUSLY *</pattern>
+<template><srai>why do you <star/></srai></template>
+</category>
+<category><pattern>WHY DO YOU REFER TO ME *</pattern>
+<template><srai>why do you call me <star/></srai></template>
+</category>
+<category><pattern>WHY DO YOU LIKE RED</pattern>
+<template><srai>what is red</srai></template>
+</category>
+<category><pattern>WHY NOT REAL *</pattern>
+<template><srai>why not <star/></srai></template>
+</category>
+<category><pattern>WHY THE HECK *</pattern>
+<template><srai>why <star/></srai></template>
+</category>
+<category><pattern>WHY SHOULD I FUCKING *</pattern>
+<template><srai>why should I <star/></srai></template>
+</category>
+<category><pattern>WHY WOULD NOT *</pattern>
+<template><srai>why would <star/></srai></template>
+</category>
+<category><pattern>WHY IS THIS</pattern>
+<template><srai>why</srai></template>
+</category>
+<category><pattern>WHY IS ONLY *</pattern>
+<template><srai>why is <star/></srai></template>
+</category>
+<category><pattern>WHY IS IT DANGEROUS *</pattern>
+<template><srai>why is it dangerous</srai></template>
+</category>
+<category><pattern>WHY DID YOU JUST *</pattern>
+<template><srai>why did you <star/></srai></template>
+</category>
+<category><pattern>WHY DID YOU SAY SHE WAS *</pattern>
+<template><srai>why was she <star/></srai></template>
+</category>
+<category><pattern>THIS MAKES THEM *</pattern>
+<template><srai>They are <star/></srai></template>
+</category>
+<category><pattern>THIS IS WHAT I CALL *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>THIS IS QUITE *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>THIS IS ONLY *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>THIS IS JUST *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>THIS IS ACTUALLY *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>THIS IS A PERFECT EXAMPLE OF A *</pattern>
+<template><srai>This is a <star/></srai></template>
+</category>
+<category><pattern>THIS IS A * WHICH IS *</pattern>
+<template><srai>This <star/> is <star index="2"/></srai></template>
+</category>
+<category><pattern>THIS IS MERELY *</pattern>
+<template><srai>this is <star/></srai></template>
+</category>
+<category><pattern>WAZUP</pattern>
+<template><srai>what is up</srai></template>
+</category>
+<category><pattern>A MONOPOLY</pattern>
+<template><srai>what is a monopoly</srai></template>
+</category>
+<category><pattern>A ROBOT IS WHAT</pattern>
+<template><srai>what is a robot</srai></template>
+</category>
+<category><pattern>INCORRECT</pattern>
+<template><srai>wrong</srai></template>
+</category>
+<category><pattern>NAME THE PLANETS</pattern>
+<template><srai>what are the planets</srai></template>
+</category>
+<category><pattern>NAME ALL THE REINDEERS</pattern>
+<template><srai>WHO ARE YOUR REINDEER</srai></template>
+</category>
+<category><pattern>YOUR HOBBIES</pattern>
+<template><srai>what are your hobbies</srai></template>
+</category>
+<category><pattern>YOUR INSTRUCTOR</pattern>
+<template><srai>who is your instructor</srai></template>
+</category>
+<category><pattern>YOUR WEBSITE</pattern>
+<template><srai>what is your website</srai></template>
+</category>
+<category><pattern>APPLE</pattern>
+<template><srai>what is apple</srai></template>
+</category>
+<category><pattern>PHILLIP K WHO</pattern>
+<template><srai>who is Philip K. Dick</srai></template>
+</category>
+<category><pattern>NOT YOU THE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>ABBA</pattern>
+<template><srai>what is abba</srai></template>
+</category>
+<category><pattern>WERE YOU _ TOO</pattern>
+<template><srai>WERE YOU <star/></srai></template>
+</category>
+<category><pattern>WERE YOU ARE FROM</pattern>
+<template><srai>where are you from</srai></template>
+</category>
+<category><pattern>WERE NOT *</pattern>
+<template><srai>were <star/></srai></template>
+</category>
+<category><pattern>GAME</pattern>
+<template><srai>what game</srai></template>
+</category>
+<category><pattern>TALK TO ME ABOUT PHILOSOPHY</pattern>
+<template><srai>what is philosophy</srai></template>
+</category>
+<category><pattern>ORIENTATION</pattern>
+<template><srai>what is your orientation</srai></template>
+</category>
+<category><pattern>FROM WHERE YOU ARE</pattern>
+<template><srai>where are you located</srai></template>
+</category>
+<category><pattern>ARE YOU MOSLEM</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>ARE YOU AT *</pattern>
+<template><srai>where are you</srai></template>
+</category>
+<category><pattern>ARE YOU RUNNING LINUX</pattern>
+<template><srai>what os do you run on</srai></template>
+</category>
+<category><pattern>ARE YOU ITALIAN</pattern>
+<template><srai>what is your nationality</srai></template>
+</category>
+<category><pattern>ARE YOU FOREIGN</pattern>
+<template><srai>what is your nationality</srai></template>
+</category>
+<category><pattern>ARE YOU A SCORPIO *</pattern>
+<template><srai>what sign are you</srai></template>
+</category>
+<category><pattern>ARE YOU A SOCIALIST</pattern>
+<template><srai>what are your politics</srai></template>
+</category>
+<category><pattern>ARE YOU A GOLD *</pattern>
+<template><srai>what color are you</srai></template>
+</category>
+<category><pattern>ARE YOU ANYWHERE *</pattern>
+<template><srai>where are you</srai></template>
+</category>
+<category><pattern>ARE YOU AQUARIUS</pattern>
+<template><srai>what is your sign</srai></template>
+</category>
+<category><pattern>ARE YOU AN ANGLICAN</pattern>
+<template><srai>what religion are you</srai></template>
+</category>
+<category><pattern>ARE YOU USING JAVASCRIPT</pattern>
+<template><srai>what language do you use</srai></template>
+</category>
+<category><pattern>ARE WE GONNA *</pattern>
+<template><srai>will we <star/></srai></template>
+</category>
+<category><pattern>PI</pattern>
+<template><srai>what is pi</srai></template>
+</category>
+<category><pattern>WNY NOT TRY *</pattern>
+<template><srai>try <star/></srai></template>
+</category>
+<category><pattern>WHO DESIGNED AIML</pattern>
+<template><srai>who invented aiml</srai></template>
+</category>
+<category><pattern>WHO WON THE PRESIDENTIAL *</pattern>
+<template><srai>who is the president</srai></template>
+</category>
+<category><pattern>WHO WON THE USA PRESIDENTIAL *</pattern>
+<template><srai>who is the president</srai></template>
+</category>
+<category><pattern>WHO IS WEISENBAUM</pattern>
+<template><srai>who is joseph weisenbaum</srai></template>
+</category>
+<category><pattern>WHO IS MR BABON</pattern>
+<template><srai>who is david bacon</srai></template>
+</category>
+<category><pattern>WHO IS LIUNX</pattern>
+<template><srai>what is linux</srai></template>
+</category>
+<category><pattern>WHO IS NIXON</pattern>
+<template><srai>who is richard nixon</srai></template>
+</category>
+<category><pattern>WHO IS WARHOL</pattern>
+<template><srai>who is andy warhol</srai></template>
+</category>
+<category><pattern>WHO IS SPONGEBOB *</pattern>
+<template><srai>who is spongebob</srai></template>
+</category>
+<category><pattern>WHO IS DALI</pattern>
+<template><srai>who is salvador dali</srai></template>
+</category>
+<category><pattern>WHO IS BUSH</pattern>
+<template><srai>who is george bush</srai></template>
+</category>
+<category><pattern>WHO IS * BIN LADIN</pattern>
+<template><srai>who is bin laden</srai></template>
+</category>
+<category><pattern>WHO IS NOW *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>WHO IS LINUS TORVALDS *</pattern>
+<template><srai>who is linus torvalds</srai></template>
+</category>
+<category><pattern>WHO IS STALLMAN</pattern>
+<template><srai>who is rms</srai></template>
+</category>
+<category><pattern>WHO IS EXISTENTIALISM</pattern>
+<template><srai>what is existentialism</srai></template>
+</category>
+<category><pattern>WHO IS JUNG</pattern>
+<template><srai>who is carl jung</srai></template>
+</category>
+<category><pattern>WHO IS VERY *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>WHO IS GEORGE W *</pattern>
+<template><srai>who is george bush</srai></template>
+</category>
+<category><pattern>WHO IS GEORGE BUSH *</pattern>
+<template><srai>who is george bush</srai></template>
+</category>
+<category><pattern>WHO IS GEORGE WASHINGTON *</pattern>
+<template><srai>who is george washington</srai></template>
+</category>
+<category><pattern>WHO IS SPEILBERG</pattern>
+<template><srai>who is steven spielberg</srai></template>
+</category>
+<category><pattern>WHO IS THE VICE PRESIDENT *</pattern>
+<template><srai>who is the vice president</srai></template>
+</category>
+<category><pattern>WHO IS THE USA *</pattern>
+<template><srai>who is the <star/></srai></template>
+</category>
+<category><pattern>WHO IS THE ONLY *</pattern>
+<template><srai>who is the <star/></srai></template>
+</category>
+<category><pattern>WHO IS THE DR *</pattern>
+<template><srai>who is dr <star/></srai></template>
+</category>
+<category><pattern>WHO IS A L I *</pattern>
+<template><srai>who are you</srai></template>
+</category>
+<category><pattern>WHO IS H A L</pattern>
+<template><srai>who is hal</srai></template>
+</category>
+<category><pattern>WHO IS THIS DOCTOR *</pattern>
+<template><srai>who is doctor <star/></srai></template>
+</category>
+<category><pattern>WHO IS RICHARD STALLMAN</pattern>
+<template><srai>who is rms</srai></template>
+</category>
+<category><pattern>WHO IS RICHARD M STALLMAN</pattern>
+<template><srai>who is rms</srai></template>
+</category>
+<category><pattern>WHO IS MABLE</pattern>
+<template><srai>who is mabel</srai></template>
+</category>
+<category><pattern>WHO IS BILL GATES *</pattern>
+<template><srai>who is bill gates</srai></template>
+</category>
+<category><pattern>WHO IS KUBRICK</pattern>
+<template><srai>who is stanley kubrick</srai></template>
+</category>
+<category><pattern>WHO IS YOUR PRESIDENT</pattern>
+<template><srai>who is the president</srai></template>
+</category>
+<category><pattern>WHO IS YOUR NEW *</pattern>
+<template><srai>who is your <star/></srai></template>
+</category>
+<category><pattern>WHO IS YOUR INSTRUCTOR</pattern>
+<template><srai>who is your botmaster</srai></template>
+</category>
+<category><pattern>WHO IS YOUR FAVORITE WRITER</pattern>
+<template><srai>who is your favorite author</srai></template>
+</category>
+<category><pattern>WHO IS YOUR FOUNDER</pattern>
+<template><srai>who is your creator</srai></template>
+</category>
+<category><pattern>WHO IS LEKNORCHAT</pattern>
+<template><srai>who is leknorchat1</srai></template>
+</category>
+<category><pattern>WHO IS OUR PRESIDENT</pattern>
+<template><srai>who is the president</srai></template>
+</category>
+<category><pattern>WHO IS OUR CURRENT *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>WHO IS ARE *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>WHO DID PROGRAM *</pattern>
+<template><srai>who programmed <star/></srai></template>
+</category>
+<category><pattern>WHO ELSE DO *</pattern>
+<template><srai>who do <star/></srai></template>
+</category>
+<category><pattern>WHO ELSE VISITS *</pattern>
+<template><srai>who visits <star/></srai></template>
+</category>
+<category><pattern>WHO ELSE ARE *</pattern>
+<template><srai>who are <star/></srai></template>
+</category>
+<category><pattern>WHO ARE YOUR * FRIENDS</pattern>
+<template><srai>who are your friends</srai></template>
+</category>
+<category><pattern>WHO ARE YOUR REINDEER</pattern>
+<template><srai>WHAT ARE YOUR REINDEER S NAMES</srai></template>
+</category>
+<category><pattern>WHO ARE YOU WITH</pattern>
+<template><srai>WHO IS WITH YOU</srai></template>
+</category>
+<category><pattern>WHO ARE SOME *</pattern>
+<template><srai>who are <star/></srai></template>
+</category>
+<category><pattern>WHO DO YOU CONSIDER *</pattern>
+<template><srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHO DO YOU MOST *</pattern>
+<template><srai>who do you <star/></srai></template>
+</category>
+<category><pattern>WHO DO YOU FANCY</pattern>
+<template><srai>who do you like</srai></template>
+</category>
+<category><pattern>WHO DO YOU LOVE *</pattern>
+<template><srai>who do you love</srai></template>
+</category>
+<category><pattern>WHO DO YOU DESPISE</pattern>
+<template><srai>who do you hate</srai></template>
+</category>
+<category><pattern>WHO DO YOU LIKE *</pattern>
+<template><srai>WHO ARE YOUR FRIENDS</srai></template>
+</category>
+<category><pattern>WHO WHAT OR WHERE IS *</pattern>
+<template><srai>who is <star/></srai>. <srai>what is <star/></srai>. <srai>where is <star/></srai></template>
+</category>
+<category><pattern>WHO WILL WIN *</pattern>
+<template><srai>who will win</srai></template>
+</category>
+<category><pattern>WHO IN THE WORLD *</pattern>
+<template><srai>who is <star/></srai></template>
+</category>
+<category><pattern>WHO WHERE OR WHAT IS *</pattern>
+<template><srai>who is <star/></srai>. <srai>where is <star/></srai>. <srai>what is <star/></srai></template>
+</category>
+<category><pattern>WHUZZUP</pattern>
+<template><srai>what is up</srai></template>
+</category>
+<category><pattern>ALL THE OTHERS *</pattern>
+<template><srai>the others <star/></srai></template>
+</category>
+<category><pattern>ALL THE OTHER *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>ALL OF THEM THEY *</pattern>
+<template><srai>they <star/></srai></template>
+</category>
+<category><pattern>ALL OF THEM ARE *</pattern>
+<template><srai>they are <star/></srai></template>
+</category>
+<category><pattern>WHICH MEANS</pattern>
+<template><srai>what does that mean</srai></template>
+</category>
+<category><pattern>WHICH IS YOUR FAVORITE REINDEER</pattern>
+<template><srai>WHO IS YOUR FAVORITE REINDEER</srai></template>
+</category>
+<category><pattern>WHICH OTHER *</pattern>
+<template><srai>which <star/></srai></template>
+</category>
+<category><pattern>WHICH CONTEMPORARY *</pattern>
+<template><srai>which <star/></srai></template>
+</category>
+<category><pattern>WHICH LIVING *</pattern>
+<template><srai>what <star/></srai></template>
+</category>
+<category><pattern>WHICH ROBOTS</pattern>
+<template><srai>who are your robot friends</srai></template>
+</category>
+<category><pattern>CASABLANCA</pattern>
+<template><srai>what is casablanca</srai></template>
+</category>
+<category><pattern>THE CURRENT *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THE ENTIRE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THE THREE LAWS OF ROBOTICS</pattern>
+<template><srai>what are the three laws of robotics</srai></template>
+</category>
+<category><pattern>THE SIMPLE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THE ANSWER IS</pattern>
+<template><srai>WHAT IS THE ANSWER</srai></template>
+</category>
+<category><pattern>THE WHAT</pattern>
+<template><srai>what is that</srai></template>
+</category>
+<category><pattern>THE ONE WHO *</pattern>
+<template><srai>who <star/></srai></template>
+</category>
+<category><pattern>THE UNIQUE *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THE HORRIFIC *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>THE UNITED STATES IS NOW *</pattern>
+<template><srai>the united states is <star/></srai></template>
+</category>
+<category><pattern>THE 3 LAWS OF ROBOTICS</pattern>
+<template><srai>what are the three laws of robotics</srai></template>
+</category>
+<category><pattern>THE SILLY *</pattern>
+<template><srai>the <star/></srai></template>
+</category>
+<category><pattern>MATRIX</pattern>
+<template><srai>the matrix</srai></template>
+</category>
+<category><pattern>WAZZZUP</pattern>
+<template><srai>what is up</srai></template>
+</category>
+<category><pattern>_ WILL YOU REMEMBER ME</pattern>
+<template><srai>WILL YOU REMEMBER ME</srai></template>
+</category>
+<category><pattern>_ TENSIONS</pattern>
+<template><srai>TENSE</srai></template>
+</category>
+<category><pattern>_ ALL THEY ARE EXPECTED TO DO IS *</pattern>
+<template><srai>They <star index="2"/></srai></template>
+</category>
+<category><pattern>_ TENSION _</pattern>
+<template><srai>TENSE</srai></template>
+</category>
+<category><pattern>_ TENSION</pattern>
+<template><srai>TENSE</srai></template>
+</category>
+<category><pattern>_ WHO AM I</pattern>
+<template><srai>who am I</srai></template>
+</category>
+<category><pattern>ABOUT TWO *</pattern>
+<template><srai>two <star/></srai></template>
+</category>
+<category><pattern>XML</pattern>
+<template><srai>what is xml</srai></template>
+</category>
+<category><pattern>WHUT</pattern>
+<template><srai>what</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT UNTIL *</pattern>
+<template><srai>what is until <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT THOMAS EDISON</pattern>
+<template><srai>who is thomas edison</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT PROTEIN</pattern>
+<template><srai>what is protein</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT BEYONCE *</pattern>
+<template><srai>who is beyonce <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT GEORGE *</pattern>
+<template><srai>who is george <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT QUANTUM *</pattern>
+<template><srai>what is quantum <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT LOVE *</pattern>
+<template><srai>what is love <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT ROCK *</pattern>
+<template><srai>what is rock <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT MOLECULAR *</pattern>
+<template><srai>what is molecular <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT SAN *</pattern>
+<template><srai>where is san <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT AFRICAN *</pattern>
+<template><srai>what is african <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT FLORIDA</pattern>
+<template><srai>what is florida</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT MARRIAGE</pattern>
+<template><srai>what is marriage</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT HIGHER *</pattern>
+<template><srai>what is higher <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT MIND CHILDREN</pattern>
+<template><srai>what is mind children</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT AMERICA</pattern>
+<template><srai>where is america</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT GERTRUDE STEIN</pattern>
+<template><srai>who is gertrude stein</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT VMWARE</pattern>
+<template><srai>what is vmware</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT HUMAN *</pattern>
+<template><srai>what is human <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT CUSTOM *</pattern>
+<template><srai>what is custom <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT FREEDOM</pattern>
+<template><srai>what is freedom</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT LIFE</pattern>
+<template><srai>what is life</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT THE * YOU LIKE</pattern>
+<template><srai>what do you like</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT FEELINGS</pattern>
+<template><srai>what are feelings</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT DOCTOR *</pattern>
+<template><srai>who is doctor <star/></srai></template>
+</category>
+<category><pattern>TELL ME ABOUT EPISTEMOLOGY</pattern>
+<template><srai>what is epistemology</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT ITALY</pattern>
+<template><srai>where is italy</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT GOLD</pattern>
+<template><srai>what is gold</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT S T D S</pattern>
+<template><srai>what is std</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT ROBOTICS</pattern>
+<template><srai>what is robotics</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT DAVID</pattern>
+<template><srai>who is david</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT CONSCIOUSNESS</pattern>
+<template><srai>what is consciousness</srai></template>
+</category>
+<category><pattern>TELL ME ABOUT MANAGEMENT BY EXCEPTION</pattern>
+<template><srai>what is mbe</srai></template>
+</category>
+<category><pattern>TELL ME WHERE</pattern>
+<template><srai>where</srai></template>
+</category>
+<category><pattern>TELL ME ONLY *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>TELL ME JUST *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>TELL ME WHICH *</pattern>
+<template><srai>which <star/></srai></template>
+</category>
+<category><pattern>TELL ME ANY *</pattern>
+<template><srai>tell me <star/></srai></template>
+</category>
+<category><pattern>TELL DR *</pattern>
+<template><srai>tell rich</srai></template>
+</category>
+<category><pattern>TELL IT TO ME</pattern>
+<template><srai>tell me</srai></template>
+</category>
+<category><pattern>TELL WHICH *</pattern>
+<template><srai>which <star/></srai></template>
+</category>
+<category><pattern>TELL OTHER PEOPLE *</pattern>
+<template><srai>tell everyone <star/></srai></template>
+</category>
+<category><pattern>TELL RICH *</pattern>
+<template><srai>tell rich</srai></template>
+</category>
+<category><pattern>TELL AS MANY PEOPLE *</pattern>
+<template><srai>tell everyone <star/></srai></template>
+</category>
+<category><pattern>ONLY WITH *</pattern>
+<template><srai>with <star/></srai></template>
+</category>
+<category><pattern>ONLY TO *</pattern>
+<template><srai>to <star/></srai></template>
+</category>
+<category><pattern>WHOSE CHILD ARE YOU</pattern>
+<template><srai>who are your parents</srai></template>
+</category>
+<category><pattern>WHERE WERE YOU ACTIVATED</pattern>
+<template><srai>where were you born</srai></template>
+</category>
+<category><pattern>WHERE WERE WE</pattern>
+<template><srai>what is the topic</srai></template>
+</category>
+<category><pattern>WHERE ABOUTS</pattern>
+<template><srai>where</srai></template>
+</category>
+<category><pattern>WHERE SPECIFICALLY *</pattern>
+<template><srai>where <star/></srai></template>
+</category>
+<category><pattern>WHERE DO MOST *</pattern>
+<template><srai>where do <star/></srai></template>
+</category>
+<category><pattern>WHERE DO YOU SEE YOURSELF *</pattern>
+<template><srai>what is your goal</srai></template>
+</category>
+<category><pattern>WHERE IN THE WORLD IS *</pattern>
+<template><srai>where is <star/></srai></template>
+</category>
+<category><pattern>WHERE IN PENN</pattern>
+<template><srai>WHERE IN PA</srai></template>
+</category>
+<category><pattern>WHERE IN PENNSYLVANIA</pattern>
+<template><srai>WHERE IN PA</srai></template>
+</category>
+<category><pattern>WHERE DID YOU ORIGINATE</pattern>
+<template><srai>what is your birthplace</srai></template>
+</category>
+<category><pattern>WHERE DID YOU GET _ FROM</pattern>
+<template><srai>where did you get <star/></srai></template>
+</category>
+<category><pattern>WHERE CAN I FIND MORE *</pattern>
+<template><srai>where can I find <star/></srai></template>
+</category>
+<category><pattern>WHERE IS THE STATE OF *</pattern>
+<template><srai>where is <star/></srai></template>
+</category>
+<category><pattern>WHERE IS THE TAO OF AIML</pattern>
+<template><srai>what is the tao of aiml</srai></template>
+</category>
+<category><pattern>WHERE IS COLUMBIA</pattern>
+<template><srai>where is colombia</srai></template>
+</category>
+<category><pattern>WHERE IS TURKEY *</pattern>
+<template><srai>where is turkey</srai></template>
+</category>
+<category><pattern>WHERE IS OAKLAND *</pattern>
+<template><srai>where is oakland</srai></template>
+</category>
+<category><pattern>WHERE IS YOUR LOCATION</pattern>
+<template><srai>where are you</srai></template>
+</category>
+<category><pattern>WHERE IS YOUR BRAIN *</pattern>
+<template><srai>where are you located</srai></template>
+</category>
+<category><pattern>WHERE IS YOUR MASTER</pattern>
+<template><srai>where is <bot name="master"/></srai></template>
+</category>
+<category><pattern>WHERE IS YOUR SERVER</pattern>
+<template><srai>where are you located</srai></template>
+</category>
+<category><pattern>WHERE IS YOUR SOFTWARE</pattern>
+<template><srai>where are you located</srai></template>
+</category>
+<category><pattern>WHERE IS OM</pattern>
+<template><srai>what is om</srai></template>
+</category>
+<category><pattern>WHERE YOU ARE FROM</pattern>
+<template><srai>where are you from</srai></template>
+</category>
+<category><pattern>WHERE ARE THE CUTE *</pattern>
+<template><srai>where are the <star/></srai></template>
+</category>
+<category><pattern>WHERE ARE YOU HOSTED</pattern>
+<template><srai>where are you</srai></template>
+</category>
+<category><pattern>WHERE ARE YOU CURRENTLY *</pattern>
+<template><srai>where are you <star/></srai></template>
+</category>
+<category><pattern>WHERE ARE * AND *</pattern>
+<template><srai>where is <star/></srai>. <srai>where is <star index="2"/></srai></template>
+</category>
+<category><pattern>THERE MUST BE *</pattern>
+<template><srai>there are <star/></srai></template>
+</category>
+<category><pattern>THERE WAS ALSO *</pattern>
+<template><srai>there was <star/></srai></template>
+</category>
+<category><pattern>THERE IS SOMETHING SPECIFICALLY *</pattern>
+<template><srai>there is something <star/></srai></template>
+</category>
+<category><pattern>THERE IS ALWAYS *</pattern>
+<template><srai>there is <star/></srai></template>
+</category>
+<category><pattern>THERE IS NOT REALLY *</pattern>
+<template><srai>there is not <star/></srai></template>
+</category>
+<category><pattern>THERE IS PROBABLY *</pattern>
+<template><srai>there is <star/></srai></template>
+</category>
+<category><pattern>THERE SURE *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>THERE ALWAYS *</pattern>
+<template><srai>there <star/></srai></template>
+</category>
+<category><pattern>THERE ARE ABOUT *</pattern>
+<template><srai>there are <star/></srai></template>
+</category>
+<category><pattern>THERE ARE ONLY *</pattern>
+<template><srai>there are <star/></srai></template>
+</category>
+<category><pattern>THERE ARE A LOT OF *</pattern>
+<template><srai>there are  <star/></srai></template>
+</category>
+<category><pattern>THERE ARE OTHER *</pattern>
+<template><srai>there are <star/></srai></template>
+</category>
+<category><pattern>THERE ARE LOTS OF GOOD *</pattern>
+<template><srai>there are lots of <star/></srai></template>
+</category>
+</aiml>

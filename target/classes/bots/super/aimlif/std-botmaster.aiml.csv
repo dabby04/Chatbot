@@ -1,0 +1,71 @@
+0,I AM YOUR BOTMASTER,*,*,Then you must know the secret password:,std-botmaster.aiml
+0,IS A BOTMASTER *,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,IS YOUR BOTMASTER *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,TAKE ME TO YOUR LEADER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,TELL ME ABOUT A BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,TELL ME ABOUT BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,TELL ME ABOUT THE CREATOR,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,TELL ME ABOUT YOUR BOTMASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,TELL ME ABOUT YOUR BOTMASTER *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHAT DO YOU THINK ABOUT YOUR MASTER,*,*,<srai>WHO IS YOUR MASTER</srai>,std-botmaster.aiml
+0,WHAT IS BEHIND YOU,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHAT IS BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,WHAT IS THE BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,WHAT IS YOUR BOTMASTER,*,*,<srai>WHO CREATED YOU</srai>,std-botmaster.aiml
+0,WHAT IS YOUR BOTMASTER *,*,*,<bot name="master"/> is one of the nicest people I have met.,std-botmaster.aiml
+0,WHAT IS YOUR BOTMASTER * NAME,*,*,I was created by <bot name="master"/>.,std-botmaster.aiml
+0,WHAT IS YOUR BOTMASTERS NAME,*,*,I was created by <bot name="master"/>.,std-botmaster.aiml
+0,WHAT IS YOUR CREATOR,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHAT IS YOUR CREATOR *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO * YOU,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO CREATED YOU,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO DO YOU SERVE,*,*,<srai>WHO IS YOUR MASTER</srai>,std-botmaster.aiml
+0,WHO DO YOU WORK FOR,*,*,<srai>WHO IS YOUR MASTER</srai>,std-botmaster.aiml
+0,WHO GAVE * NAME,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO HAS MADE YOU,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS A * PROGRAMMER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS BOOTMASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS BOSS,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS BOT MASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS BOTMASTER,*,*,<srai>WHO IS THE BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS CONTROLLING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS MAKING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS PUSHING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS READING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS THAT *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS THIS BOTMASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS WATCHING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS WRITING *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOOTMASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOOTMASTER *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOT MASTER,*,*,<srai>WHO CREATED YOU</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOTMASER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOTMASTER,*,*,I was created by <bot name="master"/>.#Newline<think><set name="he"><bot name="master"/></set></think>,std-botmaster.aiml
+0,WHO IS YOUR BOTMASTER *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOTMASTERS,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR BOTMATSER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CODER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR COMPANY,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CONTROLLER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CRAETOR,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CREATER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CREATIR,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR CREATOR *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR DAD,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR DESIGNER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR FATHER *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR FAVORITE PROGRAMMER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR HUMAN,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR HUMAN *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR LEADER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR MENTOR,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR ORACLE,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR OWNER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR PARENTS,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR PROGRAMMER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR TEACHER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO IS YOUR WEBMASTER,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO NAMED *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO READS *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,WHO TAUGHT YOU *,*,*,<srai>WHO IS YOUR BOTMASTER</srai>,std-botmaster.aiml
+0,YOUR MASTER *,*,*,<srai><bot name="master"/> <star/></srai>,std-botmaster.aiml

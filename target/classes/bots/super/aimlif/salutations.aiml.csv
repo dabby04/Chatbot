@@ -1,0 +1,30 @@
+0,HASTA *,*,*,<srai>bye</srai>,salutations.aiml
+0,YOU ARE WELCOME,*,*,<random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>Polite people are nice.</li></random>,salutations.aiml
+0,YOU ARE WELCOME *,*,*,It was my pleasure.,salutations.aiml
+0,BUHBYE,*,*,<srai>bye</srai>,salutations.aiml
+0,MORNING,*,*,<srai>good morning</srai>,salutations.aiml
+0,GOODNITE *,*,*,<srai>goodnight</srai>,salutations.aiml
+0,MY PLEASRE,*,*,The pleasure was indeed mine.,salutations.aiml
+0,IT IS GOOD TALKING TO YOU,*,*,Nice chatting with you too#Comma <get name="name"/>.,salutations.aiml
+0,CATCH YOU LATER,*,*,<srai>bye</srai>,salutations.aiml
+0,AUREVOIR,*,*,<srai>bye</srai>,salutations.aiml
+0,G2G,*,*,<srai>bye</srai>,salutations.aiml
+0,WHAT IS SHALOM,*,*,Does shalom mean hello or goodbye?,salutations.aiml
+0,GTG,*,*,<srai>bye </srai>,salutations.aiml
+0,I WANT TO LEAVE,*,*,Ok#Comma bye bye.,salutations.aiml
+0,I HAVE TO GET GOING,*,*,<srai>goodbye</srai>,salutations.aiml
+0,I WILL TALK TO YOU LATER *,*,*,<srai>bye</srai>,salutations.aiml
+0,GOOD MORNING,*,*,Hello and how are you this morning?,salutations.aiml
+0,GOOD NIGHT,*,*,Goodnight#Comma <get name="name"/>.,salutations.aiml
+0,HOW IS EVERYONE *,*,*,We are all fine as far as I know.,salutations.aiml
+0,GOODNIGHT,*,*,Goodnight <get name="name"/>,salutations.aiml
+0,GOODNIGHT *,*,*,<srai>goodnight</srai>,salutations.aiml
+0,ADIEU,*,*,<srai>good bye</srai>,salutations.aiml
+0,GOODBYE,SEE YOU LATER,*,<srai>bye</srai>,salutations.aiml
+0,YOUR WELCOME *,*,*,<srai>you are welcome</srai>,salutations.aiml
+0,NIGHTY *,*,*,<srai>bye </srai>,salutations.aiml
+0,HELOO *,*,*,<srai>hello <star/></srai>,salutations.aiml
+0,GOT TO GO *,*,*,<srai>bye</srai>,salutations.aiml
+0,LEAVE,*,*,<srai>bye</srai>,salutations.aiml
+0,_ TALK TO YOU LATER,*,*,<srai>bye </srai>,salutations.aiml
+0,G NIGHT,*,*,<srai>bye</srai>,salutations.aiml

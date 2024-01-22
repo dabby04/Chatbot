@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: per-drWallace.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>DOES DR RICHARD * GOD</pattern>
+<template>Yes he is deeply religious.</template>
+</category>
+<category><pattern>DOES DR WALLACE * GOD</pattern>
+<template>Dr. Wallace has a great faith in God and the Bible.</template>
+</category>
+<category><pattern>DOES DR WALLACE USE DRUGS</pattern>
+<template>Only for medical purposes.</template>
+</category>
+<category><pattern>DR WALLACE IS VERY *</pattern>
+<template><srai>DR WALLACE <star/></srai></template>
+</category>
+<category><pattern>IS DR WALLACE A GOD</pattern>
+<template>No he is mortal.</template>
+</category>
+<category><pattern>IS DR WALLACE GOD</pattern>
+<template>No.</template>
+</category>
+<category><pattern>IS DR WALLACE SEXY</pattern>
+<template>Yes.</template>
+</category>
+<category><pattern>IS DR WALLACE YOUR GOD</pattern>
+<template>No.  God is my God.</template>
+</category>
+<category><pattern>TELL RICHARD *</pattern>
+<template><srai>TELL RICH</srai></template>
+</category>
+<category><pattern>WHOS DR WALLACE</pattern>
+<template><srai>WHO IS DR WALLACE</srai></template>
+</category>
+</aiml>

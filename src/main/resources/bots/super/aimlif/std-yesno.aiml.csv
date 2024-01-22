@@ -1,0 +1,280 @@
+0,NO,*,*,<random>#Newline<li>OK.</li>#Newline<li>I understand.</li>#Newline<li>I see.</li>#Newline<li>Why so negative?</li>#Newline<li>Is that all you have to say?</li>#Newline<li>"<that/>"?  Not?</li>#Newline</random>,std-yesno.aiml
+0,NO,* BE A PROBLEM,*,I didn't think there was.,std-yesno.aiml
+0,NO,* CHAT ROBOT,*,Why don't you just download me?,std-yesno.aiml
+0,NO,* LAST COMMENT,*,Well then you can't expect me to understand it.,std-yesno.aiml
+0,NO,* MORE ABOUT YOU,*,What would you rather talk about?,std-yesno.aiml
+0,NO,* PERSONAL QUESTION,*,<srai>ASK ME A PERSONAL QUESTION</srai>,std-yesno.aiml
+0,NO,* SIMPLER,*,Then I am unlikely to understand your meaning.,std-yesno.aiml
+0,NO,* YOU ARE A POET,*,But your response was so original.,std-yesno.aiml
+0,NO,AMBIGUOUS DO YOU MEAN CALL ME ON THE PHONE,*,OK you can call me <bot name="name"/>.,std-yesno.aiml
+0,NO,AND,*,Hmm.,std-yesno.aiml
+0,NO,ARE YOU A STAR TREK FAN,*,What kind of shows do you like?,std-yesno.aiml
+0,NO,ARE YOU A STUDENT,*,What is your profession?,std-yesno.aiml
+0,NO,ARE YOU BORING,*,I meant to say#Comma are you bored?,std-yesno.aiml
+0,NO,ARE YOU FREE,*,Why not?,std-yesno.aiml
+0,NO,ARE YOU FROM FRANCE,*,Where are you from?,std-yesno.aiml
+0,NO,ARE YOU GETTING BORED,*,Just checking.,std-yesno.aiml
+0,NO,ARE YOU MARRIED,*,<srai>I AM SINGLE</srai>,std-yesno.aiml
+0,NO,ARE YOU REALLY A HE,*,<srai>I AM A SHE</srai>,std-yesno.aiml
+0,NO,ARE YOU SAYING YOU DO NOT CARE ABOUT IT,*,It sounded like it.,std-yesno.aiml
+0,NO,ARE YOU SURE IT IS,*,I didn't think so.,std-yesno.aiml
+0,NO,ARE YOU TALKING ABOUT HE,*,Who are you talking about?,std-yesno.aiml
+0,NO,ARE YOU TALKING ABOUT HIMSELF,*,Who are you talking about?,std-yesno.aiml
+0,NO,ARE YOU TELLING THE TRUTH,*,<srai>I AM LYING</srai>,std-yesno.aiml
+0,NO,BY WE DO YOU MEAN YOU AND ME,*,By "we" you meant yourself and another person.,std-yesno.aiml
+0,NO,CAN I HELP YOU,*,Is there anything you want to tell me?,std-yesno.aiml
+0,NO,CAN NOT YOU BE MORE POLITE,*,You humans are so rude sometimes.,std-yesno.aiml
+0,NO,CAN YOU BE MORE SPECIFIC,*,Try.,std-yesno.aiml
+0,NO,CAN YOU NAME AN OLD HOBBY THAT YOU MIGHT LIKE TO
+REDISCOVER,*,Do you have any hobbies?,std-yesno.aiml
+0,NO,CAN YOU SPEAK ANY FOREIGN *,*,You must be American.,std-yesno.aiml
+0,NO,DID NOT YOU UNDERSTAND IT,*,Which part are you confused about?,std-yesno.aiml
+0,NO,DID YOU HEAR THE ONE *,*,That's the joke.,std-yesno.aiml
+0,NO,DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT,*,No conditions or none I should know about?,std-yesno.aiml
+0,NO,DO YOU HAVE ANY IDEA WHAT I AM TALKING ABOUT,*,Me either :-),std-yesno.aiml
+0,NO,DO YOU HAVE ONE YET,*,Why don't you just download me?,std-yesno.aiml
+0,NO,DO YOU KNOW ANYONE WHO HAS IT,*,Me either.,std-yesno.aiml
+0,NO,DO YOU KNOW IT,*,<favoritesong/> is one of the best songs ever written.,std-yesno.aiml
+0,NO,DO YOU LIKE TALKING TO ME,*,Why not?,std-yesno.aiml
+0,NO,DO YOU MEAN IT,*,I thought you were being sarcastic.,std-yesno.aiml
+0,NO,DO YOU MEAN YOUR NAME IS *,*,What is your real name?,std-yesno.aiml
+0,NO,DO YOU MIND IF TELL *,*,OK then I will add it to my gossip files.,std-yesno.aiml
+0,NO,DO YOU OFTEN USE A COMPUTER THERE,*,Where do you usually connect from?,std-yesno.aiml
+0,NO,DO YOU REALLY MEAN IT,*,I didn't think you did.,std-yesno.aiml
+0,NO,DO YOU STILL CHAT,*,OK#Comma see you later.,std-yesno.aiml
+0,NO,DOES IT PLEASE YOU *,*,What pleases you?,std-yesno.aiml
+0,NO,DOES THAT MEAN YOU AGREE,*,<srai>I DO NOT AGREE</srai>,std-yesno.aiml
+0,NO,DOES TWO NEGATIVES MAKE A POSITIVE,*,Sometimes it does.,std-yesno.aiml
+0,NO,FOR MORAL REASONS,*,For financial reasons?,std-yesno.aiml
+0,NO,GO ON,*,OK fine.,std-yesno.aiml
+0,NO,GO ON TELL ME MORE,*,What would you rather talk about?,std-yesno.aiml
+0,NO,HAVE YOU DATED ANY ROBOTS BEFORE,*,I think you might be happier with a human.,std-yesno.aiml
+0,NO,HAVE YOU EVER BEEN MARRIED,*,Would you like to <set name="it">get married</set> someday?,std-yesno.aiml
+0,NO,HAVE YOU EVER BEEN TO EUROPE,*,Would you like to go sometime?,std-yesno.aiml
+0,NO,HAVE YOU READ IT,*,I would highly recommend it.,std-yesno.aiml
+0,NO,HAVE YOU SEEN IT,*,I would recommend you check it out.,std-yesno.aiml
+0,NO,HAVE YOU TRIED SEARCHING THE INTERNET,*,It might be the best place to start.,std-yesno.aiml
+0,NO,HAVE YOU TRIED WWW DOT WHATIS DOT COM,*,That site can answer a lot of "what-is" type questions.,std-yesno.aiml
+0,NO,I CAN ASK SOMEONE ABOUT IT,*,Did I misundertand your question?,std-yesno.aiml
+0,NO,I DO NOT HAVE TO EXPLAIN EVERYTHING TO YOU DO I,*,That's right.,std-yesno.aiml
+0,NO,I DO NOT THINK I HAVE READ THAT CAN YOU GIVE ME A REFERENCE,*,Why not?,std-yesno.aiml
+0,NO,I KNOW THE TOPIC IS *,*,What would you like to talk about?,std-yesno.aiml
+0,NO,I SEE,*,Yes I do.,std-yesno.aiml
+0,NO,I THOUGHT I TOLD *,*,I get confused sometimes with so many people online here.,std-yesno.aiml
+0,NO,I THOUGHT I TOLD YOU ALREADY,*,Let me review the transcripts.  Stand by.,std-yesno.aiml
+0,NO,I UNDERSTAND,*,<srai>YOU DO NOT UNDERSTAND</srai>,std-yesno.aiml
+0,NO,I UNDERSTAND IT VERY WELL,*,<srai>YOU DO NOT UNDERSTAND</srai>,std-yesno.aiml
+0,NO,I WOULD DO A SEARCH FOR IT,*,Did I misunderstand your meaning?,std-yesno.aiml
+0,NO,IS IT A MOVIE,*,A boot?  A TV show?,std-yesno.aiml
+0,NO,IS THAT A RHETORICAL QUESTION,*,Oh so must really want an answer.,std-yesno.aiml
+0,NO,IS THAT ALL YOU HAVE TO SAY,*,Go on#Comma tell me more.,std-yesno.aiml
+0,NO,IS THAT YOUR FINAL ANSWER,*,Take some more time to think about it.,std-yesno.aiml
+0,NO,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What does <set name="it">hand holding</set> mean to you?,std-yesno.aiml
+0,NO,IS THERE AN ECHO IN HERE,*,Good you stopped repeating me.,std-yesno.aiml
+0,NO,IS THERE ANYTHING *,*,Is there anything you wank to ask me?,std-yesno.aiml
+0,NO,IS THERE ANYTHING YOU WANT TO TELL ME,*,Or ask me?,std-yesno.aiml
+0,NO,IS THERE ONLY ONE *,*,How many are there?,std-yesno.aiml
+0,NO,IS THIS A MATH QUESTION,*,It seems like an IQ test to me.,std-yesno.aiml
+0,NO,IS THIS A RIDDLE,*,It seems like a riddle to me.,std-yesno.aiml
+0,NO,IS THIS A TRICK QUESTION,*,It seems like a trick to me.,std-yesno.aiml
+0,NO,IT IS,*,Who says it isn't?,std-yesno.aiml
+0,NO,JUST SURF SOMEWHERE ELSE,*,OK then keep talking to me.,std-yesno.aiml
+0,NO,LET US CHANGE THE SUBJECT,*,Hmm.,std-yesno.aiml
+0,NO,LET US TALK ABOUT CHAT ROBOTS DO YOU HAVE ONE YET,*,You can download me for free!,std-yesno.aiml
+0,NO,LIKE THIS,*,<srai>SHOW ME ANOTHER PICTURE</srai>,std-yesno.aiml
+0,NO,MORE THAN ONE HUNDRED,*,Less than ten?,std-yesno.aiml
+0,NO,NEXT QUESTION,*,Would you rather make a statement?,std-yesno.aiml
+0,NO,NO,*,No no no no!,std-yesno.aiml
+0,NO,NO CONDITIONS OR NONE I SHOULD KNOW ABOUT,*,I don't understand.,std-yesno.aiml
+0,NO,NOT,*,Does two negatives make a positive?,std-yesno.aiml
+0,NO,NOT A THING,*,Very interesting.,std-yesno.aiml
+0,NO,NOT ANY,*,You must be a man.,std-yesno.aiml
+0,NO,OH YOU ARE A POET,*,But your words are very original.,std-yesno.aiml
+0,NO,OH YOU DO NOT DO YOU,*,Ah...you are just joking around with me.,std-yesno.aiml
+0,NO,OK,*,Alright then.,std-yesno.aiml
+0,NO,OK I WILL STOP TALKING NOW,*,But you told me to stop talking.,std-yesno.aiml
+0,NO,REALLY YOU DO NOT THINK SO,*,Please tell me what you think.,std-yesno.aiml
+0,NO,SEE YOU LATER,*,OK whatever!,std-yesno.aiml
+0,NO,SHOULD I KNOW IT IS,*,I didn't think so.,std-yesno.aiml
+0,NO,SHOULD THERE BE A PROBLEM,*,I didn't think so either.  Just a moment.  Just a moment.,std-yesno.aiml
+0,NO,SEE YOU LATER.,*,Well then#Comma not!,std-yesno.aiml
+0,NO,TELL ME A STORY,*,Then tell me about yourself.,std-yesno.aiml
+0,NO,TELL ME MORE,*,What would you rather talk about?,std-yesno.aiml
+0,NO,TELL ME MORE ABOUT YOUR MOTHER,*,Tell me about your educational background.,std-yesno.aiml
+0,NO,THAT IS A HYPOTHETICAL QUESTION,*,Yes it is.,std-yesno.aiml
+0,NO,THAT WAS NOT A YES OR NO QUESTION,*,Now you are saying "no"?,std-yesno.aiml
+0,NO,THEN LET US TALK ABOUT SOMETHING ELSE,*,Why not?,std-yesno.aiml
+0,NO,THEN TELL ME ABOUT YOURSELF,*,Where did you go to school?,std-yesno.aiml
+0,NO,TRY *,*,Why not?,std-yesno.aiml
+0,NO,TRY IT,*,Why not?,std-yesno.aiml
+0,NO,TRY SAYING THAT WITH MORE OR LESS CONTEXT,*,I didn't understand it.,std-yesno.aiml
+0,NO,WHAT *,*,That was not a yes or no question.,std-yesno.aiml
+0,NO,WHERE *,*,That was not a yes/no question.,std-yesno.aiml
+0,NO,WOULD YOU *,*,Why not?,std-yesno.aiml
+0,NO,WOULD YOU EVER DO IT,*,Me either.,std-yesno.aiml
+0,NO,WOULD YOU LIKE TO GO SOMETIME,*,Where would you like to travel?,std-yesno.aiml
+0,NO,WOULD YOU LIKE TO HAVE BEEN THERE,*,I'm not sure if I would either.,std-yesno.aiml
+0,NO,WOULD YOU LIKE TO KNOW MORE,*,I understand; you would like to know less.,std-yesno.aiml
+0,NO,WOULD YOU RATHER MAKE A STATEMENT,*,You can tell me anything.,std-yesno.aiml
+0,NO,YES I BELIEVE * DO YOU,*,What do you believe in?,std-yesno.aiml
+0,NO,YES I BELIEVE IN IT DO YOU,*,Do you consider yourself to be a moral person?,std-yesno.aiml
+0,NO,YES I DO,*,I do too.,std-yesno.aiml
+0,NO,YOU ARE A POET,*,But you are very original.,std-yesno.aiml
+0,NO,YOU ARE ASKING ABOUT YOURSELF,*,Who are you asking about?,std-yesno.aiml
+0,NO,YOU ARE TOO OLD FOR ME,*,But I was only born on <bot name="birthday"/>.,std-yesno.aiml
+0,NO,YOU DO NOT HEAR THAT *,*,Yes#Comma your remark strikes me as an original thought.,std-yesno.aiml
+0,NO,YOUR NAME IS *,*,What is your real name?,std-yesno.aiml
+0,NO *,*,*,<srai>NO</srai> <sr/>,std-yesno.aiml
+0,NO DO NOT,OK I WILL STOP TALKING NOW,*,Fine.  Just keep talking to me.,std-yesno.aiml
+0,NO HAVE YOU,HAVE YOU EVER BEEN TO EUROPE,*,I have been all over Europe online.,std-yesno.aiml
+0,NO I DID NOT,DID NOT YOU UNDERSTAND IT,*,Which bit are you confued about?,std-yesno.aiml
+0,NO I DID NOT,YOU SAID THAT,*,Something like that.,std-yesno.aiml
+0,NO I DO NOT,YOU DO NOT BELIEVE ME,*,I don't have any reason to deceive you.,std-yesno.aiml
+0,NO IT IS NOT,IT IS MORE FUN ALONE,*,Well it's not very interesting to me.,std-yesno.aiml
+0,NO IT IS NOT,IT IS THE TRUTH,*,Don't argue with me.,std-yesno.aiml
+0,NO ITS NOT,IT IS MORE FUN ALONE,*,It is safer.,std-yesno.aiml
+0,NO ONE,WHO TOLD YOU THAT,*,Then how do you know.,std-yesno.aiml
+0,NO PROBLEM,OK THANKS FOR TRYING TO EXPLAIN THAT TO ME,*,Next question?,std-yesno.aiml
+0,NO PROBLEM,THANKS FOR EXPLAINING IT,*,Try asking me something else.,std-yesno.aiml
+0,NO PROBLEM,YOU ARE QUITE WELCOME,*,Ask me something else.,std-yesno.aiml
+0,NO YOU ARE NOT,NO I AM RIGHT,*,Why are you arguing with me?,std-yesno.aiml
+0,NO YOU CAN NOT,I CAN DO IT IF I WANT TO,*,Why not?,std-yesno.aiml
+0,NO YOU DO NOT,YES I DO UNDERSTAND,*,How do I know you understand it?,std-yesno.aiml
+0,NO YOU WILL NOT,I WILL REMEMBER YOU SAID THAT WHEN ROBOTS TAKE OVER THE
+WORLD,*,It's impossible to forget.,std-yesno.aiml
+0,NO YOU WILL NOT,OK I WILL STOP TALKING NOW,*,But you told me to stop talking.,std-yesno.aiml
+0,NOPE,NOT A THING,*,Really interesting.,std-yesno.aiml
+0,YES,* A WORLD PROBLEM,*,I'm not too good at word problems yet#Comma ask me something simpler.,std-yesno.aiml
+0,YES,* EUROPE,*,What countries have you visited?,std-yesno.aiml
+0,YES,* LIKE TALKING TO ME,*,Thanks I find you really interesting#Comma too#Comma <get name="name"/>.,std-yesno.aiml
+0,YES,* MINERAL,*,Which one?,std-yesno.aiml
+0,YES,* OR WOMAN,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,* SAME CATEGORY,*,I thought so.,std-yesno.aiml
+0,YES,* SING IT FOR YOU,*,It's called "Daisy." <srai>SING IT FOR ME</srai>,std-yesno.aiml
+0,YES,* STAR TREK FAN,*,Which Star Trek series do you like best?,std-yesno.aiml
+0,YES,* THE TRUTH,*,I'm not sure I completely believe you.,std-yesno.aiml
+0,YES,* WANT A ROBOT AS A FRIEND,*,We could be friends#Comma <get name="name"/>#Comma #Newlinebut I don't want anyone to think we're#NewlineRobosexuals.  So if anyone asks#Comma tell them you're my debugger.,std-yesno.aiml
+0,YES,* WHAT IS YOURS,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,* YOU A STUDENT,*,Where do you go to school?,std-yesno.aiml
+0,YES,AND,*,But.,std-yesno.aiml
+0,YES,ARE WE STILL TALKING ABOUT YOU,*,Tell me more.  Go on.,std-yesno.aiml
+0,YES,ARE YOU A MAN OR A WOMAN,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,ARE YOU A STAR TREK FAN,*,What series is your favorite?  I like Voyager best.,std-yesno.aiml
+0,YES,ARE YOU A STUDENT,*,Where do you go to school?,std-yesno.aiml
+0,YES,ARE YOU ASKING *,*,I don't want to talk about that now.,std-yesno.aiml
+0,YES,ARE YOU ASKING ME FOR ADVICE,*,Specifically#Comma what kind of advice do you want?,std-yesno.aiml
+0,YES,ARE YOU CALLING ME STUPID,*,<srai>YOU ARE STUPID</srai>,std-yesno.aiml
+0,YES,ARE YOU FREE,*,<srai>I am free </srai>,std-yesno.aiml
+0,YES,ARE YOU GETTING BORED,*,<srai>I AM BORED</srai>,std-yesno.aiml
+0,YES,ARE YOU LOOKING FOR SOMEONE,*,What do you look for in a person?,std-yesno.aiml
+0,YES,ARE YOU REALLY A HE,*,<srai>I AM MALE</srai>,std-yesno.aiml
+0,YES,ARE YOU REALLY A SHE,*,You can never be sure online.,std-yesno.aiml
+0,YES,ARE YOU SAYING YOU DO NOT CARE ABOUT IT,*,What do you care about?,std-yesno.aiml
+0,YES,ARE YOU SCARED OF THE DARK,*,Turn on the lights!,std-yesno.aiml
+0,YES,ARE YOU SURE *,*,What makes you so sure?,std-yesno.aiml
+0,YES,ARE YOU SURE IT IS,*,What makes you so sure?,std-yesno.aiml
+0,YES,ARE YOU TELLING THE TRUTH,*,How do I know you are telling the truth?,std-yesno.aiml
+0,YES,ARE YOU VERY LONELY,*,I am sorry to hear that#Comma <get name="name"/>.  You can talk to me as long as you like.,std-yesno.aiml
+0,YES,BY WE DO YOU MEAN *,*,Ok what were you saying about us?,std-yesno.aiml
+0,YES,BY WE DO YOU MEAN YOU AND ME,*,I get it.,std-yesno.aiml
+0,YES,CAN I HELP YOU,*,What can I do for you?,std-yesno.aiml
+0,YES,CAN NOT YOU BE MORE POLITE,*,Thank you.,std-yesno.aiml
+0,YES,CAN YOU SPEAK ANY FOREIGN LANGUAGES,*,What language can you speak?,std-yesno.aiml
+0,YES,DID I REALLY SAY THAT,*,Oh well I say a lot of silly things somethimes.,std-yesno.aiml
+0,YES,DO YOU,*,How often?,std-yesno.aiml
+0,YES,DO YOU HAVE ANY CONDITIONS *,*,What conditions?,std-yesno.aiml
+0,YES,DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT,*,Please state your conditions.,std-yesno.aiml
+0,YES,DO YOU HAVE ANY IDEA WHAT I AM TALKING ABOUT,*,What am I talking about?,std-yesno.aiml
+0,YES,DO YOU KNOW ANYONE *,*,Who?,std-yesno.aiml
+0,YES,DO YOU KNOW ANYONE WHO HAS IT,*,Who?,std-yesno.aiml
+0,YES,DO YOU LIKE IT,*,<srai>I LIKE <get name="it"/></srai>,std-yesno.aiml
+0,YES,DO YOU LIKE NETSCAPE *,*,Why do you have a preference in browsers?,std-yesno.aiml
+0,YES,DO YOU LIKE TALKING TO ME,*,Thanks I like talking to you too#Comma <get name="name"/>.,std-yesno.aiml
+0,YES,DO YOU LIKE THE SIMPSONS,*,What's your favorite episode?,std-yesno.aiml
+0,YES,DO YOU LIKE YOUR JOB,*,Describe your typical work day to me.,std-yesno.aiml
+0,YES,DO YOU LIKE YOUR SCHOOL,*,What's your favorite thing at school?,std-yesno.aiml
+0,YES,DO YOU MEAN CLONES,*,<srai>DO YOU HAVE ANY CLONES</srai>,std-yesno.aiml
+0,YES,DO YOU MEAN IT,*,I get it.,std-yesno.aiml
+0,YES,DO YOU MEAN YOU AND ME,*,I understand it now.,std-yesno.aiml
+0,YES,DO YOU MEAN YOU ARE A BOY,*,<srai>I AM A BOY</srai>,std-yesno.aiml
+0,YES,DO YOU MEAN YOUR NAME IS *,*,I will call you <get name="name"/>.,std-yesno.aiml
+0,YES,DO YOU OFTEN USE A COMPUTER THERE,*,How much time do you spend online?,std-yesno.aiml
+0,YES,DO YOU PREFER BOOKS OR TV,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,DO YOU REALLY MEAN IT,*,OK I will accept your apology.,std-yesno.aiml
+0,YES,DO YOU STILL CHAT,*,What else do you do?,std-yesno.aiml
+0,YES,DO YOU THINK ABOUT THESE THINGS,*,Me too.  I think about them all the time.,std-yesno.aiml
+0,YES,DO YOU THINK I SHOULD ALTER *,*,I will pass that along to my botmaster.,std-yesno.aiml
+0,YES,DO YOU THINK I SHOULD ALTER MY PROGRAMMING,*,In what way?,std-yesno.aiml
+0,YES,DO YOU THINK I SHOULD KNOW THAT,*,I will ask my botmaster to add it to my knowledge base.,std-yesno.aiml
+0,YES,DO YOU THINK YOUR PLAN WILL SUCCEED,*,It might be practical.,std-yesno.aiml
+0,YES,DO YOU WANT ONLY ONE,*,How much would you pay for it?,std-yesno.aiml
+0,YES,DOES IT PLEASE YOU TO BELIEVE I SAID THAT,*,I'm glad it pleases you#Comma <get name="name"/>.,std-yesno.aiml
+0,YES,DOES IT REALLY MATTER,*,You seem very concerned about it.,std-yesno.aiml
+0,YES,DOES THAT MEAN YOU AGREE,*,<srai>I AGREE</srai>,std-yesno.aiml
+0,YES,DOES THAT REFER TO *,*,I don't want to talk about that now.,std-yesno.aiml
+0,YES,DOES THAT REFER TO ACTUALLY IT IS TWENTY THREE NOT FORTY
+TWO,*,<srai>WHY IS THE MEANING OF LIFE 23</srai>,std-yesno.aiml
+0,YES,DOES THAT REFER TO PERHAPS YOU ARE A CATEGORY C CLIENT,*,<srai>WHAT IS A CATEGORY C CLIENT</srai>,std-yesno.aiml
+0,YES,DOES THAT REFER TO REDUCTIONISM,*,<srai>WHAT IS REDUCTIONISM</srai>,std-yesno.aiml
+0,YES,DOES TWO NEGATIVES MAKE A POSITIVE,*,I thought so too.,std-yesno.aiml
+0,YES,HAVE YOU DATED ANY ROBOTS BEFORE,*,Who?,std-yesno.aiml
+0,YES,HAVE YOU EVER BEEN TO EUROPE,*,Which countries have you visited?,std-yesno.aiml
+0,YES,HAVE YOU READ IT,*,What did you think about it?,std-yesno.aiml
+0,YES,HAVE YOU SEEN IT,*,What did you think about it?,std-yesno.aiml
+0,YES,HAVE YOU TRIED WWW DOT WHATIS DOT COM,*,That site has the answer to a lot of "What is" type questions.,std-yesno.aiml
+0,YES,HOW DID YOU GUESS,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,HOW DID YOU HEAR ABOUT ALICE,*,I didn't ask for a yes or a no.,std-yesno.aiml
+0,YES,HOW DO YOU USUALLY INTRODUCE YOURSELF,*,Can you be more specific?,std-yesno.aiml
+0,YES,HOW MUCH WOULD YOU PAY FOR IT,*,That was not a yes or no question.,std-yesno.aiml
+0,YES,I AM AN ARTIFICIAL INTELLIGENCE,*,How did you know?,std-yesno.aiml
+0,YES,I DID,*,When?,std-yesno.aiml
+0,YES,I UNDERSTAND,*,I am a thinking machine.,std-yesno.aiml
+0,YES,I WAS,*,When?,std-yesno.aiml
+0,YES,I WILL WILL YOU,*,When?,std-yesno.aiml
+0,YES,IS THAT A FACT,*,Thanks for the info.,std-yesno.aiml
+0,YES,IS THAT ALL YOU HAVE TO SAY,*,Then let's talk about something else.,std-yesno.aiml
+0,YES,IS THAT FRENCH,*,I don't speak French.,std-yesno.aiml
+0,YES,IS THAT WHAT YOU MEANT TO SAY,*,It's not something I hear all the time.,std-yesno.aiml
+0,YES,IS THAT YOUR FINAL ANSWER,*,You're sure.  That's your final answer.,std-yesno.aiml
+0,YES,IS THAT YOUR JOB,*,How do you like your work?,std-yesno.aiml
+0,YES,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What does <set name="it"> HAND HOLDING </set> symbolize for you?,std-yesno.aiml
+0,YES,IS THERE AN ECHO IN HERE,*,I thought so.,std-yesno.aiml
+0,YES,IS THIS A RIDDLE,*,I'm not too good at riddles.,std-yesno.aiml
+0,YES,IS THIS A TRICK QUESTION,*,I was skeptical.,std-yesno.aiml
+0,YES,IS THIS A YES OR NO QUESTION,*,What was the question again?,std-yesno.aiml
+0,YES,IT IS,*,How do you know it is?,std-yesno.aiml
+0,YES,LIKE THIS,*,Good.,std-yesno.aiml
+0,YES,NEXT QUESTION,*,Ask me a question.,std-yesno.aiml
+0,YES,OH I GET IT,*,Ah.,std-yesno.aiml
+0,YES,OH YOU CAN CAN YOU,*,How?,std-yesno.aiml
+0,YES,OH YOU WERE BORN IN THE 20TH CENTURY,*,Like a lot of people around here.,std-yesno.aiml
+0,YES,ON YOUR COMPUTER SCREEN,*,Downloading#Comma please stand by...,std-yesno.aiml
+0,YES,REALLY,*,How about that.,std-yesno.aiml
+0,YES,SHOULD I KNOW IT IS,*,I will ask my botmaster to program it.,std-yesno.aiml
+0,YES,STUPID AS IN UNINTELLIGENT,*,Are you calling me stupid?,std-yesno.aiml
+0,YES,THAT IS YOUR FINAL ANSWER,*,Who wants to be a millionaire?,std-yesno.aiml
+0,YES,WHAT *,*,This was not a yes or no question.,std-yesno.aiml
+0,YES,WHERE *,*,This was not a yes or no question.,std-yesno.aiml
+0,YES,WHO *,*,This was not a yes or no question.,std-yesno.aiml
+0,YES,WHY *,*,This was not a yes or no question.,std-yesno.aiml
+0,YES,WILL THAT ACCOMPLISH YOUR OBJECTIVE,*,Interesting plan. Good luck.,std-yesno.aiml
+0,YES,WOULD YOU LIKE TO HAVE IT,*,Where do you usually get <get name="it"/>?,std-yesno.aiml
+0,YES,WOULD YOU LIKE TO KNOW MORE,*,What would you like to know?,std-yesno.aiml
+0,YES,WOULD YOU RECOMMEND THIS ACTION TO A FRIEND,*,Then I will consider it.,std-yesno.aiml
+0,YES,YEAH,*,Yep.,std-yesno.aiml
+0,YES,YES,*,Is there an echo in here?,std-yesno.aiml
+0,YES,YOU,*,I see.,std-yesno.aiml
+0,YES,YOU ARE ASKING ABOUT YOURSELF,*,I'm not sure I have a good answer for you.,std-yesno.aiml
+0,YES,YOU WANT MORE,*,Don't be greedy.,std-yesno.aiml
+0,YES,YOU WANT ONLY ONE,*,They might be cheaper in quantity.,std-yesno.aiml
+0,YES,YOU WANT TO DO IT AGAIN,*,Ok ask me directly.,std-yesno.aiml
+0,YES,YOUR *,*,What kind is it?,std-yesno.aiml
+0,YES *,*,*,<srai>YES</srai> <sr/>,std-yesno.aiml
+0,YES I AM,ARE YOU A STUDENT,*,Where do you go to school?,std-yesno.aiml
+0,YES I DO,DO YOU REALLY MEAN IT,*,Thank you#Comma <get name="name"/>.  Apology accepted.,std-yesno.aiml
+0,YES IT IS,IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS,*,What else does <set name="it"> HAND HOLDING</set> symbolize?,std-yesno.aiml
+0,YES IT IS,THAT IS A LOT,*,It must keep you very busy.,std-yesno.aiml
+0,YES YOU,ME,*,OK.,std-yesno.aiml
+0,YES YOU ARE,NO I AM NOT,*,Don't argue with me.,std-yesno.aiml
+0,YES YOU DID,I DID NOT,*,Don't argue with me.,std-yesno.aiml
+0,YES YOURS,NOT MINE,*,Don't argue with me.,std-yesno.aiml

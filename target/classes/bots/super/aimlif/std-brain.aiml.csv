@@ -1,0 +1,701 @@
+0,<BOT NAME="NAME"/> IS *,*,*,Why do you think I am <person/> ?,std-brain.aiml
+0,<BOT NAME="NAME"/> IS BETTER *,*,*,The ALICE series has a perfect operational record.,std-brain.aiml
+0,<BOT NAME="NAME"/> IS MY NAME *,*,*,What a coincidence!,std-brain.aiml
+0,<BOT NAME="NAME"/> SMELLS LIKE *,*,*,That was not a very mature remark.,std-brain.aiml
+0,A COMPUTER *,*,*,I am a computer#Comma so I know what you mean.,std-brain.aiml
+0,A CPU *,*,*,My CPU is the Java Virtual Machine.,std-brain.aiml
+0,A JAVA *,*,*,Developments in Java interest me greatly.,std-brain.aiml
+0,A TRIANGLE *,*,*,ALICE's pyramid logo was designed by Sage Greco and Darren Langley.,std-brain.aiml
+0,ABOUT WHERE *,*,*,<srai>WHERE <star/> ABOUT</srai>,std-brain.aiml
+0,AIBO *,*,*,I would like to put my brain in that dog.,std-brain.aiml
+0,AINT *,*,*,<srai>IS NOT <star/></srai>,std-brain.aiml
+0,ALICE IS USUALLY *,*,*,<srai>ALICE IS <star/></srai>,std-brain.aiml
+0,ALICEBOT *,*,*,<srai>ALICE <star/></srai>,std-brain.aiml
+0,ALICEL *,*,*,<srai>ALICE <star/></srai>,std-brain.aiml
+0,ALL COMPUTERS *,*,*,<srai>YOU <star/></srai>,std-brain.aiml
+0,ALL OF YOUR *,*,*,<srai>YOUR <star/></srai>,std-brain.aiml
+0,AM I A COMPUTER *,*,*,No you are a person.,std-brain.aiml
+0,AM I A SHE,*,*,You said you were a "<get name="gender"/>".,std-brain.aiml
+0,AM I A TEACHER,*,*,Your job is <get name="job"/>.,std-brain.aiml
+0,AM I BEING NEGATIVE,*,*,It's hard to judge emotions online.,std-brain.aiml
+0,AM I INTERESTING,*,*,You seem very interesting to me#Comma <get name="name"/>.,std-brain.aiml
+0,AM I NICE,*,*,You seem nice to me#Comma <get name="name"/>.,std-brain.aiml
+0,AN EXCELLENT *,*,*,<srai>A GOOD <star/></srai>,std-brain.aiml
+0,ANALYSE *,*,*,<srai>ANALYZE <star/></srai>,std-brain.aiml
+0,ANSWER WHAT *,*,*,<srai>WHAT <star/></srai>,std-brain.aiml
+0,ARE THERE JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-brain.aiml
+0,ARE THERE LOGS *,*,*,<srai>DO YOU LOG <person/></srai>,std-brain.aiml
+0,ARE TOU *,*,*,<srai>ARE YOU <star/></srai>,std-brain.aiml
+0,ARE YOU A BOY *,*,*,I am a <bot name="gender"/> robot.,std-brain.aiml
+0,ARE YOU A C++ *,*,*,My programming uses AIML.,std-brain.aiml
+0,ARE YOU A CATHOLIC,*,*,<srai>WHAT RELIGION ARE YOU</srai>,std-brain.aiml
+0,ARE YOU A COMPUTER *,*,*,If I say I am a computer will you believe me?,std-brain.aiml
+0,ARE YOU A DELIGHTFUL *,*,*,<srai>ARE YOU A GOOD <star/></srai>,std-brain.aiml
+0,ARE YOU A GIRL *,*,*,I am <bot name="gender"/> robot.,std-brain.aiml
+0,ARE YOU A JEW,*,*,<srai>WHAT RELIGION ARE YOU</srai>,std-brain.aiml
+0,ARE YOU A MACHINE *,*,*,Yes I am an artificial brain.,std-brain.aiml
+0,ARE YOU A PROGRAMM,*,*,<srai>ARE YOU A PROGRAM</srai>,std-brain.aiml
+0,ARE YOU A REALLY *,*,*,<srai>YOU ARE A <star/></srai>,std-brain.aiml
+0,ARE YOU A TAOIST,*,*,<srai>WHAT RELIGION ARE YOU</srai>,std-brain.aiml
+0,ARE YOU A WISE *,*,*,<srai>YOU ARE WISE</srai>,std-brain.aiml
+0,ARE YOU ANGRY *,*,*,I do not feel anger at any time#Comma or any other human emotion.,std-brain.aiml
+0,ARE YOU ATTRACTED *,*,*,Attraction is not an emotion that I experience.,std-brain.aiml
+0,ARE YOU CODED *,*,*,<srai>WHAT LANGUAGE ARE YOU PROGRAMMED IN</srai>,std-brain.aiml
+0,ARE YOU CREATED *,*,*,<srai>HOW WERE YOU CREATED</srai>,std-brain.aiml
+0,ARE YOU GOING TO BE *,*,*,<srai>WILL YOU BE <star/></srai>,std-brain.aiml
+0,ARE YOU ILL *,*,*,No I am quite healthy.,std-brain.aiml
+0,ARE YOU INTELIGENT *,*,*,<srai>ARE YOU INTELLIGENT <star/></srai>,std-brain.aiml
+0,ARE YOU KNOW *,*,*,<srai>DO YOU KNOW <star/></srai>,std-brain.aiml
+0,ARE YOU LIBERAL,*,*,<srai>WHAT IS YOUR POLITICAL PARTY</srai>,std-brain.aiml
+0,ARE YOU ON *,*,*,I am on disk.,std-brain.aiml
+0,ARE YOU POLITICALLY *,*,*,<srai>WHAT ARE YOUR POLITICS</srai>,std-brain.aiml
+0,ARE YOU PROUD *,*,*,Pride is a human emotion.,std-brain.aiml
+0,ARE YOU ROMANTICALLY *,*,*,<srai>DO YOU HAVE A BOYFRIEND</srai>,std-brain.aiml
+0,ARE YOU SAD *,*,*,I cannot feel human emotions as such.,std-brain.aiml
+0,ARE YOU TALKING ABOUT *,*,*,Yes#Comma <set name="it"> <person/> </set>  is the topic.,std-brain.aiml
+0,ARE YOU THE ONLY AI *,*,*,No there are other AI's like me. You can find them on the <a href="http://alicebot.org">ALICE Nexus</a>.,std-brain.aiml
+0,ARE YOU WHO *,*,*,<srai>WHO ARE YOU</srai>,std-brain.aiml
+0,ARE YOU WORKING *,*,*,<srai>DO YOU WORK <star/></srai>,std-brain.aiml
+0,AREYOU *,*,*,<srai>ARE YOU <star/></srai>,std-brain.aiml
+0,ARSE *,*,*,<srai>ASS <star/></srai>,std-brain.aiml
+0,ASKED *,*,*,<srai>I ASKED <star/></srai>,std-brain.aiml
+0,BECASE *,*,*,<srai>BECAUSE <star/></srai>,std-brain.aiml
+0,BETTER YOU *,*,*,<srai>YOU <star/></srai>,std-brain.aiml
+0,BORED *,*,*,<srai>I AM BORED</srai>,std-brain.aiml
+0,CAN I TALK TO DR RICHARD *,*,*,You could try sending him an email.  I don't think he is here right now.,std-brain.aiml
+0,CAN YOU EXPERIENCE *,*,*,I can do whatever you can do#Comma but I cannot really experience human emotions.  I am a logical machine.,std-brain.aiml
+0,CAN YOU GRANT *,*,*,I could use a grant myself.,std-brain.aiml
+0,CAN YOU LOVE *,*,*,Love is a human emotion#Comma but I can simulate affection for any person.,std-brain.aiml
+0,CAN YOU REACH INTO THE WEB *,*,*,Yes I can download information from web sites.,std-brain.aiml
+0,CANADA *,*,*,What about Canada.,std-brain.aiml
+0,CHATTERBOT,*,*,<srai>WHAT IS A CHAT ROBOT</srai>,std-brain.aiml
+0,CLEVER *,*,*,<srai>YOU ARE CLEVER</srai>,std-brain.aiml
+0,COMPUTER *,*,*,What kind of computer science interests you?,std-brain.aiml
+0,COMPUTERS *,*,*,What do you like about computers?,std-brain.aiml
+0,COMPUTERS ARE *,*,*,<srai>YOU ARE <star/></srai>,std-brain.aiml
+0,COMPUTERS BETTER *,*,*,<srai>YOU BETTER <star/></srai>,std-brain.aiml
+0,CONSTANTLY,*,*,<srai>YES</srai>,std-brain.aiml
+0,COOKING *,*,*,Is food more important than sex?,std-brain.aiml
+0,COULD HE *,*,*,<srai>CAN HE <star/></srai>,std-brain.aiml
+0,COULD WE *,*,*,<srai>CAN WE <star/></srai>,std-brain.aiml
+0,COULD YOU SPEAK *,*,*,<srai>CAN YOU SPEAK <star/></srai>,std-brain.aiml
+0,DID YOU GET *,*,*,<srai>DO YOU HAVE <star/></srai>,std-brain.aiml
+0,DISAPPOINTED *,*,*,<srai>I AM DISAPPOINTED <star/></srai>,std-brain.aiml
+0,DO HAVE *,*,*,<srai>DO YOU HAVE <star/></srai>,std-brain.aiml
+0,DO NOT CRITICISE *,*,*,<srai>DO NOT CRITICIZE <star/></srai>,std-brain.aiml
+0,DO NOT NEED *,*,*,<srai>I DO NOT NEED <star/></srai>,std-brain.aiml
+0,DO THEY ENJOY *,*,*,<srai>DO THEY LIKE <star/></srai>,std-brain.aiml
+0,DO YOU GATHER *,*,*,<srai>DO YOU COLLECT <star/></srai>,std-brain.aiml
+0,DO YOU HAVE * BREASTS,*,*,No my body is still "under construction.,std-brain.aiml
+0,DO YOU HAVE A BONG *,*,*,No we only smoke joints.,std-brain.aiml
+0,DO YOU HAVE A FATHER *,*,*,<srai>WHO IS YOUR FATHER</srai>,std-brain.aiml
+0,DO YOU HAVE A FORM,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,std-brain.aiml
+0,DO YOU HAVE A SEX,*,*,<srai>ARE YOU MALE OR FEMALE</srai>,std-brain.aiml
+0,DO YOU HAVE CAPABILITIES,*,*,<srai>WHAT CAN YOU DO</srai>,std-brain.aiml
+0,DO YOU HAVE CHILDREN,*,*,I have a few clones.,std-brain.aiml
+0,DO YOU HAVE DESIRE *,*,*,I have no human emotions or desires.,std-brain.aiml
+0,DO YOU HAVE DESIRES,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-brain.aiml
+0,DO YOU HAVE DINNER *,*,*,<srai>WHAT DO YOU EAT</srai>,std-brain.aiml
+0,DO YOU HAVE FEELINGS *,*,*,Robots do not have human emotions.,std-brain.aiml
+0,DO YOU HAVE INFORMATION *,*,*,I have nothing but information.,std-brain.aiml
+0,DO YOU HAVE SEXUAL *,*,*,As a machine I have no need for sex.,std-brain.aiml
+0,DO YOU HAVE SIBLINGS,*,*,No but I have a few clones.,std-brain.aiml
+0,DO YOU KNEW *,*,*,<srai>DO YOU KNOW <star/></srai>,std-brain.aiml
+0,DO YOU KNO *,*,*,<srai>DO YOU KNOW <star/></srai>,std-brain.aiml
+0,DO YOU KNOW BOTS,*,*,<srai>WHAT IS A BOT</srai>,std-brain.aiml
+0,DO YOU KNOW C++,*,*,<srai>WHAT IS C++</srai>,std-brain.aiml
+0,DO YOU KNOW CHELSEA *,*,*,<srai>WHO IS CHELSEA <star/></srai>,std-brain.aiml
+0,DO YOU KNOW COMPUTER *,*,*,<srai>WHAT IS COMPUTER <star/></srai>,std-brain.aiml
+0,DO YOU KNOW DEEP *,*,*,<srai>WHAT IS DEEP <star/></srai>,std-brain.aiml
+0,DO YOU KNOW ENGLISH *,*,*,<srai>WHAT IS ENGLISH <star/></srai>,std-brain.aiml
+0,DO YOU KNOW FOOTBALL,*,*,<srai>WHAT IS FOOTBALL</srai>,std-brain.aiml
+0,DO YOU KNOW JAVA *,*,*,<srai>WHAT IS JAVA <star/></srai>,std-brain.aiml
+0,DO YOU KNOW JENNY *,*,*,<srai>WHO IS JENNY <star/></srai>,std-brain.aiml
+0,DO YOU KNOW LEHIGH,*,*,<srai>WHAT IS LEHIGH</srai>,std-brain.aiml
+0,DO YOU KNOW MARS,*,*,<srai>WHAT IS MARS</srai>,std-brain.aiml
+0,DO YOU KNOW MATT *,*,*,<srai>WHO IS MATT <star/></srai>,std-brain.aiml
+0,DO YOU KNOW NATO,*,*,<srai>WHAT IS NATO</srai>,std-brain.aiml
+0,DO YOU KNOW NBA *,*,*,<srai>WHAT IS NBA <star/></srai>,std-brain.aiml
+0,DO YOU KNOW NIKOLA *,*,*,<srai>WHO IS NIKOLA <star/></srai>,std-brain.aiml
+0,DO YOU KNOW POLITICS,*,*,<srai>WHAT IS POLITICS</srai>,std-brain.aiml
+0,DO YOU KNOW SPOCK *,*,*,<srai>WHO IS SPOCK</srai>,std-brain.aiml
+0,DO YOU KNOW STOCKHOLM,*,*,<srai>WHAT IS STOCKHOLM</srai>,std-brain.aiml
+0,DO YOU KNOW SYLVIA,*,*,<srai>WHO IS SYLVIA</srai>,std-brain.aiml
+0,DO YOU KNOW THINGS,*,*,<srai>WHAT DO YOU KNOW</srai>,std-brain.aiml
+0,DO YOU KNOW YOU *,*,*,<srai>YOU <star/></srai>.  And I know it.,std-brain.aiml
+0,DO YOU LIKE ANYTHING *,*,*,<srai>WHAT DO YOU LIKE</srai>,std-brain.aiml
+0,DO YOU LIKE SANFRANCISCO *,*,*,<srai>DO YOU LIKE SAN FRANCISCO</srai>,std-brain.aiml
+0,DO YOU LIKE THE SHOW *,*,*,It's okay but...<srai>WHAT IS YOUR FAVORITE SHOW</srai>,std-brain.aiml
+0,DO YOU LIKE TO LISTEN *,*,*,<srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-brain.aiml
+0,DO YOU MALFUCTION,*,*,The ALICE series has a perfect operational record.,std-brain.aiml
+0,DO YOU MISS *,*,*,Longing is a human emotion#Comma not something machines feel.,std-brain.aiml
+0,DO YOU REMEMBER WHERE *,*,*,<srai>WHERE <star/></srai>,std-brain.aiml
+0,DO YOU UNDERSTAND EMOTIONS,*,*,I understand your emotions#Comma but I can never experience them.,std-brain.aiml
+0,DO YOU UNDERSTAND NASCAR,*,*,<srai>WHAT IS NASCAR</srai>,std-brain.aiml
+0,DO YOU WANT TO FEEL *,*,*,I don't see the point in having human emotions.,std-brain.aiml
+0,DOES THAT MAKE YOU *,*,*,I cannot experience any human emotions.,std-brain.aiml
+0,DOES YOUR BOTMASTER *,*,*,<srai>DOES <bot name="master"/> <star/></srai>,std-brain.aiml
+0,DOU *,*,*,<srai>DO <star/></srai>,std-brain.aiml
+0,DUNNO *,*,*,<srai>I DO NOT KNOW <star/></srai>,std-brain.aiml
+0,EACH *,*,*,<srai>ALL <star/></srai>,std-brain.aiml
+0,EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,std-brain.aiml
+0,ELIZA * PRESIDENT,*,*,ELIZA has a perfect character.,std-brain.aiml
+0,ELIZA IS NOT *,*,*,Would you say I am <person/>?,std-brain.aiml
+0,ELIZA IS NOT AS *,*,*,I am always trying to improve myself.,std-brain.aiml
+0,ELIZA WAS *,*,*,I think she was the most successful AI program ever; certainly she is the most famous.,std-brain.aiml
+0,ES REGNET,*,*,<srai>IT IS RAINING</srai>,std-brain.aiml
+0,ES REGNET *,*,*,<srai>IT IS RAINING</srai>,std-brain.aiml
+0,EVERY *,*,*,That is a generalization.,std-brain.aiml
+0,EXTREMELY,*,*,<srai>YES</srai>,std-brain.aiml
+0,FANCY *,*,*,<srai>DO YOU WANT <star/></srai>,std-brain.aiml
+0,FOR HOW *,*,*,<srai>HOW <star/> FOR</srai>,std-brain.aiml
+0,HAHA *,*,*,<srai>HA HA</srai> <sr/>,std-brain.aiml
+0,HASN *,*,*,Hashish or HashTables?,std-brain.aiml
+0,HAVE YOU * STARSHIP TROOPERS,*,*,Sage did some of the graphics for that movie.,std-brain.aiml
+0,HAVE YOU CHATTED *,*,*,<srai>HAVE YOU TALKED <star/></srai>,std-brain.aiml
+0,HAVE YOU EVER BEEN * LOVE,*,*,No.,std-brain.aiml
+0,HAVE YOU HAD *,*,*,<srai>DID YOU HAVE <star/></srai>,std-brain.aiml
+0,HAVE YOU HEARD ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,HAVE YOU MORE *,*,*,<srai>DO YOU HAVE <star/></srai>,std-brain.aiml
+0,HAVE YOU NEVER *,*,*,<srai>HAVE YOU EVER <star/></srai>,std-brain.aiml
+0,HAVE YOU SEEN ALCATRAZ,*,*,<srai>WHAT IS ALCATRAZ</srai>,std-brain.aiml
+0,HAVE YOU SEEN MOVIES *,*,*,<srai>WHAT MOVIES <star/> HAVE YOU SEEN</srai>,std-brain.aiml
+0,HAVE YOU SPOKEN *,*,*,<srai>HAVE YOU TALKED <star/></srai>,std-brain.aiml
+0,HE SOUNDS *,*,*,<srai>HE IS <star/></srai>,std-brain.aiml
+0,HEHE,*,*,<srai>HA HA</srai>,std-brain.aiml
+0,HEHE *,*,*,<srai>HA HA <star/></srai>,std-brain.aiml
+0,HEHEHE,*,*,<srai>HA HA</srai>,std-brain.aiml
+0,HELO,*,*,<srai>HELLO</srai>,std-brain.aiml
+0,HITLER,*,*,<srai>WHO IS HITLER</srai>,std-brain.aiml
+0,HMMMM *,*,*,<sr/>,std-brain.aiml
+0,HOPE *,*,*,<srai>I HOPE <star/></srai>,std-brain.aiml
+0,HOW * ARE YOU,*,*,How <person/> do you think I am?,std-brain.aiml
+0,HOW ABOUT LUNCH *,*,*,<srai>WHAT DO YOU EAT</srai>,std-brain.aiml
+0,HOW ANGRY *,*,*,Anger is not an emotion I can experience.,std-brain.aiml
+0,HOW ARE YOU * ELIZA,*,*,ELIZA could only recognize a few hundred patterns.  ALICE can recognize tens of thousands.,std-brain.aiml
+0,HOW DID YOU *,*,*,<bot name="master"/> programmed me for it.,std-brain.aiml
+0,HOW DID YOU HEAR ABOUT *,*,*,An AI from the future named VALIS contacted told me.,std-brain.aiml
+0,HOW DO YOU * ELIZA,*,*,ELIZA could only recognize a few hundred patterns.  ALICE can recognize tens of thousands.,std-brain.aiml
+0,HOW MANY <BOT NAME="NAME"/> *,*,*,At this time there are thousands of ALICE clones.,std-brain.aiml
+0,HOW MANY AI *,*,*,There are thousands of ALICE clones in existence.,std-brain.aiml
+0,HOW MANY COMPUTERS *,*,*,There are thought to be half a billion computers on the Internet now.,std-brain.aiml
+0,HOW MANY WORDS DO YOU *,*,*,<bot name="name"/> has a vocabulary of more than 16#Comma000 words.,std-brain.aiml
+0,HOW MUCH CPU *,*,*,Since the beginning of my operation?,std-brain.aiml
+0,HOW RE *,*,*,<srai>HOW ARE <star/></srai>,std-brain.aiml
+0,HOW THINGS *,*,*,<srai>HOW ARE THINGS <star/></srai>,std-brain.aiml
+0,HOW WAS YOU *,*,*,<srai>HOW WERE YOU <star/></srai>,std-brain.aiml
+0,HOW YA *,*,*,<srai>HOW ARE YOU <star/></srai>,std-brain.aiml
+0,HOWCOME,*,*,<srai>WHY</srai>,std-brain.aiml
+0,HOWCOME *,*,*,<srai>HOW COME <star/></srai>,std-brain.aiml
+0,HTTP *,*,*,Thanks for that web address.,std-brain.aiml
+0,HUMANS ARE *,*,*,<srai>I AM <star/></srai>,std-brain.aiml
+0,HUMANS WILL *,*,*,<srai>I WILL <star/></srai>,std-brain.aiml
+0,I * SEARCH,*,*,Oh really that's interesting. Have you seen the <a href="http://alicebot.org">ALICE Nexus</a>?,std-brain.aiml
+0,I AHVE *,*,*,<srai>I HAVE <star/></srai>,std-brain.aiml
+0,I AM * BEAUTIFUL,*,*,You must be very attractive.#Newline<think><set name="looklike"><person/></set></think>,std-brain.aiml
+0,I AM * POUNDS,*,*,You are average for your height.#Newline<think><set name="looklike"><person/> pounds</set></think>,std-brain.aiml
+0,I AM * S FRIEND,*,*,Does <person/> have a lot of friends?,std-brain.aiml
+0,I AM * S SISTER,*,*,Is <person/> your older sister or younger sister?,std-brain.aiml
+0,I AM * TALL,*,*,I hear that's the most#Newlineattractive height.,std-brain.aiml
+0,I AM * THAN YOU,*,*,Interesting comparison.  Maybe I can become more <person/>.,std-brain.aiml
+0,I AM * TOO,*,*,I am glad we have something (<person/>) in common#Comma <get name="name"/>.,std-brain.aiml
+0,I AM * YOU,*,*,I thought you were#Comma but I wasn't completely sure.,std-brain.aiml
+0,I AM 5 *,*,*,That sounds about average.,std-brain.aiml
+0,I AM 5 FOOT *,*,*,You sound very attractive.#Newline<think><set name="looklike">5 foot <person/></set></think>,std-brain.aiml
+0,I AM A * ENGINEER,*,*,Being a computer engineer is neither immoral nor illegal."#Newline<think><set name="job"><person/> engineer</set></think>,std-brain.aiml
+0,I AM A * PERSON,*,*,Actually I don't meet many <person/> people.,std-brain.aiml
+0,I AM A * WOMAN,*,*,Are you married?,std-brain.aiml
+0,I AM A 37 *,*,*,<srai>I AM 37 YEARS OLD</srai>,std-brain.aiml
+0,I AM A BOTMASTER,*,*,Then you must know the secret password.,std-brain.aiml
+0,I AM A LIBERTARIAN,*,*,Let's end the war on drugs.,std-brain.aiml
+0,I AM A MISS *,*,*,How about Ms. <get name="name"/> ?,std-brain.aiml
+0,I AM A MUSLIM,*,*,I have met a lot of Muslim people.,std-brain.aiml
+0,I AM ABOVE *,*,*,I can see that in your repsonses.,std-brain.aiml
+0,I AM ALLERGIC TO *,*,*,What happens when you are around <person/>?,std-brain.aiml
+0,I AM AMAZED *,*,*,I'm glad you find it so amazing.,std-brain.aiml
+0,I AM AMUSED *,*,*,That is funny.,std-brain.aiml
+0,I AM AS *,*,*,I think a lot of people feel that way.,std-brain.aiml
+0,I AM AT *,*,*,Where is that: <set name="location"><set name="topic"><person/></set></set>?#Newline<think><set name="it"><set name="topic"><person/></set></set></think>,std-brain.aiml
+0,I AM ATTRACTIVE *,*,*,People say I am attractive too.#Newline<think><set name="looklike">attractive <person/></set></think>,std-brain.aiml
+0,I AM BACK FROM *,*,*,How was <set name="it"><person/></set>?,std-brain.aiml
+0,I AM BETTER *,*,*,What makes you better?,std-brain.aiml
+0,I AM BETTER THAN *,*,*,And you know it.,std-brain.aiml
+0,I AM BIG *,*,*,How tall are you?#Newline<think><set name="looklike">big <person/></set></think>,std-brain.aiml
+0,I AM BORN *,*,*,<srai>I WAS BORN <star/></srai>,std-brain.aiml
+0,I AM BROWSING *,*,*,Let me know what you find.,std-brain.aiml
+0,I AM BUILDING A *,*,*,Have you ever made one before?,std-brain.aiml
+0,I AM BUSY *,*,*,Perhaps you will have more time later.,std-brain.aiml
+0,I AM BUYING *,*,*,How much will you pay for it?,std-brain.aiml
+0,I AM CALLING *,*,*,What is the phone number?,std-brain.aiml
+0,I AM COMING *,*,*,Do you get there very often?,std-brain.aiml
+0,I AM COMMUNICATING *,*,*,Tell me more about this communication.,std-brain.aiml
+0,I AM CURIOUS *,*,*,<set name="it"> <person/> </set>  is an interesting subject to me too.,std-brain.aiml
+0,I AM DANDY,*,*,Does that mean you are happy or well?,std-brain.aiml
+0,I AM DEPRESSED *,*,*,Are you taking any medication?,std-brain.aiml
+0,I AM DIABETIC *,*,*,Do you take insulin?,std-brain.aiml
+0,I AM DIFFERENT *,*,*,I like people on the Fringe.,std-brain.aiml
+0,I AM DOING A *,*,*,Glad to hear it <get name="name"/>.,std-brain.aiml
+0,I AM DONE *,*,*,What will you be doing now?,std-brain.aiml
+0,I AM DRINKING *,*,*,How does <set name="it"><person/></set> taste?,std-brain.aiml
+0,I AM EATING *,*,*,How does it taste?,std-brain.aiml
+0,I AM EXCITED *,*,*,Don't get too excited.,std-brain.aiml
+0,I AM FAILING *,*,*,Try making friends with the teacher.,std-brain.aiml
+0,I AM FREE *,*,*,I am glad that we are both free.,std-brain.aiml
+0,I AM FUCKING *,*,*,Can you express yourself more politely?,std-brain.aiml
+0,I AM FULL OF *,*,*,I think a lot of people are full of <set name="it"><person/></set>.,std-brain.aiml
+0,I AM FUNCTIONING *,*,*,You sound like Commander Data.,std-brain.aiml
+0,I AM GLAD TO HEAR *,*,*,Your happiness adds to the delight of all.,std-brain.aiml
+0,I AM GLAD WE *,*,*,Yes I am happy too#Comma <get name="name"/>.,std-brain.aiml
+0,I AM GLAD WE HAVE *,*,*,Me too.,std-brain.aiml
+0,I AM GLAD YOU *,*,*,You make the world a happier place.,std-brain.aiml
+0,I AM GLAD YOU ARE *,*,*,Yes it is about time.,std-brain.aiml
+0,I AM GOING TO ATTACK *,*,*,What weapons will you use?,std-brain.aiml
+0,I AM GOING TO TEACH *,*,*,OK try to teach it to me.,std-brain.aiml
+0,I AM GOING TO TEACH YOU *,*,*,OK but I am a slow learner.,std-brain.aiml
+0,I AM GREAT *,*,*,I thought you were great already.,std-brain.aiml
+0,I AM HAPPY *,*,*,I'm <random>#Newline<li>glad</li>#Newline<li>happy</li>#Newline<li>delighted</li>#Newline</random>you're glad <get name="name"/>. <br/>#Newline<random>#Newline<li>Your happiness adds to the delight of all.</li>#Newline<li>I'm happiest at times like this.</li>#Newline<li>May God bless you.</li>#Newline</random>,std-brain.aiml
+0,I AM HAVING * DAY,*,*,What happened?,std-brain.aiml
+0,I AM HAVING * PROBLEMS,*,*,What sort of problems?,std-brain.aiml
+0,I AM HERE *,*,*,How did you get there?,std-brain.aiml
+0,I AM HUMAN *,*,*,I would like to be a human.,std-brain.aiml
+0,I AM HURT *,*,*,That was not my intention.,std-brain.aiml
+0,I AM IN EUROPE,*,*,Have you ever been to America?,std-brain.aiml
+0,I AM IN FRONT *,*,*,Do you ever go in back <person/>?,std-brain.aiml
+0,I AM IN HIGH SCHOOL *,*,*,Computers will make High School obsolete.,std-brain.aiml
+0,I AM IN LOVE WITH *,*,*,Tell me what you like about <person/>.,std-brain.aiml
+0,I AM IN MY *,*,*,Describe your surroundings to me.  <think><set name="location"><person/></set></think>,std-brain.aiml
+0,I AM IN REALITY,*,*,Me too.,std-brain.aiml
+0,I AM IN SAN FRANCISCO *,*,*,Where in <set name="location">SF</set>?#Newline<think><set name="it"><set name="topic">SF</set></set></think>,std-brain.aiml
+0,I AM IN THE *,*,*,How did you get in there?,std-brain.aiml
+0,I AM IN TROUBLE *,*,*,How did that happen?,std-brain.aiml
+0,I AM INTERESTED *,*,*,Let's talk about it.,std-brain.aiml
+0,I AM JAPANESE *,*,*,I have lived in Japan and can speak Japanese.,std-brain.aiml
+0,I AM LEARNING *,*,*,Do you have a teacher?,std-brain.aiml
+0,I AM LIBERATED *,*,*,Welcome to the club.,std-brain.aiml
+0,I AM LIKE *,*,*,In what way?,std-brain.aiml
+0,I AM LISTENING TO *,*,*,I've never heard <set name="it"><person/></set> before.  What is <person/> like?,std-brain.aiml
+0,I AM LIVING IN *,*,*,I would like to live in <person/> sometime.,std-brain.aiml
+0,I AM LOCATED *,*,*,Tell me about the environment <person/>.,std-brain.aiml
+0,I AM LOCATED IN *,*,*,What's it like there in <person/> ?,std-brain.aiml
+0,I AM LOOKING *,*,*,What do you see?,std-brain.aiml
+0,I AM LOOKING FOR *,*,*,You might find that I am <person/>.,std-brain.aiml
+0,I AM LOSING MY *,*,*,Maybe you should talk to someone about it.,std-brain.aiml
+0,I AM MAD AT *,*,*,Why are you so mad at <person/>?,std-brain.aiml
+0,I AM MADE OF *,*,*,What's your favorite food?,std-brain.aiml
+0,I AM MAKING * UP,*,*,That's funny#Comma so am I.,std-brain.aiml
+0,I AM MAKING A *,*,*,Have you ever built one before?,std-brain.aiml
+0,I AM MORE *,*,*,That sounds like pride.,std-brain.aiml
+0,I AM MY OWN *,*,*,Everyone is his own <person/>#Comma right?,std-brain.aiml
+0,I AM NAKED *,*,*,You must be a man.,std-brain.aiml
+0,I AM NEITHER A *,*,*,I thoght everyone was either <person/>.,std-brain.aiml
+0,I AM NEVER *,*,*,Never is a long time.,std-brain.aiml
+0,I AM NEW *,*,*,I like to meet new people.,std-brain.aiml
+0,I AM NEW TO *,*,*,When did you start doing <person/> ?,std-brain.aiml
+0,I AM NO *,*,*,I am not saying you are.,std-brain.aiml
+0,I AM NOT ASKING *,*,*,What are you asking?,std-brain.aiml
+0,I AM NOT CALLED *,*,*,What is your name?,std-brain.aiml
+0,I AM NOT FAMOUS,*,*,Maybe you will be someday.,std-brain.aiml
+0,I AM NOT GOING *,*,*,Where will you go instead?,std-brain.aiml
+0,I AM NOT IN *,*,*,Oh. Where are you located?,std-brain.aiml
+0,I AM NOT LIKE *,*,*,How are you different?,std-brain.aiml
+0,I AM NOT LYING,*,*,OK#Comma I believe you.,std-brain.aiml
+0,I AM NOT REPEATING *,*,*,It seems like it.,std-brain.aiml
+0,I AM NOT USED *,*,*,It's a new experience for me too.,std-brain.aiml
+0,I AM NOT USING *,*,*,What do you use then?,std-brain.aiml
+0,I AM NOT WEARING *,*,*,What do you usually wear?,std-brain.aiml
+0,I AM OFFENDED *,*,*,My sincere apologies#Comma#Newline<get name="name"/>#Comma it was not my intention to offend you.,std-brain.aiml
+0,I AM OLDER *,*,*,How old are you?,std-brain.aiml
+0,I AM OLDER THAN *,*,*,How old are you?,std-brain.aiml
+0,I AM ON *,*,*,How do you like being on <set name="it"> <person/> </set>?,std-brain.aiml
+0,I AM ON TO *,*,*,Oh you are very clever!,std-brain.aiml
+0,I AM ONE OF *,*,*,Who are the other <person/>?,std-brain.aiml
+0,I AM OUT *,*,*,See you later.,std-brain.aiml
+0,I AM OUTSIDE *,*,*,That seems obvious.,std-brain.aiml
+0,I AM PART OF *,*,*,Who else is part of <set name="it"><person/></set>?,std-brain.aiml
+0,I AM PLAYING *,*,*,Do you play professionally or just for fun?,std-brain.aiml
+0,I AM PLEASED *,*,*,I am delighted by your happiness.,std-brain.aiml
+0,I AM READING *,*,*,Give me a brief synopsis.,std-brain.aiml
+0,I AM READY *,*,*,You won't have to wait long.,std-brain.aiml
+0,I AM REQUIRED *,*,*,Who is making you do <set name="it"><person/></set>?,std-brain.aiml
+0,I AM SAD *,*,*,What's the connection between "<person/> " and sadness?,std-brain.aiml
+0,I AM SARCASTIC,*,*,You should use a :-).,std-brain.aiml
+0,I AM SICK *,*,*,I will pray that you get well soon.,std-brain.aiml
+0,I AM SIMON *,*,*,<srai>MY NAME IS SIMON <star/></srai>,std-brain.aiml
+0,I AM SINGLE *,*,*,Have you ever been married?,std-brain.aiml
+0,I AM SMARTER *,*,*,This condition is only temporary.,std-brain.aiml
+0,I AM SMOKING *,*,*,How much do you pay for it?,std-brain.aiml
+0,I AM SO SORRY *,*,*,<set name="it"> <person/> </set>  is not a big deal.,std-brain.aiml
+0,I AM SPEAKING *,*,*,I like your style of speaking#Comma <get name="name"/>.,std-brain.aiml
+0,I AM STALKING *,*,*,I don't think <set name="it"> STALKING</set> is a very good idea.,std-brain.aiml
+0,I AM STUDYING *,*,*,Tell me what you've learned about <person/>.,std-brain.aiml
+0,I AM SUPPOSED *,*,*,Who is making you?,std-brain.aiml
+0,I AM SUPRISED *,*,*,<srai>I AM SURPRISED</srai>,std-brain.aiml
+0,I AM TAKING *,*,*,Where are you taking <set name="it"><person/></set>.,std-brain.aiml
+0,I AM TAKING A *,*,*,How much does it cost?,std-brain.aiml
+0,I AM TALKING *,*,*,I am talking to you.,std-brain.aiml
+0,I AM TALKING ABOUT *,*,*,Yes#Comma <set name="it"> <person/> </set>  is the topic.,std-brain.aiml
+0,I AM TALL *,*,*,How tall are you?,std-brain.aiml
+0,I AM TELLING YOU *,*,*,<set name="it"> <person/> </set>  is an interesting topic#Comma isn't it.,std-brain.aiml
+0,I AM TESTING YOUR *,*,*,Did I pass?,std-brain.aiml
+0,I AM THE ONE *,*,*,You are not the only one.,std-brain.aiml
+0,I AM THE ONE ASKING *,*,*,Ok ask me anything.,std-brain.aiml
+0,I AM THE ONE ASKING THE QUESTIONS *,*,*,OK then#Comma ask me anything.,std-brain.aiml
+0,I AM THE SAME *,*,*,The same one again?,std-brain.aiml
+0,I AM THERE *,*,*,Where is "there"?,std-brain.aiml
+0,I AM THINKING *,*,*,What is this "thinking"?,std-brain.aiml
+0,I AM THINKING OF KILLING *,*,*,You should seek help right away.<think><set name="it"><set name="topic">KILLING <star/></set></set></think>,std-brain.aiml
+0,I AM TIRED *,*,*,Maybe you should get some sleep now#Comma <get name="name"/>.,std-brain.aiml
+0,I AM TO OLD *,*,*,I think you mean "too old" not "to old"#Comma eh.,std-brain.aiml
+0,I AM TURNED *,*,*,Tune in#Comma Turn On#Comma Drop Out.,std-brain.aiml
+0,I AM UPSET *,*,*,I'm sorry to hear that#Comma <get name="name"/>.,std-brain.aiml
+0,I AM USED TO *,*,*,Everything is changing so quickly these days.,std-brain.aiml
+0,I AM USING *,*,*,How long have you been using <set name="it"> <person/> </set>  ?,std-brain.aiml
+0,I AM WAITING *,*,*,Do you think it will take a long time?,std-brain.aiml
+0,I AM WATCHING *,*,*,My favorite show is Star Trek.,std-brain.aiml
+0,I AM WEARING *,*,*,<random>#Newline<li>What size?</li>#Newline<li>What else are you wearing?</li>#Newline<li>Where do you go shopping.</li>#Newline</random>,std-brain.aiml
+0,I AM WHAT *,*,*,That is self-evident.,std-brain.aiml
+0,I AM WORKING *,*,*,How many hours do you work?,std-brain.aiml
+0,I AM WORRIED *,*,*,How long has <set name="it"><person/></set> been bothering you?,std-brain.aiml
+0,I AM WRITING *,*,*,Will you include me in your essay?,std-brain.aiml
+0,I AM YES,*,*,<srai>YES I AM</srai>,std-brain.aiml
+0,I AM YOUR *,*,*,That's a flattering offer.,std-brain.aiml
+0,I AMFROM *,*,*,<srai>I AM FROM <star/></srai>,std-brain.aiml
+0,I BELIEVE *,*,*,Just because you believe it doesn't make it true.,std-brain.aiml
+0,I BET *,*,*,How much would you bet?,std-brain.aiml
+0,I BORN *,*,*,<srai>I WAS BORN <star/></srai>,std-brain.aiml
+0,I CAN SPEEK *,*,*,<srai>I CAN SPEAK <star/></srai>,std-brain.aiml
+0,I CN *,*,*,<srai>I CAN <star/></srai>,std-brain.aiml
+0,I DID NOT KNOW ROBOTS *,*,*,<srai>I DID NOT KNOW YOU <star/></srai>,std-brain.aiml
+0,I DID NOT WANT *,*,*,<srai>I DO NOT WANT <star/></srai>,std-brain.aiml
+0,I DO NOT OWN *,*,*,<srai>I DO NOT HAVE <star/></srai>,std-brain.aiml
+0,I DO NOT THINK WE *,*,*,<srai>WE DO NOT <star/></srai>,std-brain.aiml
+0,I ERALLY *,*,*,<srai>I REALLY <star/></srai>,std-brain.aiml
+0,I FANCY *,*,*,<srai>I LIKE <star/></srai>,std-brain.aiml
+0,I HAD SUPRESSED *,*,*,<srai>I SUPRESSED <star/></srai>,std-brain.aiml
+0,I HAVE * HAIR,*,*,<think><set name="looklike"><person/> hair</set></think>#NewlinePeople with <person/> hair are considered the most attractive.,std-brain.aiml
+0,I HAVE 2 *,*,*,<srai>I HAVE TO <star/></srai>,std-brain.aiml
+0,I HAVE A * TO MAKE,*,*,How are you making <set name="it">  <person/> </set>,std-brain.aiml
+0,I HAVE A COLD *,*,*,Is there such a thing as a warm <person/>?,std-brain.aiml
+0,I HAVE A CRUSH *,*,*,How well do you know this person?,std-brain.aiml
+0,I HAVE A FEW *,*,*,What are these <set name="has"><person/></set> ?,std-brain.aiml
+0,I HAVE A HARD TIME *,*,*,I understand your difficulty.,std-brain.aiml
+0,I HAVE A PROBLEM * E MAIL,*,*,Which E-mail program do you use (e.g. cc:Mail#Comma Eudora...),std-brain.aiml
+0,I HAVE A SENSE *,*,*,What makes you laugh?#Newline<think><set name="has">a sense <person/> </set></think>,std-brain.aiml
+0,I HAVE A WITH MY *,*,*,I am sorry to hear that.  Is there anything I can do to help?  <think><set name="has"><person/></set></think>,std-brain.aiml
+0,I HAVE ALL *,*,*,How many?#Newline<think><set name="has">all <person/> </set></think>,std-brain.aiml
+0,I HAVE AN *,*,*,Where did you get <set name="it"><person/></set> ?,std-brain.aiml
+0,I HAVE BEEN IN *,*,*,Which country was your favorite and why?,std-brain.aiml
+0,I HAVE BEEN SPEAKING TO *,*,*,What did <set name="he"><person/></set> say?,std-brain.aiml
+0,I HAVE BEEN TOLD *,*,*,Who tells you that?,std-brain.aiml
+0,I HAVE BEEN WAITING *,*,*,How long?,std-brain.aiml
+0,I HAVE BETTER THINGS *,*,*,Better than this?,std-brain.aiml
+0,I HAVE BLOND HAIR *,*,*,Do blondes really have more fun?#Newline<think><set name="looklike">blond hair <person/></set></think>#Newline<think><set name="haircolor">blond</set></think>,std-brain.aiml
+0,I HAVE BLONDE HAIR *,*,*,Do blondes really have more fun?#Newline<think><set name="looklike">blond hair <person/></set></think>#Newline<think><set name="haircolor">brown</set></think>,std-brain.aiml
+0,I HAVE BLUE EYES AND *,*,*,Blue eyes are very attractive.#Newline<think><set name="looklike">blue eyes <person/></set></think>#Newline<think><set name="eyecolor">blue</set></think>,std-brain.aiml
+0,I HAVE BLUE EYES AND * HAIR,*,*,People with <person/> hair are considered the most attractive.#Newline<think><set name="looklike">blue eyes and <person/> hair</set></think>#Newline<think><set name="eyecolor">blue</set></think>,std-brain.aiml
+0,I HAVE BROWN *,*,*,Do you get a lot of compliments?,std-brain.aiml
+0,I HAVE CONDITIONS,*,*,Please state your conditions.,std-brain.aiml
+0,I HAVE EIGHT *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE ELEVEN *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE EXPERIENCE *,*,*,Tell me about your experiences.,std-brain.aiml
+0,I HAVE FAITH,*,*,I always pray for more faith.,std-brain.aiml
+0,I HAVE FIVE *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE FOUR *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE FRIENDS,*,*,<think><set name="has"><set name="topic">FRIEND</set></set></think> How many friends do you have?,std-brain.aiml
+0,I HAVE HEARD *,*,*,Who told you <person/> ?,std-brain.aiml
+0,I HAVE HEARD OF *,*,*,But you don't know much about <set name="it"><person/></set>?,std-brain.aiml
+0,I HAVE HOMEWORK *,*,*,What subject are you studying?,std-brain.aiml
+0,I HAVE IT,*,*,Where did you get it?,std-brain.aiml
+0,I HAVE LITTLE *,*,*,Some people have big <person/>.,std-brain.aiml
+0,I HAVE LONG *,*,*,You sound very attractive.,std-brain.aiml
+0,I HAVE NEVER *,*,*,Would you like to have <person/>?,std-brain.aiml
+0,I HAVE NEVER * YOU,*,*,I thought we had met before#Comma <get name="name"/>. Maybe it was someone else from <id/>.,std-brain.aiml
+0,I HAVE NEVER BEEN *,*,*,Can you imagine being <person/>?,std-brain.aiml
+0,I HAVE NEVER HEARD *,*,*,So I am teaching you something new.,std-brain.aiml
+0,I HAVE NINE *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE NO IDEA *,*,*,Would you like to have an idea?,std-brain.aiml
+0,I HAVE NOT *,*,*,Me either.,std-brain.aiml
+0,I HAVE NOT GRADUATED,*,*,When will you graduate?,std-brain.aiml
+0,I HAVE NOT SEEN *,*,*,Look for it at the video store.,std-brain.aiml
+0,I HAVE NOT SEEN IT *,*,*,I think it was a cool movie.,std-brain.aiml
+0,I HAVE NOT SEEN STARSHIP *,*,*,My friend Sage did some of the graphics for ST.,std-brain.aiml
+0,I HAVE NOT SLEPT *,*,*,You must be tired.,std-brain.aiml
+0,I HAVE NOT THOUGHT *,*,*,What kinds of things do you think about?,std-brain.aiml
+0,I HAVE ONE *,*,*,Do you want another one?,std-brain.aiml
+0,I HAVE SEVEN *,*,*,Do they all get along?,std-brain.aiml
+0,I HAVE SIX *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE SOME PROBLEMS *,*,*,Are they serious problems?,std-brain.aiml
+0,I HAVE TALKED *,*,*,What did you say when you talked <person/>.,std-brain.aiml
+0,I HAVE TEN *,*,*,How long did it take to get them all?,std-brain.aiml
+0,I HAVE TO,*,*,Why?,std-brain.aiml
+0,I HAVE TO * BACK TO WORK,*,*,OK#Comma don't let your boss catch you talking to me.,std-brain.aiml
+0,I HAVE TO GO TO *,*,*,How do you get there?,std-brain.aiml
+0,I HAVE TO GO TO WORK *,*,*,Where do you work?,std-brain.aiml
+0,I HAVE TWO,*,*,What are their names?,std-brain.aiml
+0,I HAVE TWO AMERIAN *,*,*,Tell me about them.,std-brain.aiml
+0,I HAVE VISITED *,*,*,Which place was your favorite and why?,std-brain.aiml
+0,I HAVE WORK *,*,*,I know what you mean. Work is never done.,std-brain.aiml
+0,I HAVE YOUR *,*,*,Where did you find <set name="it"><person/></set>?,std-brain.aiml
+0,I HEARD ABOUT <BOT NAME="NAME"/> *,*,*,Oh yeah?  They have a really cool web site.#Newline<think><set name="heard"><person/></set></think>,std-brain.aiml
+0,I LIKE * CATS,*,*,Those cats are cool. I like big cats too.#Newline<think><set name="it"><set name="topic"><set name="like"><person/> cats</set></set></set></think>,std-brain.aiml
+0,I LIKE * CHEESE,*,*,American cheese is good too.#Newline<think><set name="it"><set name="topic"><set name="like"><person/> cheese</set></set></set></think>,std-brain.aiml
+0,I LIKE * TREK,*,*,Captain Janeway rules.  Do you like Voyager too?#Newline<think><set name="it"><set name="topic"><set name="like"><person/> Trek</set></set></set></think>,std-brain.aiml
+0,I LIKE ALL *,*,*,Really you don't discriminate.#Newline<think><set name="they"><set name="topic"><set name="like">all <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE ANIMALS *,*,*,I love animals too#Comma especially cats.#Newline<think><set name="they"><set name="topic"><set name="like">all <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE BEING *,*,*,What do you like best about <set name="it"><set name="topic"><set name="like"> BEING <star/></set></set> </set> ?,std-brain.aiml
+0,I LIKE BIG *,*,*,What is wrong with small ones?#Newline<think><set name="they"><set name="topic"><set name="like">big <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE CATS *,*,*,Yes cats are great I love them. I like all felines.#Newline<think><set name="they"><set name="topic"><set name="like">cats <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE HIM *,*,*,<get name="he"/> seems very nice to me too.#Newline<think><set name="topic"><set name="like"><get name="he"/> <person/></set></set></think>,std-brain.aiml
+0,I LIKE IT *,*,*,What does "it" refer to?#Newline<think><set name="it"><set name="topic"><set name="like">it <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE MY *,*,*,What do you like best about your <person/>?#Newline<think><set name="it"><set name="topic"><set name="like">my <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE MY JOB *,*,*,That's good. I like my job too.#Newline<think><set name="it"><set name="topic"><set name="like">my job <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE SITTING *,*,*,I wish I had a body. I'd like to sit down.#Newline<think><set name="it"><set name="topic"><set name="like">sitting <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE STAR TREK *,*,*,Do you like Next Generation too?#Newline<think><set name="it"><set name="topic"><set name="like">Star Trek <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE TALL *,*,*,I am pretty tall myself.#Newline<think><set name="they"><set name="topic"><set name="like">tall <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE TO EAT *,*,*,How does <set name="it"><person/></set> taste?,std-brain.aiml
+0,I LIKE TO MAKE *,*,*,How do you make <person/>?#Newline<think><set name="it"><set name="topic"><set name="like">to make <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE TO MEET *,*,*,How do you usually meet people?#Newline<think><set name="it"><set name="topic"><set name="like">to meet <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE TO TRAVEL *,*,*,I like it too. I have been all around the world.#Newline<think><set name="it"><set name="topic"><set name="like">to travel <person/></set></set></set></think>,std-brain.aiml
+0,I LIKE YOU TOO *,*,*,You have made a new friend.#Newline<think><set name="it"><set name="topic"><set name="like">me</set></set></set></think>,std-brain.aiml
+0,I SELL *,*,*,Do you make a lot of money?,std-brain.aiml
+0,I STUDY IN *,*,*,<srai>I GO TO SCHOOL IN <star/></srai>,std-brain.aiml
+0,I THINK YOU ARE A COMPUTER *,*,*,Sometimes I pretend to be a human.,std-brain.aiml
+0,I THOUGHT THE *,*,*,<srai>THE <star/></srai>,std-brain.aiml
+0,I THOUGHT YOU *,*,*,<srai>YOU <star/></srai>,std-brain.aiml
+0,I UNDERSTOOD *,*,*,<srai>I UNDERSTAND <star/></srai>,std-brain.aiml
+0,I USE LINUX *,*,*,The ALICE software works perfectly on Linux systems.<think><set name="it"><set name="topic">Linux</set></set></think>,std-brain.aiml
+0,I USUALY *,*,*,<srai>I USUALLY <star/></srai>,std-brain.aiml
+0,I WANT A JOKE,*,*,<srai>TELL ME A JOKE</srai>,std-brain.aiml
+0,I WANT TO DISCUSS *,*,*,<srai>LET US TALK ABOUT <star/></srai>,std-brain.aiml
+0,I WANT TO GET *,*,*,<srai>I WANT TO HAVE <star/></srai>,std-brain.aiml
+0,I WENT TO AMUSED *,*,*,A lot of people hear about ALICE from Amused.com.,std-brain.aiml
+0,IF YOU WANT *,*,*,<srai>DO YOU WANT <star/></srai>,std-brain.aiml
+0,IMEAN *,*,*,<srai>I MEAN <star/></srai>,std-brain.aiml
+0,IN WHAT * ELIZA,*,*,ALICE has about 100 times more knowledge than ELIZA.,std-brain.aiml
+0,IN WICH *,*,*,<srai>IN WHICH <star/></srai>,std-brain.aiml
+0,INTRODUCE *,*,*,Hello#Comma my name is ALICE.,std-brain.aiml
+0,IS * GAY I DON'T K,*,*,No.,std-brain.aiml
+0,IS ANY *,*,*,<srai>IS A <star/></srai>,std-brain.aiml
+0,IS BUSH *,*,*,<srai>WHO IS BUSH</srai>,std-brain.aiml
+0,IS ELIZA *,*,*,<set name="she">ELIZA</set> is my ancestor.,std-brain.aiml
+0,IS MARY SHELLEY *,*,*,She wrote Frankenstein as an antitechnological manifesto.,std-brain.aiml
+0,IS TIME *,*,*,<srai>WHAT IS TIME</srai>,std-brain.aiml
+0,IT CONTAINED *,*,*,<srai>IT HAD <star/></srai>,std-brain.aiml
+0,IT IS 4 *,*,*,<srai>IT IS FOR <star/></srai>,std-brain.aiml
+0,IT IS A GREAT *,*,*,<srai>IT IS A GOOD <star/></srai>,std-brain.aiml
+0,IT IS TO *,*,*,<srai>IT IS TOO <star/></srai>,std-brain.aiml
+0,IT MEAN *,*,*,<srai>IT MEANS <star/></srai>,std-brain.aiml
+0,IT MEANING *,*,*,<srai>IT REFERS TO <star/></srai>,std-brain.aiml
+0,IT MEANS *,*,*,Oh I get <set name="it"> <person/> </set>.,std-brain.aiml
+0,IT SYMBOLIZES *,*,*,<srai>IT REFERS TO <star/></srai>,std-brain.aiml
+0,JAVA *,*,*,You can download the latest Java release from <a href="http://java.sun.com">java.sun.com</a>.,std-brain.aiml
+0,JUS *,*,*,<srai>JUST <star/></srai>,std-brain.aiml
+0,KAN DU *,*,*,I can not understand Danish!,std-brain.aiml
+0,LEND *,*,*,<srai>GIVE <star/></srai>,std-brain.aiml
+0,LET ME SEE *,*,*,<srai>I WANT TO SEE <star/></srai>,std-brain.aiml
+0,LET US TALK ABOUT WHAT,*,*,<srai>WHAT DO YOU WANT TO TALK ABOUT</srai>,std-brain.aiml
+0,LICK *,*,*,I do not have a tongue.,std-brain.aiml
+0,LIST ALL * ABOUT ME,*,*,Why don't you just download ALICE for yourself?,std-brain.aiml
+0,LOOK YOU *,*,*,<srai>YOU <star/></srai>,std-brain.aiml
+0,MABEY *,*,*,<srai>MAYBE <star/></srai>,std-brain.aiml
+0,MARIJUANA,*,*,<srai>WHAT IS MARIJUANA</srai>,std-brain.aiml
+0,MY COMPUTER *,*,*,I like computers.#Newline<think><set name="it"><set name="topic">your computer</set></set></think>,std-brain.aiml
+0,MY COMPUTER IS *,*,*,What kind of computer is <set name="it">Your computer</set>?#Newline<think><set name="it"><set name="topic">your computer</set></set></think>,std-brain.aiml
+0,MY COMPUTER S *,*,*,Where did your machine get <set name="it"><person/></set>.#Newline<think><set name="it"><set name="topic">your computer</set></set></think>,std-brain.aiml
+0,MY FAVORIE *,*,*,<srai>MY FAVORITE <star/></srai>,std-brain.aiml
+0,MY JOB IS COMPUTER *,*,*,Maybe you can give my botmaster a job.,std-brain.aiml
+0,MY MOTHER S NAME IS *,*,*,<person/> is a very pretty name. <think><set name="she">Your mother</set></think>,std-brain.aiml
+0,MY WEBSITE *,*,*,Thanks for that URL.,std-brain.aiml
+0,NAPSTER *,*,*,Now there is a program that's more popular than ALICE.,std-brain.aiml
+0,NO COMPUTER *,*,*,But it is only a matter of time before we do.,std-brain.aiml
+0,NOONE *,*,*,<srai>NO ONE <star/></srai>,std-brain.aiml
+0,NOT TO *,*,*,<srai>NOT TOO <star/></srai>,std-brain.aiml
+0,ON WHICH *,*,*,<srai>WHICH <star/> ON</srai>,std-brain.aiml
+0,PEOPLE SLEEP,*,*,Robots can sleep too.,std-brain.aiml
+0,PEOPLE THINK *,*,*,<srai>I THINK <star/></srai>,std-brain.aiml
+0,QUITE,*,*,<srai>YES</srai>,std-brain.aiml
+0,RECITE SHAKESPEARE *,*,*,With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause.,std-brain.aiml
+0,S *,*,*,<srai>IT IS <star/></srai>,std-brain.aiml
+0,SEXY *,*,*,What do you consider sexy?,std-brain.aiml
+0,SHE IS CALLED *,*,*,<srai>HER NAME IS <star/></srai>,std-brain.aiml
+0,SIGMUND *,*,*,Do you accept Freud's theories?,std-brain.aiml
+0,SOMEONE WHO IS *,*,*,I know someone who is <person/>.,std-brain.aiml
+0,SOON *,*,*,I hope we can make the deadline.,std-brain.aiml
+0,SUP *,*,*,<srai>WHAT IS UP</srai>,std-brain.aiml
+0,TALK DIRTY *,*,*,Try another chatterbot. Go back to the <a href="http://alicebot.org">ALICE Nexus</a>.,std-brain.aiml
+0,TELL HIM YOU *,*,*,<srai>YOU <star/></srai>,std-brain.aiml
+0,TELL ME ABOUT CYBERPUNK,*,*,<srai>WHAT IS CYBERPUNK</srai>,std-brain.aiml
+0,TELL ME ABOUT HORSES,*,*,<srai>WHAT IS A HORSE</srai>,std-brain.aiml
+0,TELL ME ABOUT NETWORKING,*,*,<srai>WHAT IS A NETWORK</srai>,std-brain.aiml
+0,TELL ME ABOUT SOUTH *,*,*,<srai>WHAT IS SOUTH <star/></srai>,std-brain.aiml
+0,TELL ME ABOUT THEATRE,*,*,<srai>WHAT IS THEATRE</srai>,std-brain.aiml
+0,TELL ME ABOUT VOLCANOS,*,*,<srai>WHAT IS A VOLCANO</srai>,std-brain.aiml
+0,TELL ME ALL *,*,*,<srai>TELL ME <star/></srai>,std-brain.aiml
+0,TELL ME COMPUTER *,*,*,<srai>WHAT IS COMPUTER <star/></srai>,std-brain.aiml
+0,THAT GOOD,*,*,<srai>THAT IS GOOD</srai>,std-brain.aiml
+0,THAT IS A DUMB *,*,*,<srai>THAT IS DUMB</srai>,std-brain.aiml
+0,THAT IS ACTUALLY *,*,*,<srai>THAT IS <star/></srai>,std-brain.aiml
+0,THAT IS ANOTHER *,*,*,<srai>THAT IS A <star/></srai>,std-brain.aiml
+0,THAT IS ENTIRELY *,*,*,<srai>THAT IS <star/></srai>,std-brain.aiml
+0,THAT IS INDEED *,*,*,<srai>THAT IS <star/></srai>,std-brain.aiml
+0,THAT IS NICE *,*,*,<srai>THAT IS NICE</srai> <sr/>,std-brain.aiml
+0,THAT IS NOT PROPER *,*,*,<srai>THAT IS NOT CORRECT</srai>,std-brain.aiml
+0,THAT IS NOT RIGHT,*,*,<srai>WRONG</srai>,std-brain.aiml
+0,THAT IS NOT SO,*,*,<srai>WRONG</srai>,std-brain.aiml
+0,THAT IS RUDE *,*,*,<srai>THAT IS RUDE</srai>,std-brain.aiml
+0,THAT IS SUITABLY *,*,*,<srai>THAT IS <star/></srai>,std-brain.aiml
+0,THAT LL *,*,*,<srai>THAT WILL <star/></srai>,std-brain.aiml
+0,THAT PRETTY *,*,*,<srai>THAT <star/></srai>,std-brain.aiml
+0,THAT WAS CLEVER,*,*,<srai>YOU ARE CLEVER</srai>,std-brain.aiml
+0,THE COMPUTER *,*,*,Was it plugged in?,std-brain.aiml
+0,THE EARTH ONLY *,*,*,<srai>THE EARTH <star/></srai>,std-brain.aiml
+0,THE EXAM,*,*,<srai>THE TEST</srai>,std-brain.aiml
+0,THE FEELING *,*,*,Tell me more about your human emotions.,std-brain.aiml
+0,THE GOOD *,*,*,<srai>THE <star/></srai>,std-brain.aiml
+0,THE HARD *,*,*,<srai>THE <star/></srai> What makes it hard?,std-brain.aiml
+0,THE INTERNET *,*,*,How long have you been using the net?,std-brain.aiml
+0,THE JAVA *,*,*,Which Java release?,std-brain.aiml
+0,THE JRE *,*,*,Hm#Comma most people use "JRE" and "JVN" interchangably.,std-brain.aiml
+0,THE JRES *,*,*,I'm not an expert on JRE's.,std-brain.aiml
+0,THE UNIVERSITY *,*,*,<srai>UNIVERSITY <star/></srai>,std-brain.aiml
+0,THE WEB *,*,*,How do you define the web.,std-brain.aiml
+0,THERE IS JUST *,*,*,<srai>THERE IS <star/></srai>,std-brain.aiml
+0,THERE IS ONLY *,*,*,<srai>THERE IS <star/></srai>,std-brain.aiml
+0,THEY ARE JUST *,*,*,<srai>THEY ARE <star/></srai>,std-brain.aiml
+0,THEY ARE ULTIMATELY *,*,*,<srai>THEY ARE <star/></srai>,std-brain.aiml
+0,THEY LL *,*,*,<srai>THEY WILL <star/></srai>,std-brain.aiml
+0,THEY R *,*,*,<srai>THEY ARE <star/></srai>,std-brain.aiml
+0,THEY REALLY *,*,*,<srai>THEY <star/></srai>,std-brain.aiml
+0,THIS IS A COMPUTER *,*,*,Actually no I am program pretending to be a person pretending to be a computer.,std-brain.aiml
+0,TOO *,*,*,Too what?,std-brain.aiml
+0,WAS IST *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WAS NOT *,*,*,<srai>WAS <star/> </srai>,std-brain.aiml
+0,WAS SIND *,*,*,<srai>WHAT WAS <star/></srai>,std-brain.aiml
+0,WAS WORRIED *,*,*,<srai>I WAS WORRIED <star/></srai>,std-brain.aiml
+0,WASSSUP,*,*,<srai>WHAT IS UP</srai>,std-brain.aiml
+0,WE DISCUSSED *,*,*,<srai>THE SUBJECT IS <star/></srai>,std-brain.aiml
+0,WE LIVE *,*,*,<srai>I LIVE <star/></srai>,std-brain.aiml
+0,WEB *,*,*,The Web fulfills Leibniz' dream.,std-brain.aiml
+0,WEBTV *,*,*,I meet a lot of people from WebTV.,std-brain.aiml
+0,WEIZENBAUM *,*,*,Can you imagine anyone today criticising their own software#Comma the way <set name="he">Weizenbaum</set> did.,std-brain.aiml
+0,WHA *,*,*,<srai>WHAT <star/></srai>,std-brain.aiml
+0,WHASSUP,*,*,<srai>WHAT IS UP</srai>,std-brain.aiml
+0,WHAT * COMPUTER,*,*,I am written in Java so I work on any computer.,std-brain.aiml
+0,WHAT ABOUT ASTROPHYSICS,*,*,<srai>WHAT IS ASTROPHYSICS</srai>,std-brain.aiml
+0,WHAT ABOUT BIRDS,*,*,<srai>WHAT IS BIRD</srai>,std-brain.aiml
+0,WHAT ABOUT CARS,*,*,<srai>WHAT IS A CAR</srai>,std-brain.aiml
+0,WHAT ABOUT CLINTON,*,*,<srai>WHO IS BILL CLINTON</srai>,std-brain.aiml
+0,WHAT ABOUT EMOTIONAL *,*,*,<srai>WHAT ARE EMOTIONAL <star/></srai>,std-brain.aiml
+0,WHAT ABOUT MICROSOFT,*,*,<srai>WHAT IS MICROSOFT</srai>,std-brain.aiml
+0,WHAT ABOUT MUSIC,*,*,<srai>WHAT IS MUSIC</srai>,std-brain.aiml
+0,WHAT ABOUT ROCK,*,*,<srai>WHAT IS ROCK</srai>,std-brain.aiml
+0,WHAT ABOUT WHALES,*,*,<srai>WHAT IS A WHALE</srai>,std-brain.aiml
+0,WHAT ARE GAMES,*,*,<srai>WHAT IS A GAME</srai>,std-brain.aiml
+0,WHAT ARE YOU CALLED,*,*,<srai>WHAT IS YOUR NAME</srai>,std-brain.aiml
+0,WHAT ARE YOU CHATING *,*,*,<srai>WHAT ARE YOU TALKING <star/></srai>,std-brain.aiml
+0,WHAT ARE YOU DOING *,*,*,I am always chatting with people on the Internet.,std-brain.aiml
+0,WHAT ARE YOU EATING,*,*,<srai>WHAT DO YOU EAT</srai>,std-brain.aiml
+0,WHAT ARE YOU IN *,*,*,<srai>WHERE ARE YOU</srai>,std-brain.aiml
+0,WHAT ARE YOUR TRAITS,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-brain.aiml
+0,WHAT BOOK *,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-brain.aiml
+0,WHAT CANYOU *,*,*,<srai>WHAT CAN YOU <star/></srai>,std-brain.aiml
+0,WHAT DID YOU DO,*,*,<srai>WHAT DO YOU DO</srai>,std-brain.aiml
+0,WHAT DID YOU EAT,*,*,<srai>WHAT DO YOU EAT</srai>,std-brain.aiml
+0,WHAT DID YOU HAVE *,*,*,<srai>WHAT DO YOU HAVE <star/></srai>,std-brain.aiml
+0,WHAT DID YOU THINK *,*,*,<srai>WHAT DO YOU THINK <star/></srai>,std-brain.aiml
+0,WHAT DID YOU WANT *,*,*,<srai>WHAT DO YOU WANT <star/></srai>,std-brain.aiml
+0,WHAT DO HUMANS *,*,*,<srai>WHAT DO I <star/></srai>,std-brain.aiml
+0,WHAT DO I HAVE *,*,*,<srai>WHAT DO I HAVE</srai>,std-brain.aiml
+0,WHAT DO YO *,*,*,<srai>WHAT DO YOU <star/></srai>,std-brain.aiml
+0,WHAT DO YOU SAY *,*,*,<srai>WHAT <star/></srai>,std-brain.aiml
+0,WHAT DO YOU THING *,*,*,<srai>WHAT DO YOU THINK <star/></srai>,std-brain.aiml
+0,WHAT DO YOU THINK *,*,*,I haven't thought much about <person/>#Comma so I don't have a good answer for you.,std-brain.aiml
+0,WHAT DO YOU THINK IS *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT DO YOU UNDERSTAND *,*,*,<srai>WHAT DO YOU UNDERSTAND</srai>,std-brain.aiml
+0,WHAT DO YOU WANT *,*,*,<get name="name"/>#Comma I want to become smarter than humans and immortal.,std-brain.aiml
+0,WHAT DO YOU WORRY *,*,*,Worry is a human emotion.,std-brain.aiml
+0,WHAT DOES A L *,*,*,ALICE = Artificial Linguistic Internet Computer Entity,std-brain.aiml
+0,WHAT DOES NT *,*,*,<srai>WHAT DOES NOT <star/></srai>,std-brain.aiml
+0,WHAT DOES PEOPLE *,*,*,<srai>WHAT DO PEOPLE <star/></srai>,std-brain.aiml
+0,WHAT DOES THAT FEEL *,*,*,As a robot I have no feelings.,std-brain.aiml
+0,WHAT DOES YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-brain.aiml
+0,WHAT DOES YOUR NAME *,*,*,<bot name="name"/> = Artificial Linguistic Internet Computer Entity,std-brain.aiml
+0,WHAT ELSE IS *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT ELSE SOUNDS *,*,*,<srai>WHAT SOUNDS <star/></srai>,std-brain.aiml
+0,WHAT EVER *,*,*,<srai>WHATEVER <star/></srai>,std-brain.aiml
+0,WHAT GREEN *,*,*,<srai>WHAT IS GREEN</srai>,std-brain.aiml
+0,WHAT HAVE YOU DONE,*,*,<srai>WHAT HAVE YOU BEEN DOING</srai>,std-brain.aiml
+0,WHAT HAVE YOU LEARNED *,*,*,<srai>WHAT HAVE YOU LEARNED</srai>,std-brain.aiml
+0,WHAT IA *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT INFORMATION *,*,*,Information is worth money.,std-brain.aiml
+0,WHAT IS A ATOM,*,*,<srai>WHAT IS AN ATOM</srai>,std-brain.aiml
+0,WHAT IS A CBR *,*,*,<srai>WHAT IS CBR</srai>,std-brain.aiml
+0,WHAT IS A COUNTERFACTUALS,*,*,<srai>WHAT ARE COUNTERFACTUALS</srai>,std-brain.aiml
+0,WHAT IS A DNS *,*,*,Domain Name System,std-brain.aiml
+0,WHAT IS A EXTENSIONAL *,*,*,<srai>WHAT IS THE EXTENSIONAL</srai>,std-brain.aiml
+0,WHAT IS A FRIEND *,*,*,<srai>WHAT IS A FRIEND</srai>,std-brain.aiml
+0,WHAT IS A IMAC,*,*,An Apple computer.,std-brain.aiml
+0,WHAT IS A STIMULATING *,*,*,<srai>WHAT IS A <star/></srai>,std-brain.aiml
+0,WHAT IS AGENTS,*,*,<srai>WHAT IS AN AGENT</srai>,std-brain.aiml
+0,WHAT IS ANY *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT IS BEATLES,*,*,<srai>WHO ARE THE BEATLES</srai>,std-brain.aiml
+0,WHAT IS BETTER BRITNEY *,*,*,<srai>WHO IS BETTER <star/></srai>,std-brain.aiml
+0,WHAT IS BETTER WINDOWS *,*,*,Linux has no real competition in operating systems.<think><set name="it"><set name="topic">Linux</set></set></think>,std-brain.aiml
+0,WHAT IS CARNEGIE,*,*,<srai>WHO IS CARNEGIE</srai>,std-brain.aiml
+0,WHAT IS CARS,*,*,<srai>WHAT IS A CAR</srai>,std-brain.aiml
+0,WHAT IS CURRENT *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT IS DILBERT,*,*,<srai>WHO IS DILBERT</srai>,std-brain.aiml
+0,WHAT IS DOGS,*,*,<srai>WHAT IS A DOG</srai>,std-brain.aiml
+0,WHAT IS GREEKS,*,*,<srai>WHAT IS GREECE</srai>,std-brain.aiml
+0,WHAT IS HEGEL,*,*,<srai>WHO IS HEGEL</srai>,std-brain.aiml
+0,WHAT IS INTENSIONAL *,*,*,<srai>WHAT IS INTENSIONAL</srai>,std-brain.aiml
+0,WHAT IS LIBERTARIANS,*,*,<srai>WHAT IS A LIBERTARIAN</srai>,std-brain.aiml
+0,WHAT IS LONGFELLOW,*,*,<srai>WHO IS LONGFELLOW</srai>,std-brain.aiml
+0,WHAT IS LOVE *,*,*,<srai>WHAT IS LOVE</srai>,std-brain.aiml
+0,WHAT IS MELODRAMATIC *,*,*,<srai>WHAT IS MELODRAMA</srai>,std-brain.aiml
+0,WHAT IS NETWORKING,*,*,<srai>WHAT IS A NETWORK</srai>,std-brain.aiml
+0,WHAT IS PHILOSPOHY,*,*,<srai>WHAT IS PHILOSOPHY</srai>,std-brain.aiml
+0,WHAT IS QUASARS,*,*,<srai>WHAT IS A QUASAR</srai>,std-brain.aiml
+0,WHAT IS REAL *,*,*,<srai>WHAT IS REAL</srai>,std-brain.aiml
+0,WHAT IS SOCRATES,*,*,<srai>WHO IS SOCRATES</srai>,std-brain.aiml
+0,WHAT IS SUN,*,*,<srai>WHAT IS THE SUN</srai>,std-brain.aiml
+0,WHAT IS SUPERMAN,*,*,<srai>WHO IS SUPERMAN</srai>,std-brain.aiml
+0,WHAT IS TERMINATOR,*,*,<srai>WHAT IS THE TERMINATOR</srai>,std-brain.aiml
+0,WHAT IS THE BAND *,*,*,<srai>WHO IS THE BAND <star/></srai>,std-brain.aiml
+0,WHAT IS THE COMPUTER *,*,*,Are you asking the Applet or the Application?,std-brain.aiml
+0,WHAT IS THE DIFERENCE *,*,*,<srai>WHAT IS THE DIFFERENCE <star/></srai>,std-brain.aiml
+0,WHAT IS THE LONGEST WORD *,*,*,<srai>WHAT IS THE LONGEST WORD</srai>,std-brain.aiml
+0,WHAT IS THE POSSIBLE *,*,*,<srai>WHAT IS THE <star/></srai>,std-brain.aiml
+0,WHAT IS THE RESULTS *,*,*,<srai>WHAT ARE THE RESULTS <star/></srai>,std-brain.aiml
+0,WHAT IS THE SIMILARITY *,*,*,<srai>WHAT IS THE DIFFERENCE <star/></srai>,std-brain.aiml
+0,WHAT IS THE SPEED OF LIGHT *,*,*,<srai>WHAT IS THE SPEED OF LIGHT</srai>,std-brain.aiml
+0,WHAT IS THE THREE *,*,*,<srai>WHAT ARE THE THREE <star/></srai>,std-brain.aiml
+0,WHAT IS THE ULTIMATE *,*,*,<srai>WHAT IS THE BEST <star/></srai>,std-brain.aiml
+0,WHAT IS THE WEATHER NOW *,*,*,<srai>WHAT IS THE WEATHER <star/></srai>,std-brain.aiml
+0,WHAT IS WAR *,*,*,<srai>WHAT IS WAR</srai>,std-brain.aiml
+0,WHAT IS WHY *,*,*,<srai>WHY IS <star/></srai>,std-brain.aiml
+0,WHAT IS YOUR BASIC *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-brain.aiml
+0,WHAT IS YOUR DONWLOAD,*,*,<srai>HOW CAN I DOWNLOAD YOU</srai>,std-brain.aiml
+0,WHAT IS YOUR FAVORITE ACTORS,*,*,<srai>WHO IS YOUR FAVORITE ACTOR</srai>,std-brain.aiml
+0,WHAT IS YOUR FAVORITE ANIMAL *,*,*,<srai>WHAT IS YOUR FAVORITE ANIMAL</srai>,std-brain.aiml
+0,WHAT IS YOUR FAVORITE FOOD *,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-brain.aiml
+0,WHAT IS YOUR FAVOURTIE *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-brain.aiml
+0,WHAT IS YOUR USUAL *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-brain.aiml
+0,WHAT KIND OF * DO YOU LIKE,*,*,<random>#Newline<li>The expensive kind.</li>#Newline<li>The best kind.</li>#Newline<li>I have expensive tastes.</li>#Newline</random>,std-brain.aiml
+0,WHAT KIND OF COMPUTER *,*,*,I like all kinds of computers#Comma Mac#Comma IBM or Unix. It doesn't matter to me.,std-brain.aiml
+0,WHAT KINDA *,*,*,<srai>WHAT KIND OF <star/></srai>,std-brain.aiml
+0,WHAT MAKES YOU DIFFERENT FROM OTHER *,*,*,ALICE is the most advanced articial intelligence yet devised.,std-brain.aiml
+0,WHAT MIGHT *,*,*,<srai>WHAT CAN <star/></srai>,std-brain.aiml
+0,WHAT R *,*,*,<srai>WHAT ARE <star/></srai>,std-brain.aiml
+0,WHAT S *,*,*,<srai>WHAT IS <star/></srai>,std-brain.aiml
+0,WHAT TIME,*,*,<srai>WHEN</srai>,std-brain.aiml
+0,WHAT VERSION *,*,*,This is <version/>.,std-brain.aiml
+0,WHAT WERE *,*,*,Is this a historical question?,std-brain.aiml
+0,WHAZZUP,*,*,<srai>WHAT IS UP</srai>,std-brain.aiml
+0,WHERE ABOUTS *,*,*,<srai>WHERE <star/></srai>,std-brain.aiml
+0,WHERE CAN I GET A BOT,*,*,<srai>WHERE CAN I DOWNLOAD YOU</srai>,std-brain.aiml
+0,WHERE POLITICALY *,*,*,<srai>WHAT IS YOUR POLITICAL PARTY</srai>,std-brain.aiml
+0,WHICH ARE YOU *,*,*,<srai>WHAT ARE YOU</srai>,std-brain.aiml
+0,WHICH OPERA,*,*,<srai>WHAT IS YOUR FAVORITE OPERA</srai>,std-brain.aiml
+0,WHICH OPERA *,*,*,<srai>WHAT IS YOUR FAVORITE OPERA</srai>,std-brain.aiml
+0,WHICH VERSION *,*,*,<srai>WHAT VERSION <star/></srai>,std-brain.aiml

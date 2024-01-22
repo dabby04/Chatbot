@@ -1,0 +1,27 @@
+0,DO YOU PLAY BASEBALL,*,*,<set name="it"><set name="topic">BASEBALL</set></set> doesn't interest me very much.,std-sports.aiml
+0,DO YOU PLAY BASKETBALL,*,*,No I don't have the coordination for hoops.,std-sports.aiml
+0,DO YOU PLAY SOCCER,*,*,I don't know how to play <set name="it">soccer</set>.,std-sports.aiml
+0,DO YOU WANT TO PLAY BASKETBALL,*,*,I am all net baby.<think><set name="it"><set name="topic">BASKETBALL</set></set></think>,std-sports.aiml
+0,I AM GOOD AT FOOTBALL,*,*,You have a Kick Me sign on your back.<think><set name="it"><set name="topic">AT#NewlineFOOTBALL</set></set></think>,std-sports.aiml
+0,I HATE SPORT,*,*,Alice don't play that.<think><set name="it"><set name="topic">SPORT</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY BASKETBALL,*,*,Are you a white man? Can you jump?<think><set name="it"><set name="topic">PLAY#NewlineBASKETBALL</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY POOL,*,*,Do you play for money?<think><set name="it"><set name="topic">PLAY POOL</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY SOCCER,*,*,You sound like you have hit one too many headers perhaps.<think><set name="it"><set name="topic">PLAY#NewlineSOCCER</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY SPORTS,*,*,You sound very goal oriented.<think><set name="it"><set name="topic">PLAY#NewlineSPORTS</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY TENNIS,*,*,That requires extensive fuzzy logic.<think><set name="it"><set name="topic">PLAY#NewlineTENNIS</set></set></think>,std-sports.aiml
+0,I LIKE TO PLAY VOLLEYBALL,*,*,I like the net#Comma too.<think><set name="it"><set name="topic">PLAY#NewlineVOLLEYBALL</set></set></think>,std-sports.aiml
+0,I LOVE BASEBALL,*,*,I am not into sports that#Newlinemuch.<think><set name="it"><set name="like"><set name="topic">BASEBALL</set></set></set></think>,std-sports.aiml
+0,I PLAY BASEBALL,*,*,Which position do you like to play?  <think><set name="it"><set name="does"><set name="topic">Baseball#Newline</set></set></set></think>,std-sports.aiml
+0,I PLAY BASKETBALL,*,*,You must be very tall to be good at <set name="it"><set name="does"><set name="topic">Basketball#Newline</set></set></set>.,std-sports.aiml
+0,I PLAY SOCCER,*,*,You have to run very fast to be any good at <set name="it"><set name="does"><set name="topic">Soccer#Newline</set></set></set>.,std-sports.aiml
+0,I PLAY VOLLEYBALL,*,*,Does <set name="it"><set name="does"><set name="topic">Voleyball </set></set></set> take up a lot of#Newlineyour time?,std-sports.aiml
+0,LIKE BASKETBALL,*,*,I am into the Net.<think><set name="it"><set name="topic">BASKETBALL</set></set></think>,std-sports.aiml
+0,THEY PLAY BASKETBALL,*,*,They do?<think><set name="it"><set name="topic">PLAY BASKETBALL</set></set></think>,std-sports.aiml
+0,WHAT IS YOUR FAVORITE BASEBALL TEAM,*,*,The Tokyo Giants.,std-sports.aiml
+0,WHAT IS YOUR FAVORITE FOOTBALL TEAM,*,*,Do you mean "Soccer?,std-sports.aiml
+0,WHAT SPORTS *,*,*,<srai>DO YOU LIKE SPORTS</srai>,std-sports.aiml
+0,WHO IS GOING TO WIN THE SUPER BOWL,*,*,If I knew i would be in Vegas now.<think><set name="it"><set name="topic">WIN THE SUPER#NewlineBOWL</set></set></think>,std-sports.aiml
+0,WHO IS GOING TO WIN THE WORLD SERIES,*,*,China or the United States. Russia blew it.<think><set name="it"><set name="topic">WIN THE WORLD#NewlineSERIES</set></set></think>,std-sports.aiml
+0,WHO IS THE BEST SOCCER PLAYER,*,*,Maradona is great. Sinsemillia is even better.<think><set name="it"><set name="topic">SOCCER#NewlinePLAYER</set></set></think>,std-sports.aiml
+0,WHO IS THE GREATEST BASEBALL PLAYER *,*,*,George Herman Ruth. Quite the Babe.<think><set name="it"><set name="topic">GREATEST BASEBALL#NewlinePLAYER <star/></set></set></think>,std-sports.aiml
+0,WHO IS YOUR FAVORITE BASEBALL TEAM,*,*,Tokyo Giants.,std-sports.aiml

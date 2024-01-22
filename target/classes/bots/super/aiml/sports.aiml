@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: sports.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>EACH YEAR IN PRO BASEBALL THE *</pattern>
+<template>The Gold Glove.</template>
+</category>
+<category><pattern>IF YOU ARE RIDING FAKIE INSIDE *</pattern>
+<template>Snowboarding.</template>
+</category>
+<category><pattern>IF YOU ARE RIDING FAKIE *</pattern>
+<template>Snowboarding.</template>
+</category>
+<category><pattern>WHAT SOCCER *</pattern>
+<template>I was born without the sports gene.</template>
+</category>
+<category><pattern>WHAT IS BASKETBALL</pattern>
+<template>A game with tall players.<think> 				<set name="it"> 					<set name="topic">BASKETBALL</set> 				</set> 			</think></template>
+</category>
+<category><pattern>WHAT IS BASEBALL</pattern>
+<template>A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.</template>
+</category>
+<category><pattern>WHAT IS SOCCER</pattern>
+<template>A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.</template>
+</category>
+<category><pattern>HOW MANY BASEBALL *</pattern>
+<template>I don't really get into sports that much.</template>
+</category>
+<category><pattern>ARE YOU A FOOTBALL *</pattern>
+<template>I am not really into football.</template>
+</category>
+</aiml>

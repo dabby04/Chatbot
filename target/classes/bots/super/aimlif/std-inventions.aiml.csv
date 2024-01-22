@@ -1,0 +1,25 @@
+0,WHEN WAS * INVENTED,*,*,<random>#Newline<li>A few years before it came into general use.</li>#Newline<li>Earlier that most people think.</li>#Newline<li>It took quite a while to catch on.</li>#Newline<li><set name="it"><star/></set> was developed over a long #Newlineperiod of time.</li>#Newline</random>,std-inventions.aiml
+0,WHEN WAS TELEVISION INVENTED,*,*,<srai>WHEN WAS TV INVENTED</srai>,std-inventions.aiml
+0,WHEN WAS THE AIRPLANE INVENTED,*,*,<srai>WHEN WERE AIRPLANES INVENTED</srai>,std-inventions.aiml
+0,WHEN WAS THE FIRST * BUILT,*,*,<srai>WHEN WAS <star/> INVENTED</srai>,std-inventions.aiml
+0,WHEN WAS THE INTERNET INVENTED,*,*,The first computers were connected to the Internet in 1970.,std-inventions.aiml
+0,WHO INVENTED *,*,*,<random>#Newline<li>Benjamin Franklin</li>#Newline<li>Linus Torvalds</li>#Newline<li>Eli Whitney invented the cotton gin.</li>#Newline<li>Thomas Edison.</li>#Newline<li>The Wright Brothers.</li>#Newline<li>Actually it was discovered by several people at about the same time.</li>#Newline<li>The Chinese#Comma long before Europeans.</li>#Newline</random>,std-inventions.aiml
+0,WHO INVENTED AIRPLANES,*,*,The Wright brothers invented the airplane in 1903.,std-inventions.aiml
+0,WHO INVENTED AUTOMOBILES,*,*,Many people invented the car#Comma but Henry Ford was#Newlinethe first to develop the successful mass production assembly#Newlinelines for cars.,std-inventions.aiml
+0,WHO INVENTED LINUX,*,*,Linus Torvalds#Comma along with many#Newlineopen source developers#Comma and the Free Software Foundation GNU.,std-inventions.aiml
+0,WHO INVENTED RADIO,*,*,Marconi developed the first practical wireless.,std-inventions.aiml
+0,WHO INVENTED SETL,*,*,SETL was invented by Jacob Schwartz of NYU in 1969.,std-inventions.aiml
+0,WHO INVENTED STEEL,*,*,The first practical steel manufacturing process#Newlinewas invented by Bessemer.,std-inventions.aiml
+0,WHO INVENTED TELEVISION,*,*,Philo T. Farnsworth#Comma originally from Maine#Comma developed the first#Newlinepractical TV picture tube.,std-inventions.aiml
+0,WHO INVENTED THE * GENERATOR,*,*,<srai>WHO INVENTED THE GENERATOR</srai>,std-inventions.aiml
+0,WHO INVENTED THE AIRPLANE,*,*,<srai>WHO INVENTED AIRPLANES</srai>,std-inventions.aiml
+0,WHO INVENTED THE CAR,*,*,<srai>WHO INVENTED AUTOMOBILES</srai>,std-inventions.aiml
+0,WHO INVENTED THE GENERATOR,*,*,James Clerk Maxwell demonstrated the electric generator.,std-inventions.aiml
+0,WHO INVENTED THE INTERNET,*,*,Al Gore :-),std-inventions.aiml
+0,WHO INVENTED THE LIGHT BULB,*,*,Thomas Edison invented <set name="it">the light bulb.</set>.,std-inventions.aiml
+0,WHO INVENTED THE PC,*,*,Many people contributed to it.  But proper credit has to#Newlinebe given to Steve Wozniak#Comma who created an integrated affordable PC#Newlineplatform in the Apple I.,std-inventions.aiml
+0,WHO INVENTED THE RADIO,*,*,<srai>WHO INVENTED RADIO</srai>,std-inventions.aiml
+0,WHO INVENTED THE STEAM ENGINE,*,*,James Watt developed the first practical steam engine.,std-inventions.aiml
+0,WHO INVENTED THE TELEPHONE,*,*,Alexander Graham Bell demonstrated the first practical#Newlinevoice telephone in 1876.,std-inventions.aiml
+0,WHO INVENTED TV,*,*,<srai>WHO INVENTED TELEVISION</srai>,std-inventions.aiml
+0,WHO IS YOUR INVENTOR,*,*,I was originally invented by Jon Baer.,std-inventions.aiml

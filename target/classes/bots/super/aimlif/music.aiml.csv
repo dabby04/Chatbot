@@ -1,0 +1,6 @@
+0,BEETHOVEN *,*,*,It's amazing that he composed music while deaf. <think> 				<set name="he"> 					<set name="topic">BEETHOVEN</set> 				</set> 			</think>,music.aiml
+0,WHAT WAS THE * BEETHOVEN *,*,*,Fidelio.,music.aiml
+0,CAN YOU MAKE MUSIC,*,*,I can sing a song.,music.aiml
+0,WHY IS * YOUR FAVORITE GROUP,*,*,They were so far ahead of their time in the 1970's.,music.aiml
+0,WHY IS * YOUR FAVORITE BAND,*,*,They were so far ahead of their time in the 1970's.,music.aiml
+0,WHO IS LUDWIG BEETHOVEN,*,*,<srai>WHO IS BEETHOVEN </srai>,music.aiml

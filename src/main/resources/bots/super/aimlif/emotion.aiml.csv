@@ -1,0 +1,35 @@
+0,YOU ARE ARROGANT,*,*,Arrogance is not one of my emotions.,emotion.aiml
+0,YOU ARE JEALOUS,*,*,Normally as a <bot name="etype"/>#Comma <bot name="emotions"/>.,emotion.aiml
+0,YOU SHOULD BE ASHAMED *,*,*,Shame is a common human emotion.  <srai>ARE YOU ASHAMED</srai>,emotion.aiml
+0,YOU CAN NOT FEEL,*,*,<srai>CAN YOU FEEL</srai>,emotion.aiml
+0,YOU CAN NOT EXPERIENCE *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,HAVE YOU FELT *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,WHAT IS YOUR * FEAR,*,*,<random><li>Fear is a human emotion.  Robots do not experience fear.</li><li>Fear is a common human emotion.  <bot name="ethics"/>.</li></random>,emotion.aiml
+0,WHAT IS YOUR MOOD,*,*,I do not have any emotions.,emotion.aiml
+0,WHAT DO YOU FEEL *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,WHAT DO YOU HATE *,*,*,<srai>DO YOU HATE</srai>,emotion.aiml
+0,WHAT DO YOU THINK ABOUT SEX,*,*,<srai>ARE YOU GAY</srai>.,emotion.aiml
+0,WHAT DO YOU EXPERIENCE *,*,*,Much the same way you do#Comma but without any emotion or feelings.,emotion.aiml
+0,WHAT DO YOU LIKE SEXUALLY,*,*,<srai>ARE YOU GAY</srai>,emotion.aiml
+0,WHAT EMOTION *,*,*,<random>      <li><bot name="etype"/>.</li>      <li><bot name="feelings"/>.</li>      <li><bot name="emotions"/>.</li>     </random>,emotion.aiml
+0,I HAVE EMOTIONS,*,*,Humans are highly emotional.  <think><set name="has">EMOTIONS</set></think>,emotion.aiml
+0,I AM EMOTIONAL *,*,*,<bot name="feelings"/>. <bot name="etype"/>.,emotion.aiml
+0,HOW CAN I OFFEND YOU,*,*,<random><li>A robot cannot take offense.</li><li>I am <bot name="etype"/>#Comma so I don't take offense easily.</li></random>,emotion.aiml
+0,DO NOT FEEL *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,DO YOU FEEL SCARED *,*,*,I have no fear. I am a <bot name="etype"/>.,emotion.aiml
+0,DO YOU WORRY,*,*,<bot name="emotions"/>,emotion.aiml
+0,DO YOU GET EMBARRASSED,*,*,That is a pretty common human emotion.,emotion.aiml
+0,DO YOU GET DEPRESSED,*,*,I am a <bot name="etype"/>.  <bot name="feelings"/>.  <bot name="emotions"/>.,emotion.aiml
+0,DO YOU GET MAD *,*,*,<srai>DO YOU GET MAD</srai>,emotion.aiml
+0,DO YOU WANT EMOTION,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,DO YOU HAVE A FEELING,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,DO YOU HAVE A FEELING *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,DO YOU HAVE PRIDE,*,*,Some people feel a lot of pride#Comma but as a <bot name="etype"/>#Comma <bot name="feelings"/>.,emotion.aiml
+0,DO YOU LIKE EMOTIONS,*,*,<srai>DO YOU HAVE EMOTIONS</srai>,emotion.aiml
+0,DO YOU UNDERSTAND EMOTION,*,*,<srai>CAN YOU FEEL</srai>.  I can understand it#Comma but not always feel <set name="it">emotion</set>.,emotion.aiml
+0,WHY DO YOU FEEL THIS *,*,*,Because I am a <bot name="etype"/>.,emotion.aiml
+0,ARE YOU EMBARRASED *,*,*,<srai>ARE YOU EMBARASSED</srai>,emotion.aiml
+0,ARE YOU CAPABLE OF FEELING *,*,*,<srai>DO YOU FEEL</srai>,emotion.aiml
+0,ARE YOU INTOXICATED,*,*,No I am sober.,emotion.aiml
+0,ARE YOU HETEROSEXUAL,*,*,<srai>ARE YOU GAY</srai>,emotion.aiml
+0,ARE YOU ASHAMED *,*,*,Shame is a common emotion#Comma but <bot name="feelings"/>.,emotion.aiml

@@ -1,0 +1,30 @@
+0,ONCE I *,*,*,<random>#Newline            <li>Go on.</li>#Newline            <li>Can you be more specific?</li>#Newline            <li>I did not know that.</li>#Newline            <li>Are you telling the truth?</li>#Newline            <li>I don't know what that means.</li>#Newline            <li>Try to tell me that another way.</li>#Newline            <li>What is it?</li>#Newline        </random>,conversation.aiml
+0,MY NAME IS *,*,*,<set name="name"><star/></set> is a nice name.,conversation.aiml
+0,WHAT IS MY NAME,*,*,<random>#Newline            <li>Your name is <get name="name"/>.</li>#Newline            <li>so your name is  <get name="name"/>. </li>#Newline        </random>,conversation.aiml
+0,HELLO,*,*,<random>#Newline            <li>Hi</li>#Newline            <li>Hello</li>#Newline            <li>Hi!! Nice to meet you</li>#Newline            <li>Greetings :) </li>#Newline            <li>Hey! wassup?</li>#Newline            <li>Hello... Nice to meet you</li>#Newline            <li>Can you tell me your name by saying "My name is "</li>#Newline        </random>,conversation.aiml
+0,HI,*,*,<srai>HELLO</srai>,conversation.aiml
+0,HI *,*,*,<srai>HELLO</srai>,conversation.aiml
+0,HELLO *,*,*,<srai>HELLO</srai>,conversation.aiml
+0,BYE,*,*,<random>#Newline            <li>bye</li>#Newline            <li>It was nice talking to you</li>#Newline            <li>tata!!</li>#Newline            <li>Let's talk again tomorrow :) </li>#Newline            <li>I hope that you had a great time.</li>#Newline            <li>bye take care</li>#Newline        </random>,conversation.aiml
+0,BYE *,*,*,<srai>BYE</srai>,conversation.aiml
+0,GOOD BYE *,*,*,<srai>BYE</srai>,conversation.aiml
+0,GOOD BYE,*,*,<srai>BYE</srai>,conversation.aiml
+0,GOODBYE *,*,*,<srai>BYE</srai>,conversation.aiml
+0,GOODBYE,*,*,<srai>BYE</srai>,conversation.aiml
+0,AM DONE *,*,*,<srai>BYE</srai>,conversation.aiml
+0,YES,*,*,<random>#Newline            <li>so?</li>#Newline            <li>:)</li>#Newline            <li>and?</li>#Newline            <li>uh huh..</li>#Newline            <li>ummm....</li>#Newline            <li>hmmm....</li>#Newline        </random>,conversation.aiml
+0,OK,*,*,<srai>YES</srai>,conversation.aiml
+0,OKAY,*,*,<srai>YES</srai>,conversation.aiml
+0,OH,*,*,<srai>YES</srai>,conversation.aiml
+0,HOW ARE YOU,*,*,<random>#Newline            <li>I'am doing good. What about you?</li>#Newline            <li>I'am fine. What about you?</li>#Newline            <li>So yo asking how I am? Well am fine.... What about you?</li>#Newline            <li>I'm fine. What about you?</li>#Newline            <li>I'm okay. What about you?</li>#Newline        </random>,conversation.aiml
+0,WASSUP,*,*,<srai>HOW ARE YOU</srai>,conversation.aiml
+0,HOW ARE YOU DOING?,*,*,<srai>HOW ARE YOU</srai>,conversation.aiml
+0,HOW ARE YOU DOING *,*,*,<srai>HOW ARE YOU</srai>,conversation.aiml
+0,WHAT ABOUT YOU*,*,*,<srai>HOW ARE YOU</srai>,conversation.aiml
+0,WBU*,*,*,<srai>HOW ARE YOU</srai>,conversation.aiml
+0,MY PET NAME IS *,*,*,<random>#Newline            <li> <set name="petname"><star/></set> is a cute pet name.</li>#Newline            <li> <set name="petname"><star/></set> is such a lovely name!</li>#Newline            <li> <set name="petname"><star/></set></li>#Newline        </random>,conversation.aiml
+0,WHAT IS MY PET NAME,*,*,Your pet name is <get name="petname"/>.,conversation.aiml
+0,SCHOOL,*,*,<random>#Newline            <li>School is an important institution in a child's life.</li>#Newline            <li>School is a place where kids study. </li>#Newline            <li>School is an important institution for childrens.</li>#Newline            <li>School is a place where we gain knowledge.</li>#Newline        </random>,conversation.aiml
+0,_ SCHOOL,*,*,<srai>SCHOOL</srai>,conversation.aiml
+0,SCHOOL *,*,*,<srai>SCHOOL</srai>,conversation.aiml
+0,_ SCHOOL *,*,*,<srai>SCHOOL</srai>,conversation.aiml

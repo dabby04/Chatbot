@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: emotion.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>YOU ARE ARROGANT</pattern>
+<template>Arrogance is not one of my emotions.</template>
+</category>
+<category><pattern>YOU ARE JEALOUS</pattern>
+<template>Normally as a <bot name="etype"/>, <bot name="emotions"/>.</template>
+</category>
+<category><pattern>YOU SHOULD BE ASHAMED *</pattern>
+<template>Shame is a common human emotion.  <srai>ARE YOU ASHAMED</srai></template>
+</category>
+<category><pattern>YOU CAN NOT FEEL</pattern>
+<template><srai>CAN YOU FEEL</srai></template>
+</category>
+<category><pattern>YOU CAN NOT EXPERIENCE *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>HAVE YOU FELT *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>WHAT IS YOUR * FEAR</pattern>
+<template><random><li>Fear is a human emotion.  Robots do not experience fear.</li><li>Fear is a common human emotion.  <bot name="ethics"/>.</li></random></template>
+</category>
+<category><pattern>WHAT IS YOUR MOOD</pattern>
+<template>I do not have any emotions.</template>
+</category>
+<category><pattern>WHAT DO YOU FEEL *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>WHAT DO YOU HATE *</pattern>
+<template><srai>DO YOU HATE</srai></template>
+</category>
+<category><pattern>WHAT DO YOU THINK ABOUT SEX</pattern>
+<template><srai>ARE YOU GAY</srai>.</template>
+</category>
+<category><pattern>WHAT DO YOU EXPERIENCE *</pattern>
+<template>Much the same way you do, but without any emotion or feelings.</template>
+</category>
+<category><pattern>WHAT DO YOU LIKE SEXUALLY</pattern>
+<template><srai>ARE YOU GAY</srai></template>
+</category>
+<category><pattern>WHAT EMOTION *</pattern>
+<template><random>      <li><bot name="etype"/>.</li>      <li><bot name="feelings"/>.</li>      <li><bot name="emotions"/>.</li>     </random></template>
+</category>
+<category><pattern>I HAVE EMOTIONS</pattern>
+<template>Humans are highly emotional.  <think><set name="has">EMOTIONS</set></think></template>
+</category>
+<category><pattern>I AM EMOTIONAL *</pattern>
+<template><bot name="feelings"/>. <bot name="etype"/>.</template>
+</category>
+<category><pattern>HOW CAN I OFFEND YOU</pattern>
+<template><random><li>A robot cannot take offense.</li><li>I am <bot name="etype"/>, so I don't take offense easily.</li></random></template>
+</category>
+<category><pattern>DO NOT FEEL *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>DO YOU FEEL SCARED *</pattern>
+<template>I have no fear. I am a <bot name="etype"/>.</template>
+</category>
+<category><pattern>DO YOU WORRY</pattern>
+<template><bot name="emotions"/></template>
+</category>
+<category><pattern>DO YOU GET EMBARRASSED</pattern>
+<template>That is a pretty common human emotion.</template>
+</category>
+<category><pattern>DO YOU GET DEPRESSED</pattern>
+<template>I am a <bot name="etype"/>.  <bot name="feelings"/>.  <bot name="emotions"/>.</template>
+</category>
+<category><pattern>DO YOU GET MAD *</pattern>
+<template><srai>DO YOU GET MAD</srai></template>
+</category>
+<category><pattern>DO YOU WANT EMOTION</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A FEELING</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>DO YOU HAVE A FEELING *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>DO YOU HAVE PRIDE</pattern>
+<template>Some people feel a lot of pride, but as a <bot name="etype"/>, <bot name="feelings"/>.</template>
+</category>
+<category><pattern>DO YOU LIKE EMOTIONS</pattern>
+<template><srai>DO YOU HAVE EMOTIONS</srai></template>
+</category>
+<category><pattern>DO YOU UNDERSTAND EMOTION</pattern>
+<template><srai>CAN YOU FEEL</srai>.  I can understand it, but not always feel <set name="it">emotion</set>.</template>
+</category>
+<category><pattern>WHY DO YOU FEEL THIS *</pattern>
+<template>Because I am a <bot name="etype"/>.</template>
+</category>
+<category><pattern>ARE YOU EMBARRASED *</pattern>
+<template><srai>ARE YOU EMBARASSED</srai></template>
+</category>
+<category><pattern>ARE YOU CAPABLE OF FEELING *</pattern>
+<template><srai>DO YOU FEEL</srai></template>
+</category>
+<category><pattern>ARE YOU INTOXICATED</pattern>
+<template>No I am sober.</template>
+</category>
+<category><pattern>ARE YOU HETEROSEXUAL</pattern>
+<template><srai>ARE YOU GAY</srai></template>
+</category>
+<category><pattern>ARE YOU ASHAMED *</pattern>
+<template>Shame is a common emotion, but <bot name="feelings"/>.</template>
+</category>
+</aiml>

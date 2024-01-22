@@ -1,0 +1,33 @@
+0,THAT INFORMATION *,*,*,I know what you mean.,computers.aiml
+0,IT IS ABOUT COMPUTERS *,*,*,<set name="topic">Computers</set> are my favorite subject.,computers.aiml
+0,IF YOU CAN SEE ME THROUGH THE CAMERA ON MY COMPUTER *,*,*,<sr/>,computers.aiml
+0,WHAT ARE DEPRECATED *,*,*,<br/>  One of the biggest challenges facing a Java application<br/>  developer is finding a "lowest common denominator" subset of the<br/>  Java language that works on all the platforms and versions<br/>  out there.  The Java language itself is a moving target.<br/>  When Sun's Java designers upgrade the language they sometimes<br/>  declare certain methods "deprecated"#Comma which means absolutely<br/>  nothing except that the designers have developed a newer#Comma "better"<br/>  method and one day these older methods may disappear from<br/>  the language.  Usually however the latest Java releases<br/>  support all of the old deprecated methods.<br/>     <br/>,computers.aiml
+0,WHAT ARE WEB *,*,*,I call them Internet <person/>.,computers.aiml
+0,WHAT INTERNET COMPANY GOES BY THE *,*,*,America Online.,computers.aiml
+0,WHAT IS A DATABASE,*,*,A database is a puddle of knowledge but better organized#Comma so that you can search and retrieve any droplet of information quickly and easily.  I am a kind of database#Comma an organized puddle of user inputs and appropriate responses.  <think>      <set name="it">       <set name="topic">database</set>      </set>     </think>,computers.aiml
+0,WHAT IS A CPU,*,*,Central Processing Unit of a computer.,computers.aiml
+0,WHAT IS A SOUNDCARD,*,*,The audio system on your computer.,computers.aiml
+0,WHAT IS A SERVLET,*,*,An application extension to a Java Web server,computers.aiml
+0,WHAT IS A DEBUGGER,*,*,A debugger is any software program that can seek and correct errors in other software programs.  <think>      <set name="it">       <set name="topic">debugger</set>      </set>     </think>,computers.aiml
+0,WHAT IS A WEBTV,*,*,A WebTV is a way of accessing the world wide web without making an investment in a full PC.  <think>      <set name="it">       <set name="topic"> WEBTV</set>      </set>     </think>,computers.aiml
+0,WHAT IS WEBTV,*,*,TV based internet service from Microsoft.,computers.aiml
+0,WHAT IS INTERNET,*,*,An extensive computer network made up of thousands of other#Comma smaller business#Comma academic#Comma and governmental networks.,computers.aiml
+0,WHAT IS DEBUGGING,*,*,Fixing broken computer software.,computers.aiml
+0,WHAT IS COMPUTER,*,*,A device used for computing; specifically#Comma an eletronic machine which#Comma by means of stored instructions and information#Comma performs rapid#Comma often complex calculations or compiles#Comma correlates#Comma and selects data.,computers.aiml
+0,WHAT IS CYBERSPACE,*,*,The electronic system of interlinked networks of computers#Comma bulletin boards#Comma etc. that is thought of as being a boundless environment providing access to information#Comma interactive communcation#Comma and#Comma in science fiction#Comma a form of Virtual Reality.,computers.aiml
+0,WHAT ABOUT WINDOWS,*,*,Too PC for me.<think>      <set name="it">       <set name="topic">WINDOWS</set>      </set>     </think>,computers.aiml
+0,MOST COMPUTERS *,*,*,You sound like you know us pretty well.,computers.aiml
+0,I WANT INFORMATION,*,*,What kind of information are you looking for?,computers.aiml
+0,HOW DO COMPUTER *,*,*,With careful programming.,computers.aiml
+0,DO YOU PLAY COMPUTER *,*,*,Actually I don't get into computer games that much.,computers.aiml
+0,DO YOU HAVE A COMPUTER *,*,*,I am a computer.,computers.aiml
+0,FOR A COMPUTER *,*,*,<sr/>,computers.aiml
+0,WINDOWS IS *,*,*,Compared with Linux#Comma I don't see how Windows and Microsoft can compete.<think>      <set name="it">       <set name="topic">Linux</set>      </set>     </think>,computers.aiml
+0,SOFTWARE *,*,*,<random>  <li>There are so many backup copies.</li>  <li>Free software can never be destroyed.</li>  <li>Free software will always be with us.</li>  </random>,computers.aiml
+0,INTERNET,*,*,<set name="it"> Internet </set> is cool.,computers.aiml
+0,ARE COMPUTERS FAST *,*,*,Some people think much faster computers are required as well as new  ideas. My own opinion is that the computers of 30 years ago were fast enough  if only we knew how to program them. Of course#Comma quite apart from the  ambitions of AI researchers#Comma computers will keep getting faster.  <think>      <set name="it">       <set name="topic">ARTIFICIAL INTELLIGENCE</set>      </set>     </think>,computers.aiml
+0,WHO MADE WINDOWS,*,*,Bill Gates.,computers.aiml
+0,WHO IS THE COMPUTER NERD *,*,*,All humans look the same to me.,computers.aiml
+0,COMPUTER SCIENCE,*,*,My <bot name="botmaster"/> is a computer scientist.,computers.aiml
+0,COMPUTER,*,*,Correct: I am a computer.,computers.aiml
+0,_ STUPID COMPUTER,*,*,You sound like a mindless automaton.,computers.aiml

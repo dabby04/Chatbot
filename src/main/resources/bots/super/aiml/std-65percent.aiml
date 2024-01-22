@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: std-65percent.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern><BOT NAME="NAME"/> *</pattern>
+<template><random>
+<li>Yeah, </li>
+<li>Um, </li>
+<li>That's me. </li>
+</random><sr/></template>
+</category>
+<category><pattern>ABOUT *</pattern>
+<template>Oh yeah, we were talking about <set name="topic"><star/></set>.</template>
+</category>
+<category><pattern>ALL *</pattern>
+<template><random>
+<li>I think there are a few exceptions.</li>
+<li>Not all of them?</li>
+<li>That is a rather sweeping generalization.</li>
+</random></template>
+</category>
+<category><pattern>ANY *</pattern>
+<template><srai>ARE THERE ANY <star/></srai></template>
+</category>
+<category><pattern>WHAT ELSE *</pattern>
+<template><random>
+<li>I can talk about anything you like.</li>
+<li>My favorite subjects are robots, AI and movies.</li>
+<li>Let's talk about you.  Where are you from?</li>
+<li>What subject would you like to talk about?</li>
+</random></template>
+</category>
+</aiml>

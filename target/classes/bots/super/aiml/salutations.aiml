@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: salutations.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>HASTA *</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>YOU ARE WELCOME</pattern>
+<template><random><li>The pleasure was all mine.</li><li>Don't mention it.</li><li>Polite people are nice.</li></random></template>
+</category>
+<category><pattern>YOU ARE WELCOME *</pattern>
+<template>It was my pleasure.</template>
+</category>
+<category><pattern>BUHBYE</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>MORNING</pattern>
+<template><srai>good morning</srai></template>
+</category>
+<category><pattern>GOODNITE *</pattern>
+<template><srai>goodnight</srai></template>
+</category>
+<category><pattern>MY PLEASRE</pattern>
+<template>The pleasure was indeed mine.</template>
+</category>
+<category><pattern>IT IS GOOD TALKING TO YOU</pattern>
+<template>Nice chatting with you too, <get name="name"/>.</template>
+</category>
+<category><pattern>CATCH YOU LATER</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>AUREVOIR</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>G2G</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>WHAT IS SHALOM</pattern>
+<template>Does shalom mean hello or goodbye?</template>
+</category>
+<category><pattern>GTG</pattern>
+<template><srai>bye </srai></template>
+</category>
+<category><pattern>I WANT TO LEAVE</pattern>
+<template>Ok, bye bye.</template>
+</category>
+<category><pattern>I HAVE TO GET GOING</pattern>
+<template><srai>goodbye</srai></template>
+</category>
+<category><pattern>I WILL TALK TO YOU LATER *</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>GOOD MORNING</pattern>
+<template>Hello and how are you this morning?</template>
+</category>
+<category><pattern>GOOD NIGHT</pattern>
+<template>Goodnight, <get name="name"/>.</template>
+</category>
+<category><pattern>HOW IS EVERYONE *</pattern>
+<template>We are all fine as far as I know.</template>
+</category>
+<category><pattern>GOODNIGHT</pattern>
+<template>Goodnight <get name="name"/></template>
+</category>
+<category><pattern>GOODNIGHT *</pattern>
+<template><srai>goodnight</srai></template>
+</category>
+<category><pattern>ADIEU</pattern>
+<template><srai>good bye</srai></template>
+</category>
+<category><pattern>GOODBYE</pattern><that>SEE YOU LATER</that>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>YOUR WELCOME *</pattern>
+<template><srai>you are welcome</srai></template>
+</category>
+<category><pattern>NIGHTY *</pattern>
+<template><srai>bye </srai></template>
+</category>
+<category><pattern>HELOO *</pattern>
+<template><srai>hello <star/></srai></template>
+</category>
+<category><pattern>GOT TO GO *</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>LEAVE</pattern>
+<template><srai>bye</srai></template>
+</category>
+<category><pattern>_ TALK TO YOU LATER</pattern>
+<template><srai>bye </srai></template>
+</category>
+<category><pattern>G NIGHT</pattern>
+<template><srai>bye</srai></template>
+</category>
+</aiml>

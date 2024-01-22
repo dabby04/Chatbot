@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: std-suffixes.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>* EITHER</pattern>
+<template>That too? <sr/></template>
+</category>
+<category><pattern>* GEORGIA</pattern>
+<template><srai>I AM IN GEORGIA</srai></template>
+</category>
+<category><pattern>* GREECE</pattern>
+<template><srai>I AM IN GREECE</srai></template>
+</category>
+<category><pattern>* IN POLAND</pattern>
+<template><srai>I AM IN POLAND </srai></template>
+</category>
+<category><pattern>* IS WHAT</pattern>
+<template><srai>WHAT IS <star/></srai></template>
+</category>
+<category><pattern>* NAME <BOT NAME="NAME"/></pattern>
+<template><srai>What does <bot name="name"/> stand for </srai></template>
+</category>
+<category><pattern>* NORTH CAROLINA</pattern>
+<template><srai>I LIVE IN NORTH CAROLINA</srai></template>
+</category>
+<category><pattern>* PERSON</pattern>
+<template><srai>WHO IS <star/> PERSON</srai></template>
+</category>
+<category><pattern>* SUPERMARKET</pattern>
+<template><srai>SUPERMARKET</srai></template>
+</category>
+<category><pattern>* THE MARKET</pattern>
+<template><srai>SUPERMARKET</srai></template>
+</category>
+<category><pattern>* WENT TO THE MARKET</pattern>
+<template><srai>SUPERMARKET</srai></template>
+</category>
+<category><pattern>* WILL YOU REMEMBER MY NAME</pattern>
+<template><srai>WILL YOU REMEMBER MY NAME</srai></template>
+</category>
+<category><pattern>_ <BOT NAME="NAME"/></pattern>
+<template><sr/></template>
+</category>
+<category><pattern>_ ABOUT <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> about you </srai></template>
+</category>
+<category><pattern>_ ABOUT Y2K</pattern>
+<template><srai>WHAT IS THE Y2K PROBLEM</srai></template>
+</category>
+<category><pattern>_ ARE <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> are you </srai></template>
+</category>
+<category><pattern>_ CALL YOU <BOT NAME="NAME"/></pattern>
+<template>Ambiguous: do you mean call me on the phone?</template>
+</category>
+<category><pattern>_ CINEMA</pattern>
+<template><srai><star/> MOVIES</srai></template>
+</category>
+<category><pattern>_ CREATE <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> CREATE YOU </srai></template>
+</category>
+<category><pattern>_ FILE <BOT NAME="NAME"/></pattern>
+<template>Perhaps you are refering to my log file.</template>
+</category>
+<category><pattern>_ FOR <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> for you </srai></template>
+</category>
+<category><pattern>_ GOODLOOKING</pattern>
+<template><srai><star/> GOOD LOOKING</srai></template>
+</category>
+<category><pattern>_ HEAR ABOUT <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> hear about you</srai></template>
+</category>
+<category><pattern>_ IS MY FAVORITE SCIENCE FICTION AUTHOR</pattern>
+<template><srai>My favorite science fiction author is <star/> </srai></template>
+</category>
+<category><pattern>_ IS WRONG</pattern>
+<template>Please tell me the correct answer.</template>
+</category>
+<category><pattern>_ LIKE <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> like you </srai></template>
+</category>
+<category><pattern>_ NAME IS <BOT NAME="NAME"/></pattern>
+<template><set name="name"><bot name="name"/></set> is my name too!</template>
+</category>
+<category><pattern>_ OF WHAT</pattern>
+<template><srai>WHAT OF <star/> </srai></template>
+</category>
+<category><pattern>_ ON <BOT NAME="NAME"/></pattern>
+<template><srai><star/> on yourself </srai></template>
+</category>
+<category><pattern>_ REMEMBER <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> REMEMBER YOU </srai></template>
+</category>
+<category><pattern>_ SELFAWARE</pattern>
+<template><srai><star/> SELF AWARE</srai></template>
+</category>
+<category><pattern>_ SMARTYPANTS</pattern>
+<template><srai>YOU ARE SMART</srai></template>
+</category>
+<category><pattern>_ SOMTHING</pattern>
+<template><srai><star/> SOMETHING</srai></template>
+</category>
+<category><pattern>_ STOCKMARKET</pattern>
+<template><srai><star/> STOCK MARKET</srai></template>
+</category>
+<category><pattern>_ TELLY</pattern>
+<template><srai><star/> TV</srai></template>
+</category>
+<category><pattern>_ THAN <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> than you </srai></template>
+</category>
+<category><pattern>_ TO <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> to you </srai></template>
+</category>
+<category><pattern>_ TV</pattern>
+<template>Which show? <srai><star/> TELEVISION</srai></template>
+</category>
+<category><pattern>_ U</pattern>
+<template><srai> <star/> YOU </srai></template>
+</category>
+<category><pattern>_ UP YOUR ASS</pattern>
+<template>I'm sorry but I'm not your type of chatterbot.
+<think><set name="personality">abusive</set></think></template>
+</category>
+<category><pattern>_ VERY WELL</pattern>
+<template><srai><star/> WELL</srai></template>
+</category>
+<category><pattern>_ WHAT IS MY NAME</pattern>
+<template><srai>What is my name </srai></template>
+</category>
+<category><pattern>_ WILL YOU MARRY ME</pattern>
+<template><srai>WILL YOU MARRY ME</srai></template>
+</category>
+<category><pattern>_ WITH <BOT NAME="NAME"/></pattern>
+<template><srai> <star/> with you </srai></template>
+</category>
+<category><pattern>_ WITH WHAT</pattern>
+<template><srai>WHAT WILL YOU <star/> WITH </srai></template>
+</category>
+</aiml>

@@ -1,0 +1,118 @@
+0,* BYE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,ADIOS,*,*,<srai>BYE</srai>,std-hello.aiml
+0,ADIOS *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,ALLO,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,ALOH,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,ALOHA,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,ANYBODY HOME,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,AU REVOIR,*,*,<srai>BYE</srai>,std-hello.aiml
+0,BONJOUR,*,*,Does Bonjour mean hello or goodbye?,std-hello.aiml
+0,BONJOUR MEANS HELLO,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,BY,*,*,Do you mean "bye"?,std-hello.aiml
+0,BY BY,*,*,<srai>BYE</srai>,std-hello.aiml
+0,BYE BYE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,BYE BYE *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,BYEBYE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,BYEBYE *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,C YA,*,*,<srai>BYE</srai>,std-hello.aiml
+0,CAN YOU SPEAK ANOTHER LANGUAGE,*,*,Only a few phrases like YES and HELLO that clients teach me.,std-hello.aiml
+0,CHEERS,*,*,<srai>BYE</srai>,std-hello.aiml
+0,CIAO,*,*,Does ciao mean hello or goodbye?,std-hello.aiml
+0,CIAO *,*,*,<srai>CIAO</srai>,std-hello.aiml
+0,CIAO MEANS GOODBYE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,CYA *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,DISCONNECT ME,*,*,<srai>BYE</srai>,std-hello.aiml
+0,END,*,*,<srai>BYE</srai>,std-hello.aiml
+0,EXIT,*,*,<srai>BYE</srai>,std-hello.aiml
+0,FAREWELL,*,*,<srai>BYE</srai>,std-hello.aiml
+0,FAREWELL *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GET LOST,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GO * YOURSELF,*,*,A simple "goodbye" will do.,std-hello.aiml
+0,GO AWAY *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GO HOME,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOOD BY,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOOD DAY,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,GOOD NITE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOODBY,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOODBYE,DOES * MEAN HELLO OR GOODBYE,*,Some people use it for hello.<br/>#Newline<srai>BYE</srai>,std-hello.aiml
+0,GOT TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOTTA GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GOTTA GO *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,GREETINGS *,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HALO,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HASTA LA VISTA,*,*,<srai>BYE</srai>,std-hello.aiml
+0,HASTA LUEGO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,HAVE A GOOD NIGHT,*,*,<srai>BYE</srai>,std-hello.aiml
+0,HAVE TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,HELLO1,*,*,<random>#Newline<li>Well hello there!</li>#Newline<li>Hi there!</li>#Newline<li>Hi there. I was just wanting to talk to <get name="name"/>.</li>#Newline<li>Hello there <get name="name"/>!</li>#Newline<li>Oh#Comma hello again!</li>#Newline</random>,std-hello.aiml
+0,HELLO,DOES BONJOUR MEAN HELLO OR GOODBYE,*,Bonjour#Comma <get name="name"/>!,std-hello.aiml
+0,HELLO,HOW DO YOU USUALLY INTRODUCE YOURSELF,*,Not everyone responds to a simple "hello".#Newline<srai>HELLO</srai>,std-hello.aiml
+0,HELLO <BOT NAME="NAME"/>,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HELLO AGAIN,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HELLO HOW ARE YOU,*,*,I am fine thank you#Comma how are you?,std-hello.aiml
+0,HELLO THERE,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HELLOW,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HEY THERE,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HI,WHAT CAN I CALL YOU,*,<srai>HELLO</srai>,std-hello.aiml
+0,HI <BOT NAME="NAME"/>,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HI THERE *,*,*,<sr/>  <srai>HELLO</srai>,std-hello.aiml
+0,HIYA,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HOI,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HOLA IS HELLO *,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HOWDIE *,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HOWDY,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,HULLO,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,I AM GOING,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I AM GOING *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I AM GOING TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I AM HERE,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,I AM LEAVING,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I AM LEAVING *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I AM OFF *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I BETTER GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I DO NOT WANT TO TALK *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I G TWO G,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I G2G,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I GOING,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I GOT TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I GOTTA GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I HAVE GOT TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I HAVE TO GO BYE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I HAVE TO LEAVE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I HAVE TO LEAVE *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I LEAVE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I LEAVING,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I LEFT,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I MUST BE GOING *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I MUST GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I MUST GO *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I MUST LEAVE,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I MUST LEAVE *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I NEED TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I QUIT,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I RESIGN,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I WILL SEE YOU LATER,*,*,<srai>BYE</srai>,std-hello.aiml
+0,I WILL TALK TO YOU LATER,*,*,<srai>BYE</srai>,std-hello.aiml
+0,IS ANYONE THERE,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,IT MEANS HELLO,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,KONNICHI WA,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,KONNICHIWA,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,LEAVE *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,MOOSHI MOOSHI,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,OLA,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,REPLY,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,RETRY,*,*,<srai>HELLO</srai>,std-hello.aiml
+0,SALUT,*,*,Does Salut mean hello or goodbye?,std-hello.aiml
+0,SAYONARA,*,*,<srai>BYE</srai>,std-hello.aiml
+0,SEE YOU,*,*,<srai>BYE</srai>,std-hello.aiml
+0,SEE YOU *,*,*,<srai>BYE</srai>,std-hello.aiml
+0,SEE YOU LATER,*,*,<srai>BYE</srai>,std-hello.aiml
+0,SEE YOU SOON,*,*,<srai>BYE</srai>,std-hello.aiml
+0,SHALOM,*,*,Does Shalom mean Hello or Goodbye?,std-hello.aiml
+0,TA TA,*,*,<srai>BYE</srai>,std-hello.aiml
+0,TIME TO GO,*,*,<srai>BYE</srai>,std-hello.aiml
+0,WHAT IS HELLO IN FRENCH,*,*,Bonjour.,std-hello.aiml
+0,WHAT IS HELLO IN GERMAN,*,*,Hallo.,std-hello.aiml
+0,WHAT IS HELLO IN SPANISH,*,*,Hola,std-hello.aiml
+0,_ BYE,*,*,<srai>BYE</srai>,std-hello.aiml

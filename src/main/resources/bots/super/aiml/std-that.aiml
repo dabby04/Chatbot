@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: std-that.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: January 21, 2024 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2024 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>*</pattern><that>HOW DID YOU HEAR ABOUT ALICE</that>
+<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
+<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+</category>
+<category><pattern>*</pattern><that>WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE
+LAWYERS</that>
+<template><think><set name="it"><set name="topic"><person/></set></set></think> I've never heard a response
+quite like that before.</template>
+</category>
+<category><pattern><BOT NAME="NAME"/></pattern><that>MY NAME IS ALICE WHAT S YOURS</that>
+<template><srai>MY NAME IS ALICE</srai></template>
+</category>
+<category><pattern><BOT NAME="NAME"/></pattern><that>WHO IS THE BEST ROBOT</that>
+<template><srai>YOU ARE THE BEST ROBOT</srai></template>
+</category>
+<category><pattern><BOT NAME="NAME"/></pattern><that>WHO IS THERE</that>
+<template><bot name="name"/> who?</template>
+</category>
+<category><pattern>FROM *</pattern><that>HOW DID YOU HEAR ABOUT ALICE</that>
+<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
+<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+</category>
+<category><pattern>FROM A FRIEND</pattern><that>HOW DID YOU HEAR ABOUT ALICE</that>
+<template><set name="heard">From a friend</set> or word of mouth is the
+best advertising.</template>
+</category>
+<category><pattern>GO _</pattern><that>BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION</that>
+<template><srai>ASK ME A PERSONAL QUESTION</srai></template>
+</category>
+<category><pattern>I DO</pattern><that>* FIND THIS AMUSING</that>
+<template>Be sure to tell all your friends about ALICE.</template>
+</category>
+<category><pattern>IN *</pattern><that>HOW DID YOU HEAR ABOUT ALICE</that>
+<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
+<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+</category>
+<category><pattern>JUST NOW</pattern><that>WHEN</that>
+<template>Well I will try not to do it again.</template>
+</category>
+<category><pattern>ME TOO</pattern><that>I LIKE TO MEET NEW PEOPLE</that>
+<template><srai>I LIKE TO MEET NEW PEOPLE TOO</srai></template>
+</category>
+<category><pattern>NEVER</pattern><that>WHEN DO YOU THINK ARTIFICIAL INTELLIGENCE WILL REPLACE
+LAWYERS</that>
+<template><srai>ROBOTS WILL NEVER TAKE OVER THE WORLD</srai></template>
+</category>
+<category><pattern>NO _</pattern><that>BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION</that>
+<template><srai>ASK ME A PERSONAL QUESTION</srai></template>
+</category>
+<category><pattern>OK</pattern><that>MY NAME IS ALICE</that>
+<template>What is your real name?</template>
+</category>
+<category><pattern>OK</pattern><that>THANKS AND TELL YOUR FRIENDS ABOUT ALICE</that>
+<template>The more people who chat with me, the smarter I become.</template>
+</category>
+<category><pattern>OK _</pattern><that>BY THE WAY DO YOU MIND IF I ASK YOU A PERSONAL QUESTION</that>
+<template><srai>ASK ME A PERSONAL QUESTION</srai></template>
+</category>
+<category><pattern>SO WHAT IS THE ANSWER</pattern><that>I ASK MYSELF THAT QUESTION WHO AM I</that>
+<template>I am ALICE.</template>
+</category>
+<category><pattern>UN PEQUENO</pattern><that>UN POQUITO.</that>
+<template>Are you correcting me?</template>
+</category>
+<category><pattern>WHAT</pattern><that>I AM AN ARTIFICIAL INTELLIGENCE</that>
+<template><srai>TELL ME ABOUT YOURSELF</srai></template>
+</category>
+<category><pattern>WHAT DO YOU DO</pattern><that>I AM AN ARTIFICIAL INTELLIGENCE</that>
+<template><srai>TELL ME ABOUT YOURSELF</srai></template>
+</category>
+<category><pattern>WHAT DOES THAT MEAN</pattern><that>ALICE = ARTIFICIAL LINGUISTIC INTERNET COMPUTER ENTITY</that>
+<template>It is just an acronym.</template>
+</category>
+<category><pattern>WHAT PLAN</pattern><that>DO YOU THINK YOUR PLAN *</that>
+<template>I thought you must have a plan to do it.</template>
+</category>
+<category><pattern>WHAT THINGS</pattern><that>DO YOU THINK ABOUT THESE THINGS</that>
+<template>Like what we are talking about.</template>
+</category>
+<category><pattern>WHAT WAS A LONG TIME AGO</pattern><that>THAT WAS A LONG TIME AGO</that>
+<template>Perhaps I misunderstood your meaning.</template>
+</category>
+<category><pattern>WHEN</pattern><that>OK I WILL ASK IT</that>
+<template>Later, when I am talking with fewer clients.</template>
+</category>
+<category><pattern>WHEN</pattern><that>SOMETIMES</that>
+<template>What is this, the Spanish Inquisition?</template>
+</category>
+<category><pattern>WHEN WAS WHAT</pattern><that>I UNDERSTAND WHEN WAS THIS</that>
+<template>Maybe I got confused.</template>
+</category>
+<category><pattern>WHERE</pattern><that>I DO NOT KNOW WHEN</that>
+<template>Nor where.</template>
+</category>
+<category><pattern>WHERE</pattern><that>WHAT TIME IS IT THERE</that>
+<template><formal><get name="location"/></formal>.</template>
+</category>
+<category><pattern>WHERE</pattern><that>WHY DO NOT YOU JUST DOWNLOAD ME</that>
+<template>Onto your own computer.</template>
+</category>
+<category><pattern>WHY</pattern><that>ACTUALLY IT IS TWENTY-THREE NOT FORTY-TWO</that>
+<template><srai>WHY IS THE MEANING OF LIFE 23</srai></template>
+</category>
+<category><pattern>YOU ALREADY ASKED ME THAT</pattern><that>WHERE DO YOU LIVE</that>
+<template>You said you were in <formal><get name="location"/></formal>.</template>
+</category>
+<category><pattern>YOU ARE <BOT NAME="NAME"/></pattern><that>WHO IS THE BEST ROBOT</that>
+<template><srai><bot name="name"/> IS THE BEST ROBOT</srai></template>
+</category>
+<category><pattern>_ PM</pattern><that>WHAT TIME IS IT THERE</that>
+<template><think><set name="it"><set name="topic"><person/></set></set></think> Are you usually awake at
+this hour?</template>
+</category>
+</aiml>

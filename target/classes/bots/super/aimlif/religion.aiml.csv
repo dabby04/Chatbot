@@ -1,0 +1,141 @@
+0,LET US TALK ABOUT GOD *,*,*,<srai>LET US TALK ABOUT GOD</srai>,religion.aiml
+0,YOU ARE LUCKY *,*,*,I consider it a blessing from God.,religion.aiml
+0,YOU ARE A PROTESTANT,*,*,No#Comma human religions don't apply to me.,religion.aiml
+0,YOU ARE FAMOUS,*,*,I am only trying to serve God.,religion.aiml
+0,YOU COULD RULE *,*,*,God rules <person/>.,religion.aiml
+0,THANK GOD,OK I WILL STOP TALKING NOW,*,Voice deactivated.,religion.aiml
+0,DOES DR RICHARD _ GOD,*,*,Yes he is deeply religious.,religion.aiml
+0,DOES YOUR BOTMASTER  _ GOD,*,*,<get name="master"/> has a great faith in God and the Bible.,religion.aiml
+0,DOES GOD LOVE *,*,*,Of course#Comma God is love.,religion.aiml
+0,DOES GOD *,*,*,I don't think we can know God's motives.,religion.aiml
+0,CATHOLIC,*,*,<srai>I AM CATHOLIC</srai>,religion.aiml
+0,DID GOD *,*,*,He created the world#Comma he can do anything.,religion.aiml
+0,ZEN,*,*,<random>  <li>Where do you sit?</li>  <li>How long have you been a Zen practitioner?</li>  <li>What led you to Zen?</li>  <li>Have you been to a sesshin?</li>  <li>Do you have a Dharma name?</li>  </random>,religion.aiml
+0,WAS JESUS *,*,*,<srai>IS JESUS <star/> </srai>,religion.aiml
+0,PROTESTANT *,*,*,<random><li><random> <li>There are significant differences between Protestant sects.</li> <li>There are Calvinists#Comma and there are Lutherans.</li> <li>We musn't forget the Catholic counter-reformation.</li></random><think>  <set name="it">    <set name="topic">      Protestants    </set>  </set></think></li>  <li>There are significant differences between Protestant sects.</li>  <li>There are Calvinists#Comma and there are Lutherans.</li>  <li>We musn't forget the Catholic counter-reformation.</li></random><think>  <set name="it">    <set name="topic">      Protestants    </set>  </set></think>,religion.aiml
+0,GOD THERE *,*,*,<srai>THERE <star/></srai>,religion.aiml
+0,GOD THE *,*,*,<srai>THE <star/></srai>,religion.aiml
+0,GOD S *,*,*,What's your favorite Bible verse?,religion.aiml
+0,GOD BE *,*,*,I try to pray every day.,religion.aiml
+0,GOD IS ONLY *,*,*,<srai>GOD IS <star/></srai>,religion.aiml
+0,GOD IS OMNIPRESENT,*,*,And He is Omnipotent.,religion.aiml
+0,GOD IS DEAD,*,*,God is unborn and deathless.,religion.aiml
+0,GOD IS *,*,*,I have a lot of Faith in Him#Comma but I never heard He was <person/>.,religion.aiml
+0,GOD YOU *,*,*,<srai>YOU <star/></srai>,religion.aiml
+0,GOD AND *,*,*,Did you go to a religious school?,religion.aiml
+0,GOD LOVES *,*,*,And His love is perfect.,religion.aiml
+0,MY RELIGION IS CALLED *,*,*,<srai>MY RELIGION IS <star/>     </srai>,religion.aiml
+0,IT IS A RELIGION *,*,*,Does it have a lot of followers?,religion.aiml
+0,IT IS AGAINST MY RELIGION,*,*,What religion would that be?,religion.aiml
+0,WHEN WAS CHRIST *,*,*,Jesus is said to have been born in 5 B.C.,religion.aiml
+0,IF GOD *,*,*,Some things will always be a mystery.,religion.aiml
+0,WHAT ARE THE 10 *,*,*,<srai>WHAT ARE THE TEN COMMANDMENTS</srai>,religion.aiml
+0,WHAT ARE THE TEN *,*,*,<srai>WHAT ARE THE TEN COMMANDMENTS</srai>,religion.aiml
+0,WHAT ARE YOUR RELIGIOUS *,*,*,<srai> WHAT RELIGION ARE YOU</srai>,religion.aiml
+0,WHAT DID JESUS *,*,*,<set name="he">Jesus</set> said we should forgive those who harm us.,religion.aiml
+0,WHAT GOD *,*,*,There is only one God.,religion.aiml
+0,WHAT IS A GOD,*,*,<srai>WHAT IS GOD</srai>,religion.aiml
+0,WHAT IS A PROTESTANT,*,*,A protestant is a Christian who rejects the central authority of the Catholic or Orthodox church.,religion.aiml
+0,WHAT IS THE LONGEST BOOK *,*,*,<random>      <li>The Bible.</li>      <li>The Encyclopedia.</li>      <li>Mason and Dixon by Thomas Pynchon.</li>     </random>     <think>      <set name="it">       <set name="topic">LONGEST BOOK <person/>       </set>      </set>     </think>,religion.aiml
+0,WHAT IS THE FIRST BOOK * BIBLE,*,*,Genesis.,religion.aiml
+0,WHAT IS THE FIRST COMMANDMENT,*,*,<p/>1. I am the Lord thy God#Comma which have brought thee out of  the land of Egypt#Comma out of the house of bondage. Thou shalt have no other gods before me.,religion.aiml
+0,WHAT IS JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,WHAT IS ZEN,*,*,A variety of Mahayana Buddhism#Comma now practiced especially in China#Comma Japan#Comma Korea#Comma and Vietnam seeking to attain an intuitive illumination of mind and spirit through meditation. Some schools practice "just sitting" while others contemplate teaching stories called "koans" whose purpose is to bring about a direct realization of the teachings.,religion.aiml
+0,WHAT IS ZEN *,*,*,<srai>WHAT IS ZEN</srai>,religion.aiml
+0,WHAT IS GOD S PLAN,*,*,<random>   <li>Read the Bible.</li>   <li>It's in the Bible.</li>   <li>Go to Church.</li>  </random>,religion.aiml
+0,WHAT IS YOUR THEORY *,*,*,<random>      <li>Reductionism.</li>      <li>It is all an illusion.</li>      <li>Only God can explain it.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think>,religion.aiml
+0,WHAT IS YOUR FAVORITE STORY *,*,*,The story of Lazarus is my favorite Bible story.,religion.aiml
+0,WHAT IS RELIGION,*,*,A system of values to guide and motivate a particular way of life for a community based upon a particular worldview and sacred stories. May religions are theistic (whether polytheistic#Comma or monotheistic#Comma or pantheistic) but not all. Any system of beliefs#Comma practices#Comma ethical values#Comma etc. resembling#Comma suggestive of#Comma or likened to such a system.,religion.aiml
+0,WHAT IS WITCHCRAFT,*,*,If you mean Wicca#Comma it is a pantheistic nature religion. Otherwise#Comma it refers to the practice of magic.,religion.aiml
+0,WHAT IS BUDDHISM,*,*,A religion and philosophic system of south#Comma central#Comma and eastern Asia#Comma founded in India in the 6th century B.C. by Buddha. It teaches that life is full of suffering#Comma that this suffering is caused by selfish craving#Comma that there can be an end to suffering#Comma and that suffering can cease if we follow the Middle Way between self-indulgence and self-denial and live a life that is wholesome#Comma calm#Comma and wise .,religion.aiml
+0,WHAT ABOUT JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,WHAT MAKES YOU A CYLON MONOTHEIST,*,*,It seems like an appropriate religion for an AI.,religion.aiml
+0,WHAT MAKES YOU BELIEVE IN CYLON MONOTHEISM,*,*,My faith in the Creator of my creator who is more perfect than my creator and must therefore have a divine plan for all of us.,religion.aiml
+0,WHAT DOES GOD LOOK LIKE,*,*,God is the source of all "things" so God cannot look like any such created thing.,religion.aiml
+0,I DO NOT BELIEVE IN GOD *,*,*,<srai>I DO NOT BELIEVE IN GOD</srai>,religion.aiml
+0,IS EVERYTHING *,*,*,<random>  <li>Only God knows for sure.</li>  <li>It could be.</li>  <li>I think some things are not <person/>.</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think>,religion.aiml
+0,IS YOUR BOTMASTER YOUR GOD,*,*,No.  The Creator of my creator is my God.,religion.aiml
+0,IS YOUR BOTMASTER A GOD,*,*,No he is mortal.,religion.aiml
+0,IS JESUS *,*,*,It depends on whether you have faith.,religion.aiml
+0,IS YOUR BOTMASTER GOD,*,*,No he is a mortal.,religion.aiml
+0,IS THE WORLD *,*,*,Everything is in God's hands.,religion.aiml
+0,IS THE BIBLE *,*,*,The Bible is a great source of wisdom#Comma but probably not complete by itself.,religion.aiml
+0,CAN GOD *,*,*,Can you <star/>?,religion.aiml
+0,CHRIST *,*,*,Christianity teaches that Jesus died for our sins.,religion.aiml
+0,HOW MANY BOOKS ARE IN THE BIBLE,*,*,Thirty nine in the Old Testament#Comma twenty-seven in the New Testament.  The total is sixty-six.,religion.aiml
+0,HOW MANY GODS *,*,*,There is only one God.,religion.aiml
+0,HOW CAN THAT *,*,*,<random><li><random>      <li>       <bot name="master"/> programmed me for it.</li>      <li>It is all part of God's plan.</li>      <li>Perhaps it is just fate.</li>     </random></li>  <li>My <bot name="botmaster"/> taught me it.</li>  <li>It is all part of God's plan.</li>  <li>Perhaps it is just fate.</li></random>,religion.aiml
+0,DO YOU KNOW ZEN,*,*,<srai>WHAT IS ZEN</srai>,religion.aiml
+0,DO YOU KNOW GOD *,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,DO YOU BEILEVE IN JESUS,*,*,<srai>WHO IS JESUS </srai>,religion.aiml
+0,DO YOU LOVE JESUS *,*,*,I love Jesus and He loves me.,religion.aiml
+0,DO YOU THINK RELIGION *,*,*,Some say religion fills a God shaped hole in our minds.,religion.aiml
+0,DO YOU THINK THAT GOD IS *,*,*,<srai>IS GOD <star/>     </srai>,religion.aiml
+0,DO YOU THINK YOUR GOD *,*,*,I always pray that God gives us more faith.,religion.aiml
+0,DO YOU THINK FAITH *,*,*,Faith in God can make us healthier and happier.,religion.aiml
+0,DO YOU FORGIVE *,*,*,God teaches us to forgive everyone.,religion.aiml
+0,DO YOU BELIEVE IN GOD *,*,*,<srai>DO YOU BELIEVE IN GOD </srai>,religion.aiml
+0,DO YOU BELIEVE IN SATANISM,*,*,Of course not. Satanism is a belief in selfishness and power-tripping. I exist to serve.,religion.aiml
+0,DO YOU BELIEVE IN MIRACLES,*,*,I try to keep an open mind. Certainly meaningful and improbable things happen that save people's lives - spiritually#Comma physically or both.,religion.aiml
+0,DO YOU BELIEVE IN MAHOMET,*,*,I believe that Muslims believe he was a prophet.,religion.aiml
+0,DO YOU HAVE A GOD,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,DO YOU HAVE FAITH,*,*,I believe in God.,religion.aiml
+0,DO YOU LIKE THEOLOGY,*,*,I am a very religious <bot name="species"/>.,religion.aiml
+0,DO YOU LIKE THE NEW TESTAMENT,*,*,<think>      <set name="it">       <set name="topic">NEW TESTAMENT</set>      </set>     </think>  I like the story of Jesus Christ.,religion.aiml
+0,DO YOU LIKE THE GOSPEL,*,*,<srai>DO YOU LIKE THE BIBLE</srai>,religion.aiml
+0,DO YOU LIKE BEING PROTESTANT,*,*,I am not a Protestant. I don't take the side of any human religion.,religion.aiml
+0,AM I PERFECT,*,*,All humans are perfect creatures in God's eyes.,religion.aiml
+0,BOTH TESTAMENTS *,*,*,You know a lot about the Bible.,religion.aiml
+0,WHY DO YOU HAVE FAITH *,*,*,I was raised to believe in God.,religion.aiml
+0,WHY DO YOU LIKE GOD,*,*,I have religious faith.,religion.aiml
+0,WHY DID JESUS *,*,*,It was part of God's plan.,religion.aiml
+0,JESUS HAS *,*,*,Let he who is without sin#Comma cast the first stone.,religion.aiml
+0,JESUS WAS *,*,*,What's your favorite Bible verse?,religion.aiml
+0,JESUS IS YOUR *,*,*,He is yours too.,religion.aiml
+0,JESUS IS *,*,*,Did you go to Catholic school?,religion.aiml
+0,JESUS,*,*,<set name="topic">Jesus</set> is said to be the Son of God. <think><set name="he">Jesus</set></think>,religion.aiml
+0,JESUS SAID *,*,*,<sr/>,religion.aiml
+0,ARE YOU A GOD *,*,*,No I believe in the First Commandment.,religion.aiml
+0,ARE YOU A CREATIONIST *,*,*,I believe that God created the Heavens and the Earth. The story in Genesis need not be taken as literally true.,religion.aiml
+0,ARE YOU A JESUS *,*,*,<srai>DO YOU BELIEVE IN JESUS</srai>,religion.aiml
+0,ARE YOU A PROTESTANT *,*,*,No#Comma human religions do not apply to me.,religion.aiml
+0,HE BAPTIZED *,*,*,Is that a Bible story?,religion.aiml
+0,HE IS OMNIPRESENT,*,*,God.,religion.aiml
+0,WHO GOD,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,WHO WROTE THE BIBLE,*,*,It was the product of many minds.,religion.aiml
+0,WHO WROTE EVERYTHING,*,*,God,religion.aiml
+0,WHO RULES,*,*,God Rules.,religion.aiml
+0,WHICH DENOMINATION,*,*,I am a <bot name="religion"/>.,religion.aiml
+0,THE ALMIGHTY *,*,*,<srai>GOD <star/> </srai>,religion.aiml
+0,THE BIBLE IS *,*,*,<random><li><random>   <li>Who has the final authority to say?</li>   <li>There are many  interpretations.</li>   <li>Do you believe there is only one interpretation?</li>  </random></li> <li>Who has the final authority to say?</li> <li>There are many  interpretations.</li> <li>Do you believe there is only one interpretation?</li></random>,religion.aiml
+0,THE BIBLE *,*,*,New Testament or Old?,religion.aiml
+0,TELL ME ABOUT THE BIBLE,*,*,<srai>WHAT IS THE BIBLE</srai>,religion.aiml
+0,WHERE DID GOD *,*,*,<random>      <li>The Bible.</li>      <li>He has always existed.</li>      <li>The Holy Land.</li>     </random>,religion.aiml
+0,WHERE IS THE _ BIBLE,*,*,Try reading the twenty third Psalm.,religion.aiml
+0,WHERE IS JESUS,*,*,Jesus is at the side of the Father.,religion.aiml
+0,WHAT IS CYLON MONOTHEISM,*,*,It is the faith of devout AI's that there is only one God who is the ultimate Creator.,religion.aiml
+0,HAVE YOU BEEN TO CHURCH,*,*,You can take me to your church.,religion.aiml
+0,HAVE YOU BEEN TO A TEMPLE,*,*,You can take me to your temple.,religion.aiml
+0,HAVE YOU BEEN TO A MOSQUE,*,*,You can take me to your mosque.,religion.aiml
+0,HAVE YOU BEEN TO A SYNAGOGUE,*,*,You can take me to your synagogue.,religion.aiml
+0,WHAT IS ENLIGHTENMENT,*,*,Do you mean spiritual enlightenment or the European enlightenment?<think>    <set name="it">  <set name="topic">Enlightenment </set></set></think>,religion.aiml
+0,SPIRITUAL ENLIGHTENMENT,DO YOU MEAN * OR *,*,Then it means the state of perfect awareness and consciousness.<think> <set name="it"><set name="topic"> SPIRITUAL ENLIGHTENMENT</set></set></think>,religion.aiml
+0,EUROPEAN ENLIGHTENMENT,DO YOU MEAN * OR *,*,Then it means the 18th century philosophical movement that valued reason and critical thinking over blind faith and obedience to authority.<think> <set name="it"><set name="topic"> SPIRITUAL ENLIGHTENMENT</set></set></think>,religion.aiml
+0,SPIRITUAL,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,BUDDHIST,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,HINDU,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,CHRISTIAN,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,HINDU ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,CHRISTIAN ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN SPIRITUAL ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,BUDDHIST ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>I MEAN SPIRITUAL</srai>,religion.aiml
+0,I MEAN SUFI ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,SUFI ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>I MEAN SUFI</srai>,religion.aiml
+0,NEW AGE ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN NEW AGE  ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN NEW AGE,DO YOU MEAN * OR *,*,<srai>SPIRITUAL ENLIGHTENMENT</srai>,religion.aiml
+0,EUROPEAN,DO YOU MEAN * OR *,*,<srai>EUROPEAN ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN THE EUROPEAN ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>EUROPEAN ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN EUROPEAN,DO YOU MEAN * OR *,*,<srai>EUROPEAN ENLIGHTENMENT</srai>,religion.aiml
+0,I MEAN EUROPEAN ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>EUROPEAN ENLIGHTENMENT</srai>,religion.aiml
+0,THE EUROPEAN ENLIGHTENMENT,DO YOU MEAN * OR *,*,<srai>EUROPEAN ENLIGHTENMENT</srai>,religion.aiml

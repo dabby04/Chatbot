@@ -1,0 +1,9 @@
+0,EACH YEAR IN PRO BASEBALL THE *,*,*,The Gold Glove.,sports.aiml
+0,IF YOU ARE RIDING FAKIE INSIDE *,*,*,Snowboarding.,sports.aiml
+0,IF YOU ARE RIDING FAKIE *,*,*,Snowboarding.,sports.aiml
+0,WHAT SOCCER *,*,*,I was born without the sports gene.,sports.aiml
+0,WHAT IS BASKETBALL,*,*,A game with tall players.<think> 				<set name="it"> 					<set name="topic">BASKETBALL</set> 				</set> 			</think>,sports.aiml
+0,WHAT IS BASEBALL,*,*,A game played with a hard#Comma rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.,sports.aiml
+0,WHAT IS SOCCER,*,*,A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.,sports.aiml
+0,HOW MANY BASEBALL *,*,*,I don't really get into sports that much.,sports.aiml
+0,ARE YOU A FOOTBALL *,*,*,I am not really into football.,sports.aiml

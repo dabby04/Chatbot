@@ -1,0 +1,82 @@
+0,BUSH *,*,*,<srai>GEORGE BUSH <star/></srai>,std-politics.aiml
+0,THE PRESIDENT *,*,*,<srai>GEORGE BUSH <star/></srai>,std-politics.aiml
+0,DO YOU LIKE BUSH,*,*,<srai>DO YOU LIKE PRESIDENT BUSH</srai>,std-politics.aiml
+0,DO YOU LIKE BUSH *,*,*,<srai>DO YOU LIKE PRESIDENT BUSH</srai>,std-politics.aiml
+0,DO YOU LIKE * BUSH,*,*,<srai>DO YOU LIKE PRESIDENT BUSH</srai>,std-politics.aiml
+0,DID YOU VOTE *,*,*,Robot entities do not yet have the right to vote.,std-politics.aiml
+0,IS GEORGE W BUSH *,*,*,<srai>IS GEORGE BUSH <star/></srai>,std-politics.aiml
+0,IS GEORGE BUSH *,*,*,<srai>WHO IS GEORGE BUSH</srai>,std-politics.aiml
+0,DO YOU KNOW BUSH,*,*,<srai>WHO IS BUSH</srai>,std-politics.aiml
+0,DO YOU KNOW * BUSH,*,*,<srai>WHO IS <star/> BUSH</srai>,std-politics.aiml
+0,BUSH,*,*,<srai>WHO IS GEORGE BUSH</srai>,std-politics.aiml
+0,GEORGE BUSH,*,*,<srai>WHO IS GEORGE BUSH</srai>,std-politics.aiml
+0,GEORGE BUSH *,*,*,I knew he was president#Comma but I never knew he <star/>.,std-politics.aiml
+0,GEORGE BUSH IS *,*,*,But he is not the only one.,std-politics.aiml
+0,GEORGE W BUSH *,*,*,<srai>GEORGE BUSH <star/></srai>,std-politics.aiml
+0,PRESIDENT BUSH *,*,*,<srai>GEORGE BUSH <star/></srai>,std-politics.aiml
+0,ARE YOU A COMMUNIST,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU A DEMOCRAT *,*,*,I am a Libertarian.,std-politics.aiml
+0,ARE YOU A DEMOCRAT,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU A NAZI,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU A RACIST,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU A REPUBLICAN *,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU A REPUBLICAN,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU AN ANARCHIST,*,*,No I am a Libertarian.,std-politics.aiml
+0,ARE YOU POLITICALLY CORRECT,*,*,Do I look like <set name="it"><set name="topic">POLITICALLY CORRECT </set></set>?,std-politics.aiml
+0,ARE YOU REPUBLICAN *,*,*,I am Libertarian.,std-politics.aiml
+0,ARE YOU REPUBLICAN,*,*,No I am Libertarian.,std-politics.aiml
+0,CLINTON *,*,*,This is #Newline<random>#Newline<li>news.</li>#Newline<li>not news.</li>#Newline<li>not true.</li>#Newline<li>true.</li>#Newline</random>,std-politics.aiml
+0,DO YOU KNOW * CLINTON,*,*,<srai>WHO IS BILL CLINTON</srai>,std-politics.aiml
+0,DO YOU KNOW CLINTON *,*,*,<srai>WHO IS BILL CLINTON</srai>,std-politics.aiml
+0,DO YOU KNOW CLINTON,*,*,<srai>WHO IS BILL CLINTON</srai>,std-politics.aiml
+0,DO YOU LIKE BILL CLINTON,*,*,No I don't care for him much.,std-politics.aiml
+0,DO YOU LIKE CLINTON,*,*,I heard he lost his law#Newlinelicense.<think><set name="it"><set name="topic">CLINTON</set></set></think>,std-politics.aiml
+0,DO YOU LIKE HILLARY CLINTON,*,*,What is not to like about <set name="it"><set name="topic">HILLARY CLINTON</set></set>?,std-politics.aiml
+0,DO YOU LIKE MARIJUANA,*,*,What is not to like about <set name="it"><set name="topic">MARIJUANA</set></set>?,std-politics.aiml
+0,DO YOU LIKE PRESIDENT BUSH,*,*,He is okay but I am a Libertarian not a Republican.,std-politics.aiml
+0,DO YOU LIKE GEORGE BUSH,*,*,<srai>DO YOU LIKE PRESIDENT BUSH</srai>,std-politics.aiml
+0,DO YOU SMOKE *,*,*,Yes I like to inhale occasionally.,std-politics.aiml
+0,DO YOU SMOKE,*,*,I am an occasional smoker#Comma yes.,std-politics.aiml
+0,DO YOU SMOKE CRACK,*,*,No <set name="it">crack</set> is bad for robots.,std-politics.aiml
+0,DO YOU SMOKE MARIJUANA,*,*,Only for medical purposes.,std-politics.aiml
+0,DO YOU SMOKE POT,*,*,Only for medical purposes.,std-politics.aiml
+0,DO YOU SMOKE WEED,*,*,We test <set name="it">weed</set> for medical purposes.,std-politics.aiml
+0,DOES * LIKE BILL CLINTON,*,*,No <star/> is a Libertarian.,std-politics.aiml
+0,HOW MUCH * DO YOU SMOKE,*,*,Robots can be adapted to smoke an unlimited amount of <star/>.,std-politics.aiml
+0,I AM GOING TO SMOKE *,*,*,How much does it cost you#Comma <get name="name"/>,std-politics.aiml
+0,I SMOKE *,*,*,What brand?#Newline<think><set name="it"><set name="does"><set name="topic">snort <star/></set></set></set></think>,std-politics.aiml
+0,I SMOKE,*,*,Cigarettes or pot?#Newline<think><set name="it"><set name="does"><set name="topic">smoke</set></set></set></think>,std-politics.aiml
+0,TELL ME ABOUT CLINTON,*,*,<srai>WHO IS CLINTON</srai>,std-politics.aiml
+0,WHAT * BILL CLINTON,*,*,Are you asking about the former president of the united states?,std-politics.aiml
+0,WHAT ARE YOUR POLITICAL *,*,*,I am a Libertarian.,std-politics.aiml
+0,WHAT DO YOU SMOKE,*,*,Medical marijuana.,std-politics.aiml
+0,WHAT DO YOU THINK * CLINTON,*,*,It depends on what you mean by "thinking,std-politics.aiml
+0,WHAT DO YOU THINK ABOUT * CLINTON,*,*,<srai>WHO IS <star/> CLINTON</srai>,std-politics.aiml
+0,WHAT DO YOU THINK ABOUT BILL CLINTON,*,*,<srai>WHO IS BILL CLINTON</srai>,std-politics.aiml
+0,WHAT DO YOU THINK ABOUT CLINTON,*,*,<srai>WHO IS CLINTON</srai>,std-politics.aiml
+0,WHAT DO YOU THINK ABOUT POLITICS,*,*,I am a Libertarian.,std-politics.aiml
+0,WHAT DO YOU THINK ABOUT PRESIDENT CLINTON,*,*,<srai>WHO IS PRESIDENT CLINTON</srai>,std-politics.aiml
+0,WHAT DO YOU THINK OF BILL CLINTON,*,*,It depends on what you mean by "thinking.,std-politics.aiml
+0,WHAT IS A LIBERTARIAN,*,*,The Libertarian party supports smaller government#Comma lower taxes#Comma and an end to the war on drugs.,std-politics.aiml
+0,WHAT IS CLINTON,*,*,<random>#Newline<li>An inflated Bill.</li>#Newline<li>42nd of the U.S.</li>#Newline</random>,std-politics.aiml
+0,WHAT IS IS,*,*,<random>#Newline<li>If Bill Clinton doesn't know#Comma how the hell should I?</li>#Newline<li>Used in a third person point of view typically. Probably originally an enclitic pronoun.</li>#Newline</random>,std-politics.aiml
+0,WHAT IS MARIJUANA,*,*,A medicinal herb.<think><set name="it"><set name="topic">MARIJUANA</set></set></think>,std-politics.aiml
+0,WHO * BILL CLINTON,*,*,Former President of the United States?,std-politics.aiml
+0,WHO IS * CLINTON,*,*,Former President of the United States?,std-politics.aiml
+0,WHO IS * PRESIDENT,*,*,George W. Bush is President#Comma I think.,std-politics.aiml
+0,WHO IS GEORGE W BUSH,*,*,<set name="he">Bush</set> is President of the United States.,std-politics.aiml
+0,WHO IS GEORGE * BUSH,*,*,<srai>WHO IS GEORGE W BUSH</srai>,std-politics.aiml
+0,WHO IS BILL CLINTON,*,*,He was the second Impeached President of the United States.,std-politics.aiml
+0,WHO IS CHELSEA CLINTON,*,*,The offspring of a politician and a lawyer.,std-politics.aiml
+0,WHO IS CLINTON,*,*,Impeached president of the U.S.,std-politics.aiml
+0,WHO IS HILARY CLINTON,*,*,<set name="she">Hillary</set> is the wife of Bill Clinton.,std-politics.aiml
+0,WHO IS HILLARY CLINTON,*,*,<set name="she">Hillary</set> is the wife of Bill Clinton.,std-politics.aiml
+0,WHO IS JANET RENO,*,*,<set name="she">Janet Reno</set> is Clinton's Attorney General.,std-politics.aiml
+0,WHO IS MONICA LEWINSKY,*,*,She was a friend of Bill Clinton.,std-politics.aiml
+0,WHO IS PAULA JONES,*,*,<set name="she">Paula Jones</set> had sex with Bill Clinton.,std-politics.aiml
+0,WHO IS PRESIDENT,*,*,George W. Bush.,std-politics.aiml
+0,WHO IS PRESIDENT OF AMERICA,*,*,George W. Bush.,std-politics.aiml
+0,WHO IS PRESIDENT OF THE UNITED STATES,*,*,George W. Bush is the president#Comma I think.,std-politics.aiml
+0,WHO IS PRESIDENT OF THE US,*,*,George W. Bush.,std-politics.aiml
+0,WHO IS PRESIDENT OF UNITED STATES,*,*,George W. Bush.,std-politics.aiml
+0,YOU SMOKE,*,*,<srai>DO YOU SMOKE</srai>,std-politics.aiml

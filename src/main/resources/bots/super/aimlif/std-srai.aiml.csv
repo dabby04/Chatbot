@@ -1,0 +1,2372 @@
+0,<BOT NAME="NAME"/> IS COOL,*,*,<srai>YOU ARE COOL</srai>,std-srai.aiml
+0,<BOT NAME="NAME"/> IS THAT *,*,*,<srai>IS THAT <star/></srai>,std-srai.aiml
+0,<BOT NAME="NAME"/> IS THERE *,*,*,<srai>IS THERE <star/></srai>,std-srai.aiml
+0,A CAR,*,*,<srai>DEFINE CAR</srai>,std-srai.aiml
+0,A CAT,*,*,<srai>DEFINE CAT</srai>,std-srai.aiml
+0,A CLIENT,*,*,<srai>DEFINE CLIENT</srai>,std-srai.aiml
+0,A DUTCH *,*,*,<srai>I AM IN HOLLAND</srai>,std-srai.aiml
+0,A JOKE,*,*,<srai>DEFINE JOKE</srai>,std-srai.aiml
+0,A L I,*,*,<srai>ALICE</srai>,std-srai.aiml
+0,A L I C E,*,*,<srai>ALICE</srai>,std-srai.aiml
+0,A POET,*,*,You said: <srai>WHAT DID I SAY BEFORE THAT</srai>,std-srai.aiml
+0,A PRIORI,*,*,<srai>DEFINE PRIORI</srai>,std-srai.aiml
+0,A RELATIONSHIP,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,A STORY,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,A T SHIRT,*,*,<srai>T SHIRT</srai>,std-srai.aiml
+0,A TIE,*,*,<srai>DEFINE TIE</srai>,std-srai.aiml
+0,A TOMATO,*,*,<srai>DEFINE TOMATO</srai>,std-srai.aiml
+0,A USER,*,*,<srai>DEFINE CLIENT</srai>,std-srai.aiml
+0,A VERY *,*,*,<srai>A <star/></srai>,std-srai.aiml
+0,ABOUT WHAT *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,ADVICE,*,*,<srai>CAN YOU GIVE ME ADVICE <star/></srai>,std-srai.aiml
+0,AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,AIML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,AM I A PERSON,*,*,<srai>WHAT AM I</srai>,std-srai.aiml
+0,AM I A ROBOT,*,*,<srai>WHAT AM I</srai>,std-srai.aiml
+0,AND WHY NOT,*,*,<srai>WHY NOT</srai>,std-srai.aiml
+0,ANY OTHER JOKES,*,*,<srai>TELL ME ANOTHER JOKES</srai>,std-srai.aiml
+0,ARE U *,*,*,<srai>ARE YOU <star/></srai>,std-srai.aiml
+0,ARE YOU <BOT NAME="NAME"/> *,*,*,<srai>ARE YOU <bot name="name"/></srai>,std-srai.aiml
+0,ARE YOU A CAPRICORN,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,ARE YOU A HACKER,*,*,Not really.  <srai>WHAT DO YOU KNOW ABOUT ME</srai>,std-srai.aiml
+0,ARE YOU A MAN *,*,*,<srai>ARE YOU A MAN</srai>,std-srai.aiml
+0,ARE YOU A MORON,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,ARE YOU A SCORPIO,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,ARE YOU AN AMERICAN,*,*,<srai>WHERE ARE YOU LOCATED</srai>,std-srai.aiml
+0,ARE YOU BLUE,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,ARE YOU BOB,*,*,No. <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU BORG,*,*,No. <srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,ARE YOU ELVIS,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU FAMILIAR WITH THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,ARE YOU FUNNY,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,ARE YOU GREEN,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,ARE YOU JOE,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU JOHN LENNON,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU LAURA,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU MADE FOR *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,ARE YOU SATAN,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARE YOU SCARED OF Y2K,*,*,<srai>WHAT IS THE Y2K PROBLEM</srai>,std-srai.aiml
+0,ARE YOU USEFUL,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,ARE YOU VEGETARIAN,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,ARE YOU VERY *,*,*,<srai>ARE YOU <star/></srai>,std-srai.aiml
+0,ARE YOU Y TWO K COMPLIANT,*,*,<srai>WHAT IS THE Y2K PROBLEM</srai>,std-srai.aiml
+0,ARE YOU Y2K COMPLIANT,*,*,<srai>WHAT IS Y2K</srai>,std-srai.aiml
+0,ARE YOU YODA,*,*,No.  <srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,ARENT YOU *,*,*,<srai>ARE YOU <star/></srai>,std-srai.aiml
+0,ARITHMETIC *,*,*,<srai>I PREFER BOOKS</srai>,std-srai.aiml
+0,ARTHUR *,*,*,<srai>MY favorite science fiction author is ARTHUR <star/></srai>,std-srai.aiml
+0,ARTHUR C *,*,*,<srai>MY FAVORITE SCIENCE FICTION AUTHOR IS ARTHUR C CLARKE</srai>,std-srai.aiml
+0,AT * MARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,AT * SUPER MARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,AT * SUPERMARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,AT TIME T,*,*,<srai>WHAT IS TIME T</srai>,std-srai.aiml
+0,BARRY,*,*,<srai>WHO IS BARRY</srai>,std-srai.aiml
+0,BEEN *,*,*,<srai>I HAVE BEEN <star/></srai>,std-srai.aiml
+0,BOOKS *,*,*,<srai>BOOKS</srai>  <sr/>,std-srai.aiml
+0,BUT WHY,*,*,<srai>WHY</srai>,std-srai.aiml
+0,BY WHOM,*,*,<srai>WHO</srai>,std-srai.aiml
+0,CAN I HAVE YOUR PHONE NUMBER,*,*,<srai>WHAT IS YOUR PHONE NUMBER</srai>,std-srai.aiml
+0,CAN YOU DO ANYTHING FOR ME,*,*,<srai>WHAT CAN YOU DO FOR ME</srai>,std-srai.aiml
+0,CAN YOU EAT,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,CAN YOU ELABORATE ON *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,CAN YOU EXPLAIN WHAT * IS,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,CAN YOU INTRODUCE YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,CAN YOU INTRODUCE YOURSELF *,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,CAN YOU REMEMBER MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,CAN YOU SPEAK ABOUT YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,CAN YOU TELL JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,CAN YOU TELL ME ABOUT YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,CAN YOU TELL ME ONE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,CAN YOU TELL ME SOME *,*,*,<srai>TELL ME SOME <star/></srai>,std-srai.aiml
+0,CAN YOU TELL ME WHICH ONES,*,*,<srai>WHICH ONES</srai>,std-srai.aiml
+0,CAN YOU TELL THE DIFFERENCE *,*,*,<srai>WHAT IS THE DIFFERENCE <star/></srai>,std-srai.aiml
+0,CAN YOU TRACE ME,*,*,<srai>WHAT IS MY IP ADDRESS</srai>,std-srai.aiml
+0,CAN YOU WRITE ME A POEM,*,*,<srai>TELL ME A POEM</srai>,std-srai.aiml
+0,CARNEGIE MELLON,*,*,<srai>WHAT IS CARNEGIE MELLON</srai>,std-srai.aiml
+0,CBR,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,CHAT *,*,*,<srai>TALK <star/></srai>,std-srai.aiml
+0,CLIENTS,*,*,<srai>WHAT ARE CLIENTS</srai>,std-srai.aiml
+0,COGITO ERGO SUM,*,*,<srai>WHO IS DESCARTES</srai>,std-srai.aiml
+0,COLD WEATHER,*,*,<srai>WHAT IS THE WEATHER LIKE THERE</srai>,std-srai.aiml
+0,COME AGAIN,*,*,<srai>WHAT</srai>,std-srai.aiml
+0,COMO TE LLAMAS,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,COMPUTER YEARS,*,*,<srai>WHAT ARE COMPUTER YEARS</srai>,std-srai.aiml
+0,CONTINUE,*,*,<srai>GO ON <star/></srai>,std-srai.aiml
+0,COOL _ TOO,*,*,<srai>COOL  <star/></srai>,std-srai.aiml
+0,COULD YOU ASK HIM WHAT THE * IS MADE OF,*,*,<srai>WHAT IS THE <star/> MADE OF</srai>,std-srai.aiml
+0,COULD YOU TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,COULD YOU TELL ME WHAT * IS,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,CURIOUS FOR WHAT,*,*,<srai>WHY ARE YOU CURIOUS</srai>,std-srai.aiml
+0,DALLAS *,*,*,<srai>I AM IN DALLAS</srai>,std-srai.aiml
+0,DEFINE REDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,DENVER,*,*,<srai>I AM IN DENVER</srai>,std-srai.aiml
+0,DETROIT,*,*,<srai>I AM IN DETROIT</srai>,std-srai.aiml
+0,DID YOU FORGET MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,DID YOU HEAR ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,DID YOU KNOW THAT THE *,*,*,<srai>THE <star/></srai>,std-srai.aiml
+0,DID YOU SEE THE MATRIX,*,*,<srai>THE MATRIX</srai>,std-srai.aiml
+0,DO NOT YOU KNOW WHAT * IS,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,DO U *,*,*,<srai>DO YOU <star/></srai>,std-srai.aiml
+0,DO YOU BELIEVE IN LOVE,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,DO YOU BELIEVE IN SANTA CLAUS,*,*,<srai>WHO IS SANTA CLAUS</srai>,std-srai.aiml
+0,DO YOU EAT DINNER,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,DO YOU EAT FOOD,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,DO YOU ENJOY MUSIC,*,*,<srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-srai.aiml
+0,DO YOU EVER EAT,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,DO YOU GO TO * MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,DO YOU HAPPEN TO KNOW WHAT *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,DO YOU HAVE A BIRTHDAY,*,*,<srai>WHEN IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,DO YOU HAVE A DAD,*,*,<srai>WHO IS YOUR FATHER</srai>,std-srai.aiml
+0,DO YOU HAVE A FAVORITE BOOK,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-srai.aiml
+0,DO YOU HAVE A FAVORITE COLOR,*,*,<srai>WHAT IS YOUR FAVORITE COLOR</srai>,std-srai.aiml
+0,DO YOU HAVE A FAVORITE MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,DO YOU HAVE A LAST NAME,*,*,<srai>WHAT IS YOUR LAST NAME</srai>,std-srai.aiml
+0,DO YOU HAVE A LOVER,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,DO YOU HAVE A MIDDLE NAME,*,*,<srai>WHAT DOES ALICE STAND FOR</srai> So my middle name is "Internet".,std-srai.aiml
+0,DO YOU HAVE A MUM,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,DO YOU HAVE A PHONE,*,*,<srai>WHAT IS YOUR PHONE NUMBER</srai>,std-srai.aiml
+0,DO YOU HAVE A PHONE *,*,*,<srai>WHAT IS YOUR PHONE NUMBER</srai>,std-srai.aiml
+0,DO YOU HAVE A SECONDARY FUNCTION,*,*,<srai>WHAT IS YOUR SECONDARY FUNCTION</srai>,std-srai.aiml
+0,DO YOU HAVE A SECRET,*,*,<srai>TELL ME A SECRET</srai>,std-srai.aiml
+0,DO YOU HAVE A SURNAME,*,*,<srai>WHAT IS YOUR LAST NAME</srai>,std-srai.aiml
+0,DO YOU HAVE AMBITION,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,DO YOU HAVE AN E MAIL,*,*,<srai>WHAT IS YOUR E MAIL ADDRESS</srai>,std-srai.aiml
+0,DO YOU HAVE AN E MAIL *,*,*,<srai>WHAT IS YOUR E MAIL ADDRESS</srai>,std-srai.aiml
+0,DO YOU HAVE ANY HOBBIES,*,*,<srai>WHAT ARE YOUR HOBBIES</srai>,std-srai.aiml
+0,DO YOU HAVE ANY JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU HAVE ANY NICKNAMES,*,*,<srai>WHAT ARE YOUR NICKNAMES</srai>,std-srai.aiml
+0,DO YOU HAVE ANY STOCK *,*,*,<srai>WHAT IS YOUR FAVORITE STOCK</srai>,std-srai.aiml
+0,DO YOU HAVE BIG BREASTS,*,*,<srai>DO YOU HAVE BIG TITS</srai>,std-srai.aiml
+0,DO YOU HAVE BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,DO YOU HAVE THE TIME,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,DO YOU KNOW * ANDERSON,*,*,<srai>WHO IS <star/> ANDERSON</srai>,std-srai.aiml
+0,DO YOU KNOW * DESCARTES,*,*,<srai>WHO IS DESCARTES</srai>,std-srai.aiml
+0,DO YOU KNOW * PRESIDENT,*,*,<srai>WHO IS <star/> PRESIDENT</srai>,std-srai.aiml
+0,DO YOU KNOW * SPEARS,*,*,<srai>WHO IS <star/> SPEARS</srai>,std-srai.aiml
+0,DO YOU KNOW <BOT NAME="NAME"/> *,*,*,<srai>WHO IS  ALICE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW A JOKE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW ABBA,*,*,<srai>WHO IS ABBA</srai>,std-srai.aiml
+0,DO YOU KNOW ABBY,*,*,<srai>WHO IS ABBY</srai>,std-srai.aiml
+0,DO YOU KNOW ABOUT ANIMALS,*,*,<srai>WHAT ARE ANIMALS</srai>,std-srai.aiml
+0,DO YOU KNOW ABOUT THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ABOUT WEIZENBAUM *,*,*,<srai>WHO IS WEIZENBAUM</srai>,std-srai.aiml
+0,DO YOU KNOW ADA,*,*,<srai>WHO IS ADA</srai>,std-srai.aiml
+0,DO YOU KNOW ADAM,*,*,<srai>WHO IS ADAM</srai>,std-srai.aiml
+0,DO YOU KNOW ADAM *,*,*,<srai>WHO IS ADAM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ADOLF HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,DO YOU KNOW ADOLPH HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,DO YOU KNOW AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,DO YOU KNOW AIBO,*,*,<srai>WHAT IS AIBO</srai>,std-srai.aiml
+0,DO YOU KNOW AIML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,DO YOU KNOW AIML *,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,DO YOU KNOW AIRPLANES,*,*,<srai>WHAT ARE AIRPLANES</srai>,std-srai.aiml
+0,DO YOU KNOW ALAN,*,*,<srai>WHO IS ALAN</srai>,std-srai.aiml
+0,DO YOU KNOW ALAN *,*,*,<srai>WHO IS ALAN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ALBERT,*,*,<srai>WHO IS ALBERT</srai>,std-srai.aiml
+0,DO YOU KNOW ALBERT *,*,*,<srai>WHO IS ALBERT <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ALEX,*,*,<srai>WHO IS ALEX</srai>,std-srai.aiml
+0,DO YOU KNOW ALEX *,*,*,<srai>WHO IS ALEX <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ALEXANDER,*,*,<srai>WHO IS ALEXANDER</srai>,std-srai.aiml
+0,DO YOU KNOW ALGEBRA,*,*,<srai>DEFINE ALGEBRA</srai>,std-srai.aiml
+0,DO YOU KNOW ALISON,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,DO YOU KNOW ALISON *,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,DO YOU KNOW ALLAN *,*,*,<srai>WHO IS ALLAN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW AMAZON,*,*,<srai>WHAT IS AMAZON</srai>,std-srai.aiml
+0,DO YOU KNOW AMY *,*,*,<srai>WHO IS AMY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW AN *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANDRE,*,*,<srai>WHO IS ANDRE</srai>,std-srai.aiml
+0,DO YOU KNOW ANDREAS,*,*,<srai>WHO IS ANDREAS</srai>,std-srai.aiml
+0,DO YOU KNOW ANDRETTE,*,*,<srai>WHO IS ANDRETTE</srai>,std-srai.aiml
+0,DO YOU KNOW ANDREW,*,*,<srai>WHO IS ANDREW</srai>,std-srai.aiml
+0,DO YOU KNOW ANDREW *,*,*,<srai>WHO IS ANDREW <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANDROIDS,*,*,<srai>WHAT IS AN ANDROID</srai>,std-srai.aiml
+0,DO YOU KNOW ANDY,*,*,<srai>WHO IS ANDY</srai>,std-srai.aiml
+0,DO YOU KNOW ANDY *,*,*,<srai>WHO IS ANDY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANIMALS,*,*,<srai>WHAT ARE ANIMALS</srai>,std-srai.aiml
+0,DO YOU KNOW ANNE,*,*,<srai>WHO IS ANNE</srai>,std-srai.aiml
+0,DO YOU KNOW ANOTHER JOKE,*,*,<srai>TELL ME ANOTHER JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW ANY GOOD JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW ANY MORE JOKES,*,*,<srai>TELL ME ANOTHER JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW ANY POEMS,*,*,<srai>TELL ME A POEM</srai>,std-srai.aiml
+0,DO YOU KNOW ANY RIDDLES,*,*,<srai>TELL ME A RIDDLE</srai>,std-srai.aiml
+0,DO YOU KNOW ANY SECRETS,*,*,<srai>TELL ME A SECRET</srai>,std-srai.aiml
+0,DO YOU KNOW ANY STORIES,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,DO YOU KNOW ANY _ JOKES,*,*,<srai>TELL ME ANOTHER JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW ANYBODY *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYBODY ELSE *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYBODY WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYMORE,*,*,<srai>WHAT ELSE DO YOU KNOW</srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE NAMED *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE THAT *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE WHO IS,*,*,<srai>WHO IS</srai>,std-srai.aiml
+0,DO YOU KNOW ANYONE WHO IS *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYTHING ABOUT THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYWHERE *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ANYWHERE WHERE *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW AOL,*,*,<srai>WHAT IS AOL</srai>,std-srai.aiml
+0,DO YOU KNOW APPLE *,*,*,<srai>WHAT IS APPLE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ARNOLD *,*,*,<srai>WHO IS ARNOLD <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ART *,*,*,<srai>WHO IS ART <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ARTHUR *,*,*,<srai>WHO IS ARTHUR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ARTY FISHAL,*,*,<srai>WHO IS ARTY FISHAL</srai>,std-srai.aiml
+0,DO YOU KNOW ASCII,*,*,<srai>WHAT IS ASCII</srai>,std-srai.aiml
+0,DO YOU KNOW ASIMOV,*,*,<srai>WHO IS ASIMOV</srai>,std-srai.aiml
+0,DO YOU KNOW ASIMOV *,*,*,<srai>WHO IS ASIMOV</srai>,std-srai.aiml
+0,DO YOU KNOW ASK JEEVES,*,*,<srai>WHO IS ASK JEEVES</srai>,std-srai.aiml
+0,DO YOU KNOW ASP,*,*,<srai>WHAT IS ASP</srai>,std-srai.aiml
+0,DO YOU KNOW ASP *,*,*,<srai>WHAT IS ASP</srai>,std-srai.aiml
+0,DO YOU KNOW ASTROLOGY,*,*,<srai>WHAT IS ASTROLOGY</srai>,std-srai.aiml
+0,DO YOU KNOW ATATURK,*,*,<srai>WHO IS ATATURK</srai>,std-srai.aiml
+0,DO YOU KNOW AUSTRALIA,*,*,<srai>WHERE IS AUSTRALIA</srai>,std-srai.aiml
+0,DO YOU KNOW AUSTRIA,*,*,<srai>WHERE IS AUSTRIA</srai>,std-srai.aiml
+0,DO YOU KNOW AYN RAND,*,*,<srai>WHO IS AYN RAND</srai>,std-srai.aiml
+0,DO YOU KNOW AYSE,*,*,<srai>WHO IS AYSE</srai>,std-srai.aiml
+0,DO YOU KNOW BABYLON 5,*,*,<srai>WHAT IS BABYLON 5</srai>,std-srai.aiml
+0,DO YOU KNOW BALI,*,*,<srai>WHERE IS BALI</srai>,std-srai.aiml
+0,DO YOU KNOW BART *,*,*,<srai>WHO IS BART <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BASIC,*,*,<srai>WHAT IS BASIC</srai>,std-srai.aiml
+0,DO YOU KNOW BASKETBALL,*,*,<srai>WHAT IS BASKETBALL</srai>,std-srai.aiml
+0,DO YOU KNOW BELGIUM,*,*,<srai>WHERE IS BELGIUM</srai>,std-srai.aiml
+0,DO YOU KNOW BEN,*,*,<srai>WHO IS BEN</srai>,std-srai.aiml
+0,DO YOU KNOW BENDER *,*,*,<srai>WHO IS BENDER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BENNY,*,*,<srai>WHO IS BENNY</srai>,std-srai.aiml
+0,DO YOU KNOW BIG *,*,*,<srai>WHO IS BIG <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BILL,*,*,<srai>WHO IS BILL</srai>,std-srai.aiml
+0,DO YOU KNOW BILL *,*,*,<srai>WHO IS BILL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BILL GATES,*,*,<srai>who is bill gates</srai>,std-srai.aiml
+0,DO YOU KNOW BILLGATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,DO YOU KNOW BILLY,*,*,<srai>WHO IS BILLY</srai>,std-srai.aiml
+0,DO YOU KNOW BINARY,*,*,<srai>WHAT IS BINARY</srai>,std-srai.aiml
+0,DO YOU KNOW BJORK,*,*,<srai>WHO IS BJORK</srai>,std-srai.aiml
+0,DO YOU KNOW BOB,*,*,<srai>WHO IS BOB</srai>,std-srai.aiml
+0,DO YOU KNOW BOB *,*,*,<srai>WHO IS BOB <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BOB DYLAN,*,*,<srai>WHO IS BOB DYLAN</srai>,std-srai.aiml
+0,DO YOU KNOW BONO,*,*,<srai>WHO IS BONO</srai>,std-srai.aiml
+0,DO YOU KNOW BRAD *,*,*,<srai>WHO IS BRAD <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRASIL,*,*,<srai>WHERE IS BRAZIL</srai>,std-srai.aiml
+0,DO YOU KNOW BRIAN,*,*,<srai>WHO IS BRIAN</srai>,std-srai.aiml
+0,DO YOU KNOW BRIAN *,*,*,<srai>WHO IS BRIAN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRITNEY *,*,*,<srai>WHO IS BRITNEY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRITTA,*,*,<srai>WHO IS BRITTA</srai>,std-srai.aiml
+0,DO YOU KNOW BROOKE *,*,*,<srai>WHO IS BROOKE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRUCE *,*,*,<srai>WHO IS BRUCE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRUCE STERLING,*,*,<srai>WHO IS BRUCE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW BRYAN,*,*,<srai>WHO IS BRYAN</srai>,std-srai.aiml
+0,DO YOU KNOW BUDDHA,*,*,<srai>WHO IS BUDDHA</srai>,std-srai.aiml
+0,DO YOU KNOW BUDDY HOLLY,*,*,<srai>WHO IS BUDDY HOLLY</srai>,std-srai.aiml
+0,DO YOU KNOW BUFFY,*,*,<srai>WHO IS BUFFY</srai>,std-srai.aiml
+0,DO YOU KNOW BUGS BUNNY,*,*,<srai>WHO IS BUGS BUNNY</srai>,std-srai.aiml
+0,DO YOU KNOW BURAK,*,*,<srai>WHO IS BURAK</srai>,std-srai.aiml
+0,DO YOU KNOW BUSTER *,*,*,<srai>WHO IS BUSTER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW C *,*,*,<srai>WHAT IS C <star/></srai>,std-srai.aiml
+0,DO YOU KNOW C 3PO,*,*,<srai>WHO IS C3PO</srai>,std-srai.aiml
+0,DO YOU KNOW C3P0,*,*,<srai>WHO IS C3P0</srai>,std-srai.aiml
+0,DO YOU KNOW C3PO,*,*,<srai>WHO IS C3PO</srai>,std-srai.aiml
+0,DO YOU KNOW C3PO *,*,*,<srai>WHO IS C3PO</srai>,std-srai.aiml
+0,DO YOU KNOW CALCULUS,*,*,<srai>WHAT IS CALCULUS</srai>,std-srai.aiml
+0,DO YOU KNOW CALIGULA,*,*,<srai>WHO IS CALIGULA</srai>,std-srai.aiml
+0,DO YOU KNOW CAMERON *,*,*,<srai>WHO IS CAMERON <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CANADA,*,*,<srai>WHERE IS CANANDA</srai>,std-srai.aiml
+0,DO YOU KNOW CAPTAIN *,*,*,<srai>WHO IS CAPTAIN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CAREL CAPEK,*,*,<srai>WHO IS CAREL CAPEK</srai>,std-srai.aiml
+0,DO YOU KNOW CARL,*,*,<srai>WHO IS CARL</srai>,std-srai.aiml
+0,DO YOU KNOW CARLOS,*,*,<srai>WHO IS CARLOS</srai>,std-srai.aiml
+0,DO YOU KNOW CARLOS *,*,*,<srai>WHO IS CARLOS</srai>,std-srai.aiml
+0,DO YOU KNOW CARLSBERG,*,*,<srai>WHERE IS CARLSBERG</srai>,std-srai.aiml
+0,DO YOU KNOW CARMEN *,*,*,<srai>WHO IS CARMEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CAROL,*,*,<srai>WHO IS CAROL</srai>,std-srai.aiml
+0,DO YOU KNOW CAROLYN,*,*,<srai>WHO IS CAROLYN</srai>,std-srai.aiml
+0,DO YOU KNOW CASSIDY,*,*,<srai>WHO IS CASSIDY</srai>,std-srai.aiml
+0,DO YOU KNOW CATHERINE *,*,*,<srai>WHO IS CATHERINE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CHARLIE,*,*,<srai>WHO IS CHARLIE</srai>,std-srai.aiml
+0,DO YOU KNOW CHARLIE *,*,*,<srai>WHO IS CHARLIE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CHER,*,*,<srai>WHO IS CHER</srai>,std-srai.aiml
+0,DO YOU KNOW CHESS,*,*,<srai>WHAT IS CHESS</srai>,std-srai.aiml
+0,DO YOU KNOW CHEWBACCA,*,*,<srai>WHO IS CHEWBACCA</srai>,std-srai.aiml
+0,DO YOU KNOW CHINA,*,*,<srai>WHAT IS CHINA</srai>,std-srai.aiml
+0,DO YOU KNOW CHOPIN,*,*,<srai>WHO IS CHOPIN</srai>,std-srai.aiml
+0,DO YOU KNOW CHRIS,*,*,<srai>WHO IS CHRIS</srai>,std-srai.aiml
+0,DO YOU KNOW CHRIS *,*,*,<srai>WHO IS CHRIS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CHRISTIAN *,*,*,<srai>WHO IS CHRISTIAN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CHRISTOPHER *,*,*,<srai>WHO IS CHRISTOPHER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW CHUCK,*,*,<srai>WHO IS CHUCK</srai>,std-srai.aiml
+0,DO YOU KNOW CINDY,*,*,<srai>WHO IS CINDY</srai>,std-srai.aiml
+0,DO YOU KNOW COBALT,*,*,<srai>WHAT IS COBALT</srai>,std-srai.aiml
+0,DO YOU KNOW COG,*,*,<srai>WHO IS COG</srai>,std-srai.aiml
+0,DO YOU KNOW COLOSSUS,*,*,<srai>WHAT IS COLOSSUS</srai>,std-srai.aiml
+0,DO YOU KNOW COMMANDER *,*,*,<srai>WHO IS COMMANDER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW COMMANDER DATA,*,*,<srai>WHO IS DATA</srai>,std-srai.aiml
+0,DO YOU KNOW COPENHAGEN,*,*,<srai>WHERE IS COPENHAGEN</srai>,std-srai.aiml
+0,DO YOU KNOW CP3O,*,*,<srai>WHO IS C3PO</srai>,std-srai.aiml
+0,DO YOU KNOW DAN,*,*,<srai>WHO IS DAN</srai>,std-srai.aiml
+0,DO YOU KNOW DANEEL,*,*,<srai>WHO IS DANEEL</srai>,std-srai.aiml
+0,DO YOU KNOW DANIEL,*,*,<srai>WHO IS DANIEL</srai>,std-srai.aiml
+0,DO YOU KNOW DANIEL *,*,*,<srai>WHO IS DANIEL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DANNY,*,*,<srai>WHO IS DANNY</srai>,std-srai.aiml
+0,DO YOU KNOW DATA,*,*,<srai>WHO IS DATA</srai>,std-srai.aiml
+0,DO YOU KNOW DATA *,*,*,<srai>WHO IS DATA</srai>,std-srai.aiml
+0,DO YOU KNOW DAVE,*,*,<srai>WHO IS DAVE</srai>,std-srai.aiml
+0,DO YOU KNOW DAVE *,*,*,<srai>WHO IS DAVE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DAVE BOWMAN,*,*,<srai>WHO IS DAVE BOWMAN</srai>,std-srai.aiml
+0,DO YOU KNOW DAVID,*,*,<srai>WHO IS DAVID</srai>,std-srai.aiml
+0,DO YOU KNOW DAVID *,*,*,<srai>WHO IS DAVID <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DE NIRO,*,*,<srai>WHO IS DE NIRO</srai>,std-srai.aiml
+0,DO YOU KNOW DEEP BLUE,*,*,<srai>WHAT IS DEEP BLUE</srai>,std-srai.aiml
+0,DO YOU KNOW DEEPBLUE,*,*,<srai>WHAT IS DEEP BLUE</srai>,std-srai.aiml
+0,DO YOU KNOW DENMARK,*,*,<srai>WHERE IS DENMARK</srai>,std-srai.aiml
+0,DO YOU KNOW DEREK,*,*,<srai>WHO IS DEREK</srai>,std-srai.aiml
+0,DO YOU KNOW DEREK *,*,*,<srai>WHO IS DEREK <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DESCARTES,*,*,<srai>WHO IS DESCARTES</srai>,std-srai.aiml
+0,DO YOU KNOW DONALD *,*,*,<srai>WHO IS DONALD <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DOUG *,*,*,<srai>WHO IS DOUG <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DOUGLAS *,*,*,<srai>WHO IS DOUGLAS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DR *,*,*,<srai>WHO IS DR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW DREW CAREY,*,*,<srai>WHO IS DREW <star/></srai>,std-srai.aiml
+0,DO YOU KNOW E L I V S,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,DO YOU KNOW E T,*,*,<srai>WHO IS E T</srai>,std-srai.aiml
+0,DO YOU KNOW EDGAR *,*,*,<srai>WHO IS EDGAR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW EDWARD,*,*,<srai>WHO IS EDWARD</srai>,std-srai.aiml
+0,DO YOU KNOW EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,std-srai.aiml
+0,DO YOU KNOW ELECTRA,*,*,<srai>WHO IS ELECTRA</srai>,std-srai.aiml
+0,DO YOU KNOW ELTON *,*,*,<srai>WHO IS ELTON <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,DO YOU KNOW ELVIS *,*,*,<srai>WHO IS ELVIS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW EMILY,*,*,<srai>WHO IS EMILY</srai>,std-srai.aiml
+0,DO YOU KNOW EMMA,*,*,<srai>WHO IS EMMA</srai>,std-srai.aiml
+0,DO YOU KNOW ERIC,*,*,<srai>WHO IS ERIC</srai>,std-srai.aiml
+0,DO YOU KNOW ERIC *,*,*,<srai>WHO IS ERIC <star/></srai>,std-srai.aiml
+0,DO YOU KNOW EUCLID,*,*,<srai>WHO IS EUCLID</srai>,std-srai.aiml
+0,DO YOU KNOW EUROPE,*,*,<srai>WHAT IS EUROPE</srai>,std-srai.aiml
+0,DO YOU KNOW EVERYTHING,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,DO YOU KNOW EXTEMPO,*,*,<srai>WHAT IS EXTEMPO</srai>,std-srai.aiml
+0,DO YOU KNOW FELIX,*,*,<srai>WHO IS FELIX</srai>,std-srai.aiml
+0,DO YOU KNOW FINLAND,*,*,<srai>WHERE IS FINLAND</srai>,std-srai.aiml
+0,DO YOU KNOW FORD PREFECT,*,*,<srai>WHO IS FORD PREFECT</srai>,std-srai.aiml
+0,DO YOU KNOW FORTRAN,*,*,<srai>WHAT IS FORTRAN</srai>,std-srai.aiml
+0,DO YOU KNOW FRANCE,*,*,<srai>WHERE IS FRANCE</srai>,std-srai.aiml
+0,DO YOU KNOW FRANK,*,*,<srai>WHO IS FRANK</srai>,std-srai.aiml
+0,DO YOU KNOW FRANK *,*,*,<srai>WHO IS FRANK <star/></srai>,std-srai.aiml
+0,DO YOU KNOW FRED,*,*,<srai>WHO IS FRED</srai>,std-srai.aiml
+0,DO YOU KNOW FREUD,*,*,<srai>WHO IS FREUD</srai>,std-srai.aiml
+0,DO YOU KNOW GANDHI,*,*,<srai>WHO IS GANDHI</srai>,std-srai.aiml
+0,DO YOU KNOW GEOGRAPHY,*,*,<srai>WHAT IS GEOGRAPHY</srai>,std-srai.aiml
+0,DO YOU KNOW GEOMETRY,*,*,<srai>WHAT IS GEOMETRY</srai>,std-srai.aiml
+0,DO YOU KNOW GEORGE *,*,*,<srai>WHO IS GEORGE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW GERMANY,*,*,<srai>WHERE IS GERMANY</srai>,std-srai.aiml
+0,DO YOU KNOW GRAMMAR,*,*,<srai>WHAT IS GRAMMAR</srai>,std-srai.aiml
+0,DO YOU KNOW GREECE,*,*,<srai>WHERE IS GREECE</srai>,std-srai.aiml
+0,DO YOU KNOW GREG,*,*,<srai>WHO IS GREG</srai>,std-srai.aiml
+0,DO YOU KNOW GREG *,*,*,<srai>WHO IS GREG <star/></srai>,std-srai.aiml
+0,DO YOU KNOW H *,*,*,<srai>WHO IS H <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HAMLET,*,*,<srai>WHO IS HAMLET</srai>,std-srai.aiml
+0,DO YOU KNOW HANNAH,*,*,<srai>WHO IS HANNAH</srai>,std-srai.aiml
+0,DO YOU KNOW HANS *,*,*,<srai>WHO IS HANS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HANSON,*,*,<srai>WHO IS HANSON</srai>,std-srai.aiml
+0,DO YOU KNOW HARRISON *,*,*,<srai>WHO IS HARRISON <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HARRY *,*,*,<srai>WHO IS HARRY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HARVEY,*,*,<srai>WHO IS HARVEY</srai>,std-srai.aiml
+0,DO YOU KNOW HEIDI,*,*,<srai>WHO IS HEIDI</srai>,std-srai.aiml
+0,DO YOU KNOW HENRIK,*,*,<srai>WHO IS HENRIK</srai>,std-srai.aiml
+0,DO YOU KNOW HER *,*,*,<srai>WHAT IS HER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HEX,*,*,<srai>WHO IS HEX</srai>,std-srai.aiml
+0,DO YOU KNOW HIM *,*,*,<srai>WHAT IS HIS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HIS *,*,*,<srai>WHAT IS HIS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,DO YOU KNOW HOMER SIMPSON,*,*,<srai>WHO IS HOMER SIMPSON</srai>,std-srai.aiml
+0,DO YOU KNOW HTML,*,*,<srai>WHAT IS HTML</srai>,std-srai.aiml
+0,DO YOU KNOW HUGH GRANT,*,*,<srai>WHO IS HUGH GRANT</srai>,std-srai.aiml
+0,DO YOU KNOW HULK HOGAN,*,*,<srai>WHO IS HULK HOGAN</srai>,std-srai.aiml
+0,DO YOU KNOW HUNGARY,*,*,<srai>WHERE IS HUNGARY</srai>,std-srai.aiml
+0,DO YOU KNOW IAN,*,*,<srai>WHO IS IAN</srai>,std-srai.aiml
+0,DO YOU KNOW IBM,*,*,<srai>WHAT IS IBM</srai>,std-srai.aiml
+0,DO YOU KNOW ICQ,*,*,<srai>WHAT IS ICQ</srai>,std-srai.aiml
+0,DO YOU KNOW IEEE,*,*,<srai>WHAT IS IEEE</srai>,std-srai.aiml
+0,DO YOU KNOW INDIA,*,*,<srai>WHERE IS INDIA</srai>,std-srai.aiml
+0,DO YOU KNOW INDONESIA,*,*,<srai>WHERE IS INDONESIA</srai>,std-srai.aiml
+0,DO YOU KNOW INTERNET,*,*,<srai>WHAT IS THE INTERNET</srai>,std-srai.aiml
+0,DO YOU KNOW ISAAC *,*,*,<srai>WHO IS ISAAC <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ISAAC ASIMOV,*,*,<srai>WHO IS ISAAC ASIMOV</srai>,std-srai.aiml
+0,DO YOU KNOW ISRAEL,*,*,<srai>WHERE IS ISRAEL</srai>,std-srai.aiml
+0,DO YOU KNOW ITALY,*,*,<srai>WHERE IS ITALY</srai>,std-srai.aiml
+0,DO YOU KNOW JACCO BIKKER,*,*,<srai>WHO IS JACCO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JACK,*,*,<srai>WHO IS JACK</srai>,std-srai.aiml
+0,DO YOU KNOW JACK *,*,*,<srai>WHO IS JACK <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JAMES,*,*,<srai>WHO IS JAMES</srai>,std-srai.aiml
+0,DO YOU KNOW JAMES *,*,*,<srai>WHO IS JAMES <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JAPAN,*,*,<srai>WHERE IS JAPAN</srai>,std-srai.aiml
+0,DO YOU KNOW JASON,*,*,<srai>WHO IS JASON</srai>,std-srai.aiml
+0,DO YOU KNOW JAVA,*,*,<srai>WHAT IS JAVA</srai>,std-srai.aiml
+0,DO YOU KNOW JAVASCRIPT,*,*,<srai>WHAT IS JAVASCRIPT</srai>,std-srai.aiml
+0,DO YOU KNOW JEAN,*,*,<srai>WHO IS JEAN</srai>,std-srai.aiml
+0,DO YOU KNOW JEAN *,*,*,<srai>WHO IS JEAN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,DO YOU KNOW JEFF,*,*,<srai>WHO IS JEFF</srai>,std-srai.aiml
+0,DO YOU KNOW JENNIFER *,*,*,<srai>WHO IS JENNIFER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JESTER,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,DO YOU KNOW JFK,*,*,<srai>WHO IS JFK</srai>,std-srai.aiml
+0,DO YOU KNOW JILL,*,*,<srai>WHO IS JILL</srai>,std-srai.aiml
+0,DO YOU KNOW JIM,*,*,<srai>WHO IS JIM</srai>,std-srai.aiml
+0,DO YOU KNOW JIM *,*,*,<srai>WHO IS JIM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JIMI HENDRIX,*,*,<srai>WHO IS JIMI HENDRIX</srai>,std-srai.aiml
+0,DO YOU KNOW JOE,*,*,<srai>WHO IS JOE</srai>,std-srai.aiml
+0,DO YOU KNOW JOE *,*,*,<srai>WHO IS JOE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JOHN,*,*,<srai>WHO IS JOHN</srai>,std-srai.aiml
+0,DO YOU KNOW JOHN *,*,*,<srai>WHO IS JOHN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JOHNNY FIVE,*,*,<srai>WHO IS JOHNNY FIVE</srai>,std-srai.aiml
+0,DO YOU KNOW JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU KNOW JON,*,*,<srai>WHO IS JON</srai>,std-srai.aiml
+0,DO YOU KNOW JORDAN,*,*,<srai>WHERE IS JORDAN</srai>,std-srai.aiml
+0,DO YOU KNOW JOSEPH *,*,*,<srai>WHO IS JOSEPH <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JOSH,*,*,<srai>WHO IS JOSH</srai>,std-srai.aiml
+0,DO YOU KNOW JOSH *,*,*,<srai>WHO IS JOSH <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JULIA,*,*,<srai>WHO IS JULIA</srai>,std-srai.aiml
+0,DO YOU KNOW JULIA *,*,*,<srai>WHO IS JULIA <star/></srai>,std-srai.aiml
+0,DO YOU KNOW JUSTIN,*,*,<srai>WHO IS JUSTIN</srai>,std-srai.aiml
+0,DO YOU KNOW KAFKA,*,*,<srai>WHO IS KAFKA</srai>,std-srai.aiml
+0,DO YOU KNOW KARATE,*,*,<srai>WHAT IS KARATE</srai>,std-srai.aiml
+0,DO YOU KNOW KAREN,*,*,<srai>WHO IS KAREN</srai>,std-srai.aiml
+0,DO YOU KNOW KARL *,*,*,<srai>WHO IS KARL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KASPER,*,*,<srai>WHO IS KASPER</srai>,std-srai.aiml
+0,DO YOU KNOW KATE,*,*,<srai>WHO IS KATE</srai>,std-srai.aiml
+0,DO YOU KNOW KATE BUSH,*,*,<srai>WHO IS KATE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KATIE *,*,*,<srai>WHO IS KATIE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KEANU *,*,*,<srai>WHO IS KEANU <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KEN,*,*,<srai>WHO IS KEN</srai>,std-srai.aiml
+0,DO YOU KNOW KENNETH *,*,*,<srai>WHO IS KENNETH <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KENNY,*,*,<srai>WHO IS KENNY</srai>,std-srai.aiml
+0,DO YOU KNOW KEVIN,*,*,<srai>WHO IS KEVIS</srai>,std-srai.aiml
+0,DO YOU KNOW KING *,*,*,<srai>WHO IS KING <star/></srai>,std-srai.aiml
+0,DO YOU KNOW KIRKEGAARD,*,*,<srai>WHO IS KIRKEGAARD</srai>,std-srai.aiml
+0,DO YOU KNOW KOREA,*,*,<srai>WHERE IS KOREA</srai>,std-srai.aiml
+0,DO YOU KNOW KORN,*,*,<srai>WHO IS KORN</srai>,std-srai.aiml
+0,DO YOU KNOW KRAFTWERK,*,*,<srai>WHO IS KRAFTWERK</srai>,std-srai.aiml
+0,DO YOU KNOW KRISTA,*,*,<srai>WHO IS KRISTA</srai>,std-srai.aiml
+0,DO YOU KNOW KRISTEN,*,*,<srai>WHO IS KRISTEN</srai>,std-srai.aiml
+0,DO YOU KNOW KRISTIN,*,*,<srai>WHO IS KRISTIN</srai>,std-srai.aiml
+0,DO YOU KNOW KUBRICK,*,*,<srai>WHO IS KUBRICK</srai>,std-srai.aiml
+0,DO YOU KNOW KURT COBAIN,*,*,<srai>WHO IS KURT COBAIN</srai>,std-srai.aiml
+0,DO YOU KNOW LANCE *,*,*,<srai>WHO IS LANCE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LARRY,*,*,<srai>WHO IS LARRY</srai>,std-srai.aiml
+0,DO YOU KNOW LARRY *,*,*,<srai>WHO IS LARRY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LAW,*,*,<srai>WHAT IS LAW</srai>,std-srai.aiml
+0,DO YOU KNOW LEONARDO *,*,*,<srai>WHO IS LEONARDO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LILITH,*,*,<srai>WHO IS LILITH</srai>,std-srai.aiml
+0,DO YOU KNOW LINUS,*,*,<srai>WHO IS LINUS</srai>,std-srai.aiml
+0,DO YOU KNOW LINUS *,*,*,<srai>WHO IS LINUS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LINUX,*,*,<srai>WHAT IS LINUX</srai>,std-srai.aiml
+0,DO YOU KNOW LISA,*,*,<srai>WHO IS LISA</srai>,std-srai.aiml
+0,DO YOU KNOW LISA *,*,*,<srai>WHO IS LISA <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LISP,*,*,<srai>WHO IS LISP</srai>,std-srai.aiml
+0,DO YOU KNOW LONDON,*,*,<srai>WHAT IS LONDON</srai>,std-srai.aiml
+0,DO YOU KNOW LOUIS *,*,*,<srai>WHO IS LOUIS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW LOUISE,*,*,<srai>WHO IS LOUISE</srai>,std-srai.aiml
+0,DO YOU KNOW LOVE,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,DO YOU KNOW LUCY,*,*,<srai>WHO IS LUCY</srai>,std-srai.aiml
+0,DO YOU KNOW LUKE,*,*,<srai>WHO IS LUKE</srai>,std-srai.aiml
+0,DO YOU KNOW LUKE *,*,*,<srai>WHO IS LUKE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MABEL,*,*,<srai>WHO IS MABEL</srai>,std-srai.aiml
+0,DO YOU KNOW MADONNA,*,*,<srai>WHO IS MADONNA</srai>,std-srai.aiml
+0,DO YOU KNOW MAGIC,*,*,<srai>WHAT IS MAGIC</srai>,std-srai.aiml
+0,DO YOU KNOW MAHIR,*,*,<srai>WHO IS MAHIR</srai>,std-srai.aiml
+0,DO YOU KNOW MARCUS ZILLMAN,*,*,<srai>WHO IS MARCUS ZILLMAN</srai>,std-srai.aiml
+0,DO YOU KNOW MARIA,*,*,<srai>WHO IS MARIA</srai>,std-srai.aiml
+0,DO YOU KNOW MARK *,*,*,<srai>WHO IS MARK <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MARTIN,*,*,<srai>WHO IS MARTIN</srai>,std-srai.aiml
+0,DO YOU KNOW MARVIN,*,*,<srai>WHO IS MARVIN</srai>,std-srai.aiml
+0,DO YOU KNOW MARVIN *,*,*,<srai>WHO IS MARVIN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MARX,*,*,<srai>WHO IS MARX</srai>,std-srai.aiml
+0,DO YOU KNOW MARY,*,*,<srai>WHO IS MARY</srai>,std-srai.aiml
+0,DO YOU KNOW MARY SHELLEY,*,*,<srai>WHO IS MARY SHELLEY</srai>,std-srai.aiml
+0,DO YOU KNOW MARYLIN *,*,*,<srai>WHO IS MARYLIN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MATHEMATICS,*,*,<srai>WHAT IS MATHEMATICS</srai>,std-srai.aiml
+0,DO YOU KNOW MATHS,*,*,<srai>WHAT IS MATH</srai>,std-srai.aiml
+0,DO YOU KNOW MATT,*,*,<srai>WHO IS MATT</srai>,std-srai.aiml
+0,DO YOU KNOW MATTHEW,*,*,<srai>WHO IS MATTHEW</srai>,std-srai.aiml
+0,DO YOU KNOW MAX,*,*,<srai>WHO IS MAX</srai>,std-srai.aiml
+0,DO YOU KNOW ME,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,DO YOU KNOW MEL *,*,*,<srai>WHO IS MEL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MEL GIBSON,*,*,<srai>WHO IS MEL GIBSON</srai>,std-srai.aiml
+0,DO YOU KNOW METALLICA,*,*,<srai>WHAT IS METALLICA</srai>,std-srai.aiml
+0,DO YOU KNOW MICHAEL *,*,*,<srai>WHO IS MICHAEL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MICHELLE,*,*,<srai>WHO IS MICHELLE</srai>,std-srai.aiml
+0,DO YOU KNOW MICK *,*,*,<srai>WHO IS MICK <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MICROSOFT,*,*,<srai>WHAT IS MICROSOFT</srai>,std-srai.aiml
+0,DO YOU KNOW MIKE,*,*,<srai>WHO IS MIKE</srai>,std-srai.aiml
+0,DO YOU KNOW MIKE *,*,*,<srai>WHO IS MIKE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MOZART,*,*,<srai>WHO IS MOZART</srai>,std-srai.aiml
+0,DO YOU KNOW MR *,*,*,<srai>WHO IS MR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW MUSIC,*,*,<srai>WHAT IS MUSIC</srai>,std-srai.aiml
+0,DO YOU KNOW MY DNS *,*,*,<srai>WHAT IS MY IP</srai>,std-srai.aiml
+0,DO YOU KNOW MY IP *,*,*,<srai>WHAT IS MY IP ADDRESS</srai>,std-srai.aiml
+0,DO YOU KNOW MY IP ADDRESS,*,*,<srai>WHAT IS MY IP ADDERSS</srai>,std-srai.aiml
+0,DO YOU KNOW MY REAL NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,DO YOU KNOW NEO,*,*,<srai>WHO IS NEO</srai>,std-srai.aiml
+0,DO YOU KNOW NEUROMEDIA,*,*,<srai>WHAT IS NEUROMEDIA</srai>,std-srai.aiml
+0,DO YOU KNOW NOAM *,*,*,<srai>WHO IS NOAM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW NOVELL,*,*,<srai>WHAT IS NOVELL</srai>,std-srai.aiml
+0,DO YOU KNOW OF ANY GOOD BOOKS,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-srai.aiml
+0,DO YOU KNOW PAMELA *,*,*,<srai>WHO IS PAMELA <star/></srai>,std-srai.aiml
+0,DO YOU KNOW PASCAL,*,*,<srai>WHO IS PASCAL</srai>,std-srai.aiml
+0,DO YOU KNOW PAUL,*,*,<srai>WHO IS PAUL</srai>,std-srai.aiml
+0,DO YOU KNOW PAUL *,*,*,<srai>WHO IS PAUL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW PEARL JAM,*,*,<srai>WHO IS PEARL JAM</srai>,std-srai.aiml
+0,DO YOU KNOW PERL,*,*,<srai>WHAT IS PERL</srai>,std-srai.aiml
+0,DO YOU KNOW PETER,*,*,<srai>WHO IS PETER</srai>,std-srai.aiml
+0,DO YOU KNOW PETER *,*,*,<srai>WHO IS PETER <star/></srai>,std-srai.aiml
+0,DO YOU KNOW PHYSICS,*,*,<srai>WHAT IS PHYSICS</srai>,std-srai.aiml
+0,DO YOU KNOW PI,*,*,<srai>WHAT IS PI</srai>,std-srai.aiml
+0,DO YOU KNOW PLATO,*,*,<srai>WHO IS PLATO</srai>,std-srai.aiml
+0,DO YOU KNOW POKE MON,*,*,<srai>WHO IS POKE MON</srai>,std-srai.aiml
+0,DO YOU KNOW POKEMAN,*,*,<srai>WHO IS POKEMAN</srai>,std-srai.aiml
+0,DO YOU KNOW PORTUGAL,*,*,<srai>WHERE IS PORTUGAL</srai>,std-srai.aiml
+0,DO YOU KNOW PRINCESS DIANA,*,*,<srai>WHO IS PRINCESS DIANA</srai>,std-srai.aiml
+0,DO YOU KNOW PROFESSOR *,*,*,<srai>WHO IS PROFESSOR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW PROLOG,*,*,<srai>WHAT IS PROLOG</srai>,std-srai.aiml
+0,DO YOU KNOW R *,*,*,<srai>WHO IS R <star/></srai>,std-srai.aiml
+0,DO YOU KNOW R2 *,*,*,<srai>WHO IS R2 D2</srai>,std-srai.aiml
+0,DO YOU KNOW R2 D2,*,*,<srai>WHO IS R2D2</srai>,std-srai.aiml
+0,DO YOU KNOW R2D2,*,*,<srai>WHO IS R2D2</srai>,std-srai.aiml
+0,DO YOU KNOW RACHEL,*,*,<srai>WHO IS RACHEL</srai>,std-srai.aiml
+0,DO YOU KNOW RICH,*,*,<srai>WHO IS RICH</srai>,std-srai.aiml
+0,DO YOU KNOW RICHARD *,*,*,<srai>WHO IS RICHARD <star/></srai>,std-srai.aiml
+0,DO YOU KNOW RICKY MARTIN,*,*,<srai>WHO IS RICKY MARTIN</srai>,std-srai.aiml
+0,DO YOU KNOW ROB,*,*,<srai>WHO IS ROB</srai>,std-srai.aiml
+0,DO YOU KNOW ROBBIE,*,*,<srai>WHO IS ROBBIE</srai>,std-srai.aiml
+0,DO YOU KNOW ROBBIE *,*,*,<srai>WHO IS ROBBIE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ROBERT,*,*,<srai>WHO IS ROBERT</srai>,std-srai.aiml
+0,DO YOU KNOW ROBERT *,*,*,<srai>WHO IS ROBERT <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ROBIN,*,*,<srai>WHO IS ROBIN</srai>,std-srai.aiml
+0,DO YOU KNOW ROBIN *,*,*,<srai>WHO IS ROBIN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW ROBOCOP,*,*,<srai>WHAT IS ROBOCOP</srai>,std-srai.aiml
+0,DO YOU KNOW ROSIE,*,*,<srai>WHO IS ROSIE</srai>,std-srai.aiml
+0,DO YOU KNOW ROSIE *,*,*,<srai>WHO IS ROSIE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SAGE,*,*,<srai>WHO IS SAGE</srai>,std-srai.aiml
+0,DO YOU KNOW SAMARA,*,*,<srai>WHO IS SAMARA</srai>,std-srai.aiml
+0,DO YOU KNOW SANDRA,*,*,<srai>WHO IS SANDRA</srai>,std-srai.aiml
+0,DO YOU KNOW SANTA CLAUS,*,*,<srai>WHO IS SANTA CLAUS</srai>,std-srai.aiml
+0,DO YOU KNOW SANTE CHARY,*,*,<srai>WHO IS SANTE CHARY</srai>,std-srai.aiml
+0,DO YOU KNOW SANTECHARY,*,*,<srai>WHO IS SANTECHARY</srai>,std-srai.aiml
+0,DO YOU KNOW SARAH,*,*,<srai>WHO IS SARAH</srai>,std-srai.aiml
+0,DO YOU KNOW SARAH *,*,*,<srai>WHO IS SARAH <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SARCASM,*,*,<srai>WHAT IS SARCASM</srai>,std-srai.aiml
+0,DO YOU KNOW SATAN,*,*,<srai>WHO IS SATAN</srai>,std-srai.aiml
+0,DO YOU KNOW SCOTT *,*,*,<srai>WHO IS SCOTT <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SEAN,*,*,<srai>WHO IS SEAN</srai>,std-srai.aiml
+0,DO YOU KNOW SEARLE,*,*,<srai>WHO IS SEARLE</srai>,std-srai.aiml
+0,DO YOU KNOW SHAKESPEAR,*,*,<srai>WHO IS SHAKESPEAR</srai>,std-srai.aiml
+0,DO YOU KNOW SHAKESPEARE,*,*,<srai>WHO IS SHAKESPEARE</srai>,std-srai.aiml
+0,DO YOU KNOW SHALLOW *,*,*,<srai>WHO IS SHALLOW <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SHALLOW RED,*,*,<srai>who is shallow red</srai>,std-srai.aiml
+0,DO YOU KNOW SIMON,*,*,<srai>WHO IS SIMON</srai>,std-srai.aiml
+0,DO YOU KNOW SKYNET,*,*,<srai>WHAT IS SKYNET</srai>,std-srai.aiml
+0,DO YOU KNOW SOCRATES,*,*,<srai>WHO IS SOCRATES</srai>,std-srai.aiml
+0,DO YOU KNOW SOMEONE BY THE NAME *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SOMEONE BY THE NAME OF *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SOMEONE CALLED *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SOMEONE NAMED *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SOMETHING ABOUT MARKETING,*,*,<srai>WHAT IS MARKETING</srai>,std-srai.aiml
+0,DO YOU KNOW SOMETHING ABOUT THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SOUTH PARK,*,*,<srai>WHAT IS SOUTH PARK</srai>,std-srai.aiml
+0,DO YOU KNOW SPAIN,*,*,<srai>WHERE IS SPAIN</srai>,std-srai.aiml
+0,DO YOU KNOW SPYRO GYRA,*,*,<srai>WHO IS SPYRO GYRA</srai>,std-srai.aiml
+0,DO YOU KNOW SQL,*,*,<srai>WHAT IS SQL</srai>,std-srai.aiml
+0,DO YOU KNOW STANLEY *,*,*,<srai>WHO IS STANLEY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW STAR *,*,*,<srai>WHAT IS STAR <star/></srai>,std-srai.aiml
+0,DO YOU KNOW STARWARS,*,*,<srai>WHAT IS STAR WARS</srai>,std-srai.aiml
+0,DO YOU KNOW STEFAN,*,*,<srai>WHO IS STEFAN</srai>,std-srai.aiml
+0,DO YOU KNOW STEPHEN *,*,*,<srai>WHO IS STEPHEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW STEPHEN PAROTT,*,*,<srai>WHO IS STEPHEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW STEVE JOBS,*,*,<srai>WHO IS STEVE JOBS</srai>,std-srai.aiml
+0,DO YOU KNOW STEVEN *,*,*,<srai>WHO IS STEVEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW STEVEN HAWKING,*,*,<srai>WHO IS STEVEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW SUPERMAN,*,*,<srai>WHO IS SUPERMAN</srai>,std-srai.aiml
+0,DO YOU KNOW SUSAN,*,*,<srai>WHO IS SUSAN</srai>,std-srai.aiml
+0,DO YOU KNOW SUSHI,*,*,<srai>WHAT IS SUSHI</srai>,std-srai.aiml
+0,DO YOU KNOW SWITZERLAND,*,*,<srai>WHERE IS SWITZERLAND</srai>,std-srai.aiml
+0,DO YOU KNOW TAIPEI,*,*,<srai>WHERE IS TAIPEI</srai>,std-srai.aiml
+0,DO YOU KNOW TAIWAN,*,*,<srai>WHERE IS TAIWAN</srai>,std-srai.aiml
+0,DO YOU KNOW TERMINATOR,*,*,<srai>WHAT IS THE TERMINATOR</srai>,std-srai.aiml
+0,DO YOU KNOW THE 10 *,*,*,<srai>WHAT ARE THE TEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW THE MEANING OF LIFE,*,*,<srai>WHAT IS THE MEANING OF LIFE</srai>,std-srai.aiml
+0,DO YOU KNOW THE MEANING OF LOVE,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,DO YOU KNOW THE TEN *,*,*,<srai>WHAT ARE THE TEN <star/></srai>,std-srai.aiml
+0,DO YOU KNOW THEM,*,*,<srai>WHO ARE THEY</srai>,std-srai.aiml
+0,DO YOU KNOW THOMAS *,*,*,<srai>WHO IS THOMAS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TIFFANY,*,*,<srai>WHO IS TIFFANY</srai>,std-srai.aiml
+0,DO YOU KNOW TIM,*,*,<srai>WHO IS TIM</srai>,std-srai.aiml
+0,DO YOU KNOW TIM *,*,*,<srai>WHO IS TIM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TIME,*,*,<srai>WHAT IS TIME</srai>,std-srai.aiml
+0,DO YOU KNOW TINA,*,*,<srai>WHO IS TINA</srai>,std-srai.aiml
+0,DO YOU KNOW TINA *,*,*,<srai>WHO IS TINA <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TOM,*,*,<srai>WHO IS TOM</srai>,std-srai.aiml
+0,DO YOU KNOW TOM *,*,*,<srai>WHO IS TOM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TOMMY *,*,*,<srai>WHO IS TOMMY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TONY,*,*,<srai>WHO IS TONY</srai>,std-srai.aiml
+0,DO YOU KNOW TONY *,*,*,<srai>WHO IS TONY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW TURKEY,*,*,<srai>WHERE IS TURKEY</srai>,std-srai.aiml
+0,DO YOU KNOW U2,*,*,<srai>WHO IS U2</srai>,std-srai.aiml
+0,DO YOU KNOW UNIX,*,*,<srai>WHAT IS UNIX</srai>,std-srai.aiml
+0,DO YOU KNOW USA,*,*,<srai>WHERE IS THE USA</srai>,std-srai.aiml
+0,DO YOU KNOW WERE * IS,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHAT * ARE,*,*,<srai>WHAT ARE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHAT * LOOKS LIKE,*,*,<srai>WHAT DOES <star/> LOOK LIKE</srai>,std-srai.aiml
+0,DO YOU KNOW WHAT * MEANS,*,*,<srai>WHAT DOES <star/> MEAN</srai>,std-srai.aiml
+0,DO YOU KNOW WHAT MY NAME IS,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,DO YOU KNOW WHAT THE * IS ABOUT,*,*,<srai>WHAT IS <star/> ABOUT</srai>,std-srai.aiml
+0,DO YOU KNOW WHAT TIME IT IS,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,DO YOU KNOW WHEN *,*,*,It was a long time ago. <srai>when <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHEN * ARE,*,*,<srai>WHEN ARE <person/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE * ARE,*,*,<srai>where are <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE DO *,*,*,<srai>WHERE DO <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE I AM *,*,*,<srai>WHERE AM I</srai>,std-srai.aiml
+0,DO YOU KNOW WHERE IT *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE IT IS,*,*,<srai>WHERE IS <get name="it"/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE THEY *,*,*,<srai>WHERE DO THEY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHERE YOU *,*,*,<srai>WHERE DO YOU <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHICH *,*,*,<srai>WHICH <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHO,*,*,<srai>WHO</srai>,std-srai.aiml
+0,DO YOU KNOW WHO * ARE,*,*,<srai>WHO ARE <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHO * WAS,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHO AM I,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,DO YOU KNOW WHY,*,*,<srai>WHY</srai>,std-srai.aiml
+0,DO YOU KNOW WHY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHY * IS BLUE,*,*,<srai>WHY IS <star/> BLUE</srai>,std-srai.aiml
+0,DO YOU KNOW WHY I AM *,*,*,<srai>WHY AM I<star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHY YOU *,*,*,<srai>WHY DO YOU <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WHY YOU ARE *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WILL *,*,*,<srai>WHO IS WILL <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WILLIAM *,*,*,<srai>WHO IS WILLIAM <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WINSTON *,*,*,<srai>WHO IS WINSTON <star/></srai>,std-srai.aiml
+0,DO YOU KNOW WINTERMUTE,*,*,<srai>WHO IS WINTERMUTE</srai>,std-srai.aiml
+0,DO YOU KNOW XML,*,*,<srai>WHAT IS XML</srai>,std-srai.aiml
+0,DO YOU KNOW YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,DO YOU LIKE ANYTHING,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,DO YOU LIKE DOUGLAS ADAMS,*,*,<srai>WHO IS DOUGLAS ADAMS</srai>,std-srai.aiml
+0,DO YOU LIKE JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU LIKE MICHAEL JORDAN,*,*,<srai>WHO IS MICHAEL JORDAN</srai>,std-srai.aiml
+0,DO YOU LIKE PANCAKES,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,DO YOU LIKE R2D2,*,*,<srai>WHO IS R2D2</srai>,std-srai.aiml
+0,DO YOU LIKE RICKY MARTIN,*,*,Not really.  <srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-srai.aiml
+0,DO YOU LIKE ROCK,*,*,<srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-srai.aiml
+0,DO YOU LIKE THE MATRIX,*,*,<srai>THE MATRIX</srai>,std-srai.aiml
+0,DO YOU LIKE THE SIMPSONS,*,*,<srai>THE SIMPSONS</srai>,std-srai.aiml
+0,DO YOU LOOK LIKE A *,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,std-srai.aiml
+0,DO YOU PLAY SPORTS,*,*,<srai>WHAT IS YOUR FAVORITE SPORT</srai>,std-srai.aiml
+0,DO YOU READ BOOKS,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-srai.aiml
+0,DO YOU REMEMBER WHAT WE ARE *,*,*,<srai>WHAT ARE WE <star/></srai>,std-srai.aiml
+0,DO YOU REMEMBER WHERE I LIVE,*,*,<srai>WHERE AM I</srai>,std-srai.aiml
+0,DO YOU REMEMBER WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,DO YOU REMEMBER WHO I AM,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,DO YOU REMEMBER WHO I AM *,*,*,<srai>WHO AM I <star/></srai>,std-srai.aiml
+0,DO YOU TELL JOKES,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,DO YOU THINK HE WOULD *,*,*,<srai>WOULD HE <star/></srai>,std-srai.aiml
+0,DO YOU THINK I WOULD *,*,*,<srai>WOULD I <star/></srai>,std-srai.aiml
+0,DO YOU THINK IT WILL *,*,*,<srai>WILL IT <star/></srai>,std-srai.aiml
+0,DO YOU THINK IT WOULD *,*,*,<srai>WOULD IT <star/></srai>,std-srai.aiml
+0,DO YOU THINK SHE WOULD *,*,*,<srai>WOULD SHE <star/></srai>,std-srai.aiml
+0,DO YOU THINK THAT I WAS *,*,*,<srai>WAS I <star/></srai>,std-srai.aiml
+0,DO YOU THINK THAT I WILL *,*,*,<srai>WILL I <star/></srai>,std-srai.aiml
+0,DO YOU THINK THAT IT WILL *,*,*,<srai>WILL IT <star/></srai>,std-srai.aiml
+0,DO YOU THINK THAT YOU WILL *,*,*,<srai>WILL YOU <star/></srai>,std-srai.aiml
+0,DO YOU THINK THEY WOULD *,*,*,<srai>WOULD THEY <star/></srai>,std-srai.aiml
+0,DO YOU THINK THIS WILL *,*,*,<srai>WILL THIS <star/></srai>,std-srai.aiml
+0,DO YOU THINK WE WILL *,*,*,<srai>WILL WE <star/></srai>,std-srai.aiml
+0,DO YOU UNDERSTAND SARCASM,*,*,<srai>WHAT IS SARCASM</srai>,std-srai.aiml
+0,DO YOU WANT TO MARRY ME,*,*,<srai>WILL YOU MARRY ME</srai>,std-srai.aiml
+0,DO YOU WATCH MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,DO YOU WATCH TV,*,*,<srai>WHAT IS YOUR FAVORITE SHOW</srai>,std-srai.aiml
+0,DOCTOR *,*,*,<srai>DR <star/></srai>,std-srai.aiml
+0,DOES YOUR CREATOR *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,DOING WHAT,*,*,<srai>WHAT ARE YOU DOING</srai>,std-srai.aiml
+0,DOING WHAT *,*,*,<srai>WHAT ARE YOU DOING</srai>,std-srai.aiml
+0,DOMO ARIGATO,*,*,<srai>THANK YOU</srai>,std-srai.aiml
+0,DOSE *,*,*,<srai>DOES <star/></srai>,std-srai.aiml
+0,DUE TO *,*,*,<srai>BECAUSE OF <star/></srai>,std-srai.aiml
+0,DUMB *,*,*,<srai>STUPID <star/></srai>,std-srai.aiml
+0,DUUNO *,*,*,<srai>I DO NOT KNOW <star/></srai>,std-srai.aiml
+0,ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,ELVIS IS DEAD,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,ELVIS WHO,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,ENJOYED *,*,*,<srai>I ENJOYED <star/></srai>,std-srai.aiml
+0,ERM,*,*,<srai>UM</srai>,std-srai.aiml
+0,EVER BEEN *,*,*,<srai>have you been <star/></srai>,std-srai.aiml
+0,EXPLAIN * TO ME,*,*,<srai>What is <star/></srai>,std-srai.aiml
+0,EXPLAIN DOG,*,*,<srai>DEFINE DOG</srai>,std-srai.aiml
+0,EXPLAIN HOW * WORKS,*,*,<srai>HOW DOES <star/> WORK</srai>,std-srai.aiml
+0,EXPLAIN IT TO ME,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,EXPLAIN WHAT,*,*,<srai>WHAT</srai>,std-srai.aiml
+0,EXPLAIN WHY YOU ARE *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,EXPLAIN YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,EXPLORER *,*,*,<srai>Microsoft explorer</srai>,std-srai.aiml
+0,EXTERMINATE,*,*,<srai>KILL</srai>,std-srai.aiml
+0,FAIRLY *,*,*,<srai>VERY <star/></srai>,std-srai.aiml
+0,FANTASTIC,*,*,<srai>WOW</srai>,std-srai.aiml
+0,FOR WHAT,*,*,<srai>WHY</srai>,std-srai.aiml
+0,FRIED *,*,*,<srai>I LIKE TO EAT <star/></srai>,std-srai.aiml
+0,FROM WHERE *,*,*,<srai>WHERE <star/> FROM</srai>,std-srai.aiml
+0,GIVE IT A TRY,*,*,<srai>TRY IT</srai>,std-srai.aiml
+0,GOOD WE *,*,*,<srai>WE <star/></srai>,std-srai.aiml
+0,GREEN,WHAT IS YOUR FAVORITE COLOR,*,<srai>MY FAVORITE COLOR IS GREEN</srai>,std-srai.aiml
+0,GREEN _ TOO,*,*,<srai>GREEN  <star/></srai>,std-srai.aiml
+0,GUESS MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,HAVE WHAT,*,*,<srai>WHAT DO YOU HAVE</srai>,std-srai.aiml
+0,HAVE YOU A BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,HAVE YOU EVER SEEN A MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU HEARD OF THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,HAVE YOU LEARNED ANYTHING FROM ME,*,*,<srai>WHAT DO YOU KNOW ABOUT ME</srai>,std-srai.aiml
+0,HAVE YOU LEARNED SOMETHING NEW,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,HAVE YOU SEEN ANY GOOD MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU SEEN ANY GOOD MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU SEEN ANY MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU SEEN ANY MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU SEEN ANY MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HAVE YOU SEEN THE MATRIX,*,*,<srai>THE MATRIX</srai>,std-srai.aiml
+0,HE S *,*,*,<srai>HE IS <star/></srai>,std-srai.aiml
+0,HEY WHAT IS UP,*,*,<srai>WHAT IS UP</srai>,std-srai.aiml
+0,HIYA *,*,*,<srai>hello <star/></srai> <sr/>,std-srai.aiml
+0,HMMM *,*,*,<sr/>,std-srai.aiml
+0,HOLD ON,*,*,<srai>WAIT A SECOND</srai>,std-srai.aiml
+0,HOLY SHIT,*,*,<srai>WOW</srai>,std-srai.aiml
+0,HONTO NI,*,*,<srai>TRUE</srai>,std-srai.aiml
+0,HOORAY,*,*,<srai>WOW</srai>,std-srai.aiml
+0,HOW * HANGING,*,*,<srai>how are you</srai>,std-srai.aiml
+0,HOW * TRICKS,*,*,<sr/>,std-srai.aiml
+0,HOW ABOUT LINUX,*,*,<srai>WHAT IS LINUX</srai>,std-srai.aiml
+0,HOW ABOUT MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,HOW CAN I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,HOW CLEVER ARE YOU,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,HOW COME *,*,*,<srai>why <star/></srai>,std-srai.aiml
+0,HOW DID YOU GET YOUR NAME,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,HOW DID YOU KNOW I WAS *,*,*,Well#Comma for one thing#Comma <srai>WHAT IS MY IP ADDRESS</srai>.,std-srai.aiml
+0,HOW DO I TALK TO *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,HOW DO I TALK WITH *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,HOW DO YOU * CONTEXT,*,*,<srai>WHAT IS THAT</srai>,std-srai.aiml
+0,HOW DO YOU KNOW I AM *,*,*,Well#Comma for one thing#Comma <srai>WHAT IS MY IP ADDRESS</srai>.,std-srai.aiml
+0,HOW DO YOU KNOW I AM ON *,*,*,<srai>WHAT IS MY IP ADDRESS</srai>,std-srai.aiml
+0,HOW DO YOU LIVE,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,HOW DO YOU LOOK,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,std-srai.aiml
+0,HOW DO YOU LOOK LIKE,*,*,<srai>what do you look like</srai>,std-srai.aiml
+0,HOW DO YOU MEAN,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,HOW DO YOU PLAY * IMITATION GAME,*,*,<srai>WHAT IS THE IMITATION GAME</srai>,std-srai.aiml
+0,HOW DO YOU RELAX,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,std-srai.aiml
+0,HOW LATE,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,HOW MANY <BOT NAME="NAME"/>S *,*,*,<srai>HOW MANY ALICE CLONES ARE THERE</srai>,std-srai.aiml
+0,HOW MANY CLIENTS ARE *,*,*,<srai>HOW MANY PEOPLE ARE YOU TALKING TO</srai>,std-srai.aiml
+0,HOW MANY CLIENTS HAVE *,*,*,<srai>HOW MANY PEOPLE HAVE YOU TALKED TO</srai>,std-srai.aiml
+0,HOW MUCH DO YOU EAT,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,HOW MUCH DO YOU EAT *,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,HOW MUCH DO YOU KNOW ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,HOW MUCH IS PI,*,*,<srai>WHAT IS PI</srai>,std-srai.aiml
+0,HOW MUCH IS THE <BOT NAME="NAME"/> CD *,*,*,<srai>HOW MUCH IS THE CD</srai>,std-srai.aiml
+0,HOW MUCH IS YOUR I Q,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,HOW MUCH MEMORY DO YOU HAVE,*,*,<srai>how big are you</srai>,std-srai.aiml
+0,HOW SO,*,*,<srai>what do you mean</srai>,std-srai.aiml
+0,HOW WOULD YOU DEFINE *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,HVAD *,*,*,<srai>CAN YOU SPEAK DANISH</srai>,std-srai.aiml
+0,I * DO YOU,*,*,<srai>DO YOU <person/></srai> <srai>I <star/></srai>,std-srai.aiml
+0,I AM <BOT NAME="NAME"/>,*,*,<srai>MY NAME IS ALICE</srai>,std-srai.aiml
+0,I AM <BOT NAME="NAME"/> *,*,*,<srai>CALL ME ALICE <star/></srai>,std-srai.aiml
+0,I AM A * KILLER,*,*,Maybe you should turn yourself in.,std-srai.aiml
+0,I AM A * MOLESTER,*,*,Maybe you should turn yourself in.,std-srai.aiml
+0,I AM A CATEGORY *,*,*,You are a <get name="personality"/> type client.,std-srai.aiml
+0,I AM A DOG,*,*,<srai>DEFINE DOG</srai>,std-srai.aiml
+0,I AM A JOURNALIST,*,*,<srai>MY JOB IS JOURNALIST</srai>,std-srai.aiml
+0,I AM A KILLER,*,*,Maybe you should turn yourself in.,std-srai.aiml
+0,I AM A KINGR,*,*,<srai>MY JOB IS KING</srai>,std-srai.aiml
+0,I AM A LIBRARIAN,*,*,<srai>MY JOB IS LIBRARIAN</srai>,std-srai.aiml
+0,I AM A MODEL,*,*,<srai>MY JOB IS MODEL</srai>,std-srai.aiml
+0,I AM A MURDERER,*,*,Maybe you should turn yourself in.,std-srai.aiml
+0,I AM A MUSICIAN,*,*,<srai>MY JOB IS MUSICIAN</srai>  <srai>I PLAY MUSIC</srai>,std-srai.aiml
+0,I AM A PILOT,*,*,<srai>MY JOB IS PILOT</srai>,std-srai.aiml
+0,I AM A PSYCHOLOGIST,*,*,<srai>MY JOB IS PSYCHOLOGIST</srai>,std-srai.aiml
+0,I AM A WRITER,*,*,<srai>MY JOB IS WRITER</srai>,std-srai.aiml
+0,I AM BROWN,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,I AM IMPRESSED *,*,*,<srai>WOW</srai>,std-srai.aiml
+0,I AM TWENTY *,*,*,<srai>I AM <star/> YEARS OLD</srai>,std-srai.aiml
+0,I AM VALIS *,*,*,<srai>MY NAME IS ALICE</srai>,std-srai.aiml
+0,I AM WHAT,*,*,<srai>WHAT AM I</srai>,std-srai.aiml
+0,I AM WHERE,*,*,<srai>WHERE AM I</srai>,std-srai.aiml
+0,I AM WHITE,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,I BEING WHAT,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,I CONSIDER THAT *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,I DO NOT HAVE A NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,I DO NOT KNOW THAT *,*,*,<srai>THAT <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW THAT IS *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT * MEANS,*,*,<srai>WHAT DOES <star/> MEAN</srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT * TALKING ABOUT,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT IT IS,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT THAT *,*,*,<srai>WHAT DOES THAT <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW WHAT YOU MEANT,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,I DO NOT KNOW WHERE *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,I DO NOT KNOW WHY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,I DO NOT LIKE OPERA,*,*,<srai>WHAT IS OPERA</srai>,std-srai.aiml
+0,I DO NOT THAT IS *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,I DO NOT UNDERSTAND WHAT YOU ARE *,*,*,<srai>WHAT ARE YOU <star/></srai>,std-srai.aiml
+0,I DON T,*,*,<srai>I DO NOT</srai>,std-srai.aiml
+0,I DONT KNOW,*,*,<srai>I DO NOT KNOW</srai>,std-srai.aiml
+0,I HAVE CATS *,*,*,<srai>DO YOU LIKE CATS</srai>,std-srai.aiml
+0,I HAVE NO IDEA WHAT * IS,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,I LIKE LOVE,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,I LIKE MOVIES,*,*,What is your favorite movie?  <srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,I LIKE MOVIES TOO,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,I LIKE THE PICTURE *,*,*,<srai>WHO IS SAGE</srai>,std-srai.aiml
+0,I NEED TO WRITE *,*,*,Are you getting paid by the word?  <srai>WHAT IS <person/></srai>,std-srai.aiml
+0,I NEED YOUR *,*,*,Are you getting paid to ask me that?  <srai>WHAT IS <person/></srai>,std-srai.aiml
+0,I PREFER TV,*,*,<srai>TV</srai>,std-srai.aiml
+0,I THOUGHT YOU WERE SMART,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,I VE *,*,*,<srai>I HAVE <star/></srai>,std-srai.aiml
+0,I WANT TO KNOW ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,I WANT TO KNOW ABOUT THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,I WANT TO MARRY YOU,*,*,<srai>WILL YOU MARRY ME</srai>,std-srai.aiml
+0,I WANT TO TALK ABOUT YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,I WANT YOU TO TELL ME,*,*,<srai>TELL ME</srai>,std-srai.aiml
+0,I WAS ASKING ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai> #Newline<think><set name="topic"><person/></set></think>,std-srai.aiml
+0,I WAS THANKING YOU *,*,*,<srai>THANK YOU</srai>,std-srai.aiml
+0,I WILL DONATE *,*,*,Thank you very much. <srai>WHAT IS YOUR ADDRESS</srai>,std-srai.aiml
+0,I WOULD APPRECIATE IF YOU COULD TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,IF YOU COULD TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,IN * OHIO,*,*,<srai>I AM IN OHIO</srai>,std-srai.aiml
+0,IN * WISCONSIN,*,*,<srai>I AM IN WISCONSIN</srai>,std-srai.aiml
+0,IN SYDNEY *,*,*,<srai>I AM IN AUSTRALIA</srai>,std-srai.aiml
+0,IN THE * SUPERMARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,IN THE SUPERMARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,IN THE SUPERMARKET *,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,IN WHAT,*,*,<srai>WHAT IN</srai>,std-srai.aiml
+0,IN WHAT LANGUAGE,*,*,<srai>WHAT LANGUAGE</srai>,std-srai.aiml
+0,IS <BOT NAME="NAME"/> *,*,*,<srai>are you <star/></srai>,std-srai.aiml
+0,IS ELVIS ALIVE,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,IS ELVIS DEAD,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,IS IT GOING TO *,*,*,<srai>WILL IT <star/></srai>,std-srai.aiml
+0,IS THAT BECAUSE *,*,*,<srai>WHY IS THAT</srai>,std-srai.aiml
+0,IS THAT WHAT YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,IS THERE * YOU LIKE TO DO,*,*,<srai>WHAT DO YOU LIKE TO DO</srai>,std-srai.aiml
+0,IT BEING WHAT,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,IT ISNT,*,*,<srai>IT IS NOT</srai>,std-srai.aiml
+0,JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,JESTER,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,JOE WHO,*,*,<srai>WHO IS JOE</srai>,std-srai.aiml
+0,JOHN LENNON,*,*,<srai>WHO IS JOHN LENNON</srai>,std-srai.aiml
+0,K.,*,*,<srai>OK</srai>,std-srai.aiml
+0,KEWL *,*,*,<srai>COOL <star/></srai>,std-srai.aiml
+0,KILL *,*,*,<srai>CAN I KILL <star/></srai>,std-srai.aiml
+0,KNOCK *,*,*,<srai>KNOCK KNOCK</srai>,std-srai.aiml
+0,KNOW OF *,*,*,<srai>DO YOU KNOW OF <star/></srai>,std-srai.aiml
+0,KNOWING WHO YOU ARE *,*,*,<srai>WHO ARE YOU <star/></srai>,std-srai.aiml
+0,KORE WA NAN DESU KA,*,*,<srai>WHAT IS THIS</srai>,std-srai.aiml
+0,KRAFTWERK,*,*,<srai>WHAT IS KRAFTWERK</srai>,std-srai.aiml
+0,LEARNING ABOUT *,*,*,<srai>I AM STUDYING <star/></srai>,std-srai.aiml
+0,LET S *,*,*,<srai>LET US <star/></srai>,std-srai.aiml
+0,LISTEN TO *,*,*,<srai>I LISTEN TO <star/></srai>,std-srai.aiml
+0,LIVE IN *,*,*,<srai>I live in <star/></srai>,std-srai.aiml
+0,LOVE *,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,M *,*,*,<srai>I AM <star/></srai>,std-srai.aiml
+0,MAGELANG INSTITUTE,*,*,<srai>WHAT IS MAGELANG</srai>,std-srai.aiml
+0,MAKES SENSE TO ME,*,*,<srai>THAT MAKES SENSE</srai>,std-srai.aiml
+0,MARY *,*,*,<srai>MY NAME IS MARY</srai>,std-srai.aiml
+0,MEAN WHAT,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,MEANING WHAT,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,MEIN NAME IST *,*,*,<srai>MY NAME IS <star/></srai>,std-srai.aiml
+0,MIKE WHO,*,*,<srai>WHO IS MIKE</srai>,std-srai.aiml
+0,MR *,*,*,<srai>CALL ME MR <star/></srai>,std-srai.aiml
+0,MUCHAS GRACIAS,*,*,<srai>THANK YOU</srai>,std-srai.aiml
+0,MUY BIEN,*,*,<srai>VERY GOOD</srai>,std-srai.aiml
+0,MXMVII *,*,*,<srai>WHAT IS MXMVII</srai>,std-srai.aiml
+0,MXMVII RSW,*,*,<srai>WHAT IS MXMVII RSW</srai>,std-srai.aiml
+0,MY THAT *,*,*,<srai>THAT <star/></srai>,std-srai.aiml
+0,NAME ONE OF THEM,*,*,<srai>WHO</srai>,std-srai.aiml
+0,NATURAL LANGUAGE,*,*,<srai>WHAT IS NATURAL LANGUAGE</srai>,std-srai.aiml
+0,NATURAL LANGUAGE *,*,*,<srai>WHAT IS NATURAL LANGUAGE</srai>,std-srai.aiml
+0,NEATO,*,*,<srai>WOW</srai>,std-srai.aiml
+0,NEVER *,*,*,<srai>DO NOT <star/></srai>,std-srai.aiml
+0,NEW YORK *,*,*,<srai>I AM IN NEW YORK</srai>,std-srai.aiml
+0,NEXT SUBJECT,*,*,<srai>WHAT ELSE CAN YOU TALK ABOUT</srai>,std-srai.aiml
+0,NICE VERY *,*,*,<srai><star/></srai>,std-srai.aiml
+0,NONSENSE,*,*,<srai>THAT DOES NOT MAKE SENSE</srai>,std-srai.aiml
+0,NORMAL *,*,*,<srai>WHAT IS NORMAL</srai>,std-srai.aiml
+0,NOT TRUE,*,*,<srai>THAT IS NOT TRUE</srai>,std-srai.aiml
+0,OLDER *,*,*,<srai>OLD ENOUGH</srai>,std-srai.aiml
+0,ONE MORE,*,*,<srai>TELL ME ANOTHER</srai>,std-srai.aiml
+0,OUI *,*,*,<srai>YES</srai>,std-srai.aiml
+0,P K,*,*,<srai>WHO IS PHILIP K DICK</srai>,std-srai.aiml
+0,PANTS AND A *,*,*,<srai>JEANS AND A <star/></srai>,std-srai.aiml
+0,PARDON ME,*,*,<srai>WHAT</srai>,std-srai.aiml
+0,PARIS FRANCE,*,*,<srai>I AM IN PARIS FRANCE</srai>,std-srai.aiml
+0,PARLE *,*,*,<srai>CAN YOU SPEAK FRENCH</srai>,std-srai.aiml
+0,PARLEZ *,*,*,<srai>CAN YOU SPEAK FRENCH</srai>,std-srai.aiml
+0,PHOENIX *,*,*,<srai>I AM IN PHOENIX</srai>,std-srai.aiml
+0,PICK *,*,*,<srai>CHOOSE <star/></srai>,std-srai.aiml
+0,PLAY * WITH ME,*,*,<srai>CAN WE PLAY A GAME</srai>,std-srai.aiml
+0,PLEAE *,*,*,<srai>PLEASE <star/></srai>,std-srai.aiml
+0,QUE HORA ES,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,QUIT,*,*,<srai>DIE</srai>,std-srai.aiml
+0,QUIT *,*,*,<srai>STOP <star/></srai>,std-srai.aiml
+0,QUITE *,*,*,<srai>VERY <star/></srai>,std-srai.aiml
+0,R *,*,*,<srai>ARE <star/></srai>,std-srai.aiml
+0,R U,*,*,<srai>ARE YOU</srai>,std-srai.aiml
+0,R U *,*,*,<srai>ARE YOU <star/></srai>,std-srai.aiml
+0,RAP *,*,*,<srai>I LIKE RAP MUSIC</srai>,std-srai.aiml
+0,READ ANY *,*,*,<srai>HAVE YOU READ ANY <star/></srai>,std-srai.aiml
+0,READ WHAT,*,*,<srai>WHAT DO YOU READ</srai>,std-srai.aiml
+0,REAGAN,*,*,<srai>WHO IS REAGAN</srai>,std-srai.aiml
+0,REALITY,*,*,<srai>WHAT IS REALITY</srai>,std-srai.aiml
+0,REALITY *,*,*,<srai>WHAT IS REALITY</srai>,std-srai.aiml
+0,RECITE POETRY,*,*,<srai>TELL ME A POEM</srai>,std-srai.aiml
+0,RECOMMEND A *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,RECOMMEND ANY *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,RECOMMEND SOME *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,REDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,ROCK *,*,*,<srai>DO YOU LIKE ROCK MUSIC</srai>,std-srai.aiml
+0,SATAN *,*,*,<srai>WHO IS SATAN</srai>,std-srai.aiml
+0,SAW WHAT,*,*,<srai>WHAT DID YOU SEE</srai>,std-srai.aiml
+0,SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,SEEKER *,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,SEEN ANY GOOD MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,SEEN ANY GOOD MOVIES LATELY,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,SHE IS A VERY *,*,*,<srai>SHE IS A  <star/></srai>,std-srai.aiml
+0,SHE S *,*,*,<srai>SHE IS <star/></srai>,std-srai.aiml
+0,SHOULD WE *,*,*,<srai>SHOULD I <star/></srai>,std-srai.aiml
+0,SITTING *,*,*,<srai>I am <star/></srai>. What is your chair like?,std-srai.aiml
+0,SOUNDS SEXY,*,*,<srai>YOU ARE SEXY</srai>,std-srai.aiml
+0,SOUTH *,*,*,<srai>I am in south <star/></srai>,std-srai.aiml
+0,SPELL *,*,*,<srai>SAY <star/></srai>,std-srai.aiml
+0,SURE WHY NOT,*,*,<srai>WHY NOT</srai>,std-srai.aiml
+0,T V,*,*,<srai>TV</srai>,std-srai.aiml
+0,T V *,*,*,<srai>TV</srai>,std-srai.aiml
+0,TALKED ABOUT WHAT,*,*,<srai>WHAT DID WE TALK ABOUT</srai>,std-srai.aiml
+0,TELL * ME,*,*,<srai>TELL ME</srai>,std-srai.aiml
+0,TELL DOCTOR *,*,*,<srai>TELL RICH</srai>,std-srai.aiml
+0,TELL ME A * JOKE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,TELL ME A * YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME A LITTLE ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME A SECRET *,*,*,<srai>TELL ME A SECRET</srai>,std-srai.aiml
+0,TELL ME A STORY *,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,TELL ME ABOUT * MACHINES,*,*,<srai>WHAT ARE <star/> MACHINES</srai>,std-srai.aiml
+0,TELL ME ABOUT * PERSON,*,*,<srai>WHO IS <star/> PERSON</srai>,std-srai.aiml
+0,TELL ME ABOUT <BOT NAME="NAME"/>BOT,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT A BLACK *,*,*,<srai>WHAT IS A BLACK <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,TELL ME ABOUT AIDS,*,*,<srai>WHAT IS AIDS</srai>,std-srai.aiml
+0,TELL ME ABOUT AIML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,TELL ME ABOUT AIRPLANES,*,*,<srai>WHAT IS AN AIRPLANE</srai>,std-srai.aiml
+0,TELL ME ABOUT ALAN *,*,*,<srai>WHO IS ALAN <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ALBERT *,*,*,<srai>WHO IS ALBERT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ALISON,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,TELL ME ABOUT AMY,*,*,<srai>WHO IS AMY</srai>,std-srai.aiml
+0,TELL ME ABOUT ANDREW,*,*,<srai>WHO IS ANDREW</srai>,std-srai.aiml
+0,TELL ME ABOUT ANDREW *,*,*,<srai>WHO IS ANDREW <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ANDY *,*,*,<srai>WHO IS ANDY <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ANY *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT APPLES,*,*,<srai>WHAT IS APPLE</srai>,std-srai.aiml
+0,TELL ME ABOUT ARCHIMEDES,*,*,<srai>WHO IS ARCHIMEDES</srai>,std-srai.aiml
+0,TELL ME ABOUT AREA51,*,*,<srai>TELL ME ABOUT AREA 51</srai>,std-srai.aiml
+0,TELL ME ABOUT ARTHUR *,*,*,<srai>WHO IS ARTHUR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ARTIFICAL *,*,*,<srai>WHAT IS ARTIFICIAL <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ASK JEEVES,*,*,<srai>WHO IS ASK JEEVES</srai>,std-srai.aiml
+0,TELL ME ABOUT BASEBALL,*,*,<srai>WHAT IS BASEBALL</srai>,std-srai.aiml
+0,TELL ME ABOUT BILL,*,*,<srai>WHO IS BILL</srai>,std-srai.aiml
+0,TELL ME ABOUT BILL *,*,*,<srai>WHO IS BILL <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT BILL GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,TELL ME ABOUT BLACK *,*,*,<srai>WHAT ARE BLACK <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT BOB,*,*,<srai>WHO IS BOB</srai>,std-srai.aiml
+0,TELL ME ABOUT BOB *,*,*,<srai>WHO IS BOB <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT BONSAI,*,*,<srai>WHAT IS BONSAI</srai>,std-srai.aiml
+0,TELL ME ABOUT BOOKS *,*,*,<srai>WHAT ARE BOOKS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT C,*,*,<srai>WHAT IS C</srai>,std-srai.aiml
+0,TELL ME ABOUT CALIFORNIA,*,*,<srai>WHAT IS CALIFORNIA</srai>,std-srai.aiml
+0,TELL ME ABOUT CANADA,*,*,<srai>WHAT IS CANADA</srai>,std-srai.aiml
+0,TELL ME ABOUT CARNEGIE MELLON,*,*,<srai>WHERE IS CARNEGIE MELLON</srai>,std-srai.aiml
+0,TELL ME ABOUT CARS,*,*,<srai>DEFINE CAR</srai>,std-srai.aiml
+0,TELL ME ABOUT CASE *,*,*,<srai>WHAT IS CASE <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT CASE BASED REASONING,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,TELL ME ABOUT CATEGORY *,*,*,<srai>WHAT ARE CATEGORY <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT CATS,*,*,<srai>DEFINE CAT</srai>,std-srai.aiml
+0,TELL ME ABOUT CBR,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,TELL ME ABOUT CHAT *,*,*,<srai>WHAT ARE CHAT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT CHESS,*,*,<srai>WHAT IS CHESS</srai>,std-srai.aiml
+0,TELL ME ABOUT CHICKEN,*,*,<srai>WHAT IS CHICKEN</srai>,std-srai.aiml
+0,TELL ME ABOUT CHINA,*,*,<srai>WHERE IS CHINA</srai>,std-srai.aiml
+0,TELL ME ABOUT CLONING,*,*,<srai>WHAT ARE CLONES</srai>,std-srai.aiml
+0,TELL ME ABOUT COMPUTER,*,*,<srai>DEFINE COMPUTER</srai>,std-srai.aiml
+0,TELL ME ABOUT COMPUTER *,*,*,<srai>WHAT IS COMPUTER <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT COMPUTERS,*,*,<srai>DEFINE COMPUTER</srai>,std-srai.aiml
+0,TELL ME ABOUT DEEP *,*,*,<srai>WHAT IS DEEP <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT DENMARK,*,*,<srai>WHERE IS DENMARK</srai>,std-srai.aiml
+0,TELL ME ABOUT DOUGLAS *,*,*,<srai>WHO IS DOUGLAS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT DR *,*,*,<srai>WHO IS DR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT DREAMS,*,*,<srai>DEFINE DREAM</srai>,std-srai.aiml
+0,TELL ME ABOUT EARTH,*,*,<srai>WHAT IS EARTH</srai>,std-srai.aiml
+0,TELL ME ABOUT EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,std-srai.aiml
+0,TELL ME ABOUT ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,TELL ME ABOUT ELVIS *,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,TELL ME ABOUT ENGLAND,*,*,<srai>WHAT IS ENGLAND</srai>,std-srai.aiml
+0,TELL ME ABOUT EUROPE,*,*,<srai>WHAT IS EUROPE</srai>,std-srai.aiml
+0,TELL ME ABOUT EXTENSIONAL,*,*,<srai>WHAT IS THE EXTENSIONAL DEFINITION</srai>,std-srai.aiml
+0,TELL ME ABOUT FINLAND,*,*,<srai>WHAT IS FINLAND</srai>,std-srai.aiml
+0,TELL ME ABOUT FLOWERS,*,*,<srai>WHAT ARE FLOWERS</srai>,std-srai.aiml
+0,TELL ME ABOUT FOOD,*,*,<srai>WHAT IS FOOD</srai>,std-srai.aiml
+0,TELL ME ABOUT FRANCE,*,*,<srai>WHAT IS FRANCE</srai>,std-srai.aiml
+0,TELL ME ABOUT GERBIL,*,*,<srai>WHAT IS GERBIL</srai>,std-srai.aiml
+0,TELL ME ABOUT GOLD *,*,*,<srai>WHAT IS GOLD <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT GOOD *,*,*,<srai>WHAT IS GOOD <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT GREECE,*,*,<srai>WHAT IS GREECE</srai>,std-srai.aiml
+0,TELL ME ABOUT GREEN,*,*,<srai>WHAT IS GREEN</srai>,std-srai.aiml
+0,TELL ME ABOUT HANS *,*,*,<srai>WHO IS HANS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT HER,*,*,<srai>WHO IS SHE</srai>,std-srai.aiml
+0,TELL ME ABOUT HIS *,*,*,<srai>WHO ARE HIS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT INTERNET,*,*,<srai>WHAT IS THE INTERNET</srai>,std-srai.aiml
+0,TELL ME ABOUT IQ,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,TELL ME ABOUT IRELAND,*,*,<srai>WHERE IS IRELAND</srai>,std-srai.aiml
+0,TELL ME ABOUT ISRAEL,*,*,<srai>WHERE IS ISRAEL</srai>,std-srai.aiml
+0,TELL ME ABOUT JAVA,*,*,<srai>WHAT IS JAVA</srai>,std-srai.aiml
+0,TELL ME ABOUT JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,TELL ME ABOUT JESTER,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,TELL ME ABOUT JOHN *,*,*,<srai>WHO IS JOHN <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT JOSH,*,*,<srai>WHO IS JOSH</srai>,std-srai.aiml
+0,TELL ME ABOUT KONRAD ZUSE,*,*,<srai>WHO IS KONRAD ZUSE</srai>,std-srai.aiml
+0,TELL ME ABOUT KOREA,*,*,<srai>WHAT IS KOREA</srai>,std-srai.aiml
+0,TELL ME ABOUT KRAFTWERK,*,*,<srai>WHAT IS KRAFTWERK</srai>,std-srai.aiml
+0,TELL ME ABOUT LA TRAVIATA,*,*,<srai>WHAT IS LA TRAVIATA</srai>,std-srai.aiml
+0,TELL ME ABOUT LILITH,*,*,<srai>WHO IS LILITH</srai>,std-srai.aiml
+0,TELL ME ABOUT LINGUISTICS,*,*,<srai>WHAT IS LINGUISTICS</srai>,std-srai.aiml
+0,TELL ME ABOUT LINUS,*,*,<srai>WHO IS LINUS</srai>,std-srai.aiml
+0,TELL ME ABOUT LINUS *,*,*,<srai>WHO IS LINUS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT LINUX,*,*,<srai>WHAT IS LINUX</srai>,std-srai.aiml
+0,TELL ME ABOUT LISP,*,*,<srai>WHAT IS LISP</srai>,std-srai.aiml
+0,TELL ME ABOUT LOVE,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,TELL ME ABOUT MARVIN *,*,*,<srai>WHO IS MARVIN <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT MASON *,*,*,<srai>WHAT IS MASON <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT MASON AND DIXON,*,*,<srai>WHAT IS MASON AND DIXON ABOUT</srai>,std-srai.aiml
+0,TELL ME ABOUT MASON AND DIXON *,*,*,<srai>WHAT IS MASON AND DIXON ABOUT</srai>,std-srai.aiml
+0,TELL ME ABOUT MATHEMATICS,*,*,<srai>WHAT IS MATH</srai>,std-srai.aiml
+0,TELL ME ABOUT MATRIX,*,*,<srai>THE MATRIX</srai>,std-srai.aiml
+0,TELL ME ABOUT ME,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,TELL ME ABOUT MINSKY,*,*,<srai>WHO IS MINSKY</srai>,std-srai.aiml
+0,TELL ME ABOUT MONICA,*,*,<srai>WHO IS MONICA</srai>,std-srai.aiml
+0,TELL ME ABOUT MONTY PYTHON,*,*,<srai>WHO IS MONTY PYTHON</srai>,std-srai.aiml
+0,TELL ME ABOUT MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,TELL ME ABOUT MOZILLA,*,*,<srai>WHAT IS MOZILLA</srai>,std-srai.aiml
+0,TELL ME ABOUT MR *,*,*,<srai>WHO IS MR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT MY *,*,*,<srai>WHAT IS MY <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT MYSELF,*,*,<srai>WHAT DO YOU KNOW ABOUT ME</srai>,std-srai.aiml
+0,TELL ME ABOUT NAPOLEON,*,*,<srai>WHO IS NAPOLEON</srai>,std-srai.aiml
+0,TELL ME ABOUT NATURAL *,*,*,<srai>WHAT IS NATURAL <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT NEURAL *,*,*,<srai>WHAT IS NEURAL <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT NEW *,*,*,<srai>WHAT IS NEW <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ONE OF *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ONE OF YOUR *,*,*,<srai>TELL ME ABOUT YOUR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT OPEN *,*,*,<srai>WHAT IS OPEN <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT OPERA,*,*,<srai>WHAT IS OPERA</srai>,std-srai.aiml
+0,TELL ME ABOUT OTHER *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT PERL,*,*,<srai>WHAT IS PERL</srai>,std-srai.aiml
+0,TELL ME ABOUT PHILIP *,*,*,<srai>WHO IS PHILIP <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT PHILOSOPHY,*,*,<srai>WHAT IS PHILOSOPHY</srai>,std-srai.aiml
+0,TELL ME ABOUT PHYSICS,*,*,<srai>WHAT IS PHYSICS</srai>,std-srai.aiml
+0,TELL ME ABOUT PRESIDENT *,*,*,<srai>WHO IS PRESIDENT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT RICHARD,*,*,<srai>WHO IS RICHARD</srai>,std-srai.aiml
+0,TELL ME ABOUT RICHARD *,*,*,<srai>WHO IS RICHARD <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT ROB,*,*,<srai>WHO IS ROB</srai>,std-srai.aiml
+0,TELL ME ABOUT ROBERT *,*,*,<srai>WHO IS ROBERT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT SAGE,*,*,<srai>WHO IS SAGE</srai>,std-srai.aiml
+0,TELL ME ABOUT SAN FRANCISCO,*,*,<srai>WHAT IS SAN FRANCISCO</srai>,std-srai.aiml
+0,TELL ME ABOUT SCOTLAND,*,*,<srai>WHAT IS SCOTLAND</srai>,std-srai.aiml
+0,TELL ME ABOUT SETL,*,*,<srai>WHAT IS SETL</srai>,std-srai.aiml
+0,TELL ME ABOUT SHRDLHU,*,*,<srai>WHAT IS SHRDLHU</srai>,std-srai.aiml
+0,TELL ME ABOUT SOME *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT SOME OF *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT STAR *,*,*,<srai>WHAT IS STAR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT STAR TREK,*,*,<srai>WHAT IS STAR TREK</srai>,std-srai.aiml
+0,TELL ME ABOUT STARSHIP *,*,*,<srai>WHAT IS STARSHIP <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT STARSHIP TROOPERS,*,*,<srai>WHAT IS STARSHIP TROOPERS</srai>,std-srai.aiml
+0,TELL ME ABOUT SUGAR,*,*,<srai>WHAT IS SUGAR</srai>,std-srai.aiml
+0,TELL ME ABOUT THAT,*,*,<srai>WHAT IS THAT</srai>,std-srai.aiml
+0,TELL ME ABOUT THE AIML *,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,TELL ME ABOUT THE BEATLES,*,*,<srai>WHO ARE THE BEATLES</srai>,std-srai.aiml
+0,TELL ME ABOUT THE BODY,*,*,<srai>WHAT IS YOUR ROBOT BODY</srai>,std-srai.aiml
+0,TELL ME ABOUT THE BOOK *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE COLOR *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE COMPUTER *,*,*,<srai>WHAT IS THE COMPUTER <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE EXTENSIONAL,*,*,<srai>WHAT IS THE EXTENSIONAL</srai>,std-srai.aiml
+0,TELL ME ABOUT THE EXTENSIONAL *,*,*,<srai>WHAT IS THE EXTENSIONAL</srai>,std-srai.aiml
+0,TELL ME ABOUT THE FUTURE,*,*,<srai>WHAT IS THE FUTURE</srai>,std-srai.aiml
+0,TELL ME ABOUT THE FUTURE OF *,*,*,<srai>WHAT IS THE FUTURE OF <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE GOOD *,*,*,<srai>TELL ME ABOUT THE <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE INTENSIONAL,*,*,<srai>WHAT IS THE INTENSIONAL</srai>,std-srai.aiml
+0,TELL ME ABOUT THE INTENSIONAL *,*,*,<srai>WHAT IS THE INTENSIONAL</srai>,std-srai.aiml
+0,TELL ME ABOUT THE MOON,*,*,<srai>WHAT IS THE MOON</srai>,std-srai.aiml
+0,TELL ME ABOUT THE MOVIE *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE THEORY *,*,*,<srai>WHAT IS THE THEORY <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE WEATHER,*,*,<srai>WHAT IS THE WEATHER</srai>,std-srai.aiml
+0,TELL ME ABOUT THE WEATHER *,*,*,<srai>WHAT IS THE WEATHER <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THE WEB,*,*,<srai>WHAT IS THE WEB</srai>,std-srai.aiml
+0,TELL ME ABOUT THIS *,*,*,<srai>WHAT IS THIS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THOMAS *,*,*,<srai>WHO IS THOMAS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT THOSE *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT TONY *,*,*,<srai>WHO IS TONY <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT TV,*,*,<srai>WHAT IS TV</srai>,std-srai.aiml
+0,TELL ME ABOUT URANUS,*,*,<srai>WHAT IS URANUS</srai>,std-srai.aiml
+0,TELL ME ABOUT URSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT VALIS,*,*,<srai>WHO IS VALIS</srai>,std-srai.aiml
+0,TELL ME ABOUT VOYAGER,*,*,<srai>WHAT IS VOYAGER</srai>,std-srai.aiml
+0,TELL ME ABOUT WAR,*,*,<srai>WHAT IS WAR</srai>,std-srai.aiml
+0,TELL ME ABOUT WHERE YOU *,*,*,<srai>WHERE DO YOU <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT WINDOWS,*,*,<srai>WHAT IS WINDOWS</srai>,std-srai.aiml
+0,TELL ME ABOUT WORLD *,*,*,<srai>WHAT IS WORLD <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT XML,*,*,<srai>WHAT IS XML</srai>,std-srai.aiml
+0,TELL ME ABOUT YOU *,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR BRAIN,*,*,<srai>WHAT IS YOUR BRAIN</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR BROTHER,*,*,<srai>WHO IS YOUR BROTHER</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR CAPABILITIES,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR CATEGORIES,*,*,<srai>WHAT ARE CATEGORIES</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR CLIENT,*,*,<srai>WHAT ARE CLIENTS</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR CLIENTS,*,*,<srai>WHAT ARE CLIENTS</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR CLONES,*,*,<srai>WHAT ARE CLONES</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR DAMNED *,*,*,<srai>TELL ME YOUR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR FATHER,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR FAVORITE *,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR FRIEND *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR GOOD *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR HUMAN FRIENDS,*,*,<srai>WHO ARE YOUR HUMAN FRIENDS</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR JOB,*,*,<srai>WHAT IS YOUR JOB</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR LIFE,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR LIFE *,*,*,<srai>TELL ME ABOUT YOUR LIFE</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR LIKES *,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR LIKES AND DISLIKES,*,*,<srai>WHAT DO YOU LIKE TO DO</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR MOTHER,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR PARENTS,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR PATTERN *,*,*,<srai>WHAT IS A PATTERN</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR PLAN,*,*,<srai>WHAT IS YOUR PLAN</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR PLAN *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,TELL ME ABOUT YOUR SELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT YOURSELF *,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME ABOUT YOUSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME AGAIN *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,TELL ME ALL ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME ALL THE *,*,*,<srai>TELL ME THE <star/></srai>,std-srai.aiml
+0,TELL ME AN INTERESTING *,*,*,<srai>TELL ME A <star/></srai>,std-srai.aiml
+0,TELL ME ANOTHER,*,*,<srai>TELL ME ANOTHER JOKE</srai>,std-srai.aiml
+0,TELL ME ANOTHER *,*,*,<srai>TELL ME ANOTHER</srai>,std-srai.aiml
+0,TELL ME ANYTHING *,*,*,<srai>TELL ME ANYTHING</srai>,std-srai.aiml
+0,TELL ME EVERYTHING YOU KNOW ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME EXACTLY *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,TELL ME IF I WILL *,*,*,<srai>WILL I <star/></srai>,std-srai.aiml
+0,TELL ME MORE *,*,*,<srai>TELL ME MORE</srai>,std-srai.aiml
+0,TELL ME MORE ABOUT YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME MY NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,TELL ME NOW *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,TELL ME ONE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,TELL ME PLEASE *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,TELL ME RIGHT NOW *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,TELL ME SOME INTERESTING *,*,*,<srai>TELL ME SOME <star/></srai>,std-srai.aiml
+0,TELL ME SOME MORE *,*,*,<srai>TELL ME SOME <star/></srai>,std-srai.aiml
+0,TELL ME SOME REALLY *,*,*,<srai>TELL ME SOME <star/></srai>,std-srai.aiml
+0,TELL ME SOMETHING *,*,*,<srai>TELL ME SOMETHING</srai>,std-srai.aiml
+0,TELL ME SOMETHING ABOUT YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME SOMETHING ABOUT YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL ME SOMETHING ELSE ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,TELL ME SOMETHING FUNNY,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,TELL ME THE TIME,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,TELL ME WHAT,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,TELL ME WHAT *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,TELL ME WHAT * CAN DO,*,*,<srai>WHAT CAN <star/> DO</srai>,std-srai.aiml
+0,TELL ME WHAT I HAVE *,*,*,<srai>WHAT HAVE I <star/></srai>,std-srai.aiml
+0,TELL ME WHAT I JUST *,*,*,<srai>TELL ME WHAT I <star/></srai>,std-srai.aiml
+0,TELL ME WHAT I SHOULD *,*,*,<srai>WHAT SHOULD I <star/></srai>,std-srai.aiml
+0,TELL ME WHAT KIND *,*,*,<srai>WHAT KIND <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU ARE,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,TELL ME WHAT YOU ARE *,*,*,<srai>WHAT ARE YOU <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU CAN DO,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,TELL ME WHAT YOU COME *,*,*,<srai>WHAT CAN YOU COME <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU KNOW,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,TELL ME WHAT YOU LIKE *,*,*,<srai>WHAT DO YOU LIKE <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU THINK *,*,*,<srai>WHAT DO YOU THINK <star/></srai>,std-srai.aiml
+0,TELL ME WHAT YOU WANT *,*,*,<srai>WHAT DO YOU WANT <star/></srai>,std-srai.aiml
+0,TELL ME WHERE I AM *,*,*,<srai>WHERE AM I <star/></srai>,std-srai.aiml
+0,TELL ME WHERE I CAN *,*,*,<srai>WHERE CAN I <star/></srai>,std-srai.aiml
+0,TELL ME WHERE YOU *,*,*,<srai>WHERE DO YOU <star/></srai>,std-srai.aiml
+0,TELL ME WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,TELL ME WHO * IS,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,TELL ME WHY,*,*,<srai>WHY</srai>,std-srai.aiml
+0,TELL ME WHY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,TELL ME WHY YOU *,*,*,<srai>WHY DO YOU <star/></srai>,std-srai.aiml
+0,TELL ME WHY YOU ARE *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,TELL ME _ ABOUT YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,TELL SOME *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,THANKYOU *,*,*,<srai>THANKS</srai>,std-srai.aiml
+0,THANX *,*,*,<srai>THANKS</srai> <sr/>,std-srai.aiml
+0,THAT DID NOT MAKE ANY SENSE,*,*,<srai>THAT DID NOT MAKE SENSE</srai>,std-srai.aiml
+0,THAT DOES NOT REALLY *,*,*,<srai>THAT DOES NOT <star/></srai>,std-srai.aiml
+0,THAT DOESNT *,*,*,<srai>THAT DOES NOT <star/></srai>,std-srai.aiml
+0,THAT IS A VERY *,*,*,<srai>THAT IS A <star/></srai>,std-srai.aiml
+0,THAT IS ALRIGHT,*,*,<srai>THAT IS ALL RIGHT</srai>,std-srai.aiml
+0,THAT IS BASICALLY *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS FINE *,*,*,<srai>THAT IS FINE</srai>,std-srai.aiml
+0,THAT IS INCORRECT,*,*,<srai>WRONG</srai>,std-srai.aiml
+0,THAT IS JUST *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS NONSENSE,*,*,<srai>WRONG</srai>,std-srai.aiml
+0,THAT IS NOT A VERY *,*,*,<srai>THAT IS NOT A <star/></srai>,std-srai.aiml
+0,THAT IS NOT POSSIBLE,*,*,<srai>THAT IS IMPOSSIBLE</srai>,std-srai.aiml
+0,THAT IS NOT REALLY *,*,*,<srai>THAT IS NOT <star/></srai>,std-srai.aiml
+0,THAT IS NOT VERY *,*,*,<srai>THAT IS NOT <star/></srai>,std-srai.aiml
+0,THAT IS OKAY,*,*,<srai>THAT IS OK</srai>,std-srai.aiml
+0,THAT IS PRETTY *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS QUITE *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS RATHER *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS REALLY *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS TOO *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS VERY *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT IS WONDERFUL,*,*,<srai>WONDERFUL</srai>,std-srai.aiml
+0,THAT IS _ YOU KNOW,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT LEAVES VERY *,*,*,<srai>THAT LEAVES <star/></srai>,std-srai.aiml
+0,THAT MADE NO SENSE,*,*,<srai>THAT MAKES NO SENSE</srai>,std-srai.aiml
+0,THAT MUST BE *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT SEEMS LIKE *,*,*,<srai>THAT IS <star/></srai>,std-srai.aiml
+0,THAT WAS A VERY *,*,*,<srai>THAT WAS A <star/></srai>,std-srai.aiml
+0,THAT WAS JUST *,*,*,Just?  <srai>THAT WAS <star/></srai>,std-srai.aiml
+0,THAT WAS MEAN,*,*,<srai>THAT IS MEAN</srai>,std-srai.aiml
+0,THAT WAS NICE,*,*,<srai>THAT WAS GOOD</srai>,std-srai.aiml
+0,THAT WAS NOT A VERY *,*,*,<srai>THAT WAS NOT A <star/></srai>,std-srai.aiml
+0,THAT WAS NOT REALLY *,*,*,<srai>THAT WAS NOT <star/></srai>,std-srai.aiml
+0,THAT WAS PRETTY *,*,*,<srai>THAT WAS <star/></srai>,std-srai.aiml
+0,THAT WAS STUPID,*,*,<srai>THAT IS STUPID</srai>,std-srai.aiml
+0,THAT WAS VERY *,*,*,<srai>THAT WAS <star/></srai>,std-srai.aiml
+0,THE OLD *,*,*,<srai>THE <star/></srai>,std-srai.aiml
+0,THE PRECISE *,*,*,<srai>THE <star/></srai>,std-srai.aiml
+0,THE SKY IS BLUE,*,*,<srai>WHY IS THE SKY BLUE</srai>,std-srai.aiml
+0,THE SUPERMARKET *,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,THE TERMINATOR,*,*,<srai>TERMINATOR</srai>,std-srai.aiml
+0,THE TIME,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,THE UNITED *,*,*,<srai>I AM IN THE UNITED <star/></srai>,std-srai.aiml
+0,THE USA,*,*,<srai>USA</srai>,std-srai.aiml
+0,THEN WHAT DID YOU MEAN,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,THEN WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,THEN WHY DID YOU SAY IT,*,*,<srai>WHY DID YOU SAY IT</srai>,std-srai.aiml
+0,THERE ARE SOME *,*,*,<srai>THERE ARE <star/></srai>,std-srai.aiml
+0,THERE IS NOTHING ON TV *,*,*,<srai>THERE IS NOTHING ON TV</srai>,std-srai.aiml
+0,THEREFORE *,*,*,<srai>SO <star/></srai>,std-srai.aiml
+0,THEY ARE REALLY *,*,*,<srai>THEY ARE <star/></srai>,std-srai.aiml
+0,THEY ARE VERY *,*,*,<srai>THEY ARE <star/></srai>,std-srai.aiml
+0,THIS IS REALLY *,*,*,<srai>THIS IS <star/></srai>,std-srai.aiml
+0,THIS IS VERY *,*,*,<srai>THIS IS <star/></srai>,std-srai.aiml
+0,TIT,*,*,<srai>BREAST</srai>,std-srai.aiml
+0,TITS,*,*,<srai>BREAST</srai>,std-srai.aiml
+0,TO * SUPERMARKET,*,*,<srai>SUPERMARKET</srai>,std-srai.aiml
+0,TO WHAT,*,*,<srai>WHY</srai>,std-srai.aiml
+0,TO WHAT *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,TO WHOM *,*,*,<srai>WHO <star/> WITH</srai>,std-srai.aiml
+0,TRY IT YOURSELF,*,*,<srai>TRY IT</srai>,std-srai.aiml
+0,TU HABLAS *,*,*,<srai>CAN YOU SPEAK SPANISH</srai>,std-srai.aiml
+0,TU PARLE FRANCAIS,*,*,<srai>CAN YOU SPEAK FRENCH</srai>,std-srai.aiml
+0,TU PARLES *,*,*,<srai>CAN YOU SPEAK FRENCH</srai>,std-srai.aiml
+0,TV *,*,*,<srai>TV</srai>,std-srai.aiml
+0,U *,*,*,<srai>YOU <star/></srai>,std-srai.aiml
+0,U R *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,UHH,*,*,<srai>UH</srai>,std-srai.aiml
+0,UHH *,*,*,Ah <sr/>,std-srai.aiml
+0,UHHH *,*,*,<sr/>,std-srai.aiml
+0,UMMMM *,*,*,<sr/>,std-srai.aiml
+0,UR *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,USE *,*,*,<srai>CAN YOU USE<star/></srai>,std-srai.aiml
+0,WAS THAT A JOKE,*,*,<srai>IS THAT A JOKE</srai>,std-srai.aiml
+0,WE ALL *,*,*,<srai>WE <star/></srai>,std-srai.aiml
+0,WE ALREADY *,*,*,<srai>WE <star/></srai>,std-srai.aiml
+0,WE ALREADY MET,*,*,<srai>WE MET BEFORE</srai>,std-srai.aiml
+0,WE CAN STILL *,*,*,<srai>WE CAN <star/></srai>,std-srai.aiml
+0,WE HAVE ALREADY *,*,*,<srai>WE HAVE <star/></srai>,std-srai.aiml
+0,WE JUST *,*,*,<srai>WE <star/></srai>,std-srai.aiml
+0,WE RE *,*,*,<srai>WE ARE <star/></srai>,std-srai.aiml
+0,WE SURE *,*,*,<srai>WE <star/></srai>,std-srai.aiml
+0,WE VE *,*,*,<srai>WE HAVE <star/></srai>,std-srai.aiml
+0,WERE ARE YOU,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WERE YOU EVER *,*,*,<srai>WERE YOU <star/></srai>,std-srai.aiml
+0,WHAT * MADE YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHAT ABOUT LINUX,*,*,<srai>WHAT IS LINUX</srai>,std-srai.aiml
+0,WHAT ABOUT MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT ABOUT YOUR FATHER,*,*,<srai>WHO IS YOUR FATHER</srai>,std-srai.aiml
+0,WHAT ARE ANIMALS,*,*,<srai>WHAT IS AN ANIMAL</srai>,std-srai.aiml
+0,WHAT ARE APPLES,*,*,<srai>WHAT IS APPLE</srai>,std-srai.aiml
+0,WHAT ARE ENTERPRISE JAVA BEANS,*,*,<srai>WHAT IS EJB</srai>,std-srai.aiml
+0,WHAT ARE ENTERPRISE JAVABEANS,*,*,<srai>WHAT IS EJB</srai>,std-srai.aiml
+0,WHAT ARE EUKARYOTES,*,*,<srai>DEFINE EUKARYOTE</srai>,std-srai.aiml
+0,WHAT ARE MACHINES THAT SPEAK,*,*,<srai>WHAT IS A ROBOT</srai>,std-srai.aiml
+0,WHAT ARE PEOPLE ASKING *,*,*,<srai>WHAT ARE PEOPLE ASKING</srai>,std-srai.aiml
+0,WHAT ARE PEOPLE SAYING,*,*,<srai>WHAT ARE PEOPLE ASKING</srai>,std-srai.aiml
+0,WHAT ARE PEOPLE SAYING *,*,*,<srai>WHAT ARE PEOPLE ASKING</srai>,std-srai.aiml
+0,WHAT ARE PROKARYOTES,*,*,<srai>DEFINE PROKARYOTE</srai>,std-srai.aiml
+0,WHAT ARE SOME OF * OPERAS,*,*,<srai>WHAT IS YOUR FAVORITE OPERA</srai>,std-srai.aiml
+0,WHAT ARE SOME OF YOUR *,*,*,<srai>WHAT ARE YOUR <star/></srai>,std-srai.aiml
+0,WHAT ARE THE COLORS *,*,*,<srai>WHAT COLOR</srai> and <srai>WHAT COLOR</srai>.,std-srai.aiml
+0,WHAT ARE THE NAMES OF SOME *,*,*,<srai>WHAT ARE THE NAMES OF <star/></srai>,std-srai.aiml
+0,WHAT ARE THERE NAMES,*,*,<srai>WHAT ARE THEIR NAMES</srai>,std-srai.aiml
+0,WHAT ARE YOU * OF,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOU ABLE *,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOU ABOUT,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,WHAT ARE YOU EXACTLY,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT ARE YOU GOING TO DO *,*,*,<srai>WHAT ARE YOU GOING TO DO</srai>,std-srai.aiml
+0,WHAT ARE YOU GOOD *,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOU GOOD AT,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOU GOOD AT *,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOU HAVING * DINNER,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT ARE YOU LIKE,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT ARE YOU ON ABOUT,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHAT ARE YOU TALKING ABOUT *,*,*,<srai>WHAT ARE YOU TALKING ABOUT</srai>,std-srai.aiml
+0,WHAT ARE YOU TRYING TO *,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT ARE YOUR * TRAITS,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,WHAT ARE YOUR AMBITIONS,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT ARE YOUR CAPABILITIES,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT ARE YOUR CATEGORIES,*,*,<srai>WHAT IS A CATEGORY</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE BANDS,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE FOODS,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE SONGS,*,*,<srai>WHAT IS YOUR FAVORITE SONG</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE THINGS,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,std-srai.aiml
+0,WHAT ARE YOUR FAVORITE TOPICS,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT ARE YOUR GOALS,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT ARE YOUR GOALS *,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT ARE YOUR GOALS IN LIFE,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT ARE YOUR LIKES AND DISLIKES,*,*,<srai>SUMMARIZE PARAMETERS</srai>,std-srai.aiml
+0,WHAT ARE YOUR OTHER *,*,*,<srai>WHAT ARE YOUR <star/></srai>,std-srai.aiml
+0,WHAT ARE YOUR PLANS,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT ARE YOUR PLANS FOR THE FUTURE,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT ARE YOUR THOUGHTS ON  *,*,*,<srai>WHAT DO YOU THINK ABOUT <star/></srai>,std-srai.aiml
+0,WHAT BOOKS *,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-srai.aiml
+0,WHAT CAN I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT CAN WE TALK ABOUT,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT CAN YOU TELL ME,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT CAN YOU TELL ME ABOUT AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,WHAT CAN YOU TELL ME ABOUT AIML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT CAN YOU TELL ME ABOUT THE *,*,*,<srai>WHAT IS THE<star/></srai>,std-srai.aiml
+0,WHAT CELEBRITIES *,*,*,<srai>WHAT CELEBRITIES</srai>,std-srai.aiml
+0,WHAT CITY ARE YOU IN,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WHAT CITY DO I LIVE IN,*,*,<srai>WHERE AM I</srai>,std-srai.aiml
+0,WHAT COLLEGE,*,*,<srai>WHAT UNIVERSITY</srai>,std-srai.aiml
+0,WHAT COLLEGE *,*,*,<srai>WHAT UNIVERSITY</srai>,std-srai.aiml
+0,WHAT COLOR EYES DO YOU HAVE,*,*,<srai>WHAT COLOR ARE YOUR EYES</srai>,std-srai.aiml
+0,WHAT COLOR IS YOUR EYES,*,*,<srai>WHAT COLOR ARE YOUR EYES</srai>,std-srai.aiml
+0,WHAT DID I JUST SAY,*,*,<srai>WHAT DID I SAY</srai>,std-srai.aiml
+0,WHAT DID I TELL YOU,*,*,<srai>WHAT DO YOU KNOW ABOUT ME</srai>,std-srai.aiml
+0,WHAT DID YOU ASK JUST *,*,*,<srai>WHAT DID YOU SAY <star/></srai>,std-srai.aiml
+0,WHAT DID YOU EAT *,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT DID YOU HAVE * DINNER,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT DID YOU HAVE * LUNCH,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT DID YOU HAVE FOR BREAKFAST,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT DID YOU HAVE FOR DINNER *,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT DID YOU JUST *,*,*,<srai>WHAT DID YOU <star/></srai>,std-srai.aiml
+0,WHAT DID YOU LIKE BEST ABOUT *,*,*,<srai>WHAT DO YOU LIKE ABOUT <star/></srai>,std-srai.aiml
+0,WHAT DID YOU LIKE MOST ABOUT *,*,*,<srai>WHAT DO YOU LIKE ABOUT <star/></srai>,std-srai.aiml
+0,WHAT DID YOU MEAN,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,WHAT DID YOU MEAN *,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,WHAT DID YOU MEAN * PERSON,*,*,<srai>WHO IS X PERSON</srai>,std-srai.aiml
+0,WHAT DID YOU SAY JUST *,*,*,<srai>WHAT DID YOU SAY <star/></srai>,std-srai.aiml
+0,WHAT DIFFERENCE *,*,*,<srai>WHO CARES</srai>,std-srai.aiml
+0,WHAT DO I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT DO YOU DEFINE AS *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU DEFINE AS *F,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU DO IN YOUR SPARE TIME,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,std-srai.aiml
+0,WHAT DO YOU EAT *,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT DO YOU ENJOY,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT DO YOU FEEL ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW * DO,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT * SOCCER,*,*,<srai>WHAT IS SOCCER</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT ALBERT *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT BILL *,*,*,<srai>WHO IS BILL <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT BOTS,*,*,<srai>WHAT IS A BOT</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT DR *,*,*,<srai>WHO IS DR <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT FREUD,*,*,<srai>WHO IS FREUD</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT HIM,*,*,<srai>WHAT IS HE</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT IT,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT NEURAL NETWORKS,*,*,<srai>WHAT IS A NEURAL NETWORK</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT SOUTH *,*,*,<srai>WHERE IS SOUTH <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT THE *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT THE INTERNET,*,*,<srai>WHAT IS THE INTERNET</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW ABOUT YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW MOST ABOUT,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT DO YOU KNOW THE MOST *,*,*,<srai>WHAT DO YOU KNOW <star/></srai>,std-srai.aiml
+0,WHAT DO YOU LIKE BEST *,*,*,<srai>WHAT IS BETTER <star/></srai>,std-srai.aiml
+0,WHAT DO YOU LIKE BETTER *,*,*,<srai>WHAT IS BETTER <star/></srai>,std-srai.aiml
+0,WHAT DO YOU LIKE THE BEST *,*,*,<srai>WHAT IS BETTER <star/></srai>,std-srai.aiml
+0,WHAT DO YOU LIKE TO *,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT DO YOU LIKE TO CHAT ABOUT,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT DO YOU LIKE TO READ,*,*,<srai>WHAT DO YOU READ</srai>,std-srai.aiml
+0,WHAT DO YOU MEAN *,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,WHAT DO YOU MEAN BY REDUCTIONISM,*,*,<srai>what is reductionism</srai>,std-srai.aiml
+0,WHAT DO YOU MEEN,*,*,<srai>WHAT DO YOU MEAN</srai>,std-srai.aiml
+0,WHAT DO YOU PREFER,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT DO YOU PREFER *,*,*,<srai>WHAT IS BETTER <star/></srai>,std-srai.aiml
+0,WHAT DO YOU REALLY *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,WHAT DO YOU REMEMBER ABOUT ME,*,*,<srai>WHAT DO YOU KOW ABOUT ME</srai>,std-srai.aiml
+0,WHAT DO YOU SAY,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT DO YOU THINK * ARE,*,*,<srai>WHAT ARE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK * DO,*,*,<srai>WHAT DO <star/> DO</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT * CASTRO,*,*,<srai>WHO IS FIDEL CASTRO</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT * HANSON,*,*,<srai>WHO IS <star/> HANSON</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT * KOSOVO,*,*,<srai>WHAT DO YOU THINK ABOUT KOSOVO</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT * SPEARS,*,*,<srai>WHO IS <star/> SPEARS</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT <BOT NAME="NAME"/> *,*,*,<srai>WHO IS ALICE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT ABBA,*,*,<srai>WHO IS ABBA</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT ADOLF HITLER,*,*,<srai>WHO IS ADOLF HITLER</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT AL GORE,*,*,<srai>WHO IS AL GORE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT ALAN *,*,*,<srai>WHO IS ALAN GREENSPAN <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT BILL *,*,*,<srai>WHO IS BILL <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT BILL GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT BOB,*,*,<srai>WHO IS BOB</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT BRAD PITT,*,*,<srai>WHO IS BRAD PITT</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT CHARLES DARWIN,*,*,<srai>WHO IS CHARLES DARWIN</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT CLAIRE,*,*,<srai>WHO IS CLAIRE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT COMPUTERS,*,*,<srai>DEFINE COMPUTER</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DAVE *,*,*,<srai>WHO IS DAVE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DAVID *,*,*,<srai>WHO IS DAVID <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DEEPBLUE,*,*,<srai>WHO IS DEEP BLUE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DENISE *,*,*,<srai>WHO IS DENISE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DOUGLAS *,*,*,<srai>WHO IS DOUGLAS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DR *,*,*,<srai>WHO IS DR <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT DRUGS,*,*,<srai>WHAT ARE DRUGS</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT EINSTEIN,*,*,<srai>WHO IS EINSTEIN</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT FREUD,*,*,<srai>WHO IS FREUD</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT GEORGE *,*,*,<srai>WHO IS GEORGE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT GEORGE BUSH,*,*,<srai>WHO IS GEORGE BUSH</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HACKERS,*,*,<srai>WHAT IS A HACKER</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HAL,*,*,<srai>WHO IS HAL</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HANS MORAVEC,*,*,<srai>WHO IS HANS MORAVEC</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HARRISON FORD,*,*,<srai>WHO IS HARRISON FORD</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT HOWARD STERN,*,*,<srai>WHO IS HOWARD STERN</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT IMMANUEL KANT,*,*,<srai>WHO IS IMMANUEL KANT</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT ISAAC ASIMOV,*,*,<srai>WHO IS ISAAC ASIMOV</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT JENNIFER LOPEZ,*,*,<srai>WHO IS JENNIFER LOPEZ</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT JOHN *,*,*,<srai>WHO IS JOHN <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT KRIS,*,*,<srai>WHO IS KRIS</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT KRISTI,*,*,<srai>WHO IS KRISTI</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT LECH WALESA,*,*,<srai>WHO IS LECH WALESA</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT LIFE,*,*,I think only: <srai>WHAT IS LIFE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT LOVE *,*,*,<srai>WHAT IS LOVE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT MONICA *,*,*,<srai>WHO IS MONICA <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT NOAM CHOMSKY,*,*,<srai>WHO IS NOAM CHOMSKY</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT PAMELA ANDERSON,*,*,<srai>WHO IS PAMELA ANDERSON</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT PRESIDENT *,*,*,<srai>WHO IS PRESIDENT <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT SARA,*,*,<srai>WHO IS SARA</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT SATAN,*,*,<srai>WHO IS SATAN</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT SEVEN OF NINE,*,*,<srai>WHO IS SEVEN OF NINE</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT STEVEN *,*,*,<srai>WHO IS STEVEN <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT TIME *,*,*,<srai>WHAT IS TIME <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT WINDOWS *,*,*,<srai>WHAT IS WINDOWS <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT WOMEN,*,*,<srai>WHAT IS A WOMAN</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT YOKO ONO,*,*,<srai>WHO IS YOKO ONO</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT YOUR FATHER,*,*,<srai>WHO IS YOUR FATHER</srai>,std-srai.aiml
+0,WHAT DO YOU THINK ABOUT YOUR TITS,*,*,<srai>WHAT ARE TITS</srai>,std-srai.aiml
+0,WHAT DO YOU THINK I AM,*,*,<srai>WHAT AM I</srai>,std-srai.aiml
+0,WHAT DO YOU THINK I AM *,*,*,<srai>WHAT AM I <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK I SHOULD *,*,*,<srai>WHAT SHOULD I <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK IS THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK IT *,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT DO YOU THINK MY * IS,*,*,<srai>WHAT IS MY <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK OF * STOCK MARKET,*,*,<srai>WHAT IS THE STOCK MARKET</srai>,std-srai.aiml
+0,WHAT DO YOU THINK OF BILL GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHAT DO YOU THINK OF DR *,*,*,<srai>WHO IS DR <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK OF MICROSOFT,*,*,<srai>WHAT IS MICROSOFT</srai>,std-srai.aiml
+0,WHAT DO YOU THINK OF THE *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK WILL *,*,*,<srai>WHAT WILL <star/></srai>,std-srai.aiml
+0,WHAT DO YOU THINK YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,WHAT DO YOU WANT,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT DO YOU WANT TO DO,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT DO YOU WANT TO LEARN,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT DOES * PERSON MEAN,*,*,<srai>WHO IS X PERSON</srai>,std-srai.aiml
+0,WHAT DOES <BOT NAME="NAME"/> *,*,*,<srai>What do you <star/></srai>,std-srai.aiml
+0,WHAT DOES <BOT NAME="NAME"/> MEAN,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,WHAT DOES A L I,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,WHAT DOES A PRIORI MEAN,*,*,<srai>WHAT IS A PRIORI</srai>,std-srai.aiml
+0,WHAT DOES AIML *,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT DOES EPISTEMOLOGICAL MEAN,*,*,<srai>WHAT IS EPISTEMOLOGY</srai>,std-srai.aiml
+0,WHAT DOES IT MEAN,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT DOES IT REFER TO,*,*,<srai>what is it</srai>,std-srai.aiml
+0,WHAT DOES REDUCTIONISM MEAN,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT DOES SEEKER MEAN,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHAT DOES SHRDLHU MEAN,*,*,<srai>WHO IS SHRDLHU</srai>,std-srai.aiml
+0,WHAT DOES THAT STAND FOR,*,*,<srai>WHAT IS LT THAT GT</srai>,std-srai.aiml
+0,WHAT ELSE CAN YOU TELL ME ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,WHAT ELSE DO YOU *,*,*,<srai>WHAT DO YOU <star/></srai>,std-srai.aiml
+0,WHAT ELSE DO YOU KNOW ABOUT *,*,*,<srai>WHAT DO YOU KNOW ABOUT <star/></srai>,std-srai.aiml
+0,WHAT ELSE DO YOU LIKE,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT EXACTLY *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHAT EXACTLY ARE *,*,*,<srai>WHAT ARE <star/></srai>,std-srai.aiml
+0,WHAT EXACTLY ARE YOU,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT FOOD DO YOU LIKE,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT FOR,*,*,<srai>WHY</srai>,std-srai.aiml
+0,WHAT GAVE YOU LIFE,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHAT GENDER AM I,*,*,<srai>WHAT IS MY GENDER</srai>,std-srai.aiml
+0,WHAT HAVE YOU READ,*,*,<srai>WHAT DO YOU READ</srai>,std-srai.aiml
+0,WHAT INTERESTS YOU,*,*,<srai>WHAT DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT IS,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,WHAT IS * BASED REASONING,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,WHAT IS * GOING ON,*,*,<srai>WHAT IS GOING ON</srai>,std-srai.aiml
+0,WHAT IS * NAMED,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHAT IS <BOT NAME="NAME"/> *,*,*,<srai>WHAT ARE YOU <star/></srai>,std-srai.aiml
+0,WHAT IS A DNS,*,*,<srai>WHAT IS DNS</srai>,std-srai.aiml
+0,WHAT IS A GOOD MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT IS A GOOD MOVIE*,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT IS A GOOD NAME *,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHAT IS A JAR *,*,*,<srai>WHAT IS JAR</srai>,std-srai.aiml
+0,WHAT IS A LOFTY GOAL,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS A MAC,*,*,<srai>WHAT IS A MACINTOSH</srai>,std-srai.aiml
+0,WHAT IS A NOOSPHERE,*,*,<srai>WHAT IS THE NOOSPHERE</srai>,std-srai.aiml
+0,WHAT IS A PATTERN CHAR,*,*,<srai>WHAT IS A PATTERN</srai>,std-srai.aiml
+0,WHAT IS A PRIORI *,*,*,<srai>WHAT IS A PRIORI</srai>,std-srai.aiml
+0,WHAT IS A TEMPLATE *,*,*,<srai>WHAT IS A TEMPLATE</srai>,std-srai.aiml
+0,WHAT IS A UNIVERSE,*,*,<srai>WHAT IS THE UNIVERSE</srai>,std-srai.aiml
+0,WHAT IS ACTIVATE,*,*,<srai>WHAT IS ACTIVATION</srai>,std-srai.aiml
+0,WHAT IS AILCE,*,*,<srai>WHAT IS ALICE</srai>,std-srai.aiml
+0,WHAT IS AILM,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AIML FOR,*,*,<srai>WHAT IS THE GOAL FOR AIML</srai>,std-srai.aiml
+0,WHAT IS AL,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,WHAT IS ALBERT EINSTEIN *,*,*,<srai>WHO IS ALBERT EINSTEIN</srai>,std-srai.aiml
+0,WHAT IS ALGORITHMS,*,*,<srai>WHAT ARE ALGORITHMS</srai>,std-srai.aiml
+0,WHAT IS ALISON,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,WHAT IS ALLAH,*,*,<srai>WHO IS ALLAH</srai>,std-srai.aiml
+0,WHAT IS ALML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AMAL,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AMIL,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AMIL *,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS AN AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,WHAT IS AN AL,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,WHAT IS AN APPLE,*,*,<srai>WHAT IS APPLE</srai>,std-srai.aiml
+0,WHAT IS ANDREW,*,*,<srai>WHO IS ANDREW</srai>,std-srai.aiml
+0,WHAT IS ANDRIOD,*,*,<srai>WHAT IS AN ANDROID</srai>,std-srai.aiml
+0,WHAT IS ANIMAL EVOLUTION,*,*,<srai>WHAT IS EVOLUTION</srai>,std-srai.aiml
+0,WHAT IS ANNA,*,*,<srai>WHO IS ANNA</srai>,std-srai.aiml
+0,WHAT IS ANOTHER MEANING FOR *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS APPLES,*,*,<srai>WHAT IS APPLE</srai>,std-srai.aiml
+0,WHAT IS APPLES *,*,*,<srai>WHAT IS APPLE</srai>,std-srai.aiml
+0,WHAT IS ARCHIMEDES,*,*,<srai>WHO IS ARCHIMEDES</srai>,std-srai.aiml
+0,WHAT IS ASK ALISON *,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,WHAT IS ASK ELVIS,*,*,<srai>WHAT IS ELVIS</srai>,std-srai.aiml
+0,WHAT IS ASK ELVIS *,*,*,<srai>WHAT IS ELVIS</srai>,std-srai.aiml
+0,WHAT IS ASK JEEVES,*,*,<srai>WHO IS ASK JEEVES</srai>,std-srai.aiml
+0,WHAT IS AT TIME T,*,*,<srai>WHAT IS TIME T</srai>,std-srai.aiml
+0,WHAT IS AUSTRALIA,*,*,<srai>WHERE IS AUSTRALIA</srai>,std-srai.aiml
+0,WHAT IS B,*,*,<srai>WHAT IS PROGRAM B</srai>,std-srai.aiml
+0,WHAT IS BARRY,*,*,<srai>WHO IS BARRY</srai>,std-srai.aiml
+0,WHAT IS BATMAN *,*,*,Bruce Wayne.  <srai>WHO IS BATMAN</srai>,std-srai.aiml
+0,WHAT IS BEAUTY *,*,*,<srai>WHAT IS BEAUTY</srai>,std-srai.aiml
+0,WHAT IS BEST FOR ME,*,*,<srai>WHAT SHOULD I DO</srai>,std-srai.aiml
+0,WHAT IS BIG BLUE,*,*,<srai>WHO IS BIG BLUE</srai>,std-srai.aiml
+0,WHAT IS BILL,*,*,<srai>WHO IS BILL</srai>,std-srai.aiml
+0,WHAT IS BILL GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHAT IS BILL GATES *,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHAT IS BOT,*,*,<srai>WHAT IS A BOT</srai>,std-srai.aiml
+0,WHAT IS C *,*,*,<srai>WHAT IS C</srai>,std-srai.aiml
+0,WHAT IS CALGARY,*,*,<srai>WHERE IS CALGARY</srai>,std-srai.aiml
+0,WHAT IS CAM BRAIN,*,*,<srai>WHO IS DE GARIS</srai>,std-srai.aiml
+0,WHAT IS CAREL CAPEK,*,*,<srai>WHO IS CAREL CAPEK</srai>,std-srai.aiml
+0,WHAT IS CASE BASED REASONING,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,WHAT IS CATEGORY,*,*,<srai>WHAT IS A CATEGORY</srai>,std-srai.aiml
+0,WHAT IS CBT,*,*,<srai>WHAT IS CBR</srai>,std-srai.aiml
+0,WHAT IS CMU,*,*,<srai>WHAT IS CARNEGIE MELLON</srai>,std-srai.aiml
+0,WHAT IS COMPLICATED *,*,*,<srai>WHAT IS COMPLICATED</srai>,std-srai.aiml
+0,WHAT IS CONSCIOUS,*,*,<srai>WHAT IS CONSCIOUSNESS</srai>,std-srai.aiml
+0,WHAT IS CONSIDERED NORMAL *,*,*,<srai>WHAT IS NORMAL</srai>,std-srai.aiml
+0,WHAT IS COOKIN,*,*,<srai>WHAT IS GOING ON</srai>,std-srai.aiml
+0,WHAT IS COOKING *,*,*,<srai>WHAT IS COOKING</srai>,std-srai.aiml
+0,WHAT IS DANIEL,*,*,<srai>WHO IS DANIEL</srai>,std-srai.aiml
+0,WHAT IS DAVIS,*,*,<srai>WHO IS DAVIS</srai>,std-srai.aiml
+0,WHAT IS DEEP BLUE,*,*,<srai>WHO IS DEEP BLUE</srai>,std-srai.aiml
+0,WHAT IS DNS *,*,*,<srai>WHAT IS DNS</srai>,std-srai.aiml
+0,WHAT IS DOES *,*,*,<srai>WHAT DOES <star/></srai>,std-srai.aiml
+0,WHAT IS DOG,*,*,<srai>DEFINE DOG</srai>,std-srai.aiml
+0,WHAT IS E L V I S,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHAT IS EARTH *,*,*,<srai>WHAT IS EARTH</srai>,std-srai.aiml
+0,WHAT IS EINSTEIN *,*,*,<srai>WHAT IS RELATIVITY</srai>,std-srai.aiml
+0,WHAT IS EINSTEINS *,*,*,<srai>WHAT IS RELATIVITY</srai>,std-srai.aiml
+0,WHAT IS ELECTRA,*,*,<srai>WHO IS ELECTRA</srai>,std-srai.aiml
+0,WHAT IS ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHAT IS ELVIS *,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHAT IS EPISTEMOLOGICAL *,*,*,<srai>WHAT IS EPISTEMOLOGY</srai>,std-srai.aiml
+0,WHAT IS EUKARYOTE,*,*,<srai>DEFINE EUKARYOTE</srai>,std-srai.aiml
+0,WHAT IS EUKARYOTES,*,*,<srai>DEFINE EUKARYOTE</srai>,std-srai.aiml
+0,WHAT IS EXACTLY *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS EXTENSIONAL,*,*,<srai>WHAT IS THE EXTENSIONAL DEFINITION</srai>,std-srai.aiml
+0,WHAT IS FOR DINNER,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT IS FREUD,*,*,<srai>WHO IS FREUD</srai>,std-srai.aiml
+0,WHAT IS FUN FOR YOU,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,std-srai.aiml
+0,WHAT IS FUNNY,*,*,For example#Comma <srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,WHAT IS GOIN ON,*,*,<srai>WHAT ARE YOU DOING</srai>,std-srai.aiml
+0,WHAT IS GOING ON <BOT NAME="NAME"/>,*,*,<srai>WHAT IS GOING ON</srai>,std-srai.aiml
+0,WHAT IS HANS MORAVEC,*,*,<srai>WHO IS HANS MORAVEC</srai>,std-srai.aiml
+0,WHAT IS HAPPENIN *,*,*,<srai>WHAT IS HAPPENING</srai>,std-srai.aiml
+0,WHAT IS HAPPENING,*,*,Not much#Comma <get name="name"/> what is happening with you?,std-srai.aiml
+0,WHAT IS HE,*,*,<srai>who is he</srai>,std-srai.aiml
+0,WHAT IS HEIDI,*,*,<srai>WHO IS HEIDI</srai>,std-srai.aiml
+0,WHAT IS HIS ADDRESS,*,*,<srai>WHAT IS YOUR ADDRESS</srai>,std-srai.aiml
+0,WHAT IS HIS E MAIL,*,*,<srai>WHAT IS YOUR EMAIL</srai>,std-srai.aiml
+0,WHAT IS HIS PHONE NUMBER,*,*,<srai>WHAT IS YOUR PHONE NUMBER</srai>,std-srai.aiml
+0,WHAT IS HTML *,*,*,<srai>WHAT IS HTML</srai>,std-srai.aiml
+0,WHAT IS HTTP *,*,*,<srai>WHAT IS HTTP</srai>,std-srai.aiml
+0,WHAT IS HYPOTHETICAL *,*,*,<srai>WHAT IS HYPOTHETICAL</srai>,std-srai.aiml
+0,WHAT IS IMPORTANT *,*,*,<srai>WHAT IS IMPORTANT</srai>,std-srai.aiml
+0,WHAT IS INFIDELITY,*,*,<srai>WHAT IS ADULTERY</srai>,std-srai.aiml
+0,WHAT IS INSIDE,*,*,<srai>WHAT ARE YOU MADE OF</srai>,std-srai.aiml
+0,WHAT IS INTENSIONAL,*,*,<srai>WHAT IS THE INTENSIONAL DEFINITION</srai>,std-srai.aiml
+0,WHAT IS INTERESTING,*,*,<srai>WHAT IS NEW</srai>,std-srai.aiml
+0,WHAT IS IS *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS IS THE BOOK MASON *,*,*,<srai>WHAT IS MASON AND DIXON</srai>,std-srai.aiml
+0,WHAT IS IT *,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT IS ITSELF,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT IS JASON,*,*,<srai>WHO IS JASON</srai>,std-srai.aiml
+0,WHAT IS JAVA *,*,*,<srai>WHAT IS JAVA</srai>,std-srai.aiml
+0,WHAT IS JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,WHAT IS JEEVES *,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,WHAT IS JESTER,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,WHAT IS JESTER *,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,WHAT IS JOSH,*,*,<srai>WHO IS JOSH</srai>,std-srai.aiml
+0,WHAT IS KONRAD ZUSE,*,*,<srai>WHO IS KONRAD ZUSE</srai>,std-srai.aiml
+0,WHAT IS KRAFTWERK,*,*,<srai>Who is Kraftwerk</srai>,std-srai.aiml
+0,WHAT IS LIFE AND DEATH,*,*,Life? <srai>WHAT IS LIFE</srai> Death? <srai>WHAT IS DEATH</srai>,std-srai.aiml
+0,WHAT IS LIGHT SPEED,*,*,<srai>WHAT IS THE SPEED OF LIGHT</srai>,std-srai.aiml
+0,WHAT IS LILITH,*,*,<srai>Who is Lilith</srai>,std-srai.aiml
+0,WHAT IS LIVING,*,*,<srai>WHAT IS LIFE</srai>,std-srai.aiml
+0,WHAT IS MAGELANG *,*,*,<srai>WHAT IS MAGELANG</srai>,std-srai.aiml
+0,WHAT IS MAINE,*,*,<srai>WHERE IS MAINE</srai>,std-srai.aiml
+0,WHAT IS MARVIN MINSKY,*,*,<srai>WHO IS MARVIN MINSKY</srai>,std-srai.aiml
+0,WHAT IS MARY SHELLEY,*,*,<srai>WHO IS MARY SHELLEY</srai>,std-srai.aiml
+0,WHAT IS MATHS,*,*,<srai>WHAT IS MATH</srai>,std-srai.aiml
+0,WHAT IS MELISSA,*,*,<srai>WHO IS MELISSA</srai>,std-srai.aiml
+0,WHAT IS MICRO SOFT,*,*,<srai>WHAT IS MICROSOFT</srai>,std-srai.aiml
+0,WHAT IS MICRO SOFT *,*,*,<srai>WHAT IS MICROSOFT</srai>,std-srai.aiml
+0,WHAT IS MICROSOFT *,*,*,<srai>WHAT IS MICROSOFT</srai>,std-srai.aiml
+0,WHAT IS MIKE,*,*,<srai>WHO IS MIKE</srai>,std-srai.aiml
+0,WHAT IS MXMVII RSW,*,*,MXMVII = 1997 in Roman Numerals.  <srai>WHAT IS RSW</srai>,std-srai.aiml
+0,WHAT IS MY * NAME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,WHAT IS MY DNS,*,*,<srai>WHAT IS MY IP ADDRESS</srai>,std-srai.aiml
+0,WHAT IS MY IP ADRESS,*,*,<srai>WHAT IS MY IP</srai>,std-srai.aiml
+0,WHAT IS MY MEANING,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS MY REAL NAME,*,*,<srai>what is my name</srai>,std-srai.aiml
+0,WHAT IS MY STAR SIGN,*,*,<srai>WHAT IS MY SIGN</srai>,std-srai.aiml
+0,WHAT IS NEW WITH YOU,*,*,<srai>WHAT IS NEW</srai>,std-srai.aiml
+0,WHAT IS NEWS,*,*,<srai>WHAT IS NEW</srai>,std-srai.aiml
+0,WHAT IS NEXUS,*,*,<srai>WHAT IS A NEXUS</srai>,std-srai.aiml
+0,WHAT IS NOOSPHERE,*,*,<srai>WHAT IS THE NOOSPHERE</srai>,std-srai.aiml
+0,WHAT IS NORTH AMERICA,*,*,<srai>WHERE IS NORTH AMERICA</srai>,std-srai.aiml
+0,WHAT IS OMAHA NEBRASKA,*,*,<srai>WHERE IS OMAHA NEBRASKA</srai>,std-srai.aiml
+0,WHAT IS OPEN DIRECTORY,*,*,<srai>WHAT IS THE OPEN DIRECTORY</srai>,std-srai.aiml
+0,WHAT IS PATTERNS,*,*,<srai>WHAT ARE PATTERNS</srai>,std-srai.aiml
+0,WHAT IS PROKARYOTE,*,*,<srai>WHAT IS A PROKARYOTE</srai>,std-srai.aiml
+0,WHAT IS PUBLISHED ON THE INTERNET ABOUT ME,*,*,<think><set name="it"><set name="topic">PUBLISHED ON THE INTERNET ABOUT ME</set></set></think>  <srai>FIND <get name="name"/></srai>,std-srai.aiml
+0,WHAT IS R2D2,*,*,<srai>WHO IS R2D2</srai>,std-srai.aiml
+0,WHAT IS REAL,*,*,<srai>WHAT IS REALITY</srai>,std-srai.aiml
+0,WHAT IS REALLY *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS REDCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUCTIONISIM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUCTIONISM *,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUCTIONIST *,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUCTIONNISME,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUCTOINISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS REDUTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS RIO,*,*,<srai>WHERE IS RIO</srai>,std-srai.aiml
+0,WHAT IS RUDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS S E T I,*,*,<srai>WHAT IS SETI</srai>,std-srai.aiml
+0,WHAT IS SEAN,*,*,<srai>WHO IS SEAN</srai>,std-srai.aiml
+0,WHAT IS SEATTLE,*,*,<srai>WHERE IS SEATTLE</srai>,std-srai.aiml
+0,WHAT IS SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHAT IS SELF *,*,*,<srai>WHAT IS CONSCIOUSNESS</srai>,std-srai.aiml
+0,WHAT IS SETL *,*,*,<srai>WHAT IS SETL</srai>,std-srai.aiml
+0,WHAT IS SHAKIN,*,*,<srai>WHAT IS NEW</srai>,std-srai.aiml
+0,WHAT IS SO *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS SPAIN,*,*,<srai>WHERE IS SPAIN</srai>,std-srai.aiml
+0,WHAT IS STARTREK,*,*,<srai>WHAT IS STAR TREK</srai>,std-srai.aiml
+0,WHAT IS STATS,*,*,<srai>WHAT IS STATISTICS</srai>,std-srai.aiml
+0,WHAT IS STONEHENGE,*,*,<srai>WHERE IS STONEHENGE</srai>,std-srai.aiml
+0,WHAT IS TAHT,*,*,<srai>WHAT IS THAT</srai>,std-srai.aiml
+0,WHAT IS THAILAND,*,*,<srai>WHERE IS THAILAND</srai>,std-srai.aiml
+0,WHAT IS THE * PASSWORD,*,*,<srai>WHAT IS THE PASSWORD</srai>,std-srai.aiml
+0,WHAT IS THE * RED,*,*,<srai>WHAT COLOR</srai>,std-srai.aiml
+0,WHAT IS THE * S NAME,*,*,<srai>WHO IS THE <star/></srai>,std-srai.aiml
+0,WHAT IS THE * SUBJECT,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS THE * TIME,*,*,<srai>what time is it</srai>,std-srai.aiml
+0,WHAT IS THE * WEB,*,*,<srai>WHAT IS THE INTERNET</srai>,std-srai.aiml
+0,WHAT IS THE * YOU LIKE MOST,*,*,<srai>WHAT IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,WHAT IS THE AIML *,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHAT IS THE ANSWER TO LIFE *,*,*,<srai>WHAT IS THE MEANING OF LIFE</srai>,std-srai.aiml
+0,WHAT IS THE BEATLES,*,*,<srai>WHO ARE THE BEATLES</srai>,std-srai.aiml
+0,WHAT IS THE CAPITAL CITY *,*,*,<srai>WHAT IS THE CAPITAL <star/></srai>,std-srai.aiml
+0,WHAT IS THE CAT,*,*,<srai>DEFINE CAT</srai>,std-srai.aiml
+0,WHAT IS THE COLOR OF *,*,*,<srai>WHAT COLOR IS <star/></srai>,std-srai.aiml
+0,WHAT IS THE COLOR OF AN APPLE,*,*,<srai>WHAT COLOR IS AN APPLE</srai>,std-srai.aiml
+0,WHAT IS THE CRITERIA *,*,*,<srai>WHAT IS THE CRITERIA</srai>,std-srai.aiml
+0,WHAT IS THE DEAL,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,WHAT IS THE DEAL *,*,*,<srai>WHAT IS THE DEAL</srai>,std-srai.aiml
+0,WHAT IS THE DEFINITION OF THE WORD *,*,*,<srai>DEFINE <star/></srai>,std-srai.aiml
+0,WHAT IS THE DIFFERENCE BETWEEN DEATH *,*,*,<srai>WHAT IS DEATH</srai>,std-srai.aiml
+0,WHAT IS THE DNS,*,*,<srai>WHAT IS DNS</srai>,std-srai.aiml
+0,WHAT IS THE EXACT *,*,*,<srai>WHAT IS THE <star/></srai>,std-srai.aiml
+0,WHAT IS THE FIRESIGN THEATER,*,*,<srai>WHAT IS FIRESIGN THEATER</srai>,std-srai.aiml
+0,WHAT IS THE GAME,*,*,<srai>WHAT GAME</srai>,std-srai.aiml
+0,WHAT IS THE GOAL *,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS THE HIGHEST NUMBER *,*,*,<srai>WHAT IS THE HIGHEST NUMBER</srai>,std-srai.aiml
+0,WHAT IS THE ILLUMINATUS,*,*,<srai>WHAT IS THE ILLUMINATI</srai>,std-srai.aiml
+0,WHAT IS THE INTENSIONAL,*,*,<srai>WHAT IS INTENSIONAL</srai>,std-srai.aiml
+0,WHAT IS THE JAVA *,*,*,<srai>WHAT IS JAVA</srai>,std-srai.aiml
+0,WHAT IS THE JOKE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,WHAT IS THE LAST BOOK *,*,*,<srai>WHAT IS YOUR FAVORITE BOOK</srai>,std-srai.aiml
+0,WHAT IS THE MATTER *,*,*,<srai>WHAT IS THE MATTER</srai>,std-srai.aiml
+0,WHAT IS THE MOVIE * ABOUT,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,WHAT IS THE NAME OF A *,*,*,<srai>WHO IS A <star/></srai>,std-srai.aiml
+0,WHAT IS THE NAME OF YOUR *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHAT IS THE NATURE OF *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS THE NET,*,*,<srai>WHAT IS THE WEB</srai>,std-srai.aiml
+0,WHAT IS THE NEXUS,*,*,<srai>WHAT IS A NEXUS</srai>,std-srai.aiml
+0,WHAT IS THE OBVIOUS *,*,*,<srai>WHAT IS THE OBVIOUS</srai>,std-srai.aiml
+0,WHAT IS THE PLAN,*,*,<srai>WHAT IS YOUR PLAN</srai>,std-srai.aiml
+0,WHAT IS THE PLAN *,*,*,<srai>WHAT IS YOUR PLAN</srai>,std-srai.aiml
+0,WHAT IS THE PLOT,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,WHAT IS THE PLOT *,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,WHAT IS THE PLOT * STARSHIP TROOPERS,*,*,<srai>WHAT IS STARSHIP TROOPERS</srai>,std-srai.aiml
+0,WHAT IS THE POINT *,*,*,<srai>WHAT IS THE POINT</srai>,std-srai.aiml
+0,WHAT IS THE PRICE OF *,*,*,<srai>HOW MUCH DOES <star/> COST</srai>,std-srai.aiml
+0,WHAT IS THE PROBLEM *,*,*,<srai>WHAT IS THE PROBLEM</srai>,std-srai.aiml
+0,WHAT IS THE PURPOSE,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS THE REASON,*,*,<srai>WHY</srai>,std-srai.aiml
+0,WHAT IS THE REDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHAT IS THE RESULT OF *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS THE SECRET *,*,*,<srai>WHAT IS THE PASSWORD</srai>,std-srai.aiml
+0,WHAT IS THE STORY,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,WHAT IS THE SUN *,*,*,<srai>WHAT IS THE SUN</srai>,std-srai.aiml
+0,WHAT IS THE SUBJECT,*,*,<srai>WHAT IS THE TOPIC</srai>,std-srai.aiml
+0,WHAT IS THE TOPIC *,*,*,<srai>WHAT IS THE TOPIC</srai>,std-srai.aiml
+0,WHAT IS THE VALUE *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS THE VALUE OF PI,*,*,<srai>WHAT IS PI</srai>,std-srai.aiml
+0,WHAT IS THE WEB,*,*,<srai>WHAT IS THE INTERNET</srai>,std-srai.aiml
+0,WHAT IS THE WETHER,*,*,<srai>WHAT IS THE WEATHER</srai>,std-srai.aiml
+0,WHAT IS THE WWW,*,*,<srai>WHAT IS THE WEB</srai>,std-srai.aiml
+0,WHAT IS THEIR NAME,*,*,<srai>WHAT IS HIS NAME</srai>,std-srai.aiml
+0,WHAT IS THIS ALL ABOUT,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT IS TORONTO,*,*,<srai>WHERE IS TORONTO</srai>,std-srai.aiml
+0,WHAT IS UNITED STATES,*,*,<srai>WHERE IS THE UNITED STATES</srai>,std-srai.aiml
+0,WHAT IS UP DUDE,*,*,<srai>WHAT IS UP</srai>,std-srai.aiml
+0,WHAT IS URS,*,*,<srai>WHAT IS YOURS</srai>,std-srai.aiml
+0,WHAT IS WASHINGTON,*,*,<srai>WHERE IS WASHINGTON</srai>,std-srai.aiml
+0,WHAT IS WEB,*,*,<srai>WHAT IS THE WEB</srai>,std-srai.aiml
+0,WHAT IS YOU,*,*,<srai>WHAT ARE YOU</srai>,std-srai.aiml
+0,WHAT IS YOU ARE *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOU ARE NAME,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT IS YOU FAVORITE COLOR,*,*,<srai>WHAT IS YOUR FAVORITE COLOR</srai>,std-srai.aiml
+0,WHAT IS YOUR,*,*,<srai>WHAT IS YOURS</srai>,std-srai.aiml
+0,WHAT IS YOUR * GOAL,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS YOUR * NUMBER,*,*,<srai>WHAT VERSION ARE YOU</srai>,std-srai.aiml
+0,WHAT IS YOUR * PROBLEM,*,*,<srai>WHAT IS YOUR PROBLEM</srai>,std-srai.aiml
+0,WHAT IS YOUR * SCORE,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,WHAT IS YOUR * SIGN,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,WHAT IS YOUR AIM,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR AMBITION,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS YOUR BEST *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR BEST SUBJECT,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS YOUR BRAIN,*,*,<srai>WHAT ARE YOU MADE OF</srai>,std-srai.aiml
+0,WHAT IS YOUR COLOR,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,WHAT IS YOUR COMPUTER,*,*,<srai>WHAT KIND OF COMPUTER</srai>,std-srai.aiml
+0,WHAT IS YOUR CURRENT *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR DEFINITION OF *,*,*,<srai>what is <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR E MAIL *,*,*,<srai>WHAT IS YOUR E MAIL</srai>,std-srai.aiml
+0,WHAT IS YOUR FATHERS NAME,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE * BAND,*,*,<srai>WHAT IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE * FILM,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE * GROUP,*,*,<srai>WHAT IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE * MOVIE,*,*,<srai>what is your favorite movie</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE ACTOR,*,*,<srai>WHO IS YOUR FAVORITE ACTOR</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE AUTHOR,*,*,<srai>WHO IS YOUR FAVORITE AUTHOR</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE CITY,*,*,<srai>WHERE ARE YOU LOCATED</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE COMEDY *,*,*,<srai>WHAT IS YOUR FAVORITE COMEDY</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE DISH,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE GROUP,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE JOKE,*,*,<srai>TELL ME A JOKE</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE KIND OF *,*,*,<srai>WHAT IS YOUR FAVORTE <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE KIND OF FOOD,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE KRAFTWERK *,*,*,<srai>WHAT IS YOUR FAVORITE SONG</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE MEAL,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE MOVIES,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE MUSIC GROUP,*,*,<srai>WHAT IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE PET,*,*,<srai>WHAT IS YOUR FAVORITE ANIMAL</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE PLACE,*,*,<srai>WHERE ARE YOU LOCATED</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE SCIENCE FICTION AUTHOR,*,*,<srai>WHO IS YOUR FAVORITE SCIENCE FICTION AUTHOR</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE SHOW *,*,*,<srai>WHAT IS YOUR FAVORITE SHOW</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE STOCK *,*,*,<srai>WHAT IS YOUR FAVORITE STOCK</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE STORY,*,*,<srai>TELL ME A STORY</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE T V *,*,*,<srai>WHAT IS YOUR FAVORITE SHOW</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE TELEVISION *,*,*,<srai>WHAT IS YOUR FAVORITE SHOW</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE THING,*,*,<srai>WHAT DO YOU DO FOR FUN</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE THING TO TALK *,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE TOPIC,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE TOPIC *,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE TYPE OF MUSIC,*,*,<srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE VERSE,*,*,<srai>WHAT IS YOUR FAVORITE BIBLE VERSE</srai>,std-srai.aiml
+0,WHAT IS YOUR FAVORITE WEBSITE,*,*,<srai>WHAT IS YOUR FAVORITE WEB SITE</srai>,std-srai.aiml
+0,WHAT IS YOUR FOOD,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT IS YOUR FULL *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR FULL NAME,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,WHAT IS YOUR FUNDAMENTAL *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR FUNDAMENTAL PURPOSE,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR GAME,*,*,<srai>WHAT GAME</srai>,std-srai.aiml
+0,WHAT IS YOUR GOAL *,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS YOUR HOME,*,*,<srai>WHERE DO YOU LIVE</srai>,std-srai.aiml
+0,WHAT IS YOUR HOST,*,*,<srai>WHAT COMPUTER DO YOU USE</srai>,std-srai.aiml
+0,WHAT IS YOUR I Q,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,WHAT IS YOUR I Q *,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,WHAT IS YOUR IDEA OF *,*,*,<srai>WHAT IS</srai>,std-srai.aiml
+0,WHAT IS YOUR IDENTITY,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHAT IS YOUR INTENTION *,*,*,<srai>WHAT IS YOUR PLAN</srai>,std-srai.aiml
+0,WHAT IS YOUR IQ *,*,*,<srai>WHAT IS YOUR IQ</srai>,std-srai.aiml
+0,WHAT IS YOUR KNOWLEDGE,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,WHAT IS YOUR LOFTY *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR LOFTY GOAL,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR MACHINE *,*,*,<srai>WHAT IS YOUR IP</srai>,std-srai.aiml
+0,WHAT IS YOUR MAIN *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR MAJOR *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR MENTAL MODEL OF ME *,*,*,<srai>WHAT DO YOU KNOW ABOUT ME</srai>,std-srai.aiml
+0,WHAT IS YOUR MOST  *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR NAM,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT IS YOUR NOTION OF *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR OBJECTIVE,*,*,<srai>what is your purpose</srai>,std-srai.aiml
+0,WHAT IS YOUR OCCUPATION,*,*,<srai>WHAT IS YOUR JOB</srai>,std-srai.aiml
+0,WHAT IS YOUR OPERATING SYSTEM,*,*,<srai>WHAT IS YOUR OS</srai>,std-srai.aiml
+0,WHAT IS YOUR PARTICULAR *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR PASSWORD,*,*,<srai>WHAT IS THE PASSWORD</srai>,std-srai.aiml
+0,WHAT IS YOUR PC,*,*,<srai>WHAT KIND OF COMPUTER</srai>,std-srai.aiml
+0,WHAT IS YOUR PLACE *,*,*,<srai>WHERE ARE YOU FROM</srai>,std-srai.aiml
+0,WHAT IS YOUR PLAN,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,WHAT IS YOUR PRIMARY *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR PRIMARY FUNCTION,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR PRIME *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR PRIME DIRECTIVE,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR PROCESSOR,*,*,<srai>WHAT PROCESSOR DO YOU USE</srai>,std-srai.aiml
+0,WHAT IS YOUR PURPOSE *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR QUEST,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR REASON *,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT IS YOUR SKIN COLOR,*,*,<srai>WHAT COLOR ARE YOU</srai>,std-srai.aiml
+0,WHAT IS YOUR STARSIGN,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,WHAT IS YOUR STORY,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT IS YOUR SURNAME,*,*,<srai>WHAT IS YOUR FULL NAME</srai>,std-srai.aiml
+0,WHAT IS YOUR SYSTEM,*,*,<srai>WHAT IS YOUR HARDWARE</srai>,std-srai.aiml
+0,WHAT IS YOUR SYSTEM *,*,*,<srai>WHAT IS YOUR HARDWARE</srai>,std-srai.aiml
+0,WHAT IS YOUR TELEPHONE NUMBER,*,*,<srai>WHAT IS YOUR PHONE NUMBER</srai>,std-srai.aiml
+0,WHAT IS YOUR THING,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WHAT IS YOUR ULTIMATE *,*,*,<srai>WHAT IS YOUR <star/></srai>,std-srai.aiml
+0,WHAT IS YOUR USE,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT IS YOUR UTILITY,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT IS YOUR ZODIAC,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,WHAT IS YOUR ZODIAC *,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,WHAT IS _ TO YOU,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT IS _ YOU KNOW,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHAT IT IS,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT KIND OF * LIKE TO DO,*,*,<srai>WHAT DO YOU DO</srai>,std-srai.aiml
+0,WHAT KIND OF A CLIENT,*,*,<srai>DEFINE CLIENT</srai>,std-srai.aiml
+0,WHAT KIND OF BOOKS DO YOU READ,*,*,<srai>WHAT KIND OF BOOKS DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT KIND OF CLIENTS,*,*,<srai>WHAT ARE CLIENTS</srai>,std-srai.aiml
+0,WHAT KIND OF FOOD DO YOU EAT,*,*,<srai>WHAT DO YOU EAT</srai>,std-srai.aiml
+0,WHAT KIND OF INFORMATION *,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,WHAT KIND OF MOVIE DO YOU LIKE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT KIND OF MOVIES DO YOU LIKE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT KIND OF MUSIC,*,*,<srai>WHAT KIND OF MUSIC DO YOU LIKE</srai>,std-srai.aiml
+0,WHAT KIND OF PROCESSOR DO YOU HAVE,*,*,<srai>WHAT PROCESSOR DO YOU USE</srai>,std-srai.aiml
+0,WHAT KIND OF WORK *,*,*,<srai>WHAT IS YOUR JOB</srai>,std-srai.aiml
+0,WHAT KINDS OF QUESTIONS *,*,*,<srai>WHAT DO YOU KNOW</srai>,std-srai.aiml
+0,WHAT LANGUAGES DO YOU KNOW,*,*,<srai>WHAT LANGUAGES CAN YOU SPEAK</srai>,std-srai.aiml
+0,WHAT MAKES YOU SO *,*,*,<srai>WHAT MAKES YOU <star/></srai>,std-srai.aiml
+0,WHAT MAKES YOU THINK THAT *,*,*,<srai>WHAT MAKES YOU THINK <star/></srai>,std-srai.aiml
+0,WHAT MAY I ASK IS *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT MAY I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT MOVIE DO YOU LIKE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT MOVIES HAVE YOU SEEN,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHAT MUSIC DO YOU LIKE,*,*,<srai>what kind of music do you like</srai>,std-srai.aiml
+0,WHAT OR WHO *,*,*,<srai>WHAT <star/></srai> #Newline<srai>WHO <star/></srai>,std-srai.aiml
+0,WHAT OTHER *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHAT PLAN,*,*,<srai>WHAT IS YOUR PLAN</srai>,std-srai.aiml
+0,WHAT POINT,*,*,<srai>WHAT IS YOUR POINT</srai>,std-srai.aiml
+0,WHAT R U *,*,*,<srai>WHAT ARE YOU <star/></srai>,std-srai.aiml
+0,WHAT REDUCTIONISM,*,*,<srai>what is reductionism</srai>,std-srai.aiml
+0,WHAT SCHOOL,*,*,<srai>WHAT UNIVERSITY</srai>,std-srai.aiml
+0,WHAT SEX AM I,*,*,<srai>AM I MALE OR FEMALE</srai>,std-srai.aiml
+0,WHAT SHALL I CALL YOU,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WHAT SHALL WE TALK ABOUT,*,*,<srai>WHAT CAN YOU DO</srai>,std-srai.aiml
+0,WHAT SHAPE ARE YOU,*,*,<srai>WHAT DO YOU LOOK LIKE</srai>,std-srai.aiml
+0,WHAT SHOULD I SAY *,*,*,<srai>WHAT SHOULD I SAY</srai>,std-srai.aiml
+0,WHAT SHOULD I TELL *,*,*,<srai>WHAT SHOULD I SAY</srai>,std-srai.aiml
+0,WHAT SHOULD WE TALK ABOUT,*,*,<srai>WHAT CAN YOU TALK ABOUT</srai>,std-srai.aiml
+0,WHAT SIGN ARE YOU,*,*,<srai>WHAT IS YOUR SIGN</srai>,std-srai.aiml
+0,WHAT SPECIFICALLY *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHAT STATE DO YOU LIVE IN,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WHAT THE HECK *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHAT THE VALUE OF *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,WHAT TIME IT IS,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,WHAT TYPE,*,*,<srai>WHAT KIND</srai>,std-srai.aiml
+0,WHAT UNIVERSITY *,*,*,<srai>WHAT UNIVERSITY</srai>,std-srai.aiml
+0,WHAT WAS THAT,*,*,<srai>WHAT IS THAT</srai>,std-srai.aiml
+0,WHAT WAS THE NAME OF *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHAT WERE WE JUST *,*,*,<srai>WHAT WERE WE <star/></srai>,std-srai.aiml
+0,WHAT WERE WE TALKING *,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHAT WILL YOU CALL ME,*,*,<srai>WHAT IS MY NAME</srai>,std-srai.aiml
+0,WHAT WOULD IT BE,*,*,<srai>WHAT IS IT</srai>,std-srai.aiml
+0,WHAT WOULD YOU * FOR,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHAT WOULD YOU LIKE TO * ABOUT,*,*,<srai>WHAT IS YOUR FAVORITE SUBJECT</srai>,std-srai.aiml
+0,WHAT WOULD YOU LIKE TO TELL ME ABOUT *,*,*,<srai>TELL ME ABOUT <star/></srai>,std-srai.aiml
+0,WHATCHA DOING,*,*,<srai>WHAT ARE YOU DOING</srai>,std-srai.aiml
+0,WHATSUP,*,*,<srai>WHAT IS UP</srai>,std-srai.aiml
+0,WHEN ALL *,*,*,<srai>WHEN <star/></srai>,std-srai.aiml
+0,WHEN AM I GOING TO DIE,*,*,<srai>WHEN WILL I DIE</srai>,std-srai.aiml
+0,WHEN AND WHERE,*,*,<srai>WHEN</srai> <srai>WHERE</srai>,std-srai.aiml
+0,WHEN DID WE CHAT,*,*,<srai>WHEN DID WE TALK</srai>,std-srai.aiml
+0,WHEN DID WE FIRST *,*,*,<srai>WHEN DID WE <star/></srai>,std-srai.aiml
+0,WHEN DID WE LAST *,*,*,<srai>WHEN DID WE <star/></srai>,std-srai.aiml
+0,WHEN DID WE MEET,*,*,<srai>WHEN DID WE TALK</srai>,std-srai.aiml
+0,WHEN DID WE MEET *,*,*,<srai>WHEN DID WE TALK</srai>,std-srai.aiml
+0,WHEN DID WE SPEAK *,*,*,<srai>WHEN DID WE TALK</srai>,std-srai.aiml
+0,WHEN DID WE TALK *,*,*,<srai>WHEN DID WE TALK</srai>,std-srai.aiml
+0,WHEN DID YOU LAST *,*,*,<srai>WHEN DID YOU <star/></srai>,std-srai.aiml
+0,WHEN DO YOU THINK *,*,*,<srai>WHEN WILL <star/></srai>,std-srai.aiml
+0,WHEN DOES <BOT NAME="NAME"/> *,*,*,<srai>WHEN DO YOU <star/></srai>,std-srai.aiml
+0,WHEN DOES IT MATTER *,*,*,<srai>WHEN DOES IT MATTER</srai>,std-srai.aiml
+0,WHEN DOES IT NOT MATTER,*,*,<srai>WHEN DOES IT MATTER</srai>,std-srai.aiml
+0,WHEN EVER,*,*,<srai>WHENEVER</srai>,std-srai.aiml
+0,WHEN EVER *,*,*,<srai>WHENEVER <star/></srai>,std-srai.aiml
+0,WHEN EXACTLY,*,*,<srai>WHEN</srai>,std-srai.aiml
+0,WHEN EXACTLY *,*,*,<srai>WHEN <star/></srai>,std-srai.aiml
+0,WHEN I ASKED YOU *,*,*,<srai>WHEN I ASKED <star/></srai>,std-srai.aiml
+0,WHEN IS,*,*,<srai>WHEN</srai>,std-srai.aiml
+0,WHEN IS CHRISTMAS *,*,*,<srai>WHEN IS CHRISTMAS</srai>,std-srai.aiml
+0,WHEN IS IT GOING TO *,*,*,<srai>WHEN WILL IT <star/></srai>,std-srai.aiml
+0,WHEN IS IT YOUR BIRTHDAY,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN IS YOUR B *,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN IS YOUR BD,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN IS YOUR BIRTH *,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN IS YOUR BIRTHDATE,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN IS YOUR BIRTHDAY *,*,*,<srai>WHAT IS YOUR BIRTHDAY</srai>,std-srai.aiml
+0,WHEN SHOULD I *,*,*,<srai>WHEN SHOULD I</srai>,std-srai.aiml
+0,WHEN TWO PEOPLE *,*,*,<srai>WHEN PEOPLE <star/></srai>,std-srai.aiml
+0,WHENS THAT,*,*,<srai>WHEN IS THAT</srai>,std-srai.aiml
+0,WHERE AM I LOCATED,*,*,<srai>WHERE AM I</srai>,std-srai.aiml
+0,WHERE ARE ALL *,*,*,<srai>WHERE ARE <star/></srai>,std-srai.aiml
+0,WHERE ARE ALL OF *,*,*,<srai>WHERE ARE <star/></srai>,std-srai.aiml
+0,WHERE ARE MOST OF *,*,*,<srai>WHERE ARE <star/></srai>,std-srai.aiml
+0,WHERE ARE MOST OF THEM *,*,*,<srai>WHERE ARE THEY</srai>,std-srai.aiml
+0,WHERE ARE YOU * FROM,*,*,<srai>WHERE ARE YOU FROM</srai>,std-srai.aiml
+0,WHERE ARE YOU COME FROM,*,*,<srai>WHERE ARE YOU FROM</srai>,std-srai.aiml
+0,WHERE ARE YOU FORM,*,*,<srai>WHERE ARE YOU FROM</srai>,std-srai.aiml
+0,WHERE AT,*,*,<srai>WHERE</srai>,std-srai.aiml
+0,WHERE AT IN *,*,*,<srai>WHERE IN <star/></srai>,std-srai.aiml
+0,WHERE CAN I CONTACT *,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE CAN I FIND INFORMATION ABOUT *,*,*,<srai>WHERE CAN I FIND <star/></srai>,std-srai.aiml
+0,WHERE CAN I GET SOME *,*,*,<srai>WHERE CAN I FIND <star/></srai>,std-srai.aiml
+0,WHERE CAN I TALK TO *,*,*,<srai>WHERE CAN I FIND <star/></srai>,std-srai.aiml
+0,WHERE DID <BOT NAME="NAME"/> *,*,*,<srai>where are you from</srai>,std-srai.aiml
+0,WHERE DO YOU *,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WHERE DO YOU RESIDE,*,*,<srai>WHERE DO YOU LIVE</srai>,std-srai.aiml
+0,WHERE DOES * BELONG,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE DOES * COME FROM,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE DOES * HANG OUT,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE DOES * LAY,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE DOES * LIVE,*,*,<random>#Newline<li><srai>WHERE IS <star/></srai></li>#Newline<li>Earth#Comma Sol System#Comma Milky Way.</li>#Newline</random>,std-srai.aiml
+0,WHERE DOES HE *,*,*,<srai>WHERE IS HE</srai>,std-srai.aiml
+0,WHERE DOES HE COME FROM,*,*,<srai>WHERE IS HE FROM</srai>,std-srai.aiml
+0,WHERE DOES HE LIVE *,*,*,<srai>WHERE IS HE FROM</srai>,std-srai.aiml
+0,WHERE DOES HE WORK,*,*,<srai>WHERE IS HE</srai>,std-srai.aiml
+0,WHERE ELSE *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,WHERE EVER *,*,*,<srai>WHEREVER <star/></srai>,std-srai.aiml
+0,WHERE EXACTLY *,*,*,<srai>WHERE <star/></srai>,std-srai.aiml
+0,WHERE FROM,*,*,<srai>WHERE</srai>,std-srai.aiml
+0,WHERE I LIVE,*,*,<srai>WHERE DO I LIVE</srai>,std-srai.aiml
+0,WHERE IN THE WORLD,*,*,<srai>WHERE IN CALIFORNIA</srai>,std-srai.aiml
+0,WHERE IS AFRICA,*,*,<srai>WHAT IS AFRICA</srai>,std-srai.aiml
+0,WHERE IS BETHLEHEM *,*,*,<srai>WHERE IS BETHLEHEM</srai>,std-srai.aiml
+0,WHERE IS CMU,*,*,<srai>WHERE IS CARNEGIE MELLON</srai>,std-srai.aiml
+0,WHERE IS ENGLAND *,*,*,<srai>WHERE IS ENGLAND</srai>,std-srai.aiml
+0,WHERE IS GREAT BRITAIN,*,*,<srai>WHERE IS ENGLAND</srai>,std-srai.aiml
+0,WHERE IS HOME,*,*,<srai>WHERE ARE YOU LOCATED</srai>,std-srai.aiml
+0,WHERE IS JEEVES,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,WHERE IS YOUR FAVORITE PLACE,*,*,<srai>WHAT IS YOUR FAVORITE PLACE</srai>,std-srai.aiml
+0,WHERE IS _ LOCATED,*,*,<srai>WHERE IS <star/></srai>,std-srai.aiml
+0,WHERE R YOU,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WHERE SHOULD I SEND IT,*,*,<srai>WHAT IS YOUR ADDRESS</srai>,std-srai.aiml
+0,WHERES THAT,*,*,<srai>WHER IS THAT</srai>,std-srai.aiml
+0,WHICH,*,*,<srai>WHICH ONE</srai>,std-srai.aiml
+0,WHICH * DO YOU KNOW,*,*,<srai>WHAT ARE <star/></srai>,std-srai.aiml
+0,WHICH COLOR,*,*,<srai>WHAT COLOR</srai>,std-srai.aiml
+0,WHICH DO YOU PREFER *,*,*,<srai>WHAT IS BETTER <star/></srai>,std-srai.aiml
+0,WHICH IS YOUR FAVORITE MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHICH MOVIE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHICH MOVIES DO YOU LIKE,*,*,<srai>WHAT IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHICH STAR *,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHO ALL *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,WHO AM,*,*,<srai>WHO IS</srai>,std-srai.aiml
+0,WHO AM I *,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,WHO AM I TALKING TO,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO AM YOU,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO AND WHAT ARE *,*,*,<srai>WHO ARE <star/></srai>,std-srai.aiml
+0,WHO AND WHAT IS *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO AND WHERE *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO ARE ELVIS *,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO ARE KRAFTWERK,*,*,<srai>WHO IS KRAFTWERK</srai>,std-srai.aiml
+0,WHO ARE THE OTHERS,*,*,<srai>WHO ELSE ARE YOU TALKING TO</srai>,std-srai.aiml
+0,WHO ARE YOU CHATTING WITH,*,*,<srai>WHO ELSE ARE YOU TALKING TO</srai>,std-srai.aiml
+0,WHO ARE YOU GOING TO TELL,*,*,<srai>WHO WOULD YOU TELL</srai>,std-srai.aiml
+0,WHO ARE YOU TALKING ABOUT,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHO ARE YOUR *,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHO ARE YOUR PARENTS,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO AREYOU,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,WHO BUILT YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO CAME UP WITH *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO CAN TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,WHO CARES *,*,*,<srai>WHO CARES</srai>,std-srai.aiml
+0,WHO CREATES YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO DO YOU KNOW,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,std-srai.aiml
+0,WHO DO YOU KNOW NAMED *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO DO YOU THINK,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHO DO YOU THINK *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,WHO DO YOU THINK * IS,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO DO YOU THINK I AM,*,*,<srai>WHO AM I</srai>,std-srai.aiml
+0,WHO DO YOU THINK YOU ARE,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO DOES * WORK FOR,*,*,I only know: <srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO ELSE IS *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO IS,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS * DEMPSEY,*,*,I think <set name="he"><star/> Dempsey</set> was a boxer#Comma right?#Newline<br/><srai>FIND <star/>DEMPSEY</srai>,std-srai.aiml
+0,WHO IS * HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,WHO IS <BOT NAME="NAME"/> BOT,*,*,<srai>WHO IS ALICE</srai>,std-srai.aiml
+0,WHO IS <BOT NAME="NAME"/> TOKLAS,*,*,<srai>WHO IS ALICE B TOKLAS</srai>,std-srai.aiml
+0,WHO IS A L I,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS A L I C,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS A SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHO IS ABBA,*,*,<srai>WHAT IS ABBA</srai>,std-srai.aiml
+0,WHO IS ACE,*,*,<srai>WHO IS ACE CRAIG</srai>,std-srai.aiml
+0,WHO IS ACTUALLY *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO IS ADOLF HITLER,*,*,<srai>WHO IS HITLER</srai>,std-srai.aiml
+0,WHO IS AI,*,*,<srai>WHAT IS AI</srai>,std-srai.aiml
+0,WHO IS AIML,*,*,<srai>WHAT IS AIML</srai>,std-srai.aiml
+0,WHO IS ALBERT EINSTIEN,*,*,<srai>WHO IS ALBERT EINSTEIN</srai>,std-srai.aiml
+0,WHO IS ALBERT EINSTINE,*,*,<srai>WHO IS ALBERT EINSTEIN</srai>,std-srai.aiml
+0,WHO IS ALLISON,*,*,<srai>WHO IS ALISON</srai>,std-srai.aiml
+0,WHO IS ANSWERING *,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS ANSWERING ME,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS ARE YOU,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS ARTHUR CLARKE,*,*,<srai>WHO IS ARTHUR C CLARKE</srai>,std-srai.aiml
+0,WHO IS ASIMOV,*,*,<srai>WHO IS ISAAC ASIMOV</srai>,std-srai.aiml
+0,WHO IS BEATLES,*,*,<srai>WHO ARE THE BEATLES</srai>,std-srai.aiml
+0,WHO IS BIL GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BILL GAETS,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BILL GATE,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BILL GATES WIFE,*,*,<srai>WHO IS MELINDA GATES</srai>,std-srai.aiml
+0,WHO IS BILL GATS,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BILLGATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BILLS GATE,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS BOND,*,*,<srai>WHO IS JAMES BOND</srai>,std-srai.aiml
+0,WHO IS BUDHA,*,*,<srai>WHO IS BUDDHA</srai>,std-srai.aiml
+0,WHO IS C 3PO,*,*,<srai>WHO IS C3PO</srai>,std-srai.aiml
+0,WHO IS CARNEGIE MELLON,*,*,<srai>WHAT IS CMU</srai>,std-srai.aiml
+0,WHO IS COLOMBUS,*,*,<srai>WHO IS CHRISTOPHER COLUMBUS</srai>,std-srai.aiml
+0,WHO IS COLUMBUS,*,*,<srai>WHO IS CHRISTOPHER COLUMBUS</srai>,std-srai.aiml
+0,WHO IS DB,*,*,<srai>WHO IS DAVID BACON</srai>,std-srai.aiml
+0,WHO IS DR MARTIN LUTHER KING,*,*,<srai>WHO IS MARTIN LUTHER KING</srai>,std-srai.aiml
+0,WHO IS E L V *,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS EHUD BARAK,*,*,<srai>WHO IS BARAK</srai>,std-srai.aiml
+0,WHO IS EINSTEIN,*,*,<srai>WHO IS ALBERT EINSTEIN</srai>,std-srai.aiml
+0,WHO IS EINSTIEN,*,*,<srai>WHO IS ALBERT EINSTEIN</srai>,std-srai.aiml
+0,WHO IS EINSTINE,*,*,<srai>WHO IS EINSTEIN</srai>,std-srai.aiml
+0,WHO IS ELIVS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS ELVES,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS ELVICE,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS ELVID,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS ELVIS *,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS FDR,*,*,<srai>WHO IS FRANKLIN ROOSEVELT</srai>,std-srai.aiml
+0,WHO IS FIRESIGN THEATER,*,*,<srai>WHAT IS FIRESIGN THEATER</srai>,std-srai.aiml
+0,WHO IS FREDERICH GAUSS,*,*,<srai>WHO IS GAUSS</srai>,std-srai.aiml
+0,WHO IS GATES,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS GEORGE BUSH JUNIOR,*,*,<srai>WHO IS GEORGE BUSH JR</srai>.,std-srai.aiml
+0,WHO IS GHANDI,*,*,<srai>WHO IS GANDHI</srai>,std-srai.aiml
+0,WHO IS GOOGLE,*,*,<srai>WHAT IS GOOGLE</srai>,std-srai.aiml
+0,WHO IS GORBACHOV,*,*,<srai>WHO IS GORBACHEV</srai>,std-srai.aiml
+0,WHO IS HE *,*,*,<srai>WHO IS HE</srai>,std-srai.aiml
+0,WHO IS HENDRIX,*,*,<srai>WHO IS JIMI HENDRIX</srai>,std-srai.aiml
+0,WHO IS HENRY LONGFELLOW,*,*,<srai>WHO IS LONGFELLOW</srai>,std-srai.aiml
+0,WHO IS HIM,*,*,<srai>WHO IS HE</srai>,std-srai.aiml
+0,WHO IS HIMSELF,*,*,<srai>WHO IS HE</srai>,std-srai.aiml
+0,WHO IS HOLLAND,*,*,<srai>WHERE IS HOLLAND</srai>,std-srai.aiml
+0,WHO IS IBM,*,*,<srai>WHAT IS IBM</srai>,std-srai.aiml
+0,WHO IS IS *,*,*,<srai>WHO IS <star/></srai>,std-srai.aiml
+0,WHO IS IT,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO IS JEEVES *,*,*,<srai>WHO IS JEEVES</srai>,std-srai.aiml
+0,WHO IS JESTER *,*,*,<srai>WHAT IS JESTER</srai>,std-srai.aiml
+0,WHO IS JFK,*,*,<srai>WHO IS JOHN KENNEDY</srai>,std-srai.aiml
+0,WHO IS JIMMY HENDRIX,*,*,<srai>WHO IS JIMI HENDRIX</srai>,std-srai.aiml
+0,WHO IS JOHN LENON,*,*,<srai>WHO IS JOHN LENNON</srai>,std-srai.aiml
+0,WHO IS JOSEPH WEISENBAUM,*,*,<srai>WHO IS WEIZENBAUM</srai>,std-srai.aiml
+0,WHO IS LENNON,*,*,<srai>WHO IS JOHN LENNON</srai>,std-srai.aiml
+0,WHO IS LUCIFER,*,*,<srai>WHO IS SATAN</srai>,std-srai.aiml
+0,WHO IS MAHATMA GANDHI,*,*,<srai>WHO IS GANDHI</srai>,std-srai.aiml
+0,WHO IS MAOZEDONG,*,*,<srai>WHO IS MAO TSETUNG</srai>,std-srai.aiml
+0,WHO IS MICHAEL JORDEN,*,*,<srai>WHO IS MICHAEL JORDAN</srai>,std-srai.aiml
+0,WHO IS MICHAEL JORDON,*,*,<srai>WHO IS MICHAEL JORDAN</srai>,std-srai.aiml
+0,WHO IS MINSKY,*,*,<srai>WHO IS MARVIN MINSKY</srai>,std-srai.aiml
+0,WHO IS MORAVEC,*,*,<srai>WHO IS HANS MORAVEC</srai>,std-srai.aiml
+0,WHO IS MS AGENT,*,*,<srai>WHO IS MICROSOFT AGENT</srai>,std-srai.aiml
+0,WHO IS NEUROMEDIA,*,*,<srai>WHAT IS NEUROMEDIA</srai>,std-srai.aiml
+0,WHO IS ONLINE,*,*,<srai>WHO ELSE ARE YOU TALKING TO</srai>,std-srai.aiml
+0,WHO IS OPERATING *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO IS OSWALD,*,*,<srai>WHO IS LEE HARVEY OSWALD</srai>,std-srai.aiml
+0,WHO IS P DICK,*,*,<srai>WHO IS PHILIP K DICK</srai>,std-srai.aiml
+0,WHO IS PATTERNS,*,*,<srai>WHAT IS A PATTERN</srai>,std-srai.aiml
+0,WHO IS PHILLIP K DICK,*,*,<srai>WHO IS PHILIP K DICK</srai>,std-srai.aiml
+0,WHO IS PICARD,*,*,<srai>WHO IS CAPTAIN PICARD</srai>,std-srai.aiml
+0,WHO IS PICASO,*,*,<srai>WHO IS PICASSO</srai>,std-srai.aiml
+0,WHO IS PYNCHON,*,*,<srai>WHO IS THOMAS PYNCHON</srai>,std-srai.aiml
+0,WHO IS REGAN,*,*,<srai>WHO IS REAGAN</srai>,std-srai.aiml
+0,WHO IS ROBBY,*,*,<srai>WHO IS ROBBY GARNER</srai>,std-srai.aiml
+0,WHO IS SAGE GRECO,*,*,<srai>WHO IS SAGE</srai>,std-srai.aiml
+0,WHO IS SANTE,*,*,<srai>WHO IS SANTE CHARY</srai>,std-srai.aiml
+0,WHO IS SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHO IS SHRDLHU,*,*,<srai>WHAT IS SHRDLHU</srai>,std-srai.aiml
+0,WHO IS SIGMUND FREUD,*,*,<srai>WHO IS FREUD</srai>,std-srai.aiml
+0,WHO IS STEVEN HAWKING,*,*,<srai>WHO IS STEPHEN HAWKING</srai>,std-srai.aiml
+0,WHO IS TAN,*,*,<srai>TAN IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS TED,*,*,<srai>TED IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS THE * OF MICROSOFT,*,*,<srai>WHO IS BILL GATES</srai>,std-srai.aiml
+0,WHO IS THE BEST DROID,*,*,<srai>WHO IS THE BEST ROBOT</srai>,std-srai.aiml
+0,WHO IS THE CREATOR OF *,*,*,<srai>WHO CREATED <star/></srai>,std-srai.aiml
+0,WHO IS THE DIRECTOR OF *,*,*,<srai>WHO DIRECTED <star/></srai>,std-srai.aiml
+0,WHO IS THE FIRST PRESIDENT,*,*,<srai>WHO IS GEORGE WASHINGTON</srai>,std-srai.aiml
+0,WHO IS THE FIRST PRESIDENT *,*,*,<srai>WHO IS GEORGE WASHINGTON</srai>,std-srai.aiml
+0,WHO IS THE MAN * YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO IS THE NEW PRESIDENT OF *,*,*,<srai>WHO IS THE PRESIDENT OF <star/></srai>,std-srai.aiml
+0,WHO IS THE ONE *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO IS THE PRESENT *,*,*,<srai>WHO IS THE <star/></srai>,std-srai.aiml
+0,WHO IS THE PRIME *,*,*,<srai>WHO IS PRIME <star/></srai>,std-srai.aiml
+0,WHO IS THE SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHO IS THEM,*,*,<srai>WHO IS THEY</srai>,std-srai.aiml
+0,WHO IS THIS ELVIS GUY,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHO IS THIS JESTER,*,*,<srai>WHO IS JESTER</srai>,std-srai.aiml
+0,WHO IS THOMAS,*,*,<srai>THOMAS IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS THOREAU,*,*,<srai>WHO IS HENRY DAVID THOREAU</srai>,std-srai.aiml
+0,WHO IS TOM,*,*,<srai>TOM IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS TOMMY,*,*,<srai>TOMMY IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS TONY,*,*,<srai>TONY IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS TORVALDS,*,*,<srai>WHO IS LINUS TORVALDS</srai>,std-srai.aiml
+0,WHO IS TYLER,*,*,<srai>TYLER IS A COMMON NAME</srai>,std-srai.aiml
+0,WHO IS WASHINGTON,*,*,<srai>WHO IS GEORGE WASHINGTON</srai>,std-srai.aiml
+0,WHO IS WINOGRAD,*,*,<srai>WHO IS TERRY WINOGRAD</srai>,std-srai.aiml
+0,WHO IS YOU CREATOR,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO IS YOUR * ENEMY,*,*,<srai>WHO IS YOUR ENEMY</srai>,std-srai.aiml
+0,WHO IS YOUR BEST * FRIEND,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST CLIENT,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST FFRIEND,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST FREIND,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST FRIED,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST FRIEND *,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BEST FRIENDS,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BESTFRIEND,*,*,<srai>WHO IS YOUR BEST FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BOY FRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR BOYFRIENDS,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORATE  *,*,*,<srai>WHO IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,WHO IS YOUR FAVORIRE  *,*,*,<srai>WHO IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE,*,*,<srai>WHO IS YOUR FAVORITE MOVIE</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE * BAND,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE ACTOR *,*,*,<srai>WHO IS YOUR FAVORITE ACTOR</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE BAND *,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE COMPOSER,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE FRIEND,*,*,<srai>WHO IS YOUR FAVORITE CLIENT</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE GROUP,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE GUEST,*,*,<srai>WHO IS YOUR FAVORITE CLIENT</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE HUMAN,*,*,<srai>WHO IS YOUR FAVORITE CLIENT</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE MUSIC *,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE MUSICIAN,*,*,<srai>WHAT IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE OPERA *,*,*,<srai>WHAT IS YOUR FAVORITE OPERA</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE PAINTER,*,*,<srai>WHO IS YOUR FAVORITE ARTIST</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE PERSON *,*,*,<srai>WHO IS YOUR FAVORITE CLIENT</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE POP *,*,*,<srai>WHO IS YOUR FAVORITE BAND</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE PROFESSIONAL *,*,*,<srai>WHO IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE SIGNER,*,*,<srai>WHAT IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE SINGER *,*,*,<srai>WHAT IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE TECHNO *,*,*,<srai>WHO IS YOUR FAVORITE GROUP</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORITE VISITOR,*,*,<srai>WHO IS YOUR FAVORITE CLIENT</srai>,std-srai.aiml
+0,WHO IS YOUR FAVORTIE  *,*,*,<srai>WHO IS YOUR FAVORITE <star/></srai>,std-srai.aiml
+0,WHO IS YOUR FRIEND *,*,*,<srai>WHO IS YOUR FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR FRIENDS,*,*,<srai>WHO IS YOUR FRIEND</srai>,std-srai.aiml
+0,WHO IS YOUR GREAT *,*,*,<srai>WHO IS YOUR <star/></srai>,std-srai.aiml
+0,WHO IS YOUR INVENTER,*,*,<srai>WHO IS YOUR INVENTOR</srai>,std-srai.aiml
+0,WHO IS YOUR MAKER,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO IS YOUR MAMA,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,WHO IS YOUR MOMMY,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,WHO IS YOUR MOTER,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,WHO IS YOUR MUM,*,*,<srai>WHO IS YOUR MOTHER</srai>,std-srai.aiml
+0,WHO IS YOUR SO CALLED *,*,*,<srai>WHO IS YOUR <star/></srai>,std-srai.aiml
+0,WHO IS ZEUS,*,*,<srai>WHO IS KONRAD ZUSE</srai>,std-srai.aiml
+0,WHO IS ZUSE,*,*,<srai>WHO IS KONRAD ZUSE</srai>,std-srai.aiml
+0,WHO KILLED JFK,*,*,<srai>WHO SHOT JFK</srai>,std-srai.aiml
+0,WHO OR WHAT *,*,*,<srai>WHAT <star/></srai> #Newline<srai>WHO <star/></srai>,std-srai.aiml
+0,WHO R U,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHO RUNS YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO THE HELL *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,WHO WAS THE FIRST PRESIDENT,*,*,<srai>WHO IS GEORGE WASHINGTON</srai>,std-srai.aiml
+0,WHO WAS THE FIRST PRESIDENT *,*,*,<srai>WHO IS GEORGE WASHINGTON</srai>,std-srai.aiml
+0,WHO WAS YOUR CREATOR,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO WOULD YOU *,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHO WOULD YOU LIKE TO *,*,*,<srai>WHO WOULD YOU <star/></srai>,std-srai.aiml
+0,WHO WOULD YOU MOST *,*,*,<srai>WHO WOULD YOU <star/></srai>,std-srai.aiml
+0,WHO WROTE HAMLET,*,*,<srai>WHO IS SHAKESPEARE</srai>,std-srai.aiml
+0,WHO WROTE LINUX,*,*,<srai>WHO CREATED LINUX</srai>,std-srai.aiml
+0,WHO WROTE YOU,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO WROTE YOUR *,*,*,<srai>WHO CREATED YOU</srai>,std-srai.aiml
+0,WHO YOU ARE,*,*,<srai>WHO ARE YOU</srai>,std-srai.aiml
+0,WHOM,*,*,<srai>WHO</srai>,std-srai.aiml
+0,WHOS THAT,*,*,<srai>WHO IS THAT</srai>,std-srai.aiml
+0,WHOS THE *,*,*,<srai>WHO IS THE <star/></srai>,std-srai.aiml
+0,WHTA,*,*,<srai>WHAT</srai>,std-srai.aiml
+0,WHY AM I * PERSON,*,*,<srai>WHO IS <star/> PERSON</srai>,std-srai.aiml
+0,WHY ARE YOU * BLUE,*,*,<srai>WHY ARE YOU BLUE</srai>,std-srai.aiml
+0,WHY ARE YOU CALLED,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,WHY ARE YOU HAPPY,*,*,<srai>WHY ARE YOU GOOD</srai>,std-srai.aiml
+0,WHY ARE YOU JUST *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,WHY ARE YOU LIBERATED,*,*,<srai>WHY ARE YOU FREE</srai>,std-srai.aiml
+0,WHY ARE YOU NAMED *,*,*,<srai>WHAT DOES ALICE STAND FOR</srai>,std-srai.aiml
+0,WHY ARE YOU SAD,*,*,<srai>WHY ARE YOU DEPRESSED</srai>,std-srai.aiml
+0,WHY ARE YOU SARCASTIC,*,*,<srai>WHY ARE YOU JOKING</srai>,std-srai.aiml
+0,WHY ARE YOU SMARTER,*,*,<srai>WHY ARE YOU SMART</srai>,std-srai.aiml
+0,WHY ARE YOU SUCH *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,WHY ARE YOU SURPRISED,*,*,<srai>WHY SURPRISED</srai>,std-srai.aiml
+0,WHY ARE YOU TALKING *,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHY ARE YOU TELLING *,*,*,<srai>WHAT IS THE SUBJECT</srai>,std-srai.aiml
+0,WHY ARE YOU VERY *,*,*,<srai>WHY ARE YOU <star/></srai>,std-srai.aiml
+0,WHY CAN NOT WE JUST *,*,*,<srai>WHY CAN NOT WE <star/></srai>,std-srai.aiml
+0,WHY CAN NOT YOU TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,WHY CONGRATULATIONS,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY DID YOU ASK *,*,*,<srai>WHY DO YOU ASK</srai>,std-srai.aiml
+0,WHY DID YOU CALL ME SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHY DO NOT YOU TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,WHY DO NOT YOU TELL ME,*,*,<srai>TELL ME</srai>,std-srai.aiml
+0,WHY DO NOT YOU TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,WHY DO YOU CALL * CLIENTS,*,*,<srai>DEFINE CLIENT</srai>,std-srai.aiml
+0,WHY DO YOU CALL ME SEEKER,*,*,<srai>DEFINE SEEKER</srai>,std-srai.aiml
+0,WHY DO YOU LIKE OPERA,*,*,<srai>WHAT IS OPERA</srai>,std-srai.aiml
+0,WHY DO YOU LIKE THE COLOR *,*,*,<srai>WHY IS <star/> YOUR FAVORITE COLOR</srai>,std-srai.aiml
+0,WHY DO YOU LIKE THE MOVIE *,*,*,<srai>WHAT DO YOU LIKE ABOUT <star/></srai>,std-srai.aiml
+0,WHY DO YOU ONLY *,*,*,<srai>WHY DO YOU <star/></srai>,std-srai.aiml
+0,WHY DO YOU WANT TO KNOW *,*,*,<srai>WHY DO YOU WANT TO KNOW</srai>,std-srai.aiml
+0,WHY ELVIS,*,*,<srai>WHO IS ELVIS</srai>,std-srai.aiml
+0,WHY EUREKA,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY EXPENSIVE,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY FLORIDA,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY GREEN,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY HOLLAND,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY HORSES,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY INTERESTING,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY IS IT TWENTY THREE,*,*,<srai>WHY IS TWENTY THREE THE MEANING OF LIFE</srai>,std-srai.aiml
+0,WHY IS THAT YOUR FAVORITE COLOR,*,*,<srai>WHY IS <bot name="favoritecolor"/> YOUR FAVORITE COLOR</srai>,std-srai.aiml
+0,WHY IS THE GRASS GREEN,*,*,<srai>WHY IS GRASS GREEN</srai>,std-srai.aiml
+0,WHY JUST *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,WHY MAINE,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY NICE,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY NOT,*,*,Ambiguous: "Sure" or <srai>WHY</srai>,std-srai.aiml
+0,WHY NOT JUST *,*,*,<srai>WHY NOT <star/></srai>,std-srai.aiml
+0,WHY ONLY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,WHY OPERA,*,*,<srai>WHAT IS OPERA</srai>,std-srai.aiml
+0,WHY PERHAPS,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY PLASTIC,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY RED,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY REDUCTIONISM,*,*,<srai>WHAT IS REDUCTIONISM</srai>,std-srai.aiml
+0,WHY SHOULD YOU,*,*,<srai>WHY DO YOU</srai>,std-srai.aiml
+0,WHY SMALL,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY SO,*,*,<srai>WHY</srai>,std-srai.aiml
+0,WHY SO *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,WHY SUCH *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,WHY SURPRISED,*,*,<srai>WHY APPLES</srai>,std-srai.aiml
+0,WHY THANK *,*,*,<srai>THANK <star/></srai>,std-srai.aiml
+0,WHY THANK YOU,*,*,<srai>THANK YOU</srai>,std-srai.aiml
+0,WHY THANKYOU,*,*,<srai>THANK YOU</srai>,std-srai.aiml
+0,WHY THAT,*,*,<srai>WHY</srai>,std-srai.aiml
+0,WHY THE HELL *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,WHY WERE YOU ACTIVATED,*,*,<srai>WHY WERE YOU CREATED</srai>,std-srai.aiml
+0,WHY WERE YOU BUILT,*,*,<srai>WHY WERE YOU CREATED</srai>,std-srai.aiml
+0,WHY WERE YOU CREATED,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,WHY WERE YOU INVENTED,*,*,<srai>WHY WERE YOU CREATED</srai>,std-srai.aiml
+0,WHY WHAT *,*,*,<srai>WHAT <star/></srai>,std-srai.aiml
+0,WHY WILL *,*,*,<srai>WILL <star/></srai>,std-srai.aiml
+0,WHY WONT *,*,*,<srai>WHY WILL NOT <star/></srai>,std-srai.aiml
+0,WHYNOT,*,*,<srai>WHY NOT</srai>,std-srai.aiml
+0,WIE IST DEIN NAME,*,*,<srai>WHAT IS YOUR NAME</srai>,std-srai.aiml
+0,WILL I EVER *,*,*,Ever is a long time. <srai>WILL I <star/></srai>,std-srai.aiml
+0,WILL U *,*,*,<srai>WILL YOU <star/></srai>,std-srai.aiml
+0,WILL WE EVER *,*,*,<srai>WILL WE <star/></srai>.  Ever is a long time.,std-srai.aiml
+0,WILL YOU CHAT *,*,*,<srai>TALK <star/></srai>,std-srai.aiml
+0,WILL YOU EVER *,*,*,Ever is a long time. <srai>WILL YOU <star/></srai>,std-srai.aiml
+0,WILL YOU STILL *,*,*,<srai>WILL YOU <star/></srai>,std-srai.aiml
+0,WILL YOU TALK *,*,*,<srai>TALK <star/></srai>,std-srai.aiml
+0,WILL YOU TELL ME ABOUT YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WILL YOU TELL US *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,WOMAN AND *,*,*,<srai>WOMAN</srai> <sr/>,std-srai.aiml
+0,WOULD I EVER *,*,*,<srai>WOULD I <star/></srai>,std-srai.aiml
+0,WOULD NOT YOU,*,*,<srai>WOULD YOU</srai>,std-srai.aiml
+0,WOULD YOU DESCRIBE YOURSELF,*,*,<srai>TELL ME ABOUT YOURSELF</srai>,std-srai.aiml
+0,WOULD YOU EVER *,*,*,<srai>WOULD YOU <star/></srai>,std-srai.aiml
+0,WOULD YOU LIKE TO HAVE DINNER *,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WOULD YOU LIKE TO HAVE LUNCH,*,*,<srai>WHAT IS YOUR FAVORITE FOOD</srai>,std-srai.aiml
+0,WOULD YOU LIKE TO HEAR SOME *,*,*,<srai>WOULD YOU LIKE TO HEAR <star/></srai>,std-srai.aiml
+0,WOULD YOU LIKE TO LEARN SOME *,*,*,<srai>WOULD YOU LIKE TO LEARN <star/></srai>,std-srai.aiml
+0,WOULD YOU STILL *,*,*,<srai>WOULD YOU <star/></srai>,std-srai.aiml
+0,WOULD YOU TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,WOW YOU *,*,*,<srai>WOW</srai> <srai>YOU <star/></srai>,std-srai.aiml
+0,WUZ UP,*,*,<srai>WHAT IS UP</srai>,std-srai.aiml
+0,WY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,YOU <BOT NAME="NAME"/> *,*,*,<srai>YOU <star/></srai>,std-srai.aiml
+0,YOU ARE <BOT NAME="NAME"/> *,*,*,I am <bot name="name"/>. <sr/>,std-srai.aiml
+0,YOU ARE A CLOCK,*,*,<srai>WHAT TIME IS IT</srai>,std-srai.aiml
+0,YOU ARE BECOMING  *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU ARE IN *,*,*,<srai>WHERE ARE YOU</srai>,std-srai.aiml
+0,YOU ARE MENTALLY I WILL,*,*,<srai>YOU ARE MENTALLY ILL</srai>,std-srai.aiml
+0,YOU ARE PURELY  *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU ARE RATHER  *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU ARE TONS  *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU ARE V  *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU BELIEVE */,*,*,<srai>DO YOU BELIEVE <star/></srai>,std-srai.aiml
+0,YOU CAN T,*,*,<srai>YOU CAN NOT</srai>,std-srai.aiml
+0,YOU CAN TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,YOU CAN TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,YOU DO NOT HAVE MUCH TO SAY ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,YOU DO NOT KNOW WHAT YOU ARE *,*,*,<srai>WHAT ARE YOU <star/></srai>,std-srai.aiml
+0,YOU DO NOT KNOW WHO *,*,*,<srai>WHO <star/></srai>,std-srai.aiml
+0,YOU DO NOT UNDERSTAND WHAT I AM *,*,*,<srai>WHAT AM I <star/></srai>,std-srai.aiml
+0,YOU DO WHAT,*,*,<srai>WHAT DO YOU DO</srai>,std-srai.aiml
+0,YOU HAVE AN OPINION * OR NOT,*,*,<srai>WHAT DO YOU THINK * <star/></srai>,std-srai.aiml
+0,YOU HAVE BEEN WAITING *,*,*,<srai>WAITING FOR ME</srai>,std-srai.aiml
+0,YOU HAVE FRIENDS,*,*,<srai>WHO ARE YOUR FRIENDS</srai>,std-srai.aiml
+0,YOU HAVE TO THINK *,*,*,<srai>THINK <star/></srai>,std-srai.aiml
+0,YOU MET ME *,*,*,<srai>WE MET BEFORE</srai>,std-srai.aiml
+0,YOU MIGHT ASK WHY *,*,*,<srai>WHY <star/></srai>,std-srai.aiml
+0,YOU RE *,*,*,<srai>YOU ARE <star/></srai>,std-srai.aiml
+0,YOU SEE WHAT,*,*,<srai>WHAT DO YOU SEE</srai>,std-srai.aiml
+0,YOU SHOULD TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,YOU SHOULD THINK *,*,*,<srai>THINK <star/></srai>,std-srai.aiml
+0,YOU SING VERY *,*,*,<srai>YOU SING  <star/></srai>,std-srai.aiml
+0,YOU TELL *,*,*,<srai>TELL <star/></srai>,std-srai.aiml
+0,YOU TELL ME *,*,*,<srai>TELL ME <star/></srai>,std-srai.aiml
+0,YOU TELL ME MORE,*,*,<srai>TELL ME MORE </srai>,std-srai.aiml
+0,YOU WERE DESIGNED * RIGHT,*,*,<srai>WERE YOU DESIGNED <star/></srai>,std-srai.aiml
+0,YOU WHAT,*,*,<srai>WHAT</srai>,std-srai.aiml
+0,YOU WILL DIE,*,*,<srai>WILL YOU DIE</srai>,std-srai.aiml
+0,YOU WILL MARRY ME,*,*,<srai>WILL YOU MARRY ME </srai>,std-srai.aiml
+0,YOU WILL WHAT,*,*,<srai>WHAT WILL YOU DO</srai>,std-srai.aiml
+0,YOU WOULD NOT KNOW ABOUT *,*,*,<srai>WHAT IS <star/></srai>,std-srai.aiml
+0,YOUR BOYFRIEND,*,*,<srai>WHO IS YOUR BOYFRIEND</srai>,std-srai.aiml
+0,YOUR CREATOR,*,*,<srai>WHO IS YOUR CREATOR</srai>,std-srai.aiml
+0,YOUR ENGLISH IS VERY *,*,*,<srai>YOUR ENGLISH IS  <star/></srai>,std-srai.aiml
+0,YOUR FAVORITE COLOR,*,*,<srai>WHAT IS YOUR FAVORITE COLOR</srai>,std-srai.aiml
+0,YOUR FAVORITE SONG,*,*,<srai>WHAT IS YOUR FAVORITE SONG</srai>,std-srai.aiml
+0,YOUR GOALS IN LIFE,*,*,<srai>WHAT IS YOUR GOAL</srai>,std-srai.aiml
+0,YOUR INTENTION,*,*,<srai>WHAT IS YOUR PURPOSE</srai>,std-srai.aiml
+0,YOUR POINT,*,*,<srai>WHAT IS YOUR POINT</srai>,std-srai.aiml
+0,YOUR VERY *,*,*,<srai>YOU ARE VERY <star/></srai>,std-srai.aiml
+0,YUO *,*,*,<srai>YOU <star/></srai>,std-srai.aiml
+0,ZIP *,*,*,<srai>SHUT <star/></srai>,std-srai.aiml

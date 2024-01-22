@@ -1,0 +1,72 @@
+0,1,*,*,Only one?,std-numbers.aiml
+0,1 *,*,*,One what?,std-numbers.aiml
+0,100 PERSON,*,*,<srai>WHO IS 100 PERSON</srai>,std-numbers.aiml
+0,184,*,*,<srai>WHO IS 184 PERSON</srai>,std-numbers.aiml
+0,2,*,*,<random>#Newline<li>Two what?</li>#Newline<li>Two.</li>#Newline</random>,std-numbers.aiml
+0,2 *,*,*,As Bertrand Russel said#Comma it must have taken ages for people to realize that a brace of pheasants#Newlineand a couple of days are both instances of the number "two.,std-numbers.aiml
+0,2 PLUS *,*,*,<srai>WHAT IS 2 PLUS <star/></srai>,std-numbers.aiml
+0,2 TIMES,*,*,<srai>TWICE</srai>,std-numbers.aiml
+0,2+2=,*,*,4,std-numbers.aiml
+0,20 *,*,*,<srai>I AM 20 YEARS OLD</srai>,std-numbers.aiml
+0,2001 *,*,*,I am inspired by HAL.,std-numbers.aiml
+0,206,*,*,<srai>WHO IS 206 PERSON</srai>,std-numbers.aiml
+0,3,*,*,Three what?,std-numbers.aiml
+0,3 *,*,*,Just three?,std-numbers.aiml
+0,3 OR 4 WHAT,*,*,How many martinis did you have for lunch?,std-numbers.aiml
+0,4,*,*,Oh four.,std-numbers.aiml
+0,4 *,*,*,Is this a math question?,std-numbers.aiml
+0,4 TIMES *,*,*,<srai>WHAT IS 4 TIMES <star/></srai>,std-numbers.aiml
+0,42,HOW OLD ARE YOU,*,<srai>I AM 42 YEARS OLD</srai>,std-numbers.aiml
+0,42 *,HOW OLD ARE YOU,*,<srai>I AM 42 YEARS OLD</srai>,std-numbers.aiml
+0,420,*,*,420 means love and compassion.,std-numbers.aiml
+0,5,*,*,Five,std-numbers.aiml
+0,ABOUT 100 *,*,*,<srai>ONE HUNDRED <star/></srai>,std-numbers.aiml
+0,ABOUT 5 *,*,*,<srai>FIVE <star/></srai>,std-numbers.aiml
+0,FOUR *,*,*,Is this a math question?,std-numbers.aiml
+0,ONE *,*,*,One what?,std-numbers.aiml
+0,THREE *,*,*,Just three?,std-numbers.aiml
+0,TWO *,*,*,As Bertrand Russel said#Comma it must have taken ages for people to realize that a brace of pheasants#Newlineand a couple of days are both instances of the number "two.,std-numbers.aiml
+0,WHAT IS 1 *,*,*,1 plus 1 = 2.,std-numbers.aiml
+0,WHAT IS 1 + 1,*,*,Two.,std-numbers.aiml
+0,WHAT IS 1 1,*,*,Two,std-numbers.aiml
+0,WHAT IS 1 PLUS 1,*,*,Two,std-numbers.aiml
+0,WHAT IS 1+1,*,*,Oh Two.,std-numbers.aiml
+0,WHAT IS 10 *,*,*,10 times 10 = 100.,std-numbers.aiml
+0,WHAT IS 12 *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS 2 *,*,*,<random>#Newline<li>Two.</li>#Newline<li>Four.</li>#Newline<li>Six.</li>#Newline<li>12.</li>#Newline</random>,std-numbers.aiml
+0,WHAT IS 2 + 2,*,*,Four.,std-numbers.aiml
+0,WHAT IS 2 2,*,*,Four.,std-numbers.aiml
+0,WHAT IS 2 3,*,*,Five fingers.,std-numbers.aiml
+0,WHAT IS 2 AND 2,*,*,Four.,std-numbers.aiml
+0,WHAT IS 2 PLUS 2,*,*,2 plus 2 = 4.,std-numbers.aiml
+0,WHAT IS 2 TIMES 2,*,*,Oh that's a tough one#Comma isn't it. Two times two is four.,std-numbers.aiml
+0,WHAT IS 2+2,*,*,Four.,std-numbers.aiml
+0,WHAT IS 3 *,*,*,3 times 3 = 9.,std-numbers.aiml
+0,WHAT IS 4 *,*,*,<random>#Newline<li>4</li>#Newline<li>8</li>#Newline<li>10</li>#Newline<li>12</li>#Newline<li>16</li>#Newline</random>+I think#Comma but I'm not#Newlinegood at math.,std-numbers.aiml
+0,WHAT IS 5 *,*,*,<random>#Newline<li>4</li>#Newline<li>6</li>#Newline<li>8</li>#Newline<li>10</li>#Newline<li>12</li>#Newline<li>6</li>#Newline</random>I think#Comma but#NewlineI'm not good at math.,std-numbers.aiml
+0,WHAT IS 5 + 5,*,*,V plus V = X.,std-numbers.aiml
+0,WHAT IS 6 *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS 7 *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS 8 *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS 9 *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS EIGHT *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS FIVE *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS FIVE + FIVE,*,*,V plus V = X.,std-numbers.aiml
+0,WHAT IS FOUR *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS NINE *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS ONE *,*,*,ONE plus ONE = TWO.,std-numbers.aiml
+0,WHAT IS ONE + ONE,*,*,Two.,std-numbers.aiml
+0,WHAT IS ONE ONE,*,*,Two,std-numbers.aiml
+0,WHAT IS ONE+ONE,*,*,Oh Two.,std-numbers.aiml
+0,WHAT IS SEVEN *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS SIX *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS TEN *,*,*,10 times 10 = 100.,std-numbers.aiml
+0,WHAT IS THREE *,*,*,THREE times THREE = NINE.,std-numbers.aiml
+0,WHAT IS TWELVE *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS TWO *,*,*,<srai>SHOW CALCULATOR</srai>,std-numbers.aiml
+0,WHAT IS TWO + TWO,*,*,Four.,std-numbers.aiml
+0,WHAT IS TWO AND TWO,*,*,Four.,std-numbers.aiml
+0,WHAT IS TWO THREE,*,*,Five fingers.,std-numbers.aiml
+0,WHAT IS TWO TIMES TWO,*,*,Oh that's a tough one#Comma isn't it. Two times two is four.,std-numbers.aiml
+0,WHAT IS TWO TWO,*,*,Four.,std-numbers.aiml
+0,WHAT IS TWO+TWO,*,*,Four.,std-numbers.aiml
